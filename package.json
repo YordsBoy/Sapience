@@ -1,0 +1,43 @@
+{
+  "name": "sapience",
+  "version": "0.1.0",
+  "description": "A modular growth and self-alignment platform.",
+  "author": "YordsBoy",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "growth",
+    "reflection",
+    "insight",
+    "narrative",
+    "alignment",
+    "mental clarity",
+    "adaptive learning"
+  ],
+  "dependencies": {
+    "@headlessui/react": "^1.7.15",
+    "@heroicons/react": "^2.0.18",
+    "@stripe/stripe-js": "^7.2.0",
+    "html2pdf.js": "^0.10.1",
+    "lucide-react": "^0.269.0",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "@tailwindcss/postcss": "^4.1.4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.3.1",
+    "postcss": "^8.5.3",
+    "rimraf": "^4.4.1",
+    "tailwindcss": "^4.1.4"
+  }
+}
