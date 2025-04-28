@@ -1,62 +1,67 @@
 # 🌱 Sapience
 
-**Sapience** is a modular self-reflection and growth platform that evolves with its users. This is not just a journaling app—it's a cognitive architecture for insight synthesis, emotional alignment, and intentional transformation.
+**Sapience** is a modular self-reflection and growth platform that evolves with its users.  
+This is not just a journaling app—it's a cognitive architecture for insight synthesis, emotional alignment, and intentional transformation.
 
 ---
 
 ## ✨ Features
-
-- 📥 Adaptive Onboarding with Tone Calibration
-- 🔁 Reflection Loop Engine with Insight Tagging
-- 📈 AI-Driven Narrative Briefings & Emotional Patterning
-- 🔐 Premium Unlocks (Narrative Export, Dossier Sync, Advanced Forecasting)
-- 💾 Persistent Insight Memory & User Tier Awareness
-- 🎯 Designed for individuals, small orgs, and future multi-user deployment
+- 📥 Adaptive Onboarding with Tone Calibration  
+- 🔁 Reflection Loop Engine with Insight Tagging  
+- 📈 AI-Driven Narrative Briefings & Emotional Patterning  
+- 🔐 Premium Unlocks (Narrative Export, Dossier Sync, Advanced Forecasting)  
+- 💾 Persistent Insight Memory & User Tier Awareness  
+- 🎯 Built for individuals, small orgs, and future multi-user deployment  
 
 ---
 
 ## 🧠 Philosophy
-
-Sapience is built on the belief that:
-
-> Reflection without integration is memory.  
-> Reflection with intention becomes wisdom.
+> **Reflection without integration is memory.**  
+> **Reflection with intention becomes wisdom.**
 
 ---
 
 ## 🛠 Tech Stack
-
-- **React + Next.js**
-- **TailwindCSS** for UI
-- **Stripe** for premium flow
-- **LocalStorage** + Context API for user state
-- **Markdown/PDF Exports** for insight portability
+| Layer | Choice |
+|-------|--------|
+| Front-end | React + Next.js 13 |
+| Styling  | Tailwind CSS v4, shadcn/ui components |
+| Payments | Stripe (client + server elements) |
+| Data     | Local Storage (MVP) → SQLModel/Postgres (road-map) |
+| Export   | `html2pdf.js` for offline dossiers |
 
 ---
 
 ## 🚀 Getting Started
 
-1. Clone the repo
-2. Install dependencies:
+1. **Clone**
+   ```bash
+   git clone https://github.com/YordsBoy/Sapience.git && cd Sapience
+
+2. Install:
    ```bash
    npm install
-3. Set up environment variables:
-STRIPE_SECRET_KEY=...
-STRIPE_PREMIUM_PRICE_ID=...
-4. Run the app:
-npm run dev
+
+3. Set up env:
+# .env.local
+STRIPE_SECRET_KEY=sk_test_xxx
+STRIPE_PREMIUM_PRICE_ID=price_xxx
+
+4. Run the appdev serv:
 
 🧩 Folder Structure
 
-/components     → UI components (Locks, Header, Context)
-/pages          → API + App Pages (Upgrade, Dashboard, etc.)
-/public         → Static files
-/styles         → Tailwind config
-/utils          → Helper functions
+components/        UI primitives & domain widgets
+pages/             API routes & legacy pages (if any)
+app/               Next-13 App Router (main entry)
+public/            Static assets
+styles/            Tailwind config & globals
+utils/             Helper functions
+
 
 🛡 Licensing & Use
-This project is in active development and not yet publicly licensed for redistribution.
-You are welcome to fork for personal use, but commercial use is not permitted without consent.
+This project is in active development and currently UNLICENSED.
+Forks for personal experimentation are welcome. Commercial use requires written consent.
 
 📬 Contact
-Want to collaborate or inquire? Message the creator or contribute ideas via Issues (when opened).
+Open an Issue or reach the author via GitHub discussions.
