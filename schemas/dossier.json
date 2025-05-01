@@ -1,0 +1,36 @@
+{
+    "profile": {
+      "user_id": "optional-hash-or-anonymous-id",
+      "baseline_tone": "Reflective",
+      "intent_signature": "Purpose discovery",
+      "value_clusters": ["Growth", "Integrity", "Connection"],
+      "journey_type": "Transitional",
+      "insight_frequency": "Moderate"
+    },
+    "insights": [
+      {
+        "label": "Big decision looming",
+        "notes": "Feeling overwhelmed and trying to decide between two careers.",
+        "tone": "Uncertain",
+        "origin": "Day 3",
+        "timestamp": 1712504513000
+      }
+    ],
+    "themes": {
+      "top_tones": ["Uncertain", "Hopeful", "Resolved"],
+      "emerging_patterns": ["Return to purpose", "Ambivalence before insight"],
+      "emotional_shifts": [
+        {
+          "from": "Anxious",
+          "to": "Confident",
+          "trigger": "Reflective loop (Day 3 → Day 7)"
+        }
+      ]
+    },
+    "meta": {
+      "created_at": "2025-04-07T18:23:00Z",
+      "format_version": "1.0.0",
+      "export_type": "ai-dossier"
+    }
+  }
+  
