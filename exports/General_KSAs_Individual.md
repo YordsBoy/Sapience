@@ -1,53 +1,58 @@
 # General KSA Collection – Individual Review Format
 
-A curated list of foundational Knowledge, Skills, and Attributes for personal and professional development.
+A curated set of foundational **Knowledge, Skills, and Attributes (KSAs)** for personal and professional growth.
+
+> **Source credit:** Select definitions in this file are *adapted* from the **O*NET® Database** (U.S. Department of Labor, Employment & Training Administration), used under a Creative Commons Attribution 4.0 International License. Changes were made and O*NET has not endorsed these modifications.  
 
 ---
 
 ## Category: General KSAs
 
 ### 1. Adaptability
-**Description**: Adjusts effectively to changing environments, tasks, and responsibilities.  
-**Future Relevance**: Very High  
-**Cluster Tags**: Emotional Intelligence, Change Management  
-**Relevant Roles**: Generalist, Administrative Assistant, Retail Manager  
+**Description:** Adjusts effectively to changing environments, tasks, and responsibilities.  
+**Future Relevance:** Very High  
+**Cluster Tags:** Emotional Intelligence, Change Management  
+**Relevant Roles:** Generalist, Administrative Assistant, Retail Manager  
 
-#### Proficiency Levels
-- **Awareness**: Notices and accepts basic changes in routine.
-- **Basic**: Adjusts to minor shifts in process or environment.
-- **Intermediate**: Remains effective despite unexpected change.
-- **Advanced**: Guides others through transitions while maintaining stability.
-- **Expert**: Champions adaptive culture and frameworks across functions.
+| Level | Behavioral indicator |
+|-------|----------------------|
+| **Awareness** | Notices and accepts basic changes in routine. |
+| **Basic** | Adjusts to minor shifts in process or environment. |
+| **Intermediate** | Remains effective despite unexpected change. |
+| **Advanced** | Guides others through transitions while maintaining stability. |
+| **Expert** | Champions adaptive culture and frameworks across functions. |
 
 ---
 
 ### 2. Critical Thinking
-**Description**: Analyzes facts to form a judgment and solve problems effectively.  
-**Future Relevance**: Very High  
-**Cluster Tags**: Problem Solving, Cognitive Skills  
-**Relevant Roles**: Analyst, Consultant, Engineer  
+**Description:** Analyzes facts to form a judgment and solve problems effectively.  
+**Future Relevance:** Very High  
+**Cluster Tags:** Problem Solving, Cognitive Skills  
+**Relevant Roles:** Analyst, Consultant, Engineer  
 
-#### Proficiency Levels
-- **Awareness**: Understands when an issue requires deeper thought.
-- **Basic**: Identifies patterns and asks clarifying questions.
-- **Intermediate**: Applies structured thinking to assess alternatives.
-- **Advanced**: Develops decision frameworks for complex problems.
-- **Expert**: Shapes organizational strategy using deep analysis and logic.
+| Level | Behavioral indicator |
+|-------|----------------------|
+| **Awareness** | Recognizes when an issue needs deeper thought. |
+| **Basic** | Identifies patterns and asks clarifying questions. |
+| **Intermediate** | Applies structured reasoning to evaluate alternatives. |
+| **Advanced** | Develops decision frameworks for complex problems. |
+| **Expert** | Shapes organizational strategy using rigorous analysis and logic. |
 
 ---
 
 ### 3. Emotional Intelligence
-**Description**: Recognizes, understands, and manages one's own emotions and the emotions of others.  
-**Future Relevance**: High  
-**Cluster Tags**: Communication, Self-Regulation  
-**Relevant Roles**: Manager, Mediator, Educator  
+**Description:** Recognizes, understands, and manages one’s own emotions and the emotions of others.  
+**Future Relevance:** High  
+**Cluster Tags:** Communication, Self-Regulation  
+**Relevant Roles:** Manager, Mediator, Educator  
 
-#### Proficiency Levels
-- **Awareness**: Notices personal feelings and basic emotional states in others.
-- **Basic**: Manages responses and communicates feelings constructively.
-- **Intermediate**: Anticipates emotional triggers and adapts behavior.
-- **Advanced**: Navigates complex emotional dynamics in teams.
-- **Expert**: Develops emotionally intelligent cultures and coaching models.
+| Level | Behavioral indicator |
+|-------|----------------------|
+| **Awareness** | Acknowledges personal feelings and observes emotions in others. |
+| **Basic** | Manages responses and communicates feelings constructively. |
+| **Intermediate** | Anticipates emotional triggers and adapts behaviour. |
+| **Advanced** | Navigates complex emotional dynamics in teams. |
+| **Expert** | Fosters emotionally intelligent cultures and coaching models. |
 
 ---
 
@@ -57,7 +62,8 @@ A curated list of foundational Knowledge, Skills, and Attributes for personal an
 **Cluster Tags**: Mental Fortitude, Stress Management  
 **Relevant Roles**: Nurse, Teacher, First Responder  
 
-#### Proficiency Levels
+| Level | Behavioral indicator |
+|-------|----------------------|
 - **Awareness**: Acknowledges stress but maintains basic functioning.
 - **Basic**: Returns to baseline performance after minor challenges.
 - **Intermediate**: Handles sustained pressure while meeting responsibilities.
@@ -72,7 +78,8 @@ A curated list of foundational Knowledge, Skills, and Attributes for personal an
 **Cluster Tags**: Teamwork, Interpersonal Skills  
 **Relevant Roles**: Team Lead, Coordinator, Educator  
 
-#### Proficiency Levels
+| Level | Behavioral indicator |
+|-------|----------------------|
 - **Awareness**: Participates in group discussions and activities.
 - **Basic**: Shares information and supports team members.
 - **Intermediate**: Coordinates tasks and resolves minor conflicts.
@@ -87,7 +94,8 @@ A curated list of foundational Knowledge, Skills, and Attributes for personal an
 **Cluster Tags**: Work Ethic, Initiative  
 **Relevant Roles**: Freelancer, Project Manager, Entrepreneur  
 
-#### Proficiency Levels
+| Level | Behavioral indicator |
+|-------|----------------------|
 - **Awareness**: Completes tasks when assigned.
 - **Basic**: Seeks opportunities to improve and contribute.
 - **Intermediate**: Sets and pursues own performance goals.
@@ -102,7 +110,8 @@ A curated list of foundational Knowledge, Skills, and Attributes for personal an
 **Cluster Tags**: Continuous Learning, Cognitive Flexibility  
 **Relevant Roles**: Student, Instructional Designer, Developer  
 
-#### Proficiency Levels
+| Level | Behavioral indicator |
+|-------|----------------------|
 - **Awareness**: Recognizes the need for learning new skills.
 - **Basic**: Seeks learning opportunities and applies them.
 - **Intermediate**: Adapts learning strategies to various contexts.
@@ -117,7 +126,8 @@ A curated list of foundational Knowledge, Skills, and Attributes for personal an
 **Cluster Tags**: Ethics, Responsibility  
 **Relevant Roles**: Supervisor, Compliance Officer, Team Member  
 
-#### Proficiency Levels
+| Level | Behavioral indicator |
+|-------|----------------------|
 - **Awareness**: Acknowledges errors when pointed out.
 - **Basic**: Takes ownership of assigned tasks.
 - **Intermediate**: Accepts consequences and learns from mistakes.
@@ -125,3 +135,10 @@ A curated list of foundational Knowledge, Skills, and Attributes for personal an
 - **Expert**: Establishes accountability frameworks and ethical standards.
 
 ---
+
+### Trademark & license notice
+O*NET® is a registered trademark of the U.S. Department of Labor.  
+SFIA® is a registered trademark of the SFIA Foundation.  
+SHRM BASK® is a registered trademark of the Society for Human Resource Management.  
+Sapience is not endorsed by or affiliated with these organizations.
+
