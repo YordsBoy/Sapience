@@ -1,0 +1,71 @@
+# 🛠️ Skilled Trades & Craftsmanship – Comprehensive KSAs Export
+
+> **Source credit:** Several competency descriptions draw on public-domain U.S. sources, including the **O*NET® Database** (USDOL/ETA, CC BY 4.0) and Occupational Safety and Health Administration (OSHA) regulations. Text has been adapted and neither agency endorses these revisions.
+
+---
+
+## 🔧 Core Skilled-Trades KSAs
+
+| KSA ID                     | Label                          | Description                                                                                             | Future Relevance | Industry Tags                        | Related Roles                              | Proficiency Summary                                                         |
+|----------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------|------------------|--------------------------------------|-------------------------------------------|------------------------------------------------------------------------------|
+| blueprint_interpretation   | Blueprint Interpretation       | Reads and applies construction or mechanical drawings accurately to guide work.                          | **Very High**    | Construction, Manufacturing          | Carpenter, Welder, Electrician            | Awareness → Spots key symbols • Expert → Leads projects from schematics       |
+| material_properties        | Material Properties Knowledge  | Identifies characteristics of metals, composites, and other building media to select the right material. | High             | Welding, Metalwork                   | Welder, Fabricator                        | Awareness → Knows basic strengths • Expert → Engineers optimal usage          |
+| basic_wiring               | Basic Electrical Wiring        | Installs and services residential or light-commercial wiring in accordance with code.                    | **Very High**    | Electrical, Construction             | Electrician, Apprentice                   | Awareness → Runs standard circuits • Expert → Diagnoses multi-panel faults    |
+| thermal_systems_basics     | HVAC Thermal Systems Basics    | Applies core principles of heating, cooling, and airflow.                                                | High             | HVAC                                 | HVAC Tech, Installer                      | Awareness → Installs units with supervision • Expert → Designs load-balanced plans |
+| pipefitting_techniques     | Pipefitting Techniques         | Measures, cuts, and assembles piping for fluid or gas with leak-free tolerances.                         | High             | Plumbing, HVAC                       | Plumber, Steamfitter                      | Awareness → Joins pipes with guidance • Expert → Manages full system layouts  |
+| mechanical_systems_diagnosis| Mechanical Systems Diagnosis  | Troubleshoots engines, gear trains, or motors to restore optimal performance.                            | **Very High**    | Automotive, Industrial Repair        | Mechanic, Maintenance Tech                | Awareness → Finds simple faults • Expert → Performs full overhaul & optimization |
+
+---
+
+## 🔥 Advanced Skilled-Trades KSAs
+
+| KSA ID                     | Label                      | Description                                                                     | Future Relevance | Industry Tags                | Related Roles                | Proficiency Summary                                             |
+|----------------------------|----------------------------|---------------------------------------------------------------------------------|------------------|------------------------------|------------------------------|----------------------------------------------------------------|
+| welding_processes          | Welding Processes Mastery  | Executes MIG, TIG, and Stick welding for varied materials and contexts.          | High             | Manufacturing, Construction  | Welder, Fabricator           | Awareness → Welds basic joints • Expert → Customizes processes for integrity |
+| metal_cutting_techniques   | Metal Cutting Techniques   | Safely and precisely cuts metals using torches, plasma cutters, and saws.        | High             | Manufacturing, Metalwork     | Metalworker, Steel Fabricator| Awareness → Performs straight cuts • Expert → Executes precision shaping      |
+| electrical_code_compliance | Electrical Code Compliance | Applies national and local codes when installing or repairing electrical systems.| **Very High**    | Electrical, Construction     | Electrician, Inspector       | Awareness → References codebook • Expert → Designs compliant systems         |
+| smart_home_integration     | Smart Home Integration     | Installs and configures IoT devices, smart thermostats, lighting, and security. | **Very High**    | Residential Tech, Construction| Smart Systems Installer      | Awareness → Installs devices • Expert → Integrates full smart-home ecosystem |
+| structural_framing         | Structural Framing         | Constructs walls, roofs, and floors to structural specifications.                | High             | Construction, Architecture   | Carpenter, Site Supervisor    | Awareness → Assists framing • Expert → Oversees multi-story execution        |
+| green_building_principles  | Green Building Principles  | Applies sustainable and energy-efficient practices in construction.              | **Very High**    | Sustainability, Construction | Green Builder                | Awareness → Uses eco-materials • Expert → Designs LEED-certified projects    |
+| hvac_system_troubleshooting| HVAC System Troubleshooting| Diagnoses and repairs HVAC unit faults, sensor failures, and airflow issues.     | High             | HVAC, Facilities Mgmt        | HVAC Technician              | Awareness → Replaces parts • Expert → Optimizes energy consumption           |
+| refrigeration_cycle_mastery| Refrigeration Cycle Mastery| Understands and manages principles of refrigeration for cooling systems.         | High             | HVAC, Commercial Systems     | Refrigeration Technician     | Awareness → Knows cycle stages • Expert → Designs efficient layouts         |
+| drainage_system_design     | Drainage System Design     | Designs and maintains effective wastewater and drainage systems.                 | High             | Plumbing, Civil Engineering  | Drainage Specialist          | Awareness → Installs drains • Expert → Plans urban infrastructures          |
+| water_conservation_systems | Water Conservation Systems | Installs systems that minimize water waste (graywater, low-flow appliances).     | **Very High**    | Sustainability, Plumbing     | Sustainable Plumber          | Awareness → Installs fixtures • Expert → Designs full efficiency programs    |
+| vehicle_diagnostics        | Vehicle Diagnostics        | Uses diagnostic tools (OBD-II, electronic scanners) to troubleshoot vehicles.    | **Very High**    | Automotive                   | Diagnostic Technician        | Awareness → Reads codes • Expert → Interprets multi-system faults           |
+| ev_systems_basics          | Electric Vehicle Systems   | Understands battery management and electric drivetrains in EVs.                 | **Very High**    | Automotive, Sustainability   | EV Mechanic                  | Awareness → Inspects components • Expert → Repairs and optimizes EV systems  |
+
+---
+
+## 🛡️ Future-Ready Enhancements
+
+| KSA ID                       | Label                           | Description                                                             | Future Relevance | Industry Tags            | Related Roles                     | Proficiency Summary                                                |
+|------------------------------|---------------------------------|-------------------------------------------------------------------------|------------------|--------------------------|-----------------------------------|--------------------------------------------------------------------|
+| solar_system_installation    | Solar System Installation Basics| Installs rooftop and commercial photovoltaic arrays to code.            | **Very High**    | Renewable Energy        | Solar Technician, Roofer          | Awareness → Installs panels • Expert → Designs efficient arrays     |
+| construction_3d_printing_basics| Construction 3D Printing Basics| Operates and maintains additive-manufacturing systems for components.   | High             | Construction, Innovation | 3D Print Technician               | Awareness → Runs simple jobs • Expert → Customizes printed designs  |
+| osha_compliance_awareness    | OSHA Compliance Awareness       | Applies OSHA regulations to daily trade practices for safety.           | **Very High**    | Construction, Manufacturing | Safety Officer                  | Awareness → Follows rules • Expert → Audits and trains compliance   |
+| cnc_machine_operation        | CNC Machine Operation           | Operates and programs CNC milling or cutting equipment.                 | High             | Manufacturing            | CNC Operator                     | Awareness → Runs jobs • Expert → Optimizes and maintains CNC lines  |
+| trade_project_management     | Trade Project Management        | Plans and oversees trade-based projects: budgeting, scheduling, workforce.| High          | Construction, Contracting | Foreman                          | Awareness → Manages small tasks • Expert → Leads multi-phase builds |
+| client_communication_skills  | Client Communication Skills     | Explains technical concepts to customers and ensures satisfaction.       | High             | Residential Services     | Service Manager                   | Awareness → Conveys basics • Expert → Secures referrals & upsells   |
+| safety_system_design         | Safety System Design            | Engineers processes that maximize worker safety in high-risk settings.   | **Very High**    | Construction, Energy      | Safety Engineer                   | Awareness → Follows protocols • Expert → Architects safety systems  |
+| preventive_maintenance_systems| Preventive Maintenance Systems  | Designs schedules and tooling to prolong equipment lifespan.             | **Very High**    | Manufacturing, Automotive | Maintenance Manager               | Awareness → Logs maintenance • Expert → Automates predictive upkeep |
+
+---
+
+### 📈 Usage Summary
+* Structured for relational databases, AI pathing, or curriculum mapping.  
+* Emphasizes sustainability, automation, and code compliance for future relevance.
+
+---
+
+### 📋 Export Details
+* **Markdown-friendly**  
+* **JSON/db-ready** (easy to convert)  
+* **Human-readable** for L&D teams, trainers, or accreditation bodies  
+
+---
+
+#### Trademark & legal notice
+O*NET® is a registered trademark of the U.S. Department of Labor.  
+SFIA® is a registered trademark of the SFIA Foundation.  
+SHRM BASK® is a registered trademark of the Society for Human Resource Management.  
+Sapience is not endorsed by or affiliated with these organizations.
