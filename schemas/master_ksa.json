@@ -1,1036 +1,2789 @@
 {
-    "schema_version": "0.1.0",
-    "generated_at": "2025-04-28",
-        "id": "KSA-LEAD-0003",
-        "label": "Conflict Resolution",
-        "category": "Leadership",
-        "description": "...",
-        "source_frameworks": ["onet:2.B.5","sfia:RLMT"],
-        "levels": [{ "level": 1, "behavior": "..." }],
-    "ksa": [
-      {
-        "id": "strategic_thinking",
-        "label": "Strategic Thinking",
-        "category": "leadership",
-        "description": "Formulates objectives and priorities, and implements plans consistent with the long-term interests of the organization.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes the importance of long-term planning and can articulate broad goals when prompted." },
-          { "level": 2, "title": "Basic", "description": "Contributes to setting objectives and supports initiatives aligned with organizational goals." },
-          { "level": 3, "title": "Intermediate", "description": "Identifies key objectives, anticipates potential obstacles, and supports strategic decisions in moderately complex environments." },
-          { "level": 4, "title": "Advanced", "description": "Develops multi-year plans and aligns team efforts with strategic priorities. Adjusts strategy based on evolving trends." },
-          { "level": 5, "title": "Expert", "description": "Shapes organizational vision. Leads cross-functional planning initiatives and serves as a mentor for strategic development." }
-        ]
-      },
-      {
-        "id": "generative_ai_proficiency",
-        "label": "Generative AI Proficiency",
-        "category": "technical",
-        "description": "Ability to effectively use generative AI tools to support creativity, analysis, or automation.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Aware of generative AI tools and has seen them demonstrated." },
-          { "level": 2, "title": "Basic", "description": "Can follow instructions to use AI tools for simple tasks." },
-          { "level": 3, "title": "Intermediate", "description": "Uses AI tools independently for content generation or decision support." },
-          { "level": 4, "title": "Advanced", "description": "Integrates AI tools into workflows, improves prompts, and tailors outputs." },
-          { "level": 5, "title": "Expert", "description": "Develops AI-assisted strategies, trains others, and innovates use cases." }
-        ]
-      },
-      {
-        "id": "sustainability_practices",
-        "label": "Sustainability Practices",
-        "category": "general",
-        "description": "Knowledge and application of eco-friendly principles in operational, strategic, or community contexts.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands basic sustainability principles." },
-          { "level": 2, "title": "Basic", "description": "Takes individual action to reduce environmental impact." },
-          { "level": 3, "title": "Intermediate", "description": "Promotes sustainability within team or projects." },
-          { "level": 4, "title": "Advanced", "description": "Leads sustainability initiatives with measurable impact." },
-          { "level": 5, "title": "Expert", "description": "Advises organizations on sustainability integration and innovation." }
-        ]
-      },
-      {
-        "id": "digital_collaboration",
-        "label": "Virtual Collaboration Tools",
-        "category": "general",
-        "description": "Ability to use digital tools to communicate and collaborate effectively in virtual environments.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Knows of digital collaboration tools but needs support to use them." },
-          { "level": 2, "title": "Basic", "description": "Uses tools for basic participation in virtual meetings and chats." },
-          { "level": 3, "title": "Intermediate", "description": "Effectively uses tools for teamwork, task management, and file sharing." },
-          { "level": 4, "title": "Advanced", "description": "Facilitates team collaboration and improves digital processes." },
-          { "level": 5, "title": "Expert", "description": "Designs and implements digital collaboration strategies at scale." }
-        ]
-      },
-      {
-        "id": "resilience",
-        "label": "Resilience",
-        "category": "general",
-        "description": "Ability to recover quickly from setbacks and maintain focus and performance under pressure.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes personal stress and its effects." },
-          { "level": 2, "title": "Basic", "description": "Manages minor stress and continues functioning in familiar situations." },
-          { "level": 3, "title": "Intermediate", "description": "Adapts to unexpected challenges while maintaining performance." },
-          { "level": 4, "title": "Advanced", "description": "Performs consistently under pressure and helps others cope." },
-          { "level": 5, "title": "Expert", "description": "Leads teams through high-pressure situations while promoting well-being." }
-        ]
-      },
-      {
-        "id": "emotional_intelligence",
-        "label": "Emotional Intelligence",
-        "category": "general",
-        "description": "Awareness of one’s emotions and the emotions of others to guide thinking and behavior.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes own emotional states and basic expressions of others." },
-          { "level": 2, "title": "Basic", "description": "Responds appropriately to simple emotional cues from others." },
-          { "level": 3, "title": "Intermediate", "description": "Manages emotional responses and adapts behavior based on group dynamics." },
-          { "level": 4, "title": "Advanced", "description": "Uses emotional insight to influence and guide interpersonal situations." },
-          { "level": 5, "title": "Expert", "description": "Mentors others in developing emotional insight and resilience; de-escalates complex emotional conflicts." }
-        ]
-      },
-      {
-        "id": "prompt_engineering",
-        "label": "Prompt Engineering",
-        "category": "technical",
-        "description": "Ability to craft effective queries or inputs to AI systems for accurate, useful, or creative outputs.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands what prompts are and how they influence AI outputs." },
-          { "level": 2, "title": "Basic", "description": "Uses predefined prompts with minor edits to receive helpful responses." },
-          { "level": 3, "title": "Intermediate", "description": "Iteratively crafts prompts to improve relevance, tone, and accuracy." },
-          { "level": 4, "title": "Advanced", "description": "Designs complex or layered prompts that align with nuanced user goals." },
-          { "level": 5, "title": "Expert", "description": "Trains others and builds prompt libraries optimized for domain-specific uses." }
-        ]
-      },
-      {
-        "id": "adaptability",
-        "label": "Adaptability",
-        "category": "general",
-        "description": "Ability to shift approach and remain effective in changing or uncertain conditions.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Acknowledges discomfort with change but makes an effort to cope." },
-          { "level": 2, "title": "Basic", "description": "Adjusts routines with minor support during transitions." },
-          { "level": 3, "title": "Intermediate", "description": "Handles shifting priorities or tools with minimal guidance." },
-          { "level": 4, "title": "Advanced", "description": "Thinks creatively and remains productive under dynamic conditions." },
-          { "level": 5, "title": "Expert", "description": "Leads adaptive efforts across teams or systems in high-stakes environments." }
-        ]
-      },
-      {
-        "id": "critical_thinking",
-        "label": "Critical Thinking",
-        "category": "general",
-        "description": "Ability to objectively analyze information, question assumptions, and evaluate outcomes.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes that decisions can be improved through thought and questioning." },
-          { "level": 2, "title": "Basic", "description": "Identifies basic patterns or flaws in simple arguments or decisions." },
-          { "level": 3, "title": "Intermediate", "description": "Assesses multiple viewpoints and evaluates trade-offs in common decisions." },
-          { "level": 4, "title": "Advanced", "description": "Anticipates outcomes, analyzes complex issues, and supports logical conclusions." },
-          { "level": 5, "title": "Expert", "description": "Guides critical discourse; challenges assumptions to shape high-impact decisions." }
-        ]
-      },
-      {
-        "id": "growth_mindset",
-        "label": "Growth Mindset",
-        "category": "general",
-        "description": "Belief in the ability to develop through effort and learning from mistakes.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes that skills can improve over time." },
-          { "level": 2, "title": "Basic", "description": "Makes effort to learn from feedback or challenges." },
-          { "level": 3, "title": "Intermediate", "description": "Seeks learning opportunities and reframes failures as growth moments." },
-          { "level": 4, "title": "Advanced", "description": "Shares and models growth habits with peers or teams." },
-          { "level": 5, "title": "Expert", "description": "Drives a culture of continuous learning and supports others in skill development." }
-        ]
-      },
-  {
-        "id": "influencing_skills",
-        "label": "Influencing Skills",
-        "category": "leadership",
-        "description": "Ability to persuade others to accomplish goals, gain support, or influence decisions.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands the importance of influencing others to achieve outcomes." },
-          { "level": 2, "title": "Basic", "description": "Uses simple techniques (e.g., logic, repetition) to persuade peers in familiar contexts." },
-          { "level": 3, "title": "Intermediate", "description": "Adapts communication style and argument to influence varied stakeholders." },
-          { "level": 4, "title": "Advanced", "description": "Leverages networks and credibility to sway organizational decisions." },
-          { "level": 5, "title": "Expert", "description": "Influences across industries, shapes narratives, or shifts policy through expert positioning." }
-        ]
-      },
-      {
-        "id": "team_leadership",
-        "label": "Team Leadership",
-        "category": "leadership",
-        "description": "Ability to guide, motivate, and develop teams to accomplish objectives.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes key responsibilities of team leaders." },
-          { "level": 2, "title": "Basic", "description": "Manages simple task delegation and follows up on progress." },
-          { "level": 3, "title": "Intermediate", "description": "Motivates team members and mediates small interpersonal conflicts." },
-          { "level": 4, "title": "Advanced", "description": "Develops team strategy and facilitates inclusive, high-performing dynamics." },
-          { "level": 5, "title": "Expert", "description": "Shapes cross-functional leadership culture and grooms future leaders." }
-        ]
-      },
-      {
-        "id": "data_literacy",
-        "label": "Data Literacy",
-        "category": "technical",
-        "description": "Ability to read, analyze, and make decisions using data.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands that data can support decisions and has seen data visualizations." },
-          { "level": 2, "title": "Basic", "description": "Reads basic charts and draws conclusions with support." },
-          { "level": 3, "title": "Intermediate", "description": "Interprets diverse data sets and draws independent insights." },
-          { "level": 4, "title": "Advanced", "description": "Applies statistical reasoning to make recommendations." },
-          { "level": 5, "title": "Expert", "description": "Designs data-informed systems and mentors others in analytical thinking." }
-        ]
-      },
-      {
-        "id": "technical_documentation",
-        "label": "Technical Documentation",
-        "category": "technical",
-        "description": "Ability to create clear, accurate, and accessible technical content for users or developers.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes the importance of documentation in technical environments." },
-          { "level": 2, "title": "Basic", "description": "Edits or contributes to existing documentation with support." },
-          { "level": 3, "title": "Intermediate", "description": "Creates new documentation for common tools or procedures." },
-          { "level": 4, "title": "Advanced", "description": "Leads documentation initiatives for cross-team or customer-facing products." },
-          { "level": 5, "title": "Expert", "description": "Creates style guides and defines documentation standards for organizations." }
-        ]
-      },
-      {
-        "id": "time_management",
-        "label": "Time Management",
-        "category": "general",
-        "description": "Ability to prioritize tasks, manage deadlines, and stay organized.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Acknowledges deadlines and the need for personal organization." },
-          { "level": 2, "title": "Basic", "description": "Meets most deadlines with reminders or support." },
-          { "level": 3, "title": "Intermediate", "description": "Plans work independently and delivers on time in routine settings." },
-          { "level": 4, "title": "Advanced", "description": "Manages complex schedules and multiple priorities with minimal oversight." },
-          { "level": 5, "title": "Expert", "description": "Trains others and designs systems to improve team-wide time management." }
-        ]
-      },
-      {
-        "id": "interpersonal_skills",
-        "label": "Interpersonal Skills",
-        "category": "general",
-        "description": "Ability to build relationships and work well with others.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands the impact of relationships at work." },
-          { "level": 2, "title": "Basic", "description": "Maintains courteous interactions in familiar environments." },
-          { "level": 3, "title": "Intermediate", "description": "Navigates diverse relationships with flexibility and tact." },
-          { "level": 4, "title": "Advanced", "description": "Resolves interpersonal tensions and strengthens group dynamics." },
-          { "level": 5, "title": "Expert", "description": "Leads initiatives that foster culture, trust, and inclusion across groups." }
-        ]
-      },
-      {
-        "id": "initiative",
-        "label": "Initiative",
-        "category": "general",
-        "description": "Willingness to take action and go beyond what is required without being prompted.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes opportunities to contribute beyond assigned tasks." },
-          { "level": 2, "title": "Basic", "description": "Takes basic steps independently to support task or team success." },
-          { "level": 3, "title": "Intermediate", "description": "Volunteers for new responsibilities or solves problems proactively." },
-          { "level": 4, "title": "Advanced", "description": "Creates and champions new initiatives with measurable benefits." },
-          { "level": 5, "title": "Expert", "description": "Models initiative-taking at an organizational level and inspires innovation." }
-        ]
-      },
-      {
-        "id": "conflict_management",
-        "label": "Conflict Management",
-        "category": "general",
-        "description": "Ability to handle disagreements constructively and help others reach resolution.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes sources of interpersonal tension or disagreement." },
-          { "level": 2, "title": "Basic", "description": "Addresses simple disagreements with direct communication." },
-          { "level": 3, "title": "Intermediate", "description": "Mediates disputes and finds compromise in routine settings." },
-          { "level": 4, "title": "Advanced", "description": "Resolves persistent conflicts and trains others in resolution techniques." },
-          { "level": 5, "title": "Expert", "description": "Designs conflict-resolution protocols or leads high-stakes mediation." }
-        ]
-      },
-      {
-        "id": "cultural_awareness",
-        "label": "Cultural Awareness",
-        "category": "general",
-        "description": "Recognizing and valuing differences in cultural norms, practices, and perspectives.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Acknowledges that people may approach things differently based on culture." },
-          { "level": 2, "title": "Basic", "description": "Respects cultural differences in behavior and communication." },
-          { "level": 3, "title": "Intermediate", "description": "Adapts communication or behavior to support cultural inclusion." },
-          { "level": 4, "title": "Advanced", "description": "Champions cultural inclusion and navigates global perspectives effectively." },
-          { "level": 5, "title": "Expert", "description": "Shapes strategy and policy to advance cultural equity and understanding." }
-        ]
-      },
-      {
-        "id": "vision",
-        "label": "Vision",
-        "category": "leadership",
-        "description": "Ability to conceptualize future goals and rally others around them.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands long-term organizational objectives." },
-          { "level": 2, "title": "Basic", "description": "Supports short-term plans that align to broader goals." },
-          { "level": 3, "title": "Intermediate", "description": "Articulates and inspires others toward shared goals." },
-          { "level": 4, "title": "Advanced", "description": "Creates and communicates compelling visions for teams or programs." },
-          { "level": 5, "title": "Expert", "description": "Leads visionary transformation across systems or sectors." }
-        ]
-      },
-      {
-        "id": "decision_making",
-        "label": "Decision Making",
-        "category": "leadership",
-        "description": "Ability to assess options, evaluate risks, and make sound judgments.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Considers advice and basic facts before deciding." },
-          { "level": 2, "title": "Basic", "description": "Makes simple decisions in familiar situations." },
-          { "level": 3, "title": "Intermediate", "description": "Evaluates alternatives and takes responsibility for outcomes." },
-          { "level": 4, "title": "Advanced", "description": "Makes complex or sensitive decisions with limited information." },
-          { "level": 5, "title": "Expert", "description": "Advises or sets decision-making frameworks at an organizational level." }
-        ]
-      },
-      {
-        "id": "project_management",
-        "label": "Project Management",
-        "category": "technical",
-        "description": "Ability to plan, execute, and close work according to deadlines and budget.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Participates in basic projects with clear direction." },
-          { "level": 2, "title": "Basic", "description": "Manages simple tasks and timelines independently." },
-          { "level": 3, "title": "Intermediate", "description": "Manages projects with multiple tasks, deadlines, and collaborators." },
-          { "level": 4, "title": "Advanced", "description": "Leads multi-phase or cross-functional initiatives." },
-          { "level": 5, "title": "Expert", "description": "Designs project management systems and leads large-scale portfolios." }
-        ]
-      },
-      {
-        "id": "technology_fluency",
-        "label": "Technology Fluency",
-        "category": "technical",
-        "description": "Ability to use and adapt to new technologies effectively.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands and observes basic use of tools and systems." },
-          { "level": 2, "title": "Basic", "description": "Uses workplace technologies with support or tutorials." },
-          { "level": 3, "title": "Intermediate", "description": "Learns and adapts to multiple tools or platforms independently." },
-          { "level": 4, "title": "Advanced", "description": "Improves or integrates tools into workflows and processes." },
-          { "level": 5, "title": "Expert", "description": "Leads technology adoption, training, or transformation efforts." }
-        ]
-      },
-  {
-        "id": "collaboration",
-        "label": "Collaboration",
-        "category": "general",
-        "description": "Ability to work effectively with others to achieve shared goals.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes the value of working with others to complete tasks." },
-          { "level": 2, "title": "Basic", "description": "Participates in group work and shares information as needed." },
-          { "level": 3, "title": "Intermediate", "description": "Cooperates and contributes ideas toward group problem solving." },
-          { "level": 4, "title": "Advanced", "description": "Builds consensus, resolves group conflict, and strengthens team cohesion." },
-          { "level": 5, "title": "Expert", "description": "Leads cross-functional teams and builds collaborative partnerships." }
-        ]
-      },
-      {
-        "id": "accountability",
-        "label": "Accountability",
-        "category": "general",
-        "description": "Takes ownership of responsibilities and outcomes.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands personal role and impact on outcomes." },
-          { "level": 2, "title": "Basic", "description": "Meets obligations and admits to minor mistakes when prompted." },
-          { "level": 3, "title": "Intermediate", "description": "Takes responsibility for work and seeks improvement." },
-          { "level": 4, "title": "Advanced", "description": "Holds self and others accountable to shared standards." },
-          { "level": 5, "title": "Expert", "description": "Leads a culture of integrity and accountability across teams or units." }
-        ]
-      },
-      {
-        "id": "systems_thinking",
-        "label": "Systems Thinking",
-        "category": "leadership",
-        "description": "Understands the interconnections between parts of a system and anticipates downstream impacts.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes cause-effect relationships in simple systems." },
-          { "level": 2, "title": "Basic", "description": "Identifies basic patterns across processes or teams." },
-          { "level": 3, "title": "Intermediate", "description": "Analyzes how parts influence each other within a system." },
-          { "level": 4, "title": "Advanced", "description": "Solves problems by aligning system components and addressing root causes." },
-          { "level": 5, "title": "Expert", "description": "Designs adaptive systems and trains others in complex thinking." }
-        ]
-      },
-      {
-        "id": "change_management",
-        "label": "Change Management",
-        "category": "leadership",
-        "description": "Ability to lead, manage, or respond constructively to organizational change.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Accepts changes in plans and demonstrates flexibility." },
-          { "level": 2, "title": "Basic", "description": "Supports team transitions and shares updates clearly." },
-          { "level": 3, "title": "Intermediate", "description": "Guides others through change and addresses concerns effectively." },
-          { "level": 4, "title": "Advanced", "description": "Develops strategies and processes for implementing change." },
-          { "level": 5, "title": "Expert", "description": "Leads enterprise-level transformation and builds resilient cultures." }
-        ]
-      },
-      {
-        "id": "user_experience_design",
-        "label": "User Experience Design (UX)",
-        "category": "technical",
-        "description": "Designs intuitive, user-centered solutions to enhance product usability.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands importance of usability and interface feedback." },
-          { "level": 2, "title": "Basic", "description": "Contributes to simple UX decisions based on user feedback." },
-          { "level": 3, "title": "Intermediate", "description": "Designs wireframes, flows, and prototypes with guidance." },
-          { "level": 4, "title": "Advanced", "description": "Leads user testing and develops cross-platform experience strategies." },
-          { "level": 5, "title": "Expert", "description": "Shapes UX strategy across products and scales design systems." }
-        ]
-      },
-      {
-        "id": "cybersecurity_awareness",
-        "label": "Cybersecurity Awareness",
-        "category": "technical",
-        "description": "Understands common threats and protects digital systems from basic risks.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Follows basic password and email safety guidance." },
-          { "level": 2, "title": "Basic", "description": "Identifies suspicious activity and follows security protocols." },
-          { "level": 3, "title": "Intermediate", "description": "Implements safeguards on systems and reports security breaches." },
-          { "level": 4, "title": "Advanced", "description": "Trains teams and monitors organizational security compliance." },
-          { "level": 5, "title": "Expert", "description": "Develops or manages enterprise cybersecurity strategy." }
-        ]
-      },
-  {
-        "id": "emotional_intelligence",
-        "label": "Emotional Intelligence",
-        "category": "general",
-        "description": "Recognizing, understanding, and managing one's own emotions and the emotions of others.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes emotional reactions in self and others." },
-          { "level": 2, "title": "Basic", "description": "Responds constructively to emotional triggers with support." },
-          { "level": 3, "title": "Intermediate", "description": "Adjusts behavior in real-time to support emotional needs in self and others." },
-          { "level": 4, "title": "Advanced", "description": "Navigates complex emotional dynamics and supports others in regulating emotion." },
-          { "level": 5, "title": "Expert", "description": "Coaches others and integrates emotional intelligence into team and organizational culture." }
-        ]
-      },
-      {
-        "id": "ai_literacy",
-        "label": "AI Literacy",
-        "category": "technical",
-        "description": "Understands foundational concepts, uses, risks, and ethics of artificial intelligence.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands that AI is used in modern tools and platforms." },
-          { "level": 2, "title": "Basic", "description": "Can explain common AI applications (e.g., recommendations, chatbots)." },
-          { "level": 3, "title": "Intermediate", "description": "Understands basic models, bias risks, and responsible usage." },
-          { "level": 4, "title": "Advanced", "description": "Applies AI insights or tools in workflows and understands governance frameworks." },
-          { "level": 5, "title": "Expert", "description": "Designs, audits, or leads AI-integrated systems with ethical considerations." }
-        ]
-      },
-      {
-        "id": "ethical_reasoning",
-        "label": "Ethical Reasoning",
-        "category": "leadership",
-        "description": "Evaluates and acts on moral principles when facing complex decisions.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes when a situation presents an ethical question." },
-          { "level": 2, "title": "Basic", "description": "Makes decisions guided by stated values and rules." },
-          { "level": 3, "title": "Intermediate", "description": "Navigates ethical gray areas and seeks counsel where needed." },
-          { "level": 4, "title": "Advanced", "description": "Balances stakeholder needs while maintaining ethical integrity." },
-          { "level": 5, "title": "Expert", "description": "Shapes organizational ethics and responds to public scrutiny with transparency." }
-        ]
-      },
-      {
-        "id": "sustainability_mindset",
-        "label": "Sustainability Mindset",
-        "category": "leadership",
-        "description": "Thinks and acts with consideration for long-term ecological, social, and economic impact.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Acknowledges sustainability goals and their importance." },
-          { "level": 2, "title": "Basic", "description": "Incorporates simple sustainable practices into daily work." },
-          { "level": 3, "title": "Intermediate", "description": "Identifies opportunities for reducing waste or improving outcomes responsibly." },
-          { "level": 4, "title": "Advanced", "description": "Develops sustainability-conscious strategies or programs." },
-          { "level": 5, "title": "Expert", "description": "Leads sustainability innovation and influences sector-wide change." }
-        ]
-      },
-      {
-        "id": "communication_design",
-        "label": "Communication Design",
-        "category": "technical",
-        "description": "Designs and structures communications to inform, inspire, or mobilize audiences.",
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands that the way information is presented influences impact." },
-          { "level": 2, "title": "Basic", "description": "Selects appropriate formats for simple messages and materials." },
-          { "level": 3, "title": "Intermediate", "description": "Designs messages for varied audiences using tone, visuals, and structure." },
-          { "level": 4, "title": "Advanced", "description": "Develops persuasive and accessible materials across platforms." },
-          { "level": 5, "title": "Expert", "description": "Leads communication campaigns or influences large-scale public engagement." }
-        ]
-      },
-      {
-        "id": "clinical_judgment",
-        "label": "Clinical Judgment",
-        "category": "technical",
-        "description": "Applies evidence-based reasoning and patient information to make medical decisions.",
-        "industry_tags": ["Healthcare", "Public Health", "Emergency Services"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes signs requiring clinical attention." },
-          { "level": 2, "title": "Basic", "description": "Applies protocols in predictable clinical scenarios." },
-          { "level": 3, "title": "Intermediate", "description": "Synthesizes symptoms and history for diagnosis in moderate complexity cases." },
-          { "level": 4, "title": "Advanced", "description": "Prioritizes interventions and adapts approaches in high-stakes environments." },
-          { "level": 5, "title": "Expert", "description": "Leads medical judgment in crises and trains others in advanced reasoning." }
-        ]
-      },
-      {
-        "id": "instructional_design",
-        "label": "Instructional Design",
-        "category": "technical",
-        "description": "Designs curriculum, learning experiences, and content aligned with learner needs and goals.",
-        "industry_tags": ["Education", "Learning & Development", "Corporate Training"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands the importance of learning outcomes." },
-          { "level": 2, "title": "Basic", "description": "Assists in adapting and delivering learning materials." },
-          { "level": 3, "title": "Intermediate", "description": "Designs lesson plans or modules for a target audience." },
-          { "level": 4, "title": "Advanced", "description": "Develops full curriculum frameworks with assessments and multimedia integration." },
-          { "level": 5, "title": "Expert", "description": "Leads institutional or cross-industry learning innovation and strategy." }
-        ]
-      },
-      {
-        "id": "logistics_coordination",
-        "label": "Logistics Coordination",
-        "category": "technical",
-        "description": "Manages flow of goods, services, and operations efficiently across supply chains.",
-        "industry_tags": ["Supply Chain", "Manufacturing", "Retail", "Transportation"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands basic logistics terms and principles." },
-          { "level": 2, "title": "Basic", "description": "Schedules deliveries and communicates shipment statuses." },
-          { "level": 3, "title": "Intermediate", "description": "Manages inventory and vendor coordination in daily operations." },
-          { "level": 4, "title": "Advanced", "description": "Optimizes supply flows and solves recurring delivery issues." },
-          { "level": 5, "title": "Expert", "description": "Designs multi-tier logistics systems and advises on global optimization." }
-        ]
-      },
-      {
-        "id": "cyber_threat_analysis",
-        "label": "Cyber Threat Analysis",
-        "category": "technical",
-        "description": "Detects, evaluates, and mitigates cybersecurity threats across digital systems.",
-        "industry_tags": ["Cybersecurity", "Government", "Finance", "Technology"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes potential vulnerabilities and phishing attempts." },
-          { "level": 2, "title": "Basic", "description": "Monitors logs and flags common suspicious activity." },
-          { "level": 3, "title": "Intermediate", "description": "Analyzes patterns to identify and isolate active threats." },
-          { "level": 4, "title": "Advanced", "description": "Responds to breaches, performs forensic analysis, and patches system weaknesses." },
-          { "level": 5, "title": "Expert", "description": "Designs organizational cyber defense protocols and leads threat intelligence efforts." }
-        ]
-      },
-      {
-        "id": "customer_experience_management",
-        "label": "Customer Experience Management (CX)",
-        "category": "leadership",
-        "description": "Designs and improves customer interactions and satisfaction across touchpoints.",
-        "industry_tags": ["Retail", "Technology", "SaaS", "Hospitality"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands the value of positive customer interaction." },
-          { "level": 2, "title": "Basic", "description": "Delivers consistent service using standard procedures." },
-          { "level": 3, "title": "Intermediate", "description": "Implements feedback systems and improves CX practices." },
-          { "level": 4, "title": "Advanced", "description": "Leads CX initiatives and personalizes customer journeys." },
-          { "level": 5, "title": "Expert", "description": "Drives customer-centric transformation and brand advocacy across channels." }
-        ]
-      },
-  {
-        "id": "hospitality_management",
-        "label": "Hospitality Management",
-        "category": "leadership",
-        "description": "Oversees operations and customer experience in hospitality and service environments.",
-        "industry_tags": ["Hospitality", "Travel", "Event Planning"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes importance of guest satisfaction and service standards." },
-          { "level": 2, "title": "Basic", "description": "Follows service protocols and responds to routine guest needs." },
-          { "level": 3, "title": "Intermediate", "description": "Coordinates front-of-house or back-end logistics to ensure service quality." },
-          { "level": 4, "title": "Advanced", "description": "Leads teams, optimizes operations, and handles complex guest situations." },
-          { "level": 5, "title": "Expert", "description": "Drives hospitality innovation and sets standards for brand-wide experience." }
-        ]
-      },
-      {
-        "id": "athletic_coaching",
-        "label": "Athletic Coaching",
-        "category": "leadership",
-        "description": "Develops physical ability, mental resilience, and team dynamics through training and mentorship.",
-        "industry_tags": ["Sports", "Education", "Fitness"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands training principles and safe practice guidelines." },
-          { "level": 2, "title": "Basic", "description": "Delivers practice drills and basic performance feedback." },
-          { "level": 3, "title": "Intermediate", "description": "Leads teams, develops routines, and nurtures growth mindset." },
-          { "level": 4, "title": "Advanced", "description": "Designs holistic programs and manages performance cycles." },
-          { "level": 5, "title": "Expert", "description": "Leads national-level programs or innovates in performance psychology." }
-        ]
-      },
-      {
-        "id": "civic_engagement",
-        "label": "Civic Engagement",
-        "category": "general",
-        "description": "Participates in efforts that promote democratic participation and community well-being.",
-        "industry_tags": ["Public Service", "Nonprofit", "Education"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands civic responsibilities and voting processes." },
-          { "level": 2, "title": "Basic", "description": "Volunteers or participates in community-driven activities." },
-          { "level": 3, "title": "Intermediate", "description": "Organizes outreach, advocacy, or educational efforts." },
-          { "level": 4, "title": "Advanced", "description": "Builds coalitions and manages civic or voter mobilization campaigns." },
-          { "level": 5, "title": "Expert", "description": "Leads policy impact work or civic innovation at scale." }
-        ]
-      },
-      {
-        "id": "media_literacy",
-        "label": "Media Literacy",
-        "category": "general",
-        "description": "Analyzes and evaluates media sources to distinguish fact, bias, and influence.",
-        "industry_tags": ["Education", "Journalism", "Public Policy"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Identifies types of media and content sources." },
-          { "level": 2, "title": "Basic", "description": "Recognizes bias and verifies basic facts." },
-          { "level": 3, "title": "Intermediate", "description": "Interprets framing and motives behind media narratives." },
-          { "level": 4, "title": "Advanced", "description": "Teaches media critique and digital safety." },
-          { "level": 5, "title": "Expert", "description": "Influences curriculum or policy on media and digital citizenship." }
-        ]
-      },
-      {
-        "id": "emergency_response_coordination",
-        "label": "Emergency Response Coordination",
-        "category": "technical",
-        "description": "Manages resources and procedures during critical incidents to ensure safety and recovery.",
-        "industry_tags": ["Emergency Services", "Government", "Healthcare", "Education"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Knows basic emergency procedures and roles." },
-          { "level": 2, "title": "Basic", "description": "Assists in drills or mobilizes supplies during response." },
-          { "level": 3, "title": "Intermediate", "description": "Leads response teams and executes continuity plans." },
-          { "level": 4, "title": "Advanced", "description": "Coordinates agencies and implements cross-system protocols." },
-          { "level": 5, "title": "Expert", "description": "Designs emergency systems or leads disaster recovery across jurisdictions." }
-        ]
-      },
-      {
-        "id": "construction_safety",
-        "label": "Construction Safety",
-        "category": "technical",
-        "description": "Implements safety protocols and hazard prevention measures on job sites.",
-        "industry_tags": ["Construction", "Trades", "Engineering"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands importance of site safety and basic PPE usage." },
-          { "level": 2, "title": "Basic", "description": "Follows safety procedures and identifies minor risks." },
-          { "level": 3, "title": "Intermediate", "description": "Conducts hazard assessments and enforces safety protocols." },
-          { "level": 4, "title": "Advanced", "description": "Leads site-wide safety practices and ensures compliance." },
-          { "level": 5, "title": "Expert", "description": "Designs safety systems and contributes to industry safety standards." }
-        ]
-      },
-  
-      {
-        "id": "visual_storytelling",
-        "label": "Visual Storytelling",
-        "category": "technical",
-        "description": "Conveys narratives through visual media and design.",
-        "industry_tags": ["Design", "Film", "Marketing", "Media"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes elements of compelling visual content." },
-          { "level": 2, "title": "Basic", "description": "Uses images and basic tools to support messaging." },
-          { "level": 3, "title": "Intermediate", "description": "Develops cohesive visual narratives across media formats." },
-          { "level": 4, "title": "Advanced", "description": "Leads visual campaigns with layered emotional impact." },
-          { "level": 5, "title": "Expert", "description": "Shapes brand identity or directs complex multimedia productions." }
-        ]
-      },
-  
-      {
-        "id": "experimental_design",
-        "label": "Experimental Design",
-        "category": "technical",
-        "description": "Designs research experiments to test hypotheses and control variables.",
-        "industry_tags": ["Research", "Academia", "Biotech", "Psychology"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands basic structure of controlled studies." },
-          { "level": 2, "title": "Basic", "description": "Assists in preparing or executing structured experiments." },
-          { "level": 3, "title": "Intermediate", "description": "Designs testable experiments with replicable methods." },
-          { "level": 4, "title": "Advanced", "description": "Leads complex studies and adjusts design for real-world constraints." },
-          { "level": 5, "title": "Expert", "description": "Innovates new methods or designs landmark studies." }
-        ]
-      },
+  "schema_version": "0.1.0",
+  "generated_at": "2025-04-28",
+  "id": "KSA-LEAD-0003",
+  "label": "Conflict Resolution",
+  "category": "Leadership",
+  "description": "...",
+  "source_frameworks": [
+    "onet:2.B.5",
+    "sfia:RLMT"
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "behavior": "..."
+    }
+  ],
+  "ksa": [
+    {
+      "id": "strategic_thinking",
+      "label": "Strategic Thinking",
+      "category": "leadership",
+      "description": "Formulates objectives and priorities, and implements plans consistent with the long-term interests of the organization.",
+      "levels": [
         {
-        "id": "sustainable_farming_practices",
-        "label": "Sustainable Farming Practices",
-        "category": "technical",
-        "description": "Implements agricultural methods that preserve soil, water, and biodiversity.",
-        "industry_tags": ["Agriculture", "Environment", "Sustainability"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands importance of ecological balance in farming." },
-          { "level": 2, "title": "Basic", "description": "Uses basic sustainable methods like crop rotation." },
-          { "level": 3, "title": "Intermediate", "description": "Applies integrated pest management and water conservation." },
-          { "level": 4, "title": "Advanced", "description": "Optimizes farm operations for minimal environmental impact." },
-          { "level": 5, "title": "Expert", "description": "Advises on or leads agroecological innovation and policy." }
-        ]
-      },
-      {
-        "id": "construction_safety",
-        "label": "Construction Safety",
-        "category": "technical",
-        "description": "Implements safety protocols and hazard prevention measures on job sites.",
-        "industry_tags": ["Construction", "Trades", "Engineering"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands importance of site safety and basic PPE usage." },
-          { "level": 2, "title": "Basic", "description": "Follows safety procedures and identifies minor risks." },
-          { "level": 3, "title": "Intermediate", "description": "Conducts hazard assessments and enforces safety protocols." },
-          { "level": 4, "title": "Advanced", "description": "Leads site-wide safety practices and ensures compliance." },
-          { "level": 5, "title": "Expert", "description": "Designs safety systems and contributes to industry safety standards." }
-        ]
-      },
-  
-      {
-        "id": "visual_storytelling",
-        "label": "Visual Storytelling",
-        "category": "technical",
-        "description": "Conveys narratives through visual media and design.",
-        "industry_tags": ["Design", "Film", "Marketing", "Media"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes elements of compelling visual content." },
-          { "level": 2, "title": "Basic", "description": "Uses images and basic tools to support messaging." },
-          { "level": 3, "title": "Intermediate", "description": "Develops cohesive visual narratives across media formats." },
-          { "level": 4, "title": "Advanced", "description": "Leads visual campaigns with layered emotional impact." },
-          { "level": 5, "title": "Expert", "description": "Shapes brand identity or directs complex multimedia productions." }
-        ]
-      },
-  
-      {
-        "id": "experimental_design",
-        "label": "Experimental Design",
-        "category": "technical",
-        "description": "Designs research experiments to test hypotheses and control variables.",
-        "industry_tags": ["Research", "Academia", "Biotech", "Psychology"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands basic structure of controlled studies." },
-          { "level": 2, "title": "Basic", "description": "Assists in preparing or executing structured experiments." },
-          { "level": 3, "title": "Intermediate", "description": "Designs testable experiments with replicable methods." },
-          { "level": 4, "title": "Advanced", "description": "Leads complex studies and adjusts design for real-world constraints." },
-          { "level": 5, "title": "Expert", "description": "Innovates new methods or designs landmark studies." }
-        ]
-      },
-  
-      {
-        "id": "sustainable_farming_practices",
-        "label": "Sustainable Farming Practices",
-        "category": "technical",
-        "description": "Implements agricultural methods that preserve soil, water, and biodiversity.",
-        "industry_tags": ["Agriculture", "Environment", "Sustainability"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands importance of ecological balance in farming." },
-          { "level": 2, "title": "Basic", "description": "Uses basic sustainable methods like crop rotation." },
-          { "level": 3, "title": "Intermediate", "description": "Applies integrated pest management and water conservation." },
-          { "level": 4, "title": "Advanced", "description": "Optimizes farm operations for minimal environmental impact." },
-          { "level": 5, "title": "Expert", "description": "Advises on or leads agroecological innovation and policy." }
-        ]
-      },
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes the importance of long-term planning and can articulate broad goals when prompted."
+        },
         {
-        "id": "mission_readiness",
-        "label": "Mission Readiness",
-        "category": "leadership",
-        "description": "Prepares individuals and systems for high-risk, high-precision environments.",
-        "industry_tags": ["Aerospace", "Defense", "Aviation"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands readiness protocols and team roles." },
-          { "level": 2, "title": "Basic", "description": "Executes assigned prep tasks and drills reliably." },
-          { "level": 3, "title": "Intermediate", "description": "Coordinates multi-unit preparation cycles for operations." },
-          { "level": 4, "title": "Advanced", "description": "Optimizes readiness procedures across teams or systems." },
-          { "level": 5, "title": "Expert", "description": "Designs or leads organization-wide mission readiness frameworks." }
-        ]
-      },
+          "level": 2,
+          "title": "Basic",
+          "description": "Contributes to setting objectives and supports initiatives aligned with organizational goals."
+        },
         {
-        "id": "energy_systems_optimization",
-        "label": "Energy Systems Optimization",
-        "category": "technical",
-        "description": "Improves efficiency, reliability, and sustainability of energy generation and use.",
-        "industry_tags": ["Energy", "Utilities", "Sustainability", "Engineering"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes key energy systems and sources." },
-          { "level": 2, "title": "Basic", "description": "Assists in monitoring or auditing energy usage." },
-          { "level": 3, "title": "Intermediate", "description": "Implements improvements and maintains systems for efficiency." },
-          { "level": 4, "title": "Advanced", "description": "Designs and manages large-scale optimization initiatives." },
-          { "level": 5, "title": "Expert", "description": "Leads innovation in clean energy and grid transformation." }
-        ]
-      },
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Identifies key objectives, anticipates potential obstacles, and supports strategic decisions in moderately complex environments."
+        },
         {
-        "id": "fleet_and_route_management",
-        "label": "Fleet and Route Management",
-        "category": "technical",
-        "description": "Manages transportation assets and optimizes logistics efficiency.",
-        "industry_tags": ["Logistics", "Transportation", "Supply Chain"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands types of transport assets and routing basics." },
-          { "level": 2, "title": "Basic", "description": "Assists with scheduling and simple route planning." },
-          { "level": 3, "title": "Intermediate", "description": "Manages fleet usage and real-time performance data." },
-          { "level": 4, "title": "Advanced", "description": "Optimizes multi-modal operations for cost and time." },
-          { "level": 5, "title": "Expert", "description": "Designs logistics frameworks and cross-border efficiency systems." }
-        ]
-      },
-      {
-        "id": "interactive_experience_design",
-        "label": "Interactive Experience Design",
-        "category": "technical",
-        "description": "Creates user-centric, immersive, and gamified environments.",
-        "industry_tags": ["Gaming", "Media", "Tech", "Education"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands elements of interactivity and feedback loops." },
-          { "level": 2, "title": "Basic", "description": "Uses platforms to create basic user-driven experiences." },
-          { "level": 3, "title": "Intermediate", "description": "Designs engaging systems that respond to behavior." },
-          { "level": 4, "title": "Advanced", "description": "Leads development of adaptive, cross-device experiences." },
-          { "level": 5, "title": "Expert", "description": "Pioneers immersive design combining behavioral science and tech." }
-        ]
-      },
-      {
-        "id": "learning_technology_integration",
-        "label": "Learning Technology Integration",
-        "category": "technical",
-        "description": "Implements and evaluates digital tools to support learning objectives.",
-        "industry_tags": ["Education", "EdTech", "Training"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Identifies basic educational technologies and uses." },
-          { "level": 2, "title": "Basic", "description": "Uses common digital tools in instructional settings." },
-          { "level": 3, "title": "Intermediate", "description": "Aligns tech tools to learning outcomes and curriculum." },
-          { "level": 4, "title": "Advanced", "description": "Implements school- or team-wide educational technology plans." },
-          { "level": 5, "title": "Expert", "description": "Leads district, organization, or platform innovation in EdTech." }
-        ]
-      },
-  
-      {
-        "id": "strategic_fund_development",
-        "label": "Strategic Fund Development",
-        "category": "leadership",
-        "description": "Plans and executes development strategies for nonprofit or mission-driven growth.",
-        "industry_tags": ["Nonprofit", "Philanthropy", "Education", "Healthcare"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands types of funding sources and development roles." },
-          { "level": 2, "title": "Basic", "description": "Assists with donor communication and campaign logistics." },
-          { "level": 3, "title": "Intermediate", "description": "Manages fundraising events and annual fund goals." },
-          { "level": 4, "title": "Advanced", "description": "Leads major donor outreach, proposals, or grants strategy." },
-          { "level": 5, "title": "Expert", "description": "Architects long-term fund development strategies and multi-million dollar campaigns." }
-        ]
-      },
+          "level": 4,
+          "title": "Advanced",
+          "description": "Develops multi-year plans and aligns team efforts with strategic priorities. Adjusts strategy based on evolving trends."
+        },
         {
-        "id": "ethical_ai_stewardship",
-        "label": "Ethical AI Stewardship",
-        "category": "leadership",
-        "description": "Guides responsible implementation and governance of AI systems.",
-        "industry_tags": ["Tech", "Government", "Finance", "Healthcare"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands core AI concepts and ethical considerations." },
-          { "level": 2, "title": "Basic", "description": "Participates in ethical reviews and algorithm assessments." },
-          { "level": 3, "title": "Intermediate", "description": "Manages risk, bias mitigation, and responsible data usage." },
-          { "level": 4, "title": "Advanced", "description": "Implements ethical oversight frameworks for AI systems." },
-          { "level": 5, "title": "Expert", "description": "Advises at policy or global level on AI ethics and alignment." }
-        ]
-      },
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes organizational vision. Leads cross-functional planning initiatives and serves as a mentor for strategic development."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "generative_ai_proficiency",
+      "label": "Generative AI Proficiency",
+      "category": "technical",
+      "description": "Ability to effectively use generative AI tools to support creativity, analysis, or automation.",
+      "levels": [
         {
-        "id": "live_performance_direction",
-        "label": "Live Performance Direction",
-        "category": "leadership",
-        "description": "Directs creative and logistical aspects of live entertainment productions.",
-        "industry_tags": ["Entertainment", "Performing Arts", "Media"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands basic stagecraft and performance coordination." },
-          { "level": 2, "title": "Basic", "description": "Supports rehearsals and simple stage elements." },
-          { "level": 3, "title": "Intermediate", "description": "Manages creative planning and cast/crew alignment." },
-          { "level": 4, "title": "Advanced", "description": "Directs full productions with technical and creative oversight." },
-          { "level": 5, "title": "Expert", "description": "Develops signature performances or leads institution-level programming." }
-        ]
-      },
-  
-      {
-        "id": "community_policing_and_engagement",
-        "label": "Community Policing and Engagement",
-        "category": "leadership",
-        "description": "Fosters trust and partnership between public safety and local communities.",
-        "industry_tags": ["Law Enforcement", "Public Safety", "Local Government"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands public safety mission and public trust importance." },
-          { "level": 2, "title": "Basic", "description": "Participates in local outreach and community events." },
-          { "level": 3, "title": "Intermediate", "description": "Builds sustained programs with local leaders and residents." },
-          { "level": 4, "title": "Advanced", "description": "Integrates engagement models into agency operations." },
-          { "level": 5, "title": "Expert", "description": "Leads national models of inclusive, restorative policing." }
-        ]
-      },
-      {
-        "id": "systems_thinking",
-        "label": "Systems Thinking",
-        "category": "technical",
-        "description": "Understands and applies interdependencies between systems to solve complex problems.",
-        "industry_tags": ["Engineering", "Operations", "Technology"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes components of a system and their connections." },
-          { "level": 2, "title": "Basic", "description": "Maps simple system flows and cause-effect relationships." },
-          { "level": 3, "title": "Intermediate", "description": "Designs or modifies systems based on observed patterns." },
-          { "level": 4, "title": "Advanced", "description": "Solves cross-disciplinary problems using system modeling." },
-          { "level": 5, "title": "Expert", "description": "Advises at an ecosystem level or innovates systemic solutions." }
-        ]
-      },
-      {
-        "id": "data_modeling",
-        "label": "Data Modeling",
-        "category": "technical",
-        "description": "Designs logical structures for data storage, organization, and retrieval.",
-        "industry_tags": ["Technology", "Finance", "Healthcare", "Research"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands data types and formats." },
-          { "level": 2, "title": "Basic", "description": "Uses simple data structures and schemas." },
-          { "level": 3, "title": "Intermediate", "description": "Designs scalable models aligned to system goals." },
-          { "level": 4, "title": "Advanced", "description": "Optimizes models for performance and integrity." },
-          { "level": 5, "title": "Expert", "description": "Architects enterprise-level or predictive data environments." }
-        ]
-      },
-      {
-        "id": "technical_troubleshooting",
-        "label": "Technical Troubleshooting",
-        "category": "technical",
-        "description": "Diagnoses and resolves technical problems in software, hardware, or systems.",
-        "industry_tags": ["Technology", "Engineering", "Manufacturing"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Identifies when systems are malfunctioning." },
-          { "level": 2, "title": "Basic", "description": "Follows prescribed steps to isolate issues." },
-          { "level": 3, "title": "Intermediate", "description": "Analyzes root causes and applies standard fixes." },
-          { "level": 4, "title": "Advanced", "description": "Creates solutions for non-standard or recurring issues." },
-          { "level": 5, "title": "Expert", "description": "Develops diagnostic protocols and leads innovation in system reliability." }
-        ]
-      },
-      {
-        "id": "cloud_architecture",
-        "label": "Cloud Architecture",
-        "category": "technical",
-        "description": "Designs and manages cloud-based infrastructure and services.",
-        "industry_tags": ["Technology", "Finance", "Healthcare"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands basic concepts of cloud storage and services." },
-          { "level": 2, "title": "Basic", "description": "Implements simple cloud-hosted solutions or migrations." },
-          { "level": 3, "title": "Intermediate", "description": "Manages multiple cloud systems and resources." },
-          { "level": 4, "title": "Advanced", "description": "Designs secure, scalable, multi-cloud environments." },
-          { "level": 5, "title": "Expert", "description": "Architects resilient global cloud infrastructures." }
-        ]
-      },
-      {
-        "id": "scientific_literacy",
-        "label": "Scientific Literacy",
-        "category": "technical",
-        "description": "Applies scientific methods, reasoning, and evidence in inquiry or innovation.",
-        "industry_tags": ["Research", "Healthcare", "Education", "Biotech"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands the role of hypotheses and evidence." },
-          { "level": 2, "title": "Basic", "description": "Uses logical steps to collect or interpret results." },
-          { "level": 3, "title": "Intermediate", "description": "Evaluates research claims and tests them independently." },
-          { "level": 4, "title": "Advanced", "description": "Applies methodology to novel problems or fields." },
-          { "level": 5, "title": "Expert", "description": "Synthesizes complex data and leads research innovation." }
-        ]
-      },
-      {
-        "id": "systems_thinking",
-        "label": "Systems Thinking",
-        "category": "technical",
-        "description": "Understands and applies interdependencies between systems to solve complex problems.",
-        "industry_tags": ["Engineering", "Operations", "Technology"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes components of a system and their connections." },
-          { "level": 2, "title": "Basic", "description": "Maps simple system flows and cause-effect relationships." },
-          { "level": 3, "title": "Intermediate", "description": "Designs or modifies systems based on observed patterns." },
-          { "level": 4, "title": "Advanced", "description": "Solves cross-disciplinary problems using system modeling." },
-          { "level": 5, "title": "Expert", "description": "Advises at an ecosystem level or innovates systemic solutions." }
-        ]
-      },
+          "level": 1,
+          "title": "Awareness",
+          "description": "Aware of generative AI tools and has seen them demonstrated."
+        },
         {
-        "id": "strategic_visioning",
-        "label": "Strategic Visioning",
-        "category": "leadership",
-        "description": "Develops and communicates long-range goals aligned with mission and market forces.",
-        "industry_tags": ["Executive", "Innovation", "Policy"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands the importance of vision in guiding strategy." },
-          { "level": 2, "title": "Basic", "description": "Supports vision alignment at the team or department level." },
-          { "level": 3, "title": "Intermediate", "description": "Contributes to long-range planning with contextual awareness." },
-          { "level": 4, "title": "Advanced", "description": "Leads development of adaptable strategic direction." },
-          { "level": 5, "title": "Expert", "description": "Articulates a compelling, innovative vision that reshapes an organization or sector." }
-        ]
-      },
-      {
-        "id": "influence_and_persuasion",
-        "label": "Influence and Persuasion",
-        "category": "leadership",
-        "description": "Gains support for ideas, proposals, or initiatives across diverse stakeholders.",
-        "industry_tags": ["Sales", "Leadership", "Advocacy"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes persuasive communication styles and their impact." },
-          { "level": 2, "title": "Basic", "description": "Communicates persuasively within familiar settings." },
-          { "level": 3, "title": "Intermediate", "description": "Tailors influence strategies to different audiences." },
-          { "level": 4, "title": "Advanced", "description": "Drives adoption of ideas or changes across groups." },
-          { "level": 5, "title": "Expert", "description": "Shapes public opinion or industry direction through influence." }
-        ]
-      },
-      {
-        "id": "adaptive_resilience",
-        "label": "Adaptive Resilience",
-        "category": "leadership",
-        "description": "Maintains composure, purpose, and learning orientation in the face of disruption.",
-        "industry_tags": ["Emergency Management", "Leadership", "Healthcare"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes stressors and their impact on decisions." },
-          { "level": 2, "title": "Basic", "description": "Perseveres through moderate pressure with guidance." },
-          { "level": 3, "title": "Intermediate", "description": "Responds constructively to changing demands or failures." },
-          { "level": 4, "title": "Advanced", "description": "Leads others through volatility or recovery efforts." },
-          { "level": 5, "title": "Expert", "description": "Models transformative resilience and mentors others in crisis leadership." }
-        ]
-      },
-      {
-        "id": "systems_leadership",
-        "label": "Systems Leadership",
-        "category": "leadership",
-        "description": "Builds bridges across sectors, scales, and silos to solve complex societal or enterprise challenges.",
-        "industry_tags": ["Policy", "Innovation", "Education", "Enterprise"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands broad ecosystem dynamics and relationships." },
-          { "level": 2, "title": "Basic", "description": "Participates in cross-functional teams with shared goals." },
-          { "level": 3, "title": "Intermediate", "description": "Aligns resources and actors across departments or domains." },
-          { "level": 4, "title": "Advanced", "description": "Guides coalitions and policy shifts with long-range impact." },
-          { "level": 5, "title": "Expert", "description": "Influences or redesigns societal systems through coalition-based leadership." }
-        ]
-      },
-      {
-        "id": "talent_development",
-        "label": "Talent Development",
-        "category": "leadership",
-        "description": "Cultivates others’ potential through mentoring, coaching, and opportunity creation.",
-        "industry_tags": ["Human Resources", "Education", "Leadership"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes potential in others and supports growth mindsets." },
-          { "level": 2, "title": "Basic", "description": "Provides feedback and supports peer learning." },
-          { "level": 3, "title": "Intermediate", "description": "Mentors others with tailored growth planning." },
-          { "level": 4, "title": "Advanced", "description": "Leads strategic talent or learning initiatives." },
-          { "level": 5, "title": "Expert", "description": "Builds cultures of development or reforms talent ecosystems." }
-        ]
-      },
-      {
-        "id": "accountability",
-        "label": "Accountability",
-        "category": "leadership",
-        "description": "Holds self and others responsible for measurable high-quality, timely, and cost-effective results.",
-        "industry_tags": ["Government", "Corporate", "Education"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Recognizes the importance of meeting commitments." },
-          { "level": 2, "title": "Basic", "description": "Completes tasks as assigned and acknowledges responsibilities." },
-          { "level": 3, "title": "Intermediate", "description": "Takes ownership of team results and resolves issues proactively." },
-          { "level": 4, "title": "Advanced", "description": "Ensures organizational accountability with structured oversight." },
-          { "level": 5, "title": "Expert", "description": "Establishes accountability frameworks across departments or agencies." }
-        ]
-      },
-      {
-        "id": "customer_service",
-        "label": "Customer Service",
-        "category": "general",
-        "description": "Works with clients and customers (internal or external) to assess needs, provide information, and resolve problems.",
-        "industry_tags": ["Retail", "Public Sector", "Healthcare", "Technology"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Understands importance of customer satisfaction." },
-          { "level": 2, "title": "Basic", "description": "Responds to routine inquiries with support." },
-          { "level": 3, "title": "Intermediate", "description": "Anticipates needs and offers tailored solutions." },
-          { "level": 4, "title": "Advanced", "description": "Develops service systems that improve client satisfaction." },
-          { "level": 5, "title": "Expert", "description": "Leads strategic improvements to organizational service models." }
-        ]
-      },
-      {
-        "id": "collaboration",
-        "label": "Collaboration",
-        "category": "general",
-        "description": "Works cooperatively with others to achieve shared goals.",
-        "industry_tags": ["All"],
-        "levels": [
-          { "level": 1, "title": "Awareness", "description": "Participates in group work and respects others' roles." },
-          { "level": 2, "title": "Basic", "description": "Actively listens and contributes ideas in group settings." },
-          { "level": 3, "title": "Intermediate", "description": "Encourages cooperation and mediates conflict among team members." },
-          { "level": 4, "title": "Advanced", "description": "Drives interdepartmental initiatives with collaborative frameworks." },
-          { "level": 5, "title": "Expert", "description": "Leads cross-sector or multi-organizational partnerships." }
-        ]
-      }
-    ]
-  }
-  
+          "level": 2,
+          "title": "Basic",
+          "description": "Can follow instructions to use AI tools for simple tasks."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Uses AI tools independently for content generation or decision support."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Integrates AI tools into workflows, improves prompts, and tailors outputs."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Develops AI-assisted strategies, trains others, and innovates use cases."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "sustainability_practices",
+      "label": "Sustainability Practices",
+      "category": "general",
+      "description": "Knowledge and application of eco-friendly principles in operational, strategic, or community contexts.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands basic sustainability principles."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Takes individual action to reduce environmental impact."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Promotes sustainability within team or projects."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads sustainability initiatives with measurable impact."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Advises organizations on sustainability integration and innovation."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "digital_collaboration",
+      "label": "Virtual Collaboration Tools",
+      "category": "general",
+      "description": "Ability to use digital tools to communicate and collaborate effectively in virtual environments.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Knows of digital collaboration tools but needs support to use them."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses tools for basic participation in virtual meetings and chats."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Effectively uses tools for teamwork, task management, and file sharing."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Facilitates team collaboration and improves digital processes."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs and implements digital collaboration strategies at scale."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "resilience",
+      "label": "Resilience",
+      "category": "general",
+      "description": "Ability to recover quickly from setbacks and maintain focus and performance under pressure.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes personal stress and its effects."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Manages minor stress and continues functioning in familiar situations."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Adapts to unexpected challenges while maintaining performance."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Performs consistently under pressure and helps others cope."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads teams through high-pressure situations while promoting well-being."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "emotional_intelligence",
+      "label": "Emotional Intelligence",
+      "category": "general",
+      "description": "Awareness of one’s emotions and the emotions of others to guide thinking and behavior.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes own emotional states and basic expressions of others."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Responds appropriately to simple emotional cues from others."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages emotional responses and adapts behavior based on group dynamics."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Uses emotional insight to influence and guide interpersonal situations."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Mentors others in developing emotional insight and resilience; de-escalates complex emotional conflicts."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "prompt_engineering",
+      "label": "Prompt Engineering",
+      "category": "technical",
+      "description": "Ability to craft effective queries or inputs to AI systems for accurate, useful, or creative outputs.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands what prompts are and how they influence AI outputs."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses predefined prompts with minor edits to receive helpful responses."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Iteratively crafts prompts to improve relevance, tone, and accuracy."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Designs complex or layered prompts that align with nuanced user goals."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Trains others and builds prompt libraries optimized for domain-specific uses."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "adaptability",
+      "label": "Adaptability",
+      "category": "general",
+      "description": "Ability to shift approach and remain effective in changing or uncertain conditions.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Acknowledges discomfort with change but makes an effort to cope."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Adjusts routines with minor support during transitions."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Handles shifting priorities or tools with minimal guidance."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Thinks creatively and remains productive under dynamic conditions."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads adaptive efforts across teams or systems in high-stakes environments."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "critical_thinking",
+      "label": "Critical Thinking",
+      "category": "general",
+      "description": "Ability to objectively analyze information, question assumptions, and evaluate outcomes.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes that decisions can be improved through thought and questioning."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Identifies basic patterns or flaws in simple arguments or decisions."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Assesses multiple viewpoints and evaluates trade-offs in common decisions."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Anticipates outcomes, analyzes complex issues, and supports logical conclusions."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Guides critical discourse; challenges assumptions to shape high-impact decisions."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "growth_mindset",
+      "label": "Growth Mindset",
+      "category": "general",
+      "description": "Belief in the ability to develop through effort and learning from mistakes.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes that skills can improve over time."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Makes effort to learn from feedback or challenges."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Seeks learning opportunities and reframes failures as growth moments."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Shares and models growth habits with peers or teams."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Drives a culture of continuous learning and supports others in skill development."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "influencing_skills",
+      "label": "Influencing Skills",
+      "category": "leadership",
+      "description": "Ability to persuade others to accomplish goals, gain support, or influence decisions.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands the importance of influencing others to achieve outcomes."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses simple techniques (e.g., logic, repetition) to persuade peers in familiar contexts."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Adapts communication style and argument to influence varied stakeholders."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leverages networks and credibility to sway organizational decisions."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Influences across industries, shapes narratives, or shifts policy through expert positioning."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "team_leadership",
+      "label": "Team Leadership",
+      "category": "leadership",
+      "description": "Ability to guide, motivate, and develop teams to accomplish objectives.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes key responsibilities of team leaders."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Manages simple task delegation and follows up on progress."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Motivates team members and mediates small interpersonal conflicts."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Develops team strategy and facilitates inclusive, high-performing dynamics."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes cross-functional leadership culture and grooms future leaders."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "data_literacy",
+      "label": "Data Literacy",
+      "category": "technical",
+      "description": "Ability to read, analyze, and make decisions using data.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands that data can support decisions and has seen data visualizations."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Reads basic charts and draws conclusions with support."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Interprets diverse data sets and draws independent insights."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Applies statistical reasoning to make recommendations."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs data-informed systems and mentors others in analytical thinking."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "technical_documentation",
+      "label": "Technical Documentation",
+      "category": "technical",
+      "description": "Ability to create clear, accurate, and accessible technical content for users or developers.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes the importance of documentation in technical environments."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Edits or contributes to existing documentation with support."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Creates new documentation for common tools or procedures."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads documentation initiatives for cross-team or customer-facing products."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Creates style guides and defines documentation standards for organizations."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "time_management",
+      "label": "Time Management",
+      "category": "general",
+      "description": "Ability to prioritize tasks, manage deadlines, and stay organized.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Acknowledges deadlines and the need for personal organization."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Meets most deadlines with reminders or support."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Plans work independently and delivers on time in routine settings."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Manages complex schedules and multiple priorities with minimal oversight."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Trains others and designs systems to improve team-wide time management."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "interpersonal_skills",
+      "label": "Interpersonal Skills",
+      "category": "general",
+      "description": "Ability to build relationships and work well with others.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands the impact of relationships at work."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Maintains courteous interactions in familiar environments."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Navigates diverse relationships with flexibility and tact."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Resolves interpersonal tensions and strengthens group dynamics."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads initiatives that foster culture, trust, and inclusion across groups."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "initiative",
+      "label": "Initiative",
+      "category": "general",
+      "description": "Willingness to take action and go beyond what is required without being prompted.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes opportunities to contribute beyond assigned tasks."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Takes basic steps independently to support task or team success."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Volunteers for new responsibilities or solves problems proactively."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Creates and champions new initiatives with measurable benefits."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Models initiative-taking at an organizational level and inspires innovation."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "conflict_management",
+      "label": "Conflict Management",
+      "category": "general",
+      "description": "Ability to handle disagreements constructively and help others reach resolution.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes sources of interpersonal tension or disagreement."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Addresses simple disagreements with direct communication."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Mediates disputes and finds compromise in routine settings."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Resolves persistent conflicts and trains others in resolution techniques."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs conflict-resolution protocols or leads high-stakes mediation."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "cultural_awareness",
+      "label": "Cultural Awareness",
+      "category": "general",
+      "description": "Recognizing and valuing differences in cultural norms, practices, and perspectives.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Acknowledges that people may approach things differently based on culture."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Respects cultural differences in behavior and communication."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Adapts communication or behavior to support cultural inclusion."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Champions cultural inclusion and navigates global perspectives effectively."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes strategy and policy to advance cultural equity and understanding."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "vision",
+      "label": "Vision",
+      "category": "leadership",
+      "description": "Ability to conceptualize future goals and rally others around them.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands long-term organizational objectives."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Supports short-term plans that align to broader goals."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Articulates and inspires others toward shared goals."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Creates and communicates compelling visions for teams or programs."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads visionary transformation across systems or sectors."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "decision_making",
+      "label": "Decision Making",
+      "category": "leadership",
+      "description": "Ability to assess options, evaluate risks, and make sound judgments.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Considers advice and basic facts before deciding."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Makes simple decisions in familiar situations."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Evaluates alternatives and takes responsibility for outcomes."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Makes complex or sensitive decisions with limited information."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Advises or sets decision-making frameworks at an organizational level."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "project_management",
+      "label": "Project Management",
+      "category": "technical",
+      "description": "Ability to plan, execute, and close work according to deadlines and budget.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Participates in basic projects with clear direction."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Manages simple tasks and timelines independently."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages projects with multiple tasks, deadlines, and collaborators."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads multi-phase or cross-functional initiatives."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs project management systems and leads large-scale portfolios."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "technology_fluency",
+      "label": "Technology Fluency",
+      "category": "technical",
+      "description": "Ability to use and adapt to new technologies effectively.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands and observes basic use of tools and systems."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses workplace technologies with support or tutorials."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Learns and adapts to multiple tools or platforms independently."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Improves or integrates tools into workflows and processes."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads technology adoption, training, or transformation efforts."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "collaboration",
+      "label": "Collaboration",
+      "category": "general",
+      "description": "Ability to work effectively with others to achieve shared goals.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes the value of working with others to complete tasks."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Participates in group work and shares information as needed."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Cooperates and contributes ideas toward group problem solving."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Builds consensus, resolves group conflict, and strengthens team cohesion."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads cross-functional teams and builds collaborative partnerships."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "accountability",
+      "label": "Accountability",
+      "category": "general",
+      "description": "Takes ownership of responsibilities and outcomes.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands personal role and impact on outcomes."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Meets obligations and admits to minor mistakes when prompted."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Takes responsibility for work and seeks improvement."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Holds self and others accountable to shared standards."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads a culture of integrity and accountability across teams or units."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "systems_thinking",
+      "label": "Systems Thinking",
+      "category": "leadership",
+      "description": "Understands the interconnections between parts of a system and anticipates downstream impacts.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes cause-effect relationships in simple systems."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Identifies basic patterns across processes or teams."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Analyzes how parts influence each other within a system."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Solves problems by aligning system components and addressing root causes."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs adaptive systems and trains others in complex thinking."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "change_management",
+      "label": "Change Management",
+      "category": "leadership",
+      "description": "Ability to lead, manage, or respond constructively to organizational change.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Accepts changes in plans and demonstrates flexibility."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Supports team transitions and shares updates clearly."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Guides others through change and addresses concerns effectively."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Develops strategies and processes for implementing change."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads enterprise-level transformation and builds resilient cultures."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "user_experience_design",
+      "label": "User Experience Design (UX)",
+      "category": "technical",
+      "description": "Designs intuitive, user-centered solutions to enhance product usability.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands importance of usability and interface feedback."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Contributes to simple UX decisions based on user feedback."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs wireframes, flows, and prototypes with guidance."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads user testing and develops cross-platform experience strategies."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes UX strategy across products and scales design systems."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "cybersecurity_awareness",
+      "label": "Cybersecurity Awareness",
+      "category": "technical",
+      "description": "Understands common threats and protects digital systems from basic risks.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Follows basic password and email safety guidance."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Identifies suspicious activity and follows security protocols."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Implements safeguards on systems and reports security breaches."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Trains teams and monitors organizational security compliance."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Develops or manages enterprise cybersecurity strategy."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "emotional_intelligence",
+      "label": "Emotional Intelligence",
+      "category": "general",
+      "description": "Recognizing, understanding, and managing one's own emotions and the emotions of others.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes emotional reactions in self and others."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Responds constructively to emotional triggers with support."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Adjusts behavior in real-time to support emotional needs in self and others."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Navigates complex emotional dynamics and supports others in regulating emotion."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Coaches others and integrates emotional intelligence into team and organizational culture."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "ai_literacy",
+      "label": "AI Literacy",
+      "category": "technical",
+      "description": "Understands foundational concepts, uses, risks, and ethics of artificial intelligence.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands that AI is used in modern tools and platforms."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Can explain common AI applications (e.g., recommendations, chatbots)."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Understands basic models, bias risks, and responsible usage."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Applies AI insights or tools in workflows and understands governance frameworks."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs, audits, or leads AI-integrated systems with ethical considerations."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "ethical_reasoning",
+      "label": "Ethical Reasoning",
+      "category": "leadership",
+      "description": "Evaluates and acts on moral principles when facing complex decisions.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes when a situation presents an ethical question."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Makes decisions guided by stated values and rules."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Navigates ethical gray areas and seeks counsel where needed."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Balances stakeholder needs while maintaining ethical integrity."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes organizational ethics and responds to public scrutiny with transparency."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "sustainability_mindset",
+      "label": "Sustainability Mindset",
+      "category": "leadership",
+      "description": "Thinks and acts with consideration for long-term ecological, social, and economic impact.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Acknowledges sustainability goals and their importance."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Incorporates simple sustainable practices into daily work."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Identifies opportunities for reducing waste or improving outcomes responsibly."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Develops sustainability-conscious strategies or programs."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads sustainability innovation and influences sector-wide change."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "communication_design",
+      "label": "Communication Design",
+      "category": "technical",
+      "description": "Designs and structures communications to inform, inspire, or mobilize audiences.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands that the way information is presented influences impact."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Selects appropriate formats for simple messages and materials."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs messages for varied audiences using tone, visuals, and structure."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Develops persuasive and accessible materials across platforms."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads communication campaigns or influences large-scale public engagement."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "clinical_judgment",
+      "label": "Clinical Judgment",
+      "category": "technical",
+      "description": "Applies evidence-based reasoning and patient information to make medical decisions.",
+      "industry_tags": [
+        "Healthcare",
+        "Public Health",
+        "Emergency Services"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes signs requiring clinical attention."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Applies protocols in predictable clinical scenarios."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Synthesizes symptoms and history for diagnosis in moderate complexity cases."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Prioritizes interventions and adapts approaches in high-stakes environments."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads medical judgment in crises and trains others in advanced reasoning."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "instructional_design",
+      "label": "Instructional Design",
+      "category": "technical",
+      "description": "Designs curriculum, learning experiences, and content aligned with learner needs and goals.",
+      "industry_tags": [
+        "Education",
+        "Learning & Development",
+        "Corporate Training"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands the importance of learning outcomes."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Assists in adapting and delivering learning materials."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs lesson plans or modules for a target audience."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Develops full curriculum frameworks with assessments and multimedia integration."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads institutional or cross-industry learning innovation and strategy."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "logistics_coordination",
+      "label": "Logistics Coordination",
+      "category": "technical",
+      "description": "Manages flow of goods, services, and operations efficiently across supply chains.",
+      "industry_tags": [
+        "Supply Chain",
+        "Manufacturing",
+        "Retail",
+        "Transportation"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands basic logistics terms and principles."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Schedules deliveries and communicates shipment statuses."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages inventory and vendor coordination in daily operations."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Optimizes supply flows and solves recurring delivery issues."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs multi-tier logistics systems and advises on global optimization."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "cyber_threat_analysis",
+      "label": "Cyber Threat Analysis",
+      "category": "technical",
+      "description": "Detects, evaluates, and mitigates cybersecurity threats across digital systems.",
+      "industry_tags": [
+        "Cybersecurity",
+        "Government",
+        "Finance",
+        "Technology"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes potential vulnerabilities and phishing attempts."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Monitors logs and flags common suspicious activity."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Analyzes patterns to identify and isolate active threats."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Responds to breaches, performs forensic analysis, and patches system weaknesses."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs organizational cyber defense protocols and leads threat intelligence efforts."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "customer_experience_management",
+      "label": "Customer Experience Management (CX)",
+      "category": "leadership",
+      "description": "Designs and improves customer interactions and satisfaction across touchpoints.",
+      "industry_tags": [
+        "Retail",
+        "Technology",
+        "SaaS",
+        "Hospitality"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands the value of positive customer interaction."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Delivers consistent service using standard procedures."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Implements feedback systems and improves CX practices."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads CX initiatives and personalizes customer journeys."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Drives customer-centric transformation and brand advocacy across channels."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "hospitality_management",
+      "label": "Hospitality Management",
+      "category": "leadership",
+      "description": "Oversees operations and customer experience in hospitality and service environments.",
+      "industry_tags": [
+        "Hospitality",
+        "Travel",
+        "Event Planning"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes importance of guest satisfaction and service standards."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Follows service protocols and responds to routine guest needs."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Coordinates front-of-house or back-end logistics to ensure service quality."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads teams, optimizes operations, and handles complex guest situations."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Drives hospitality innovation and sets standards for brand-wide experience."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "athletic_coaching",
+      "label": "Athletic Coaching",
+      "category": "leadership",
+      "description": "Develops physical ability, mental resilience, and team dynamics through training and mentorship.",
+      "industry_tags": [
+        "Sports",
+        "Education",
+        "Fitness"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands training principles and safe practice guidelines."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Delivers practice drills and basic performance feedback."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Leads teams, develops routines, and nurtures growth mindset."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Designs holistic programs and manages performance cycles."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads national-level programs or innovates in performance psychology."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "civic_engagement",
+      "label": "Civic Engagement",
+      "category": "general",
+      "description": "Participates in efforts that promote democratic participation and community well-being.",
+      "industry_tags": [
+        "Public Service",
+        "Nonprofit",
+        "Education"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands civic responsibilities and voting processes."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Volunteers or participates in community-driven activities."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Organizes outreach, advocacy, or educational efforts."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Builds coalitions and manages civic or voter mobilization campaigns."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads policy impact work or civic innovation at scale."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "media_literacy",
+      "label": "Media Literacy",
+      "category": "general",
+      "description": "Analyzes and evaluates media sources to distinguish fact, bias, and influence.",
+      "industry_tags": [
+        "Education",
+        "Journalism",
+        "Public Policy"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Identifies types of media and content sources."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Recognizes bias and verifies basic facts."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Interprets framing and motives behind media narratives."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Teaches media critique and digital safety."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Influences curriculum or policy on media and digital citizenship."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "emergency_response_coordination",
+      "label": "Emergency Response Coordination",
+      "category": "technical",
+      "description": "Manages resources and procedures during critical incidents to ensure safety and recovery.",
+      "industry_tags": [
+        "Emergency Services",
+        "Government",
+        "Healthcare",
+        "Education"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Knows basic emergency procedures and roles."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Assists in drills or mobilizes supplies during response."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Leads response teams and executes continuity plans."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Coordinates agencies and implements cross-system protocols."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs emergency systems or leads disaster recovery across jurisdictions."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "construction_safety",
+      "label": "Construction Safety",
+      "category": "technical",
+      "description": "Implements safety protocols and hazard prevention measures on job sites.",
+      "industry_tags": [
+        "Construction",
+        "Trades",
+        "Engineering"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands importance of site safety and basic PPE usage."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Follows safety procedures and identifies minor risks."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Conducts hazard assessments and enforces safety protocols."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads site-wide safety practices and ensures compliance."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs safety systems and contributes to industry safety standards."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "visual_storytelling",
+      "label": "Visual Storytelling",
+      "category": "technical",
+      "description": "Conveys narratives through visual media and design.",
+      "industry_tags": [
+        "Design",
+        "Film",
+        "Marketing",
+        "Media"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes elements of compelling visual content."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses images and basic tools to support messaging."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Develops cohesive visual narratives across media formats."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads visual campaigns with layered emotional impact."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes brand identity or directs complex multimedia productions."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "experimental_design",
+      "label": "Experimental Design",
+      "category": "technical",
+      "description": "Designs research experiments to test hypotheses and control variables.",
+      "industry_tags": [
+        "Research",
+        "Academia",
+        "Biotech",
+        "Psychology"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands basic structure of controlled studies."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Assists in preparing or executing structured experiments."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs testable experiments with replicable methods."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads complex studies and adjusts design for real-world constraints."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Innovates new methods or designs landmark studies."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "sustainable_farming_practices",
+      "label": "Sustainable Farming Practices",
+      "category": "technical",
+      "description": "Implements agricultural methods that preserve soil, water, and biodiversity.",
+      "industry_tags": [
+        "Agriculture",
+        "Environment",
+        "Sustainability"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands importance of ecological balance in farming."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses basic sustainable methods like crop rotation."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Applies integrated pest management and water conservation."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Optimizes farm operations for minimal environmental impact."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Advises on or leads agroecological innovation and policy."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "construction_safety",
+      "label": "Construction Safety",
+      "category": "technical",
+      "description": "Implements safety protocols and hazard prevention measures on job sites.",
+      "industry_tags": [
+        "Construction",
+        "Trades",
+        "Engineering"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands importance of site safety and basic PPE usage."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Follows safety procedures and identifies minor risks."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Conducts hazard assessments and enforces safety protocols."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads site-wide safety practices and ensures compliance."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs safety systems and contributes to industry safety standards."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "visual_storytelling",
+      "label": "Visual Storytelling",
+      "category": "technical",
+      "description": "Conveys narratives through visual media and design.",
+      "industry_tags": [
+        "Design",
+        "Film",
+        "Marketing",
+        "Media"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes elements of compelling visual content."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses images and basic tools to support messaging."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Develops cohesive visual narratives across media formats."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads visual campaigns with layered emotional impact."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes brand identity or directs complex multimedia productions."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "experimental_design",
+      "label": "Experimental Design",
+      "category": "technical",
+      "description": "Designs research experiments to test hypotheses and control variables.",
+      "industry_tags": [
+        "Research",
+        "Academia",
+        "Biotech",
+        "Psychology"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands basic structure of controlled studies."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Assists in preparing or executing structured experiments."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs testable experiments with replicable methods."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads complex studies and adjusts design for real-world constraints."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Innovates new methods or designs landmark studies."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "sustainable_farming_practices",
+      "label": "Sustainable Farming Practices",
+      "category": "technical",
+      "description": "Implements agricultural methods that preserve soil, water, and biodiversity.",
+      "industry_tags": [
+        "Agriculture",
+        "Environment",
+        "Sustainability"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands importance of ecological balance in farming."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses basic sustainable methods like crop rotation."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Applies integrated pest management and water conservation."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Optimizes farm operations for minimal environmental impact."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Advises on or leads agroecological innovation and policy."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "mission_readiness",
+      "label": "Mission Readiness",
+      "category": "leadership",
+      "description": "Prepares individuals and systems for high-risk, high-precision environments.",
+      "industry_tags": [
+        "Aerospace",
+        "Defense",
+        "Aviation"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands readiness protocols and team roles."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Executes assigned prep tasks and drills reliably."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Coordinates multi-unit preparation cycles for operations."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Optimizes readiness procedures across teams or systems."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs or leads organization-wide mission readiness frameworks."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "energy_systems_optimization",
+      "label": "Energy Systems Optimization",
+      "category": "technical",
+      "description": "Improves efficiency, reliability, and sustainability of energy generation and use.",
+      "industry_tags": [
+        "Energy",
+        "Utilities",
+        "Sustainability",
+        "Engineering"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes key energy systems and sources."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Assists in monitoring or auditing energy usage."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Implements improvements and maintains systems for efficiency."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Designs and manages large-scale optimization initiatives."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads innovation in clean energy and grid transformation."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "fleet_and_route_management",
+      "label": "Fleet and Route Management",
+      "category": "technical",
+      "description": "Manages transportation assets and optimizes logistics efficiency.",
+      "industry_tags": [
+        "Logistics",
+        "Transportation",
+        "Supply Chain"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands types of transport assets and routing basics."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Assists with scheduling and simple route planning."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages fleet usage and real-time performance data."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Optimizes multi-modal operations for cost and time."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Designs logistics frameworks and cross-border efficiency systems."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "interactive_experience_design",
+      "label": "Interactive Experience Design",
+      "category": "technical",
+      "description": "Creates user-centric, immersive, and gamified environments.",
+      "industry_tags": [
+        "Gaming",
+        "Media",
+        "Tech",
+        "Education"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands elements of interactivity and feedback loops."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses platforms to create basic user-driven experiences."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs engaging systems that respond to behavior."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads development of adaptive, cross-device experiences."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Pioneers immersive design combining behavioral science and tech."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "learning_technology_integration",
+      "label": "Learning Technology Integration",
+      "category": "technical",
+      "description": "Implements and evaluates digital tools to support learning objectives.",
+      "industry_tags": [
+        "Education",
+        "EdTech",
+        "Training"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Identifies basic educational technologies and uses."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses common digital tools in instructional settings."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Aligns tech tools to learning outcomes and curriculum."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Implements school- or team-wide educational technology plans."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads district, organization, or platform innovation in EdTech."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "strategic_fund_development",
+      "label": "Strategic Fund Development",
+      "category": "leadership",
+      "description": "Plans and executes development strategies for nonprofit or mission-driven growth.",
+      "industry_tags": [
+        "Nonprofit",
+        "Philanthropy",
+        "Education",
+        "Healthcare"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands types of funding sources and development roles."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Assists with donor communication and campaign logistics."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages fundraising events and annual fund goals."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads major donor outreach, proposals, or grants strategy."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Architects long-term fund development strategies and multi-million dollar campaigns."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "ethical_ai_stewardship",
+      "label": "Ethical AI Stewardship",
+      "category": "leadership",
+      "description": "Guides responsible implementation and governance of AI systems.",
+      "industry_tags": [
+        "Tech",
+        "Government",
+        "Finance",
+        "Healthcare"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands core AI concepts and ethical considerations."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Participates in ethical reviews and algorithm assessments."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages risk, bias mitigation, and responsible data usage."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Implements ethical oversight frameworks for AI systems."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Advises at policy or global level on AI ethics and alignment."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "live_performance_direction",
+      "label": "Live Performance Direction",
+      "category": "leadership",
+      "description": "Directs creative and logistical aspects of live entertainment productions.",
+      "industry_tags": [
+        "Entertainment",
+        "Performing Arts",
+        "Media"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands basic stagecraft and performance coordination."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Supports rehearsals and simple stage elements."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages creative planning and cast/crew alignment."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Directs full productions with technical and creative oversight."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Develops signature performances or leads institution-level programming."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "community_policing_and_engagement",
+      "label": "Community Policing and Engagement",
+      "category": "leadership",
+      "description": "Fosters trust and partnership between public safety and local communities.",
+      "industry_tags": [
+        "Law Enforcement",
+        "Public Safety",
+        "Local Government"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands public safety mission and public trust importance."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Participates in local outreach and community events."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Builds sustained programs with local leaders and residents."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Integrates engagement models into agency operations."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads national models of inclusive, restorative policing."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "systems_thinking",
+      "label": "Systems Thinking",
+      "category": "technical",
+      "description": "Understands and applies interdependencies between systems to solve complex problems.",
+      "industry_tags": [
+        "Engineering",
+        "Operations",
+        "Technology"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes components of a system and their connections."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Maps simple system flows and cause-effect relationships."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs or modifies systems based on observed patterns."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Solves cross-disciplinary problems using system modeling."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Advises at an ecosystem level or innovates systemic solutions."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "data_modeling",
+      "label": "Data Modeling",
+      "category": "technical",
+      "description": "Designs logical structures for data storage, organization, and retrieval.",
+      "industry_tags": [
+        "Technology",
+        "Finance",
+        "Healthcare",
+        "Research"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands data types and formats."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses simple data structures and schemas."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs scalable models aligned to system goals."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Optimizes models for performance and integrity."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Architects enterprise-level or predictive data environments."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "technical_troubleshooting",
+      "label": "Technical Troubleshooting",
+      "category": "technical",
+      "description": "Diagnoses and resolves technical problems in software, hardware, or systems.",
+      "industry_tags": [
+        "Technology",
+        "Engineering",
+        "Manufacturing"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Identifies when systems are malfunctioning."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Follows prescribed steps to isolate issues."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Analyzes root causes and applies standard fixes."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Creates solutions for non-standard or recurring issues."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Develops diagnostic protocols and leads innovation in system reliability."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "cloud_architecture",
+      "label": "Cloud Architecture",
+      "category": "technical",
+      "description": "Designs and manages cloud-based infrastructure and services.",
+      "industry_tags": [
+        "Technology",
+        "Finance",
+        "Healthcare"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands basic concepts of cloud storage and services."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Implements simple cloud-hosted solutions or migrations."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Manages multiple cloud systems and resources."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Designs secure, scalable, multi-cloud environments."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Architects resilient global cloud infrastructures."
+        }
+      ],
+      "horizon": "core_2025"
+    },
+    {
+      "id": "scientific_literacy",
+      "label": "Scientific Literacy",
+      "category": "technical",
+      "description": "Applies scientific methods, reasoning, and evidence in inquiry or innovation.",
+      "industry_tags": [
+        "Research",
+        "Healthcare",
+        "Education",
+        "Biotech"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands the role of hypotheses and evidence."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Uses logical steps to collect or interpret results."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Evaluates research claims and tests them independently."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Applies methodology to novel problems or fields."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Synthesizes complex data and leads research innovation."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "systems_thinking",
+      "label": "Systems Thinking",
+      "category": "technical",
+      "description": "Understands and applies interdependencies between systems to solve complex problems.",
+      "industry_tags": [
+        "Engineering",
+        "Operations",
+        "Technology"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes components of a system and their connections."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Maps simple system flows and cause-effect relationships."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Designs or modifies systems based on observed patterns."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Solves cross-disciplinary problems using system modeling."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Advises at an ecosystem level or innovates systemic solutions."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "strategic_visioning",
+      "label": "Strategic Visioning",
+      "category": "leadership",
+      "description": "Develops and communicates long-range goals aligned with mission and market forces.",
+      "industry_tags": [
+        "Executive",
+        "Innovation",
+        "Policy"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands the importance of vision in guiding strategy."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Supports vision alignment at the team or department level."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Contributes to long-range planning with contextual awareness."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads development of adaptable strategic direction."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Articulates a compelling, innovative vision that reshapes an organization or sector."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "influence_and_persuasion",
+      "label": "Influence and Persuasion",
+      "category": "leadership",
+      "description": "Gains support for ideas, proposals, or initiatives across diverse stakeholders.",
+      "industry_tags": [
+        "Sales",
+        "Leadership",
+        "Advocacy"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes persuasive communication styles and their impact."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Communicates persuasively within familiar settings."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Tailors influence strategies to different audiences."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Drives adoption of ideas or changes across groups."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Shapes public opinion or industry direction through influence."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "adaptive_resilience",
+      "label": "Adaptive Resilience",
+      "category": "leadership",
+      "description": "Maintains composure, purpose, and learning orientation in the face of disruption.",
+      "industry_tags": [
+        "Emergency Management",
+        "Leadership",
+        "Healthcare"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes stressors and their impact on decisions."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Perseveres through moderate pressure with guidance."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Responds constructively to changing demands or failures."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads others through volatility or recovery efforts."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Models transformative resilience and mentors others in crisis leadership."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "systems_leadership",
+      "label": "Systems Leadership",
+      "category": "leadership",
+      "description": "Builds bridges across sectors, scales, and silos to solve complex societal or enterprise challenges.",
+      "industry_tags": [
+        "Policy",
+        "Innovation",
+        "Education",
+        "Enterprise"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands broad ecosystem dynamics and relationships."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Participates in cross-functional teams with shared goals."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Aligns resources and actors across departments or domains."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Guides coalitions and policy shifts with long-range impact."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Influences or redesigns societal systems through coalition-based leadership."
+        }
+      ],
+      "horizon": "watch_2030"
+    },
+    {
+      "id": "talent_development",
+      "label": "Talent Development",
+      "category": "leadership",
+      "description": "Cultivates others’ potential through mentoring, coaching, and opportunity creation.",
+      "industry_tags": [
+        "Human Resources",
+        "Education",
+        "Leadership"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes potential in others and supports growth mindsets."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Provides feedback and supports peer learning."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Mentors others with tailored growth planning."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Leads strategic talent or learning initiatives."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Builds cultures of development or reforms talent ecosystems."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "accountability",
+      "label": "Accountability",
+      "category": "leadership",
+      "description": "Holds self and others responsible for measurable high-quality, timely, and cost-effective results.",
+      "industry_tags": [
+        "Government",
+        "Corporate",
+        "Education"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Recognizes the importance of meeting commitments."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Completes tasks as assigned and acknowledges responsibilities."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Takes ownership of team results and resolves issues proactively."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Ensures organizational accountability with structured oversight."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Establishes accountability frameworks across departments or agencies."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "customer_service",
+      "label": "Customer Service",
+      "category": "general",
+      "description": "Works with clients and customers (internal or external) to assess needs, provide information, and resolve problems.",
+      "industry_tags": [
+        "Retail",
+        "Public Sector",
+        "Healthcare",
+        "Technology"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Understands importance of customer satisfaction."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Responds to routine inquiries with support."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Anticipates needs and offers tailored solutions."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Develops service systems that improve client satisfaction."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads strategic improvements to organizational service models."
+        }
+      ],
+      "horizon": "perennial"
+    },
+    {
+      "id": "collaboration",
+      "label": "Collaboration",
+      "category": "general",
+      "description": "Works cooperatively with others to achieve shared goals.",
+      "industry_tags": [
+        "All"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "title": "Awareness",
+          "description": "Participates in group work and respects others' roles."
+        },
+        {
+          "level": 2,
+          "title": "Basic",
+          "description": "Actively listens and contributes ideas in group settings."
+        },
+        {
+          "level": 3,
+          "title": "Intermediate",
+          "description": "Encourages cooperation and mediates conflict among team members."
+        },
+        {
+          "level": 4,
+          "title": "Advanced",
+          "description": "Drives interdepartmental initiatives with collaborative frameworks."
+        },
+        {
+          "level": 5,
+          "title": "Expert",
+          "description": "Leads cross-sector or multi-organizational partnerships."
+        }
+      ],
+      "horizon": "perennial"
+    }
+  ]
+}
