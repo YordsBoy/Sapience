@@ -1,33 +1,27 @@
-# 🧭 Leadership & Influence KSAs – Institutional Schema (v0.1)
+# 🧭 Leadership & Influence KSAs – Institutional Schema (v0.2)
 
-> **Source credit:** Definitions are adapted from the public-domain U.S. Office of Personnel Management Leadership Competency Model, CC BY 4.0 **O*NET®** KSAs, PMI® Talent-Triangle “Power Skills”, Prosci change-leadership research, Deloitte “Six Signature Traits of Inclusive Leadership”, McKinsey guidance on remote inclusion, and ISO 31000 risk-management principles. Text has been modified; no source organization endorses these adaptations.
+> **Source credit:** Adapted from public‑domain U.S. OPM leadership competencies, CC BY 4.0 **O*NET®** KSAs, Hershey–Blanchard Situational Leadership, PMI® “Power Skills,” Prosci change‑leadership research, Deloitte inclusive‑leadership traits, ISO 31000 risk principles, McKinsey remote‑team guidance, and crisis‑leadership models from EH&A Consulting. Text modified; no source organization endorses these adaptations.
 
-| KSA ID                     | Label & Scope                         | Description (condensed)                                                                           | Future Relevance | Tags                              | Example Roles                               | Proficiency Highlights (Awareness → Expert)                                                  |
-|----------------------------|---------------------------------------|---------------------------------------------------------------------------------------------------|------------------|------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------|
-| vision_setting             | Vision-Setting                       | Crafts & communicates an inspiring future picture; aligns people & resources toward it. :contentReference[oaicite:5]{index=5} | **Very High**    | Strategic Leadership, Inspiration | CEO, Product Mgr                           | States goals → Mobilizes enterprise vision                                                    |
-| strategic_thinking         | Strategic Thinking                   | Scans environment, anticipates trends, positions org for long-term success.  | **Very High**    | Foresight, Analysis               | Strategy Lead                             | Links tasks to goals → Architects multi-year portfolio                                        |
-| ethical_governance         | Ethical Governance                   | Embeds integrity, transparency, and accountability into policy & culture. :contentReference[oaicite:6]{index=6} | High             | Integrity, Compliance             | Board Director                             | Follows code → Designs enterprise ethics program                                              |
-| delegation_mastery         | Delegation Mastery                   | Assigns authority, resources, and decision rights with clear expectations & support. :contentReference[oaicite:7]{index=7} | High             | Empowerment, Talent Dev           | Team Lead                                  | Hands off tasks → Orchestrates distributed ownership                                           |
-| stakeholder_coalition      | Stakeholder Coalition Building       | Identifies stakeholders, balances interests, forges alliances that sustain change.  | **Very High**    | Influence, Change Mgmt            | Program Mgr                                | Maps stakeholders → Mobilizes durable coalitions                                               |
-| mentoring_coaching         | Mentoring & Coaching                 | Grows others through feedback, questions, developmental assignments.  | **Very High**    | Learning, Talent Dev              | People Mgr                                 | Shares tips → Runs enterprise mentor-coach systems                                             |
-| conflict_resolution        | Conflict Resolution                  | Navigates disagreements, negotiates win-wins, restores productive relationships. :contentReference[oaicite:8]{index=8} | High             | Mediation, Negotiation            | HR BP, Project Lead                        | Flags tension → Brokers complex multiparty accord                                              |
-| inclusive_leadership       | Inclusive Leadership                 | Creates belonging and leverages diversity through curiosity, cultural intelligence, collaboration. :contentReference[oaicite:9]{index=9} | **Very High**    | DEI, Belonging                    | Division Head, Community Mgr              | Values diversity → Embeds structural inclusion                                                 |
-| change_leadership          | Change Leadership                    | Directs people-side of transformation, builds readiness, mitigates resistance. :contentReference[oaicite:10]{index=10} | **Very High**    | Transformation, Agility           | Transformation Dir                         | Explains change → Institutionalizes change competency                                          |
-| decision_making            | Decision-Making & Judgment           | Gathers data, weighs risks, commits to timely, ethical choices. :contentReference[oaicite:11]{index=11} | **Very High**    | Critical Thinking, Risk           | Operations Mgr                             | Chooses simple options → Orchestrates high-stakes portfolio decisions                          |
-| innovation_leadership      | Innovation Leadership                | Sponsors experimentation, allocates resources, removes barriers to novel solutions. :contentReference[oaicite:12]{index=12} | High             | Creativity, Growth                | R&D Lead                                   | Encourages ideas → Scales systematic innovation                                                |
-| risk_awareness_leadership  | Risk-Aware Leadership                | Anticipates threats/opportunities, integrates risk-management into strategy (ISO 31000). :contentReference[oaicite:13]{index=13} | High             | Governance, Resilience            | CFO, Program Executive                    | Identifies basic risks → Embeds enterprise risk culture                                        |
-| remote_team_leadership     | Remote & Hybrid Team Leadership      | Builds trust, clarity, and inclusion across distributed teams & time zones. :contentReference[oaicite:14]{index=14} | High             | Virtual Collab, Inclusion         | Remote Team Lead                           | Facilitates virtual meetings → Engineers scalable remote workforce model                       |
-
----
-
-### How this closes gaps
-* **DEI & Belonging:** Inclusive Leadership ensures Sapience aligns with modern equity standards and Deloitte’s six-trait model. :contentReference[oaicite:15]{index=15}  
-* **Change-ready culture:** Explicit Change Leadership KSA links to Prosci’s enterprise change competency research. :contentReference[oaicite:16]{index=16}  
-* **Decisions & Risk:** Separate Decision-Making and Risk-Aware Leadership reflect OPM “Decision Making” and ISO 31000 governance. :contentReference[oaicite:17]{index=17}  
-* **Innovation pipeline:** Innovation Leadership maps to PMI’s “Power Skills” (innovative mindset) and sustains growth. :contentReference[oaicite:18]{index=18}  
-* **Hybrid future of work:** Remote Team Leadership leverages McKinsey inclusion guidance for distributed teams. :contentReference[oaicite:19]{index=19}  
-
-Together with the original seven KSAs, Sapience now offers **13 leadership competencies** that span vision → ethics → execution → inclusive culture, covering every pillar necessary for credible leadership development.
+| KSA ID | Label | Description | Future Relevance | Cluster Tags | Related Roles | Proficiency Highlights (Awareness → Expert) |
+|--------|-------|-------------|------------------|--------------|---------------|---------------------------------------------|
+| vision_setting | Vision‑Setting | Crafts and communicates an inspiring future picture, aligning people and resources. | **Very High** | Strategy, Inspiration | CEO, Product Mgr | States goals → Mobilizes enterprise vision |
+| strategic_thinking | Strategic Thinking | Scans environment, anticipates trends, integrates data for long‑term success. | **Very High** | Foresight, Analysis | Strategy Lead | Links tasks to goals → Architects multi‑year portfolio |
+| ethical_governance | Ethical Governance | Embeds integrity, transparency, and accountability in culture and policy. | High | Integrity, Compliance | Board Director | Follows code → Designs enterprise ethics program |
+| delegation_mastery | Delegation Mastery | Assigns authority and resources with clear expectations and support. | High | Empowerment | Team Lead | Hands off tasks → Orchestrates distributed ownership |
+| stakeholder_coalition | Stakeholder Coalition Building | Balances interests and forges alliances sustaining change. | **Very High** | Influence, Change | Program Mgr | Maps stakeholders → Mobilizes durable coalitions |
+| mentoring_coaching | Mentoring & Coaching | Facilitates growth through feedback and developmental assignments. | **Very High** | Talent Dev | People Mgr | Shares tips → Runs enterprise coaching culture |
+| conflict_resolution | Conflict Resolution | Navigates disagreements and restores productive relationships. | High | Mediation | HR BP | Flags tension → Brokers multi‑party accord |
+| inclusive_leadership | Inclusive Leadership | Creates belonging and leverages diversity with cultural intelligence. | **Very High** | DEI | Division Head | Values diversity → Integrates inclusion into strategy |
+| change_leadership | Change Leadership | Directs people‑side of transformation and builds readiness. | **Very High** | Transformation | Change Director | Explains change → Institutionalizes change competency |
+| decision_making | Decision‑Making & Judgment | Balances data, risk, and ethics for timely choices. | **Very High** | Critical Thinking | Ops Mgr | Seeks data → Sets enterprise decision frameworks |
+| innovation_leadership | Innovation Leadership | Sponsors experimentation and removes barriers to novel solutions. | High | Creativity | R&D Lead | Encourages ideas → Scales systematic innovation |
+| risk_aware_leadership | Risk‑Aware Leadership | Embeds risk‑management principles into strategy and culture. | High | Governance | CFO | Identifies risks → Runs enterprise risk culture |
+| remote_team_leadership | Remote & Hybrid Team Leadership | Builds trust, clarity, inclusion across distributed teams. | High | Virtual Collab | Remote Lead | Hosts clear meetings → Engineers scalable remote model |
+| situational_leadership | Situational Leadership | Adapts leadership style to follower readiness and context (Hersey‑Blanchard).  | **Very High** | Adaptability | Team Lead | Adjusts tone → Designs style pipelines |
+| strategic_communication | Strategic Communication | Crafts narratives that align, motivate, and drive coordinated action.  | **Very High** | Narrative, Influence | Comms Lead | Shares updates → Engineers cultural alignment |
+| influence_no_authority | Influence Without Authority | Persuades peers and stakeholders without formal power.  | **Very High** | Persuasion | Project Lead | Gains cooperation → Orchestrates cross‑boundary coalitions |
+| systems_thinking_leadership | Systems Thinking for Leaders | Sees the organization as dynamic systems; designs holistic interventions.  | **Very High** | Systems, Complexity | Systems Strategist | Spots loops → Engineers adaptive systems |
+| crisis_leadership | Crisis Leadership | Leads under extreme volatility, safeguarding mission and people.  | **Very High** | Emergency Mgmt | Crisis Mgr | Stabilizes basics → Builds antifragile culture |
 
 ---
 
@@ -35,5 +29,6 @@ Together with the original seven KSAs, Sapience now offers **13 leadership compe
 O*NET® is a registered trademark of the U.S. Department of Labor.  
 PMI® is a registered trademark of the Project Management Institute.  
 ISO® is a registered trademark of the International Organization for Standardization.  
-SAPiENCE is not endorsed by or affiliated with these organizations, SFIA®, or SHRM BASK®.
+Sapience is not endorsed by or affiliated with these organizations, SFIA®, or SHRM BASK®.
+
 
