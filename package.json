@@ -11,7 +11,9 @@
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write .",
-    "clean": "rimraf .next"
+    "clean": "rimraf .next",
+    "build:ksas": "node scripts/build_ksa_json.js",
+    "validate:ksas": "npm run build:ksas && node scripts/validate_ksas.js"
   },
   "keywords": [
     "growth",
@@ -35,9 +37,12 @@
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.4",
     "@tailwindcss/postcss": "^4.1.4",
+    "ajv": "^8.17.1",
     "autoprefixer": "^10.4.21",
     "eslint": "^8.57.1",
     "eslint-config-next": "^15.3.1",
+    "glob": "^11.0.2",
+    "gray-matter": "^4.0.3",
     "postcss": "^8.5.3",
     "rimraf": "^4.4.1",
     "tailwindcss": "^4.1.4"

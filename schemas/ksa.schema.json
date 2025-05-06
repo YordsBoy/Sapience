@@ -1,0 +1,80 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Sapience KSA",
+    "type": "object",
+    "required": [
+      "ksa_id",
+      "label",
+      "category",
+      "description",
+      "sector",
+      "horizon",
+      "proficiency_levels"
+    ],
+    "additionalProperties": [false],
+  
+    "properties": {
+    "ksa_id":             { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "label":              { "type": "string" },
+    "category":           { "type": "string" },
+    "description":        { "type": "string" },
+    "sector":             { "type": "string", "enum": [ "Agriculture_Natural_Resources",
+        "Mining_Extraction",
+        "Energy_Utilities",
+        "Construction_Infrastructure",
+        "Manufacturing",
+        "Wholesale_Retail_Trade",
+        "Transportation_Logistics",
+        "Core_IT_Cloud",
+        "AI_Data_Quantum",
+        "Media_Arts_Entertainment",
+        "Telecommunications",
+        "Finance_Insurance",
+        "Real_Estate_Property",
+        "Professional_Scientific_Services",
+        "Administrative_Support",
+        "Education_Training",
+        "Healthcare_Social_Assistance",
+        "Government_Public_Admin",
+        "Public_Safety_Security",
+        "Nonprofit_NGO",
+        "Hospitality_Tourism",
+        "Arts_Recreation",
+        "Personal_Other_Services",
+        "Skilled_Trades",
+        "Creative_Cultural_Industries",
+        "Customer_Experience_Service",
+        "Env_Energy_Advanced",
+        "Space_Economy",
+        "Biotechnology_SynBio",
+        "Gig_Platform_Economy",
+        "Blockchain_Web3",
+        "Immersive_Media_ARVR",
+        "Informal_Gray_Economy",
+        "Unpaid_Caregiving",
+        "Maker_Creative_Crafts",
+        "cross_sector" ] },
+    "horizon":            { "type": "string", "enum": ["core_2025","watch_2030","perennial","peripheral"] },
+    "proficiency_levels": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "level":     { "type": "string" },
+          "indicator": { "type": "string" }
+        },
+        "required": ["level","indicator"]
+      }
+    },
+      "cluster_tags": {
+     "type": "array",
+     "items": { "type": "string" }
+  },
+      "source_frameworks": {
+        "type": "array",
+        "items": { "type": "string" },
+        "uniqueItems": true
+      }
+    }
+  }
+  

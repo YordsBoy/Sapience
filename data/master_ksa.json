@@ -1,0 +1,289 @@
+[
+  {
+    "ksa_id": "self_motivation",
+    "label": "Self‑Motivation",
+    "category": "General",
+    "cluster_tags": [
+      "Work Ethic",
+      "Initiative"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Initiates and sustains actions without external encouragement; driven to achieve personal and organizational goals.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Completes tasks when assigned."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Seeks opportunities to improve and contribute."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Sets and pursues own performance goals."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Models proactive behavior that inspires others."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes systems and culture for intrinsic motivation and excellence."
+      }
+    ]
+  },
+  {
+    "ksa_id": "resilience",
+    "label": "Resilience",
+    "category": "General",
+    "cluster_tags": [
+      "Mental Fortitude",
+      "Stress Management"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Demonstrates the ability to recover from setbacks, adversity, or pressure.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Acknowledges stress but maintains basic functioning."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Returns to baseline performance after minor challenges."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Handles sustained pressure while meeting responsibilities."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Develops support strategies for personal and team resilience."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Implements resilience programming at the organizational level."
+      }
+    ]
+  },
+  {
+    "ksa_id": "learning_agility",
+    "label": "Learning Agility",
+    "category": "General",
+    "cluster_tags": [
+      "Continuous Learning",
+      "Cognitive Flexibility"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Quickly acquires and applies new knowledge and skills in evolving contexts.",
+    "source_frameworks": [
+      "shrm_bask:4.E.1"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes the need for learning new skills."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Seeks learning opportunities and applies them."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Adapts learning strategies to various contexts."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Teaches others and applies insights across domains."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Drives organizational learning and adaptive strategy."
+      }
+    ]
+  },
+  {
+    "ksa_id": "emotional_intelligence",
+    "label": "Emotional Intelligence",
+    "category": "General",
+    "cluster_tags": "-\"Communication\" -\"Self-Regulation\"",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Recognizes, understands, and manages one’s own emotions and the emotions of others.",
+    "source_frameworks": "-\"sfia:RLMT\"",
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Acknowledges personal feelings and observes emotions in others."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Manages responses and communicates feelings constructively."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Anticipates emotional triggers and adapts behaviour."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Navigates complex emotional dynamics in teams."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Fosters emotionally intelligent cultures and coaching models."
+      }
+    ]
+  },
+  {
+    "ksa_id": "critical_thinking",
+    "label": "Critical Thinking",
+    "category": "General",
+    "cluster_tags": [
+      "Problem Solving",
+      "Cognitive Skills"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Analyzes facts to form judgments and solve problems effectively.",
+    "source_frameworks": [
+      "onet:2.C.3"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes when an issue needs deeper thought."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Identifies patterns and asks clarifying questions."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Applies structured reasoning to evaluate alternatives."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Develops decision frameworks for complex problems."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Shapes organizational strategy using rigorous analysis and logic."
+      }
+    ]
+  },
+  {
+    "ksa_id": "collaboration",
+    "label": "Collaboration",
+    "category": "General",
+    "cluster_tags": [
+      "Teamwork",
+      "Interpersonal Skills"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Works cooperatively with others to achieve shared goals and support group efforts.",
+    "source_frameworks": [
+      "onet:2.D.1"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Participates in group discussions and activities."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Shares information and supports team members."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Coordinates tasks and resolves minor conflicts."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Facilitates collaboration across departments or disciplines."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs and leads strategic cross‑functional collaboration initiatives."
+      }
+    ]
+  },
+  {
+    "ksa_id": "adaptability",
+    "label": "Adaptability",
+    "category": "General",
+    "cluster_tags": [
+      "Emotional Intelligence",
+      "Change Management"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Adjusts effectively to changing environments, tasks, and responsibilities.",
+    "source_frameworks": [
+      "onet:2.B.4"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Notices and accepts basic changes in routine."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Adjusts to minor shifts in process or environment."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Remains effective despite unexpected change."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Guides others through transitions while maintaining stability."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Champions adaptive culture and frameworks across functions."
+      }
+    ]
+  },
+  {
+    "ksa_id": "accountability",
+    "label": "Accountability",
+    "category": "General",
+    "cluster_tags": [
+      "Ethics",
+      "Responsibility"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Takes responsibility for outcomes, actions, and decisions while upholding integrity.",
+    "source_frameworks": [
+      "shrm_bask:5.A.2"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Acknowledges errors when pointed out."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Takes ownership of assigned tasks."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Accepts consequences and learns from mistakes."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Promotes a culture of accountability in teams."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes accountability frameworks and ethical standards."
+      }
+    ]
+  }
+]
