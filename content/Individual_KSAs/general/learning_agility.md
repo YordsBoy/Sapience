@@ -9,7 +9,7 @@ sector: cross_sector
 horizon: perennial
 description: "Quickly acquires and applies new knowledge and skills in evolving contexts."
 source_frameworks:
-  - ["shrm_bask:4.E.1"
+  - "shrm_bask:4.E.1"
 proficiency_levels:
   - level: Awareness
     indicator: Recognizes the need for learning new skills.

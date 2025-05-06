@@ -11,7 +11,7 @@
       "horizon",
       "proficiency_levels"
     ],
-    "additionalProperties": [false],
+    "additionalProperties": false,
   
     "properties": {
     "ksa_id":             { "type": "string", "pattern": "^[a-z0-9_]+$" },
