@@ -1,5 +1,635 @@
 [
   {
+    "ksa_id": "vision_setting",
+    "label": "Vision‑Setting",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Strategic Leadership",
+      "Inspiration"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Crafts and communicates a compelling picture of the future, aligning people and resources toward that vision.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "States team goals and basic aspirations."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Links near‑term tasks to a clear medium‑term vision."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Articulates multi‑year vision and secures stakeholder sponsorship."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Inspires cross‑functional teams to act on a shared long‑term direction."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Orchestrates enterprise‑wide vision that shapes markets and culture."
+      }
+    ]
+  },
+  {
+    "ksa_id": "systems_thinking_for_leaders",
+    "label": "Systems Thinking for Leaders",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Complexity",
+      "Holistic Analysis"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Understands organizations as dynamic systems and designs interventions that optimize the whole.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes feedback loops and interdependencies."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Maps causal links to anticipate second‑order effects."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Designs interventions that optimise the whole system, not just parts."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Aligns structures, processes, and culture to systemic insights."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Builds adaptive, learning systems that sustain strategic advantage."
+      }
+    ]
+  },
+  {
+    "ksa_id": "strategic_thinking",
+    "label": "Strategic Thinking",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Systems Thinking",
+      "Analysis"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Synthesizes data and insights to chart long‑range direction that balances opportunity and risk.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes how routine work supports objectives."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Performs simple SWOT or PESTLE analyses."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Transforms market data into actionable plans."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Builds multi‑horizon roadmaps balancing risk and opportunity."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Shapes industry positioning through scenario planning and portfolio shifts."
+      }
+    ]
+  },
+  {
+    "ksa_id": "strategic_communication",
+    "label": "Strategic Communication",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Narrative",
+      "Influence"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Crafts and delivers messages that align, motivate, and drive coordinated action.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Conveys direction with clarity and consistency."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Tailors messages to audience needs and channels."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Aligns narrative to strategy and culture."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Orchestrates multi‑channel campaigns that mobilize action."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers organizational alignment through narrative architecture and storytelling."
+      }
+    ]
+  },
+  {
+    "ksa_id": "stakeholder_coalition_building",
+    "label": "Stakeholder Coalition Building",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Negotiation",
+      "Influence"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Identifies, aligns, and mobilizes diverse stakeholders toward shared objectives.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Lists primary stakeholders and concerns."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Communicates project value to gain support."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Negotiates trade‑offs among diverse interests."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Builds multi‑party coalitions that champion change initiatives."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Orchestrates broad networks sustaining long‑term strategic alliances."
+      }
+    ]
+  },
+  {
+    "ksa_id": "situational_leadership",
+    "label": "Situational Leadership",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Flexibility",
+      "Coaching"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Adapts leadership style to follower readiness and situational demands.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Adjusts tone and guidance to follower readiness."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Selects directing/coaching/supporting/delegating style per situation."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Diagnoses development level and adapts quickly under pressure."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Coaches peers in situational‑style agility."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs leadership‑pipeline programs grounded in style flexibility."
+      }
+    ]
+  },
+  {
+    "ksa_id": "risk_aware_leadership",
+    "label": "Risk‑Aware Leadership",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Risk Management",
+      "Governance"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Integrates risk identification, mitigation, and appetite into decision‑making and strategy.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies obvious operational risks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Records and tracks project risks and mitigations."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Conducts scenario and sensitivity analyses."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Integrates risk appetite into strategic planning."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Embeds enterprise risk‑management systems and culture."
+      }
+    ]
+  },
+  {
+    "ksa_id": "remote_hybrid_team_leadership",
+    "label": "Remote & Hybrid Team Leadership",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Digital Collaboration",
+      "Engagement"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Leads distributed teams effectively, ensuring engagement, accountability, and culture cohesion.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Schedules virtual meetings with clear agendas."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses digital tools to track commitments and progress."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Establishes norms that support engagement and psychological safety."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Optimizes asynchronous workflows for diverse time zones."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers scalable remote‑work strategy integrated with culture."
+      }
+    ]
+  },
+  {
+    "ksa_id": "mentoring_coaching",
+    "label": "Mentoring & Coaching",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Learning Culture",
+      "Talent Development"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Develops others by providing feedback, guidance, and growth opportunities.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Shares knowledge informally."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Provides constructive feedback."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Sets learning goals and uses coaching questions."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Establishes structured mentoring programs and measures impact."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Builds an enterprise coaching culture aligned to strategy."
+      }
+    ]
+  },
+  {
+    "ksa_id": "innovation_leadership",
+    "label": "Innovation Leadership",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Creativity",
+      "Experimentation"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Fosters a culture where novel ideas are generated, tested, and scaled for advantage.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Encourages sharing of new ideas."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Allocates time for small experiments."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Funds pilot projects and measures learning."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Builds innovation pipelines with portfolio management."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Shapes a culture where experimentation drives strategic advantage."
+      }
+    ]
+  },
+  {
+    "ksa_id": "influence_without_authority",
+    "label": "Influence Without Authority",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Persuasion",
+      "Networking"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Motivates and secures commitment from individuals or groups over whom one has no formal control.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Gains informal cooperation on simple tasks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Builds credibility and rapport across functions."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Negotiates resources and commitment without direct power."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Mobilizes cross‑boundary coalitions for strategic initiatives."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Orchestrates enterprise change leveraging networks over hierarchy."
+      }
+    ]
+  },
+  {
+    "ksa_id": "inclusive_leadership",
+    "label": "Inclusive Leadership",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Diversity & Inclusion",
+      "Equity"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Creates an environment where all individuals feel respected, valued, and able to contribute.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Values different perspectives and avoids biased language."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Ensures all voices are heard in meetings."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Removes systemic barriers and adapts communication for diverse groups."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Champions inclusive policies and equity metrics."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Embeds inclusion into strategy, brand, and talent pipelines."
+      }
+    ]
+  },
+  {
+    "ksa_id": "ethical_governance",
+    "label": "Ethical Governance",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Integrity",
+      "Accountability"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Ensures decisions and behaviours align with legal, moral, and societal expectations.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Follows code of conduct."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Identifies ethical dilemmas and seeks guidance."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Weighs stakeholder impacts and mitigates conflicts of interest."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Champions ethical decision frameworks across teams."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers organization‑wide ethics programs and public accountability processes."
+      }
+    ]
+  },
+  {
+    "ksa_id": "delegation_mastery",
+    "label": "Delegation Mastery",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Empowerment",
+      "Talent Development"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Assigns responsibility and authority to others at the right level to build capacity and achieve results.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Hands off straightforward tasks with supervision."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Matches task complexity to capability."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Coordinates distributed ownership of deliverables."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Delegates stretch assignments to accelerate growth."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs scalable delegation systems that build capacity organization‑wide."
+      }
+    ]
+  },
+  {
+    "ksa_id": "decision_making_judgment",
+    "label": "Decision‑Making & Judgment",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Risk Management",
+      "Analysis"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Applies structured thinking and ethical reasoning to choose the best course of action.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Seeks relevant data before deciding on routine issues."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Chooses among options using defined criteria."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Balances analytical evidence with stakeholder input."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Makes high‑stakes decisions under uncertainty with transparent rationale."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Sets enterprise decision frameworks integrating risk appetite and strategy."
+      }
+    ]
+  },
+  {
+    "ksa_id": "crisis_leadership",
+    "label": "Crisis Leadership",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Resilience",
+      "Emergency Management"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Leads under extreme volatility, ambiguity, and pressure while preserving mission and people.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Stabilizes immediate safety and communication."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Implements contingency plans and allocates critical resources."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Leads teams under pressure, balancing mission and people care."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Builds antifragile cultures that learn and improve through crises."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Anticipates, prepares for, and exploits disruptions, strengthening institutional resilience."
+      }
+    ]
+  },
+  {
+    "ksa_id": "conflict_resolution",
+    "label": "Conflict Resolution",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Negotiation",
+      "Emotional Intelligence"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Navigates disagreements to arrive at constructive, sustainable solutions.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes tension and listens actively."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses neutral language to ease minor disputes."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Facilitates discussions to reach mutually acceptable solutions."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Mediates complex, high‑stakes conflicts."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs conflict‑management systems and trains mediators."
+      }
+    ]
+  },
+  {
+    "ksa_id": "change_leadership",
+    "label": "Change Leadership",
+    "category": "Leadership",
+    "cluster_tags": [
+      "Transformation",
+      "Adaptability"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Guides individuals and organizations through transitions, uncertainty, and reinvention.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Explains rationale for change initiatives."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses simple change‑management tools."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Develops change plans and monitors adoption metrics."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Leads enterprise transformations with multi‑stakeholder alignment."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes sustainable change capability embedded in culture."
+      }
+    ]
+  },
+  {
     "ksa_id": "self_motivation",
     "label": "Self‑Motivation",
     "category": "General",
