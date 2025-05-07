@@ -1,5 +1,1004 @@
 [
   {
+    "ksa_id": "sleep_hygiene",
+    "label": "Sleep Hygiene",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Health",
+      "Longevity"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Implements routines and environment for restorative sleep.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Tracks bedtime variability."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Maintains consistent sleep/wake schedule."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Optimizes environment (light, temperature)."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Uses data (wearables) to refine sleep cycles."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Advocates organization‑wide sleep‑positive practices."
+      }
+    ]
+  },
+  {
+    "ksa_id": "recovery_micro_habits",
+    "label": "Recovery Micro‑Habits",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Stress",
+      "Renewal"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Inserts short recovery actions (stretch, breath, micro‑meditation) throughout the day.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Performs occasional micro‑breaks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Schedules breaks every 90–120 minutes."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses varied micro‑recovery techniques."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Tracks recovery metrics (HRV or mood)."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs systemic micro‑recovery culture."
+      }
+    ]
+  },
+  {
+    "ksa_id": "optimism_with_realism",
+    "label": "Optimism with Realism",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Psych Capital"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Maintains positive expectancy while acknowledging constraints.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Uses encouraging self‑talk."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Balances optimism with risk assessment."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Applies realistic optimism to planning."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Coaches teams in balanced explanatory styles."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Embeds realistic‑optimism frameworks into strategy."
+      }
+    ]
+  },
+  {
+    "ksa_id": "growth_mindset",
+    "label": "Growth Mindset",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Learning"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Believes abilities can develop through effort and feedback.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Accepts the basic idea."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Embraces challenges instead of avoidance."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Seeks feedback proactively."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Turns failures into learning roadmaps."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Builds growth‑mindset culture in teams and organizations."
+      }
+    ]
+  },
+  {
+    "ksa_id": "burnout_prevention_practices",
+    "label": "Burnout Prevention Practices",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Occupational Health"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Recognizes fatigue signals and protects boundaries to sustain engagement.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Acknowledges signs of overload."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Implements weekly rest and boundary setting."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Monitors workload metrics and recovery."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Advocates workload redistribution or structural fixes."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs organization‑level burnout‑mitigation programs."
+      }
+    ]
+  },
+  {
+    "ksa_id": "social_responsibility_awareness",
+    "label": "Social Responsibility Awareness",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Sustainability",
+      "Citizenship"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Considers societal and environmental impacts of personal choices.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Acknowledges personal footprint."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Makes small lifestyle adjustments (recycling, volunteering)."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Regularly factors social impact into decisions."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Advocates for social responsibility in communities."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Integrates social‑impact metrics into ventures and policy."
+      }
+    ]
+  },
+  {
+    "ksa_id": "moral_courage",
+    "label": "Moral Courage",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Responsibility"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Acts ethically despite potential negative consequences.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Speaks up on minor issues."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Reports wrongdoing through proper channels."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Takes principled stands in difficult meetings."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Leads ethical reform efforts."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Protects whistle‑blowers and institutionalizes moral‑courage culture."
+      }
+    ]
+  },
+  {
+    "ksa_id": "integrity_alignment",
+    "label": "Integrity Alignment",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Ethics",
+      "Authenticity"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Aligns daily actions with proclaimed values.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Notices misalignments after the fact."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Avoids actions conflicting with values."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Proactively chooses value‑aligned options."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Upholds values under pressure."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Sets integrity standards and models unwavering consistency."
+      }
+    ]
+  },
+  {
+    "ksa_id": "ethical_reflection_reasoning",
+    "label": "Ethical Reflection & Reasoning",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Philosophy",
+      "Decision‑Making"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Applies ethical frameworks (utilitarian, duty, virtue) to dilemmas.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes ethical elements in decisions."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses one framework such as fairness."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Compares multiple frameworks for complex dilemmas."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Facilitates group ethical decision‑making sessions."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Develops systemic ethical‑reasoning curricula."
+      }
+    ]
+  },
+  {
+    "ksa_id": "purpose_articulation",
+    "label": "Purpose Articulation",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Purpose"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Connects daily actions to a personally meaningful mission.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "States a rough personal mission."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Links weekly goals to mission."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Evaluates opportunities through purpose lens."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Aligns career/life roadmap with mission."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Inspires others to craft and live their purpose."
+      }
+    ]
+  },
+  {
+    "ksa_id": "mastery_oriented_goal_setting",
+    "label": "Mastery‑Oriented Goal Setting",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Growth Mindset"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Sets learning goals emphasizing skill improvement over ego validation.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Sets general outcome goals."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Defines SMART mastery goals."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Tracks progress via deliberate practice metrics."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Iterates goals based on performance data and feedback."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Coaches organizations in mastery‑goal cultures."
+      }
+    ]
+  },
+  {
+    "ksa_id": "healthy_autonomy_orientation",
+    "label": "Healthy Autonomy Orientation",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Self‑Determination"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Chooses tasks and environments supporting self‑directed growth.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes need for choice."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Requests autonomy within role boundaries."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Negotiates work models that boost intrinsic motivation."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs self‑managed projects."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes autonomy‑supportive culture for teams and organizations."
+      }
+    ]
+  },
+  {
+    "ksa_id": "grit_persistence",
+    "label": "Grit & Persistence",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Resilience+"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Sustains effort over long horizons despite setbacks.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Completes short tasks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Finishes multi‑week projects."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Maintains progress on multi‑month objectives."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Recovers quickly from major setbacks; keeps vision."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads others through multi‑year missions; builds collective perseverance."
+      }
+    ]
+  },
+  {
+    "ksa_id": "personal_kanban_flow",
+    "label": "Personal Kanban Flow",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Lean",
+      "Time Management"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Visualizes and limits work‑in‑progress to manage personal throughput.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Uses basic to‑do list."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Creates a simple \"To Do / Doing / Done\" board."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Limits WIP and measures lead time."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Continuously improves flow and eliminates bottlenecks."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Coaches Kanban systems for teams and cross‑functional programs."
+      }
+    ]
+  },
+  {
+    "ksa_id": "habit_loop_design",
+    "label": "Habit Loop Design",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Behavior Design"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Engineers cue‑routine‑reward loops to automate desired behaviors.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies existing habit loops."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Creates simple cue‑action‑reward for one habit."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Stacks habit loops to form routines."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Optimizes context triggers to maintain habits under stress."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Coaches groups in scalable habit‑installation systems."
+      }
+    ]
+  },
+  {
+    "ksa_id": "energy_management",
+    "label": "Energy Management",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Peak Performance"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Aligns tasks with natural energy rhythms and recovery practices.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Tracks energy highs and lows."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Schedules demanding tasks in high‑energy windows."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses nutrition, movement, and rest to influence energy curve."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs quarterly energy‑recharge cycles."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Creates organization‑level energy‑management policies."
+      }
+    ]
+  },
+  {
+    "ksa_id": "digital_minimalism",
+    "label": "Digital Minimalism",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Well‑being"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Curates digital tools and inputs to reduce cognitive load.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Audits notifications occasionally."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Disables nonessential alerts."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Establishes tech‑use boundaries (email windows)."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Periodically declutters apps and platforms."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Models and teaches digital‑minimalist principles organization‑wide."
+      }
+    ]
+  },
+  {
+    "ksa_id": "deep_work_practice",
+    "label": "Deep‑Work Practice",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Focus"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Eliminates distraction for cognitively intense sessions.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Tries short distraction‑free blocks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Schedules regular 60‑minute deep‑work periods."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Achieves 90–120 minute sustained focus with clear outputs."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Integrates deep‑work rhythms across teams."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Cultivates culture where deep work is protected norm."
+      }
+    ]
+  },
+  {
+    "ksa_id": "stress_recovery_protocols",
+    "label": "Stress‑Recovery Protocols",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Resilience+"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Applies evidence‑based techniques to return to baseline quickly.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes physical signs of stress."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Practices box‑breathing or short walks to reset."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Maintains daily recovery rituals (sleep, active rest)."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Teaches stress‑recovery to others; tracks HRV or analogous metrics."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Embeds multi‑layer recovery systems in organizational culture."
+      }
+    ]
+  },
+  {
+    "ksa_id": "impulse_control",
+    "label": "Impulse Control",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Self‑Discipline"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Delays gratification and modulates automatic responses.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Pauses briefly before reactive actions."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses a 10‑second rule to curb minor impulses."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Implements environmental design to reduce temptations."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Maintains composure under high stakes."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Coaches teams in impulse‑control practices during crises."
+      }
+    ]
+  },
+  {
+    "ksa_id": "emotion_regulation_strategies",
+    "label": "Emotion Regulation Strategies",
+    "category": "Self Management",
+    "cluster_tags": [
+      "EQ",
+      "Mental Health"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Reappraises, accepts, or channels emotions constructively.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies emotion after trigger."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses re‑framing to reduce intensity."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Chooses appropriate regulation method for context."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Coaches peers in adaptive regulation under stress."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs programs fostering organization‑wide emotional agility."
+      }
+    ]
+  },
+  {
+    "ksa_id": "attention_switching_focus",
+    "label": "Attention Switching & Focus",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Productivity"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Shifts and sustains focus deliberately between tasks or stimuli.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Notices distraction after it happens."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses timers to focus for 25‑minute intervals."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Schedules cognitive blocks by task type."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Maintains deep focus 90+ minutes; transitions smoothly."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Optimizes team focus architecture (communication protocols, no‑meeting zones)."
+      }
+    ]
+  },
+  {
+    "ksa_id": "sensory_mindfulness",
+    "label": "Sensory Mindfulness",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Mindfulness",
+      "Well‑being"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Maintains present‑moment attention to sensory input without judgment.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Practices 1‑minute breathing pauses."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Conducts short body‑scan meditations."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Holds mindful awareness during routine tasks."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Guides group mindfulness sessions."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Integrates mindfulness into organizational routines and policies."
+      }
+    ]
+  },
+  {
+    "ksa_id": "self_reflective_insight",
+    "label": "Self‑Reflective Insight",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Metacognition",
+      "Reflection"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Accurately perceives internal states, motives, and thought patterns.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Notices emotions and recurring thoughts."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Records reflections (journals, apps) after events."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Identifies patterns influencing behavior and decisions."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Adjusts mindsets in real time to improve outcomes."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Teaches structured self‑reflection methods to others."
+      }
+    ]
+  },
+  {
+    "ksa_id": "personal_values_clarification",
+    "label": "Personal Values Clarification",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Purpose",
+      "Ethics"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Articulates core values that guide choices and priorities.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Lists top personal values after reflection."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Ranks values and notes conflicts."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses values to choose between competing options."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Aligns long‑term goals and daily habits with values."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Facilitates values‑clarification programs for others."
+      }
+    ]
+  },
+  {
+    "ksa_id": "metacognition_skills",
+    "label": "Metacognition Skills",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Learning Agility",
+      "Innovation"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Thinks about and regulates one’s own thinking to improve learning and strategy.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Notices thinking traps after results."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Plans work using simple metacognitive questions (What? Why? How?)."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Monitors comprehension in real time; adapts strategy mid‑task."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Coaches others in metacognitive techniques and measures learning ROI."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs systemic meta‑learning routines driving adaptive organizations."
+      }
+    ]
+  },
+  {
+    "ksa_id": "identity_self_authorship",
+    "label": "Identity & Self‑Authorship",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Leadership",
+      "Social Growth"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Constructs a self‑concept not dictated by external validation.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Questions externally imposed identity scripts."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Articulates personal narrative distinct from external approval."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Makes choices aligned with self‑authored identity despite pressure."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Guides major life pivots through self‑authorship and mentors others."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Models integrated, self‑authored living that inspires systemic authenticity."
+      }
+    ]
+  },
+  {
+    "ksa_id": "emotional_labeling",
+    "label": "Emotional Labeling",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Emotional Intelligence"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Identifies and names nuanced emotional states in self.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Distinguishes basic feelings (happy, sad, angry)."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses emotion vocabulary to label personal states."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Recognizes mixed or layered emotions in real time."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Coaches peers in precise emotional articulation."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs curricula that build emotional‑granularity culture‑wide."
+      }
+    ]
+  },
+  {
+    "ksa_id": "cognitive_bias_spotting",
+    "label": "Cognitive Bias Spotting",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Critical Thinking",
+      "Ethics"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Detects personal heuristics and biases affecting judgment.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Learns definitions of common biases."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Retrospectively identifies biased decisions."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses checklists to reduce bias in current tasks."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Facilitates bias‑reduction workshops for teams."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Builds organization‑wide systems for bias auditing."
+      }
+    ]
+  },
+  {
     "ksa_id": "vision_setting",
     "label": "Vision‑Setting",
     "category": "Leadership",
