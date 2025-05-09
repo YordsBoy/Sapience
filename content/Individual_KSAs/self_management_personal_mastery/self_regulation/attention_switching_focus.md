@@ -20,3 +20,4 @@ proficiency_levels:
   - level: Expert
     indicator: "Optimizes team focus architecture (communication protocols, no‑meeting zones)."
 ---
+

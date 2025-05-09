@@ -1,5 +1,932 @@
 [
   {
+    "ksa_id": "vehicle_diagnostics",
+    "label": "Vehicle Diagnostics",
+    "category": "Technical",
+    "sector": "Transportation_Logistics",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Automotive",
+      "OBD-II",
+      "Diagnostics"
+    ],
+    "description": "Uses scan tools and test equipment to identify mechanical, electrical, and electronic faults in passenger or commercial vehicles.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Retrieves basic OBD‑II trouble codes."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Tests sensors and actuators with multimeters and scopes."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Interprets live‑data streams and service bulletins to pinpoint issues."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Diagnoses multiplex CAN‑bus and advanced driver‑assist systems."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Develops diagnostic procedures and trains technicians fleet‑wide."
+      }
+    ]
+  },
+  {
+    "ksa_id": "mechanical_systems_diagnosis",
+    "label": "Mechanical Systems Diagnosis",
+    "category": "Technical",
+    "sector": "Transportation_Logistics",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Mechanics",
+      "Troubleshooting"
+    ],
+    "description": "Troubleshoots engines, gear trains, or motors to restore optimal performance.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies simple wear or leak symptoms."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses manuals and basic tools to replace common parts."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Applies systematic fault‑tree analysis to multi‑component systems."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Performs full overhauls and calibrations for efficiency."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers performance upgrades and trains maintenance teams."
+      }
+    ]
+  },
+  {
+    "ksa_id": "ev_systems_basics",
+    "label": "Electric Vehicle Systems Basics",
+    "category": "Technical",
+    "sector": "Transportation_Logistics",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "EV",
+      "Battery",
+      "Drivetrain"
+    ],
+    "description": "Understands high‑voltage safety, battery management, and electric drivetrains in hybrid or full‑electric vehicles.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Performs visual inspections and follows HV lock‑out procedures."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses diagnostic software to read battery SOC and fault codes."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Replaces battery modules and services power electronics cooling."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Analyzes battery degradation data and optimizes charge profiles."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs EV maintenance programs and consults on fleet electrification."
+      }
+    ]
+  },
+  {
+    "ksa_id": "welding_processes",
+    "label": "Welding Processes Mastery",
+    "category": "Technical",
+    "sector": "Manufacturing",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Welding",
+      "Fabrication"
+    ],
+    "description": "Executes MIG, TIG, and Stick welding procedures across varied materials and thicknesses.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Welds basic joints on mild steel."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Selects filler metal and gas for routine jobs."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Performs multi‑pass welds on stainless and aluminum."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Customizes welding parameters for structural integrity and aesthetics."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Certifies processes, writes WPS documents, and mentors welders."
+      }
+    ]
+  },
+  {
+    "ksa_id": "preventive_maintenance_systems",
+    "label": "Preventive Maintenance Systems",
+    "category": "Technical",
+    "sector": "Manufacturing",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Maintenance",
+      "Reliability"
+    ],
+    "description": "Designs schedules, checklists, and data‑driven practices to prolong equipment lifespan and minimize downtime.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Follows manufacturer maintenance intervals."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Logs maintenance actions and parts replacements."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses condition‑based monitoring to trigger service."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Implements CMMS software and analyzes MTBF metrics."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Automates predictive maintenance using IIoT sensors and AI analytics."
+      }
+    ]
+  },
+  {
+    "ksa_id": "metal_cutting_techniques",
+    "label": "Metal Cutting Techniques",
+    "category": "Technical",
+    "sector": "Manufacturing",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Metalwork",
+      "Cutting",
+      "Fabrication"
+    ],
+    "description": "Safely and precisely cuts metals using oxy‑fuel, plasma, abrasive saws, and shears.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Performs straight cuts on mild steel with supervision."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Sets correct torch pressures and blade speeds."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Executes bevels and compound angles per drawing."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Programs CNC plasma tables for precision shapes."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Optimizes nesting and cutting parameters for material yield and quality."
+      }
+    ]
+  },
+  {
+    "ksa_id": "material_properties",
+    "label": "Material Properties Knowledge",
+    "category": "Technical",
+    "sector": "Manufacturing",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Metallurgy",
+      "Composites",
+      "Fabrication"
+    ],
+    "description": "Identifies strength, hardness, corrosion resistance, and heat‑treatment needs of metals, plastics, and composites to select optimal materials.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recalls basic tensile strengths of common steels and alloys."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Chooses material type for straightforward load scenarios."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Advises on substitutions based on cost, availability, or sustainability."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Calculates fatigue life and joins dissimilar materials securely."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers custom material specs and inspection regimes for critical applications."
+      }
+    ]
+  },
+  {
+    "ksa_id": "construction_3d_printing_basics",
+    "label": "Construction 3D Printing Basics",
+    "category": "Technical",
+    "sector": "Manufacturing",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "3D Printing",
+      "Additive",
+      "Construction"
+    ],
+    "description": "Operates and maintains large‑format additive‑manufacturing systems for building components or small structures.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Preps basic G‑code and monitors single‑wall prints."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Mixes print media and calibrates extruder settings."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Troubleshoots layer adhesion and dimensional accuracy issues."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Customizes design files for structural performance and material savings."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Integrates 3‑D printing into hybrid prefab workflows and develops QA standards."
+      }
+    ]
+  },
+  {
+    "ksa_id": "cnc_machine_operation",
+    "label": "CNC Machine Operation",
+    "category": "Technical",
+    "sector": "Manufacturing",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "CNC",
+      "Machining",
+      "Manufacturing"
+    ],
+    "description": "Operates and programs computer‑numerical‑control milling, turning, or cutting machines for precision part production.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Loads basic G‑code and monitors a single setup."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Selects tooling and sets work offsets for routine jobs."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Writes or edits CAM programs to improve cycle time."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Conducts preventative maintenance and precision alignment."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Optimizes multi‑axis workflows and trains machinists."
+      }
+    ]
+  },
+  {
+    "ksa_id": "water_conservation_systems",
+    "label": "Water Conservation Systems",
+    "category": "Technical",
+    "sector": "Env_Energy_Advanced",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "Sustainability",
+      "Plumbing",
+      "Water Efficiency"
+    ],
+    "description": "Installs and maintains systems that minimize potable‑water use, including gray‑water reuse and high‑efficiency fixtures.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Installs EPA WaterSense fixtures."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Configures rain‑barrel or cistern collection for irrigation."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Designs gray‑water plumbing loops and treatment units."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Integrates water‑reuse strategies into building management systems."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers district‑scale water‑conservation programs and sets policy."
+      }
+    ]
+  },
+  {
+    "ksa_id": "solar_system_installation",
+    "label": "Solar System Installation Basics",
+    "category": "Technical",
+    "sector": "Env_Energy_Advanced",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "Solar",
+      "Renewable",
+      "PV"
+    ],
+    "description": "Installs rooftop or ground‑mount photovoltaic arrays in compliance with electrical and structural codes.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Mounts panels and connects DC wiring under supervision."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Calculates string voltage, current, and inverter sizing."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Performs full system layout including racking, grounding, and monitoring."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Optimizes production via shading analysis and micro‑inverter selection."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs utility‑scale PV systems and trains installers."
+      }
+    ]
+  },
+  {
+    "ksa_id": "green_building_principles",
+    "label": "Green Building Principles",
+    "category": "Technical",
+    "sector": "Env_Energy_Advanced",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "Sustainability",
+      "LEED",
+      "Construction"
+    ],
+    "description": "Applies energy‑efficient and sustainable building practices to reduce environmental impact.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Chooses eco‑friendly materials where available."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Implements simple waste‑reduction and recycling on site."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Calculates insulation R‑values and daylighting requirements."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Guides projects through LEED or equivalent certification."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs net‑zero or regenerative building strategies across portfolios."
+      }
+    ]
+  },
+  {
+    "ksa_id": "client_communication_skills",
+    "label": "Client Communication Skills",
+    "category": "Technical",
+    "sector": "Customer_Experience_Service",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Customer Service",
+      "Communication",
+      "Trades"
+    ],
+    "description": "Explains technical concepts to customers, sets expectations, and ensures satisfaction during service or installation work.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Conveys basic information and answers common questions politely."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses layman’s terms to explain work scope, cost, and timing."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Handles complaints, negotiates small change orders, and documents agreements."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Builds trust that drives referrals and upsells value‑added services."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs customer‑experience standards and trains field teams to exceed them."
+      }
+    ]
+  },
+  {
+    "ksa_id": "trade_project_management",
+    "label": "Trade Project Management",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Project Management",
+      "Construction"
+    ],
+    "description": "Plans and oversees trade‑based projects including budgeting, scheduling, and workforce coordination.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Tracks task completion on simple jobs."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Creates timelines and procures materials for small projects."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Manages subcontractors, change orders, and inspections."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Controls cost, quality, and safety across multi‑phase builds."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads complex capital projects and continuous‑improvement programs."
+      }
+    ]
+  },
+  {
+    "ksa_id": "thermal_systems_basics",
+    "label": "HVAC Thermal Systems Basics",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "HVAC",
+      "Thermodynamics"
+    ],
+    "description": "Applies core principles of heating, cooling, and airflow to install and service HVAC systems.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes major HVAC components and safety procedures."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Installs split‑system units with checklist guidance."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Calculates basic heat‑load and airflow requirements."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Balances multi‑zone systems and optimizes duct design."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers load‑balanced HVAC plans for large facilities."
+      }
+    ]
+  },
+  {
+    "ksa_id": "structural_framing",
+    "label": "Structural Framing",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Carpentry",
+      "Framing"
+    ],
+    "description": "Constructs walls, roofs, and floors to meet structural specifications and building codes.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Assists in cutting and nailing dimensional lumber to plans."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Squares walls and installs basic trusses."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Reads engineered drawings and installs engineered lumber products."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Oversees multi‑story framing, bracing, and inspections."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Manages structural framing across large commercial sites and trains framing crews."
+      }
+    ]
+  },
+  {
+    "ksa_id": "smart_home_integration",
+    "label": "Smart Home Integration",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "IoT",
+      "Home Automation"
+    ],
+    "description": "Installs and configures connected thermostats, lighting, security, and voice‑control devices into cohesive residential systems.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Installs basic plug‑and‑play devices."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Configures mobile apps and simple routines."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Integrates multi‑vendor devices via hubs and protocols."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs full smart‑home ecosystems with network security best practices."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Architects scalable automation frameworks and consults on smart‑building codes."
+      }
+    ]
+  },
+  {
+    "ksa_id": "safety_system_design",
+    "label": "Safety System Design",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Safety",
+      "Engineering",
+      "Risk"
+    ],
+    "description": "Engineers processes and controls that maximize worker safety in high‑risk environments.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Follows established safety procedures and lockout‑tagout."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Conducts hazard assessments and drafts safe‑work plans."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Designs engineered safeguards and emergency response protocols."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Implements safety‑management systems and tracks KPIs."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Architects safety‑first culture and drives incident rates toward zero."
+      }
+    ]
+  },
+  {
+    "ksa_id": "refrigeration_cycle_mastery",
+    "label": "Refrigeration Cycle Mastery",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "HVAC",
+      "Refrigeration"
+    ],
+    "description": "Understands, analyzes, and optimizes vapor‑compression refrigeration cycles for commercial systems.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Names the four major components and their functions."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses pressure‑temperature charts to verify correct subcooling."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Diagnoses superheat problems and refrigerant migration."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Retrofits systems for alternative refrigerants and improved COP."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs high‑efficiency refrigeration layouts for industrial facilities."
+      }
+    ]
+  },
+  {
+    "ksa_id": "pipefitting_techniques",
+    "label": "Pipefitting Techniques",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Plumbing",
+      "HVAC",
+      "Pipefitting"
+    ],
+    "description": "Measures, cuts, and assembles piping for fluids or gas with leak‑free tolerances.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Cuts and threads pipe under supervision."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Follows schematic to route simple piping systems."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses precision instruments to ensure proper slope and alignment."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Coordinates multiple pipe trades and pressure tests systems."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs and oversees full industrial piping layouts."
+      }
+    ]
+  },
+  {
+    "ksa_id": "osha_compliance_awareness",
+    "label": "OSHA Compliance Awareness",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Safety",
+      "Regulations",
+      "OSHA"
+    ],
+    "description": "Understands and applies Occupational Safety and Health Administration (OSHA) regulations to daily construction and trade practices.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies common job‑site hazards and required PPE."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Completes Job Safety Analysis (JSA) forms and reports near‑misses."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Conducts toolbox talks and enforces housekeeping standards."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Audits projects for compliance and recommends corrective actions."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Develops enterprise safety programs and liaises with regulatory bodies."
+      }
+    ]
+  },
+  {
+    "ksa_id": "hvac_system_troubleshooting",
+    "label": "HVAC System Troubleshooting",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "HVAC",
+      "Diagnostics"
+    ],
+    "description": "Diagnoses and repairs HVAC unit faults, sensor failures, and airflow issues to restore efficiency.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Replaces filters and belts; observes common fault codes."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Uses gauges to check refrigerant pressures and adjusts charge."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Interprets sensor data to identify airflow or control issues."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Performs energy‑consumption analyses and retro‑commissioning."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs predictive‑maintenance programs and trains techs org‑wide."
+      }
+    ]
+  },
+  {
+    "ksa_id": "electrical_code_compliance",
+    "label": "Electrical Code Compliance",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Electrical",
+      "Safety",
+      "NEC"
+    ],
+    "description": "Applies national and local electrical codes when installing or servicing systems to ensure safety and legality.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Consults codebook for conductor ampacity and box fill."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Documents installations for inspector approval."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Designs branch circuits and grounding schemes to code."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Interprets complex requirements (haz‑loc, arc‑flash) and trains staff."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Writes compliance policies and liaises with AHJs on large projects."
+      }
+    ]
+  },
+  {
+    "ksa_id": "drainage_system_design",
+    "label": "Drainage System Design",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Plumbing",
+      "Civil",
+      "Drainage"
+    ],
+    "description": "Designs and maintains wastewater or storm‑water drainage systems that meet code and environmental standards.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Installs standard drains with correct slope."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Calculates pipe sizing for small systems."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Applies backflow prevention and venting requirements."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Plans municipal or campus‑scale drainage with hydraulic modeling."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Engineers urban drainage infrastructure integrating green‑stormwater solutions."
+      }
+    ]
+  },
+  {
+    "ksa_id": "blueprint_interpretation",
+    "label": "Blueprint Interpretation",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Blueprints",
+      "Schematics",
+      "Construction"
+    ],
+    "description": "Reads and accurately applies architectural, structural, or mechanical drawings to guide field work.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies basic symbols and legends on drawings."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Locates dimensions and materials to complete simple tasks."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Cross‑references multiple sheets to execute multi‑trade details."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Verifies tolerances and anticipates clashes, guiding small crews."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads complex builds directly from BIM/3‑D models, resolving conflicts in real time."
+      }
+    ]
+  },
+  {
+    "ksa_id": "basic_wiring",
+    "label": "Basic Electrical Wiring",
+    "category": "Technical",
+    "sector": "Construction_Infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Electrical",
+      "NEC",
+      "Residential"
+    ],
+    "description": "Installs, troubleshoots, and services residential or light‑commercial branch‑circuit wiring in accordance with code.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Pulls NM cable and terminates receptacles under supervision."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Sizes breakers and wire gauges for common loads."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Diagnoses open‑neutral, overload, and GFCI faults."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs sub‑panel layouts and calculates load balancing."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Oversees multi‑panel installations and mentors apprentices."
+      }
+    ]
+  },
+  {
     "ksa_id": "sleep_hygiene",
     "label": "Sleep Hygiene",
     "category": "Self Management",
@@ -307,313 +1234,6 @@
       {
         "level": "Expert",
         "indicator": "Develops systemic ethical‑reasoning curricula."
-      }
-    ]
-  },
-  {
-    "ksa_id": "purpose_articulation",
-    "label": "Purpose Articulation",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Purpose"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Connects daily actions to a personally meaningful mission.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "States a rough personal mission."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Links weekly goals to mission."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Evaluates opportunities through purpose lens."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Aligns career/life roadmap with mission."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Inspires others to craft and live their purpose."
-      }
-    ]
-  },
-  {
-    "ksa_id": "mastery_oriented_goal_setting",
-    "label": "Mastery‑Oriented Goal Setting",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Growth Mindset"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Sets learning goals emphasizing skill improvement over ego validation.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Sets general outcome goals."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Defines SMART mastery goals."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Tracks progress via deliberate practice metrics."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Iterates goals based on performance data and feedback."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Coaches organizations in mastery‑goal cultures."
-      }
-    ]
-  },
-  {
-    "ksa_id": "healthy_autonomy_orientation",
-    "label": "Healthy Autonomy Orientation",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Self‑Determination"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Chooses tasks and environments supporting self‑directed growth.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Recognizes need for choice."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Requests autonomy within role boundaries."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Negotiates work models that boost intrinsic motivation."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Designs self‑managed projects."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Establishes autonomy‑supportive culture for teams and organizations."
-      }
-    ]
-  },
-  {
-    "ksa_id": "grit_persistence",
-    "label": "Grit & Persistence",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Resilience+"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Sustains effort over long horizons despite setbacks.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Completes short tasks."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Finishes multi‑week projects."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Maintains progress on multi‑month objectives."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Recovers quickly from major setbacks; keeps vision."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Leads others through multi‑year missions; builds collective perseverance."
-      }
-    ]
-  },
-  {
-    "ksa_id": "personal_kanban_flow",
-    "label": "Personal Kanban Flow",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Lean",
-      "Time Management"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Visualizes and limits work‑in‑progress to manage personal throughput.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Uses basic to‑do list."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Creates a simple \"To Do / Doing / Done\" board."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Limits WIP and measures lead time."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Continuously improves flow and eliminates bottlenecks."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Coaches Kanban systems for teams and cross‑functional programs."
-      }
-    ]
-  },
-  {
-    "ksa_id": "habit_loop_design",
-    "label": "Habit Loop Design",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Behavior Design"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Engineers cue‑routine‑reward loops to automate desired behaviors.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Identifies existing habit loops."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Creates simple cue‑action‑reward for one habit."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Stacks habit loops to form routines."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Optimizes context triggers to maintain habits under stress."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Coaches groups in scalable habit‑installation systems."
-      }
-    ]
-  },
-  {
-    "ksa_id": "energy_management",
-    "label": "Energy Management",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Peak Performance"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Aligns tasks with natural energy rhythms and recovery practices.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Tracks energy highs and lows."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Schedules demanding tasks in high‑energy windows."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Uses nutrition, movement, and rest to influence energy curve."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Designs quarterly energy‑recharge cycles."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Creates organization‑level energy‑management policies."
-      }
-    ]
-  },
-  {
-    "ksa_id": "digital_minimalism",
-    "label": "Digital Minimalism",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Well‑being"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Curates digital tools and inputs to reduce cognitive load.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Audits notifications occasionally."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Disables nonessential alerts."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Establishes tech‑use boundaries (email windows)."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Periodically declutters apps and platforms."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Models and teaches digital‑minimalist principles organization‑wide."
-      }
-    ]
-  },
-  {
-    "ksa_id": "deep_work_practice",
-    "label": "Deep‑Work Practice",
-    "category": "Self Management",
-    "cluster_tags": [
-      "Focus"
-    ],
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "description": "Eliminates distraction for cognitively intense sessions.",
-    "source_frameworks": [],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Tries short distraction‑free blocks."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Schedules regular 60‑minute deep‑work periods."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Achieves 90–120 minute sustained focus with clear outputs."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Integrates deep‑work rhythms across teams."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Cultivates culture where deep work is protected norm."
       }
     ]
   },
@@ -995,6 +1615,313 @@
       {
         "level": "Expert",
         "indicator": "Builds organization‑wide systems for bias auditing."
+      }
+    ]
+  },
+  {
+    "ksa_id": "purpose_articulation",
+    "label": "Purpose Articulation",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Purpose"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Connects daily actions to a personally meaningful mission.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "States a rough personal mission."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Links weekly goals to mission."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Evaluates opportunities through purpose lens."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Aligns career/life roadmap with mission."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Inspires others to craft and live their purpose."
+      }
+    ]
+  },
+  {
+    "ksa_id": "mastery_oriented_goal_setting",
+    "label": "Mastery‑Oriented Goal Setting",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Growth Mindset"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Sets learning goals emphasizing skill improvement over ego validation.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Sets general outcome goals."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Defines SMART mastery goals."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Tracks progress via deliberate practice metrics."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Iterates goals based on performance data and feedback."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Coaches organizations in mastery‑goal cultures."
+      }
+    ]
+  },
+  {
+    "ksa_id": "healthy_autonomy_orientation",
+    "label": "Healthy Autonomy Orientation",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Self‑Determination"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Chooses tasks and environments supporting self‑directed growth.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recognizes need for choice."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Requests autonomy within role boundaries."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Negotiates work models that boost intrinsic motivation."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs self‑managed projects."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes autonomy‑supportive culture for teams and organizations."
+      }
+    ]
+  },
+  {
+    "ksa_id": "grit_persistence",
+    "label": "Grit & Persistence",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Resilience+"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Sustains effort over long horizons despite setbacks.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Completes short tasks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Finishes multi‑week projects."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Maintains progress on multi‑month objectives."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Recovers quickly from major setbacks; keeps vision."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads others through multi‑year missions; builds collective perseverance."
+      }
+    ]
+  },
+  {
+    "ksa_id": "personal_kanban_flow",
+    "label": "Personal Kanban Flow",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Lean",
+      "Time Management"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Visualizes and limits work‑in‑progress to manage personal throughput.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Uses basic to‑do list."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Creates a simple \"To Do / Doing / Done\" board."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Limits WIP and measures lead time."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Continuously improves flow and eliminates bottlenecks."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Coaches Kanban systems for teams and cross‑functional programs."
+      }
+    ]
+  },
+  {
+    "ksa_id": "habit_loop_design",
+    "label": "Habit Loop Design",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Behavior Design"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Engineers cue‑routine‑reward loops to automate desired behaviors.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies existing habit loops."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Creates simple cue‑action‑reward for one habit."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Stacks habit loops to form routines."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Optimizes context triggers to maintain habits under stress."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Coaches groups in scalable habit‑installation systems."
+      }
+    ]
+  },
+  {
+    "ksa_id": "energy_management",
+    "label": "Energy Management",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Peak Performance"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Aligns tasks with natural energy rhythms and recovery practices.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Tracks energy highs and lows."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Schedules demanding tasks in high‑energy windows."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses nutrition, movement, and rest to influence energy curve."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs quarterly energy‑recharge cycles."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Creates organization‑level energy‑management policies."
+      }
+    ]
+  },
+  {
+    "ksa_id": "digital_minimalism",
+    "label": "Digital Minimalism",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Well‑being"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Curates digital tools and inputs to reduce cognitive load.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Audits notifications occasionally."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Disables nonessential alerts."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Establishes tech‑use boundaries (email windows)."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Periodically declutters apps and platforms."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Models and teaches digital‑minimalist principles organization‑wide."
+      }
+    ]
+  },
+  {
+    "ksa_id": "deep_work_practice",
+    "label": "Deep‑Work Practice",
+    "category": "Self Management",
+    "cluster_tags": [
+      "Focus"
+    ],
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "description": "Eliminates distraction for cognitively intense sessions.",
+    "source_frameworks": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Tries short distraction‑free blocks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Schedules regular 60‑minute deep‑work periods."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Achieves 90–120 minute sustained focus with clear outputs."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Integrates deep‑work rhythms across teams."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Cultivates culture where deep work is protected norm."
       }
     ]
   },
