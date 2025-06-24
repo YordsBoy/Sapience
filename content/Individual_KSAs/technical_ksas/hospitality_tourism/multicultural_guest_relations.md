@@ -1,0 +1,21 @@
+---
+ksa_id: multicultural_guest_relations
+label: Multicultural Guest Relations
+category: Technical
+sector: hospitality_tourism
+horizon: core_2025
+cluster_tags: ["Cultural-Etiquette", "Language-Support", "Inclusive-Service"]
+description: Delivers culturally responsive service, anticipates diverse guest needs, and resolves cross-cultural misunderstandings to elevate global guest satisfaction.
+source_frameworks: ["unwto:CulturalTourism", "dei:ServiceInclusion"]
+proficiency_levels:
+  - level: Awareness
+    indicator: Uses basic cultural greetings and avoids biased language.
+  - level: Basic
+    indicator: Provides language-support resources and adapts menu / amenity preferences.
+  - level: Intermediate
+    indicator: Trains staff on cultural protocols, manages special requests, and mitigates conflicts.
+  - level: Advanced
+    indicator: Designs inclusive service standards, analyzes guest-segment feedback, and collaborates with multicultural marketing.
+  - level: Expert
+    indicator: Shapes enterprise diversity-service strategy, partners with tourism boards, and publishes inclusion guidelines.
+---
