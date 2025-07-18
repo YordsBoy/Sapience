@@ -1,21 +1,21 @@
 ---
 ksa_id: agri_supply_chain_logistics
-label: Agricultural Supply-Chain & Logistics
+label: Agri-Supply-Chain Logistics
 category: Technical
 sector: agriculture_natural_resources
 horizon: core_2025
 cluster_tags: ["Post-Harvest", "Distribution"]
-description: Plans, coordinates, and monitors storage, transport, and market delivery of agricultural products to minimize losses and maximize value.
-source_frameworks: ["sfia:SCMG", "onet:13-1081.00"]
+description: Manages storage, handling, and transportation of agricultural products to maintain quality, reduce losses, and meet market requirements.
+source_frameworks: ["gs1:Traceability", "apics:CLTD"]
 proficiency_levels:
   - level: Awareness
-    indicator: Follows basic handling and inventory procedures.
+    indicator: Follows basic storage and loading instructions.
   - level: Basic
-    indicator: Schedules transport, maintains cold-chain protocols, and completes documentation.
+    indicator: Records inventory, schedules shipments, and checks temperature/humidity controls.
   - level: Intermediate
-    indicator: Analyzes logistics KPIs, negotiates with carriers, and implements traceability.
+    indicator: Applies traceability standards, optimizes routes, and negotiates carrier contracts.
   - level: Advanced
-    indicator: Designs integrated supply-chain networks, optimizes costs, and manages risk.
+    indicator: Integrates cold-chain technology, forecasts demand, and mitigates logistics risks.
   - level: Expert
-    indicator: Leads global ag-logistics strategy, blockchain traceability, and sustainability reporting.
+    indicator: Designs end-to-end supply-chain strategies, aligns with ESG goals, and analyzes global market dynamics.
 ---
