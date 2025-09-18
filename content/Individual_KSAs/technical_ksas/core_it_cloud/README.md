@@ -52,3 +52,5 @@ cluster_tags: ["K8s","SRE"]
   - BLS Computer & IT Outlook 2024 (15 % growth) 
   - CNCF Annual Survey 2024 – multi‑cluster adoption trends
   - FinOps Foundation Cost Optimisation framework
+  - KubeEdge. *Project Documentation*.
+  - Google Cloud. *Security Foundations Guide 2025*.

@@ -10,6 +10,17 @@ UNESCO values the creative economy at **≈ US $2.3 trillion ( 3.1 %�
 | Immersive_Storytelling 
 | Arts_Entrepreneurship 
 | Audience_Insight_Analytics |
+| Heritage | Heritage Conservation Techniques |
+| Creative_Design | Artisan Craft Mastery (planned) |
+| Cultural_Economy | Cultural Entrepreneurship (planned) |
 
 ## References
-  - UNESCO Creative Economy Outlook 2023 :contentReference[oaicite:11]{index=11}; WIPO copyright treaties; Epic Games Unreal Engine XR guides.
+  - UNESCO Creative Economy Outlook 2023
+  - WIPO copyright treaties
+  - Epic Games Unreal Engine XR guides
+  - ICOM. *International Guidelines for Museum Object Conservation
+  - UNESCO. *World Heritage Capacity‑Building Strategy
+  - UNESCO. *Artisan Craft Economy Report*.
+  - OECD (2024). *Cultural Entrepreneurship Study*.
+  - CLO Virtual Fashion. *CLO 3D Designer Certification*.
+  - PMI. *Agile Practice Guide*.

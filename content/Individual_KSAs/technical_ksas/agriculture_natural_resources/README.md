@@ -8,11 +8,12 @@ Automation, climate‑smart practices, and regenerative models therefore shape t
 
 | ID | Sub‑domain | Illustrative KSAs |
 |----|------------|-------------------|
-| Precision_Farming | GNSS Machine Guidance · Variable‑Rate Application · Drone Crop‑Scouting |
-| Climate_Smart_Ag | GHG Accounting · Drought‑Resilient Cultivar Selection · Soil‑Carbon Practices |
-| Natural_Resource_Management | Watershed Analysis · Wildlife Habitat Planning · Forestry Operations |
-| Agri_Supply_Chain | Post‑Harvest Handling · Cold‑Chain Logistics · Traceability Tech |
-| Extension_Education | Farmer Needs Assessment · Participatory Training · Digital Advisory Apps |
+| Precision_Farming | GNSS Machine Guidance, Variable‑Rate Application, Drone Crop‑Scouting |
+| Climate_Smart_Ag | GHG Accounting, Drought‑Resilient Cultivar Selection, Soil‑Carbon Practices |
+| Natural_Resource_Management | Watershed Analysis, Wildlife Habitat Planning, Forestry Operations |
+| Agri_Supply_Chain | Post‑Harvest Handling, Cold‑Chain Logistics, Traceability Tech |
+| Extension_Education | Farmer Needs Assessment, Participatory Training, Digital Advisory Apps |
+| Agri_Robotics| design and upkeep of in‑field robotic platforms |
 
 *(Rename / split as your SMEs refine.)*
 
@@ -46,18 +47,18 @@ proficiency_levels:
 cluster_tags: ["Remote Sensing","Sustainability"]
 ---
 ## Authoritative references
-| Source                                                                          | Relevance                                                    |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **USDA–NIFA Employment Projections 2025‑2030** ([NIFA Reporting Portal][1])     | Quantifies degree demand & job growth                        |
-| **FAO Climate‑Smart Agriculture Sourcebook** ([FAOHome][2])                     | Competency basis for CSA KSAs                                |
-| **World Bank Climate‑Smart Agriculture Brief** ([World Bank][3])                | Global skills & investment gaps                              |
-| **ILO Rural Youth Skills Reports** ([International Labour Organization][4])     | Highlights training needs in informal / smallholder contexts |
-| **ESCO “Agriculture, Forestry & Fishery” skills taxonomy** ([ESCo][5])          | Open skills framework for mapping                            |
-| **FAO Extension Training Guides** ([Open Knowledge FAO][6])                     | Standards for advisory/extension KSAs                        |
-| **USDA Agricultural Baseline to 2030** ([USDA][7])                              | Macro‑trends shaping commodity & resource needs              |
-| **AgritechTomorrow labour‑shortage article (2025)** ([agritechtomorrow.com][8]) | Illustrates automation drivers                               |
-| **Fresh Consulting Ag‑Robotics Market Outlook** ([Fresh Consulting][9])         | Market growth for precision‑ag tech talent                   |
-| **AP News robotics & farm‑labour feature** ([AP News][10])                      | Worker‑impact context & ethical considerations               |
+  - CREO (2025). *Agricultural Robotics Landscape*.
+  - Fiveable Study Guide on precision‑farming swarms.
+  - USDA–NIFA Employment Projections 2025‑2030** ([NIFA Reporting Portal][1]) | Quantifies degree demand & job growth                        |
+  - FAO Climate‑Smart Agriculture Sourcebook** ([FAOHome][2]) | Competency basis for CSA KSAs                                |
+  - World Bank Climate‑Smart Agriculture Brief** ([World Bank][3]) | Global skills & investment gaps                              |
+  - ILO Rural Youth Skills Reports** ([International Labour Organization][4]) | Highlights training needs in informal / smallholder contexts |
+  - ESCO “Agriculture, Forestry & Fishery” skills taxonomy** ([ESCo][5]) | Open skills framework for mapping                            |
+  - FAO Extension Training Guides** ([Open Knowledge FAO][6]) | Standards for advisory/extension KSAs                        |
+  - USDA Agricultural Baseline to 2030** ([USDA][7]) | Macro‑trends shaping commodity & resource needs              |
+  - AgritechTomorrow labour‑shortage article (2025)** ([agritechtomorrow.com][8]) | Illustrates automation drivers                               |
+  - Fresh Consulting Ag‑Robotics Market Outlook** ([Fresh Consulting][9]) | Market growth for precision‑ag tech talent                   |
+  - AP News robotics & farm‑labour feature** ([AP News][10]) | Worker‑impact context & ethical considerations               |
 
 [1]: https://portal.nifa.usda.gov/web/crisprojectpages/1032289-employment-opportunities-for-college-graduates-in-food-agriculture-renewable-natural-resources-and-the-environment-united-states-2025--2030.html?utm_source=chatgpt.com "Employment Opportunities for College Graduates in Food ..."
 [2]: https://www.fao.org/3/i3325e/i3325e.pdf?utm_source=chatgpt.com "[PDF] Climate-Smart Agriculture Sourcebook"

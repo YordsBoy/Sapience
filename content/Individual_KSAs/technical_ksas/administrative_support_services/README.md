@@ -5,11 +5,13 @@ Office and administrative roles remain one of the largest employment groups worl
 ## Core sub‑domains (scaffold v1)
 | ID | Sub‑domain | Illustrative KSAs |
 |----|------------|-------------------|
-| Office_Technology | Spreadsheet Scripting, E‑signature Workflow, Low‑Code Automation |
+| Office_Technology | Spreadsheet Scripting, E‑signature Workflow, Low‑Code Automation, Document processing, calendaring, video‑conferencing |
 | Records_Governance | File Taxonomy, Retention Compliance, Secure Disposal |
 | Meeting_Operations | Virtual Facilitation, Minute‑Taking, Calendar Diplomacy |
 | Customer_Liaison | Phone Etiquette, Live‑Chat Support, Escalation Logic |
 | Business_Writing | Email Clarity, Executive Summaries, Style‑Guide Conformity |
+| Records_Governance | Records & knowledge management, compliance |
+
 
 ## File conventions
 * Place KSA markdown in this folder or nested sub‑folders  
@@ -36,7 +38,7 @@ cluster_tags: ["Collaboration","Digital Productivity"]
 
 ## Authoritative references
   - U.S. BLS Office & Administrative Support taxonomy 
-
   - ESCO “Administrative and Commercial Managers” cluster
-
   - ISO 15489 Records Management; GDPR Article 30 (records of processing)
+  - O*NET® – 13‑1111.00 *Records Managers* (adapted, CC BY 4.0)
+  - ISO 15489‑1:2016 *Information and documentation — Records management* (conceptual only)

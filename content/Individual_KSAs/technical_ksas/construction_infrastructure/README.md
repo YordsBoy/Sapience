@@ -31,11 +31,10 @@ cluster_tags: ["Digital Twin","Collaboration"]
 ---
 ## References
   - ISO 19650 BIM information‑management standard
-
   - WEF Infrastructure 4.0 talent report 
-
   - McKinsey Global Institute construction productivity study
-
   - ILO construction OSH code
-
   - EN 15978 Whole‑Life Carbon
+  - McKinsey (2025). *The Future of Modular Construction*([reports.weforum.org].
+  - ISO 23247‑1 (2021). *Digital Twin Framework for Manufacturing*.
+  - USGBC (2025). *LEED v5 Reference Guide*.

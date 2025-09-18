@@ -27,5 +27,11 @@ horizon: core_2025
   - FATF Travel‑Rule guidance
   - Ethereum Foundation specs
   - CoinTelegraph workforce insights 
-  
+  - OpenZeppelin (2025). *Smart‑Contract Security Handbook
+  - EIP‑1559 Working Group. *Audit Checklist v1.2
+  - WEF (2025). *Asset Tokenization in Financial Markets*.
+  - Chainalysis (2024). *DeFi Risk Report*.
+  - LegalNodes (2025). *DAO Governance Playbook*.
+  - OpenSea. *Developer Documentation*.
+  - Ethereum Foundation. *Rollup Guidelines*.
 ---
