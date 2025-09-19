@@ -1,6 +1,6 @@
 # 💼 Customer Experience & Service
 
-BLS still projects **≈ 365 000 annual openings** for customer‑service roles despite 5 % net decline :contentReference[oaicite:12]{index=12}. AI chatbots, omni‑channel orchestration, and CX analytics redefine KSAs.
+BLS still projects **≈ 365 000 annual openings** for customer‑service roles despite 5 % net decline. 
 
 ## Sub‑domains
 | OmniChannel_Support 
@@ -16,5 +16,9 @@ BLS still projects **≈ 365 000 annual openings** for customer‑service ro
  |
 
 ## References 
-  - U.S. BLS OOH CSR outlook :contentReference[oaicite:13]{index=13}
+  - U.S. BLS OOH CSR outlook 
   - Forrester CX Index; ISO 18295 (Contact centres)
+  -  CXPA. *CCXP Exam Blueprint*
+  - Forrester. *CX Index Methodology*
+  - Nielsen Norman Group. *Service Design Guidelines*
+  - Gartner. *Magic Quadrant for Contact Centre as a Service 2025*

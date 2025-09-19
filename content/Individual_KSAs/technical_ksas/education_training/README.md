@@ -24,3 +24,8 @@ horizon: emerging
 ## References
   - Grand View Ed‑Tech Market 2024 
   - HolonIQ Global Education Outlook 2025 
+  - UNESCO. *ICT Competency Framework for Teachers v4*.
+  - Society for Learning Analytics Research (SoLAR). *Practitioner Guide*.
+  - European Commission. *Key Competences Framework*.
+  - IMS Global. *Competency Framework*.
+  - PBIS.org. *Positive Behavioural Interventions and Supports*.
