@@ -19,4 +19,10 @@ horizon: emerging
 
 ## References
   - IRENA Renewable‑Energy Jobs Review 2024 
-  - IPCC AR6 Mitigation report; IEC 61850‑90‑8 V2G.
+  - IPCC AR6 Mitigation report
+  - IEC 61850‑90‑8 V2G
+  - Global CCS Institute. *CCS Operations Manual
+  - ISO 27914:2017. *CO₂ Geological Storage
+  - ISO 14044:2020. *Life‑Cycle Assessment Requirements & Guidelines
+  - GHG Protocol. *Product Life‑Cycle Accounting & Reporting Standard
+  - IRENA (2025). *Green Hydrogen Supply Chain Report

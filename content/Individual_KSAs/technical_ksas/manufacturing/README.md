@@ -4,7 +4,7 @@
 ```markdown
 # 🏭 Manufacturing
 
-Robotics installed base reached **4.3 million units in 2024** (+10 %) :contentReference[oaicite:2]{index=2}. Advanced manufacturing therefore pivots to automation, cyber‑physical systems, and green production.
+Robotics installed base reached **4.3 million units in 2024** (+10 %). Advanced manufacturing therefore pivots to automation, cyber‑physical systems, and green production.
 
 ## Sub‑domains
 | ID | Sub‑domain | Sample KSAs |
@@ -39,9 +39,17 @@ proficiency_levels:
 cluster_tags: ["IIoT","OEE","OPCUA"]
 
 ## References
-  - IFR World Robotics Report 2024** :contentReference[oaicite:3]{index=3}  
-  - OECD Digital Transformation in Manufacturing** :contentReference[oaicite:4]{index=4}  
+  - IFR World Robotics Report 2024
+  - OECD Digital Transformation in Manufacturing
   - ISO 9001, 14001** quality & environment  
-  - WEF Resilient Manufacturing value chains**
-
+  - WEF Resilient Manufacturing value chains
+  - SME. *Lean Certification Body of Knowledge
+  - Toyota. *Toyota Production System Principles
+  - NAM Manufacturing Leadership Council. *Lean Playbook*
+  - NIST SP 1800‑32. *Securing the Industrial Internet of Things*
+  - IEC 62890. *Industrial‑Process Life‑Cycle Management*
+  - IEEE 2413‑2019. *IoT Reference Architecture*
+  - ISO/ASTM 52900:2021. *Additive Manufacturing Terminology*
+  - ISO/ASTM 52910:2018. *AM Design Guidelines*
+  - UL. *AMMET 3.0 Quality Framework*
 ---

@@ -14,8 +14,14 @@ WHO warns of an **11 million global health‑worker shortfall by 2030** :c
 
 ## References
   - WHO Global Health Workforce Strategy** :contentReference[oaicite:9]{index=9}  
-  - FHIR interoperability standard**  
-  - OECD Health at a Glance**
+  - FHIR interoperability standard* 
+  - OECD Health at a Glance*
   - WHO Health‑workforce data 
   - FT migration‑of‑health‑workers report
+  - WHO (2024). *Roadmap for Strengthening the Public Health and Emergency Workforce*
+  - Council on Linkages. *Core Competencies for Public Health Professionals*
+  - HL7. *FHIR Release 5 Standard*
+  - ONC. *21st Century Cures Act Final Rule*
+  - CMS. *MIPS Quality Measures*
+  - NQF. *Measure Evaluation Framework*
 ...

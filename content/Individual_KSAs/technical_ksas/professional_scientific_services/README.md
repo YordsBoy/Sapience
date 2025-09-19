@@ -37,3 +37,16 @@ cluster_tags: ["Innovation","R&D"]
 ## References
   - OECD Employment Outlook 2024 
   - NASA TRL definitions; ISO 56002 Innovation management
+  - ISO 20700:2017. *Management Consultancy Services Guidelines*
+  - IMC USA. *Code of Ethics*
+  - ICMCI. *CMC Competency Framework*
+  - OECD. *Frascati Manual*
+  - COPE. *Core Practices*
+  - ANSI/EIA‑748‑D. *Earned Value Management*
+  - PMI. *Practice Standard for EVM*
+  - INFORMS. *CAP Body of Knowledge*
+  - Prosci. *ADKAR Model*
+  - ACMP. *Standard for Change Management*
+  - ICMJE. *Recommendations*
+  - WIPO. *IP Management Toolkit*
+  - ISO 56005:2020. *Innovation Management — IP Management*

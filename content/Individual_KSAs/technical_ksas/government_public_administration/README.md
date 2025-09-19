@@ -4,7 +4,7 @@
 ```markdown
 # 🏛 Government & Public Administration
 
-UN Public Service Forum emphasises the need for **digital‑first, data‑driven** public servants to achieve SDGs :contentReference[oaicite:9]{index=9}.
+UN Public Service Forum emphasises the need for **digital‑first, data‑driven** public servants to achieve SDGs.
 
 ## Sub‑domains & illustrative KSAs
 | Digital_Public_Services | *X‑Road Interoperability*, *eID Implementation* |
@@ -24,3 +24,10 @@ horizon: core_2025
 ## References
   - UN DESA Young Public Servants concept note 2024 
   - OECD Digital Government Policy Framework
+  - OPM. *Executive Core Qualifications Framework*
+  - Federal CIO Council. *Digital Services Playbook*
+  - Evidence Act of 2018
+  - OMB Circular A‑11, Section 290 (Data‑Driven Policy)
+  - GAO. *Program Evaluation Guide*
+  - FEMA. *Continuity Guidance Circular*
+  - ISO 22301:2019. *Business Continuity Management Systems*

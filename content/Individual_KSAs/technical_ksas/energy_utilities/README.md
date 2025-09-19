@@ -39,10 +39,12 @@ cluster_tags: ["DER","GridCode"]
 ---
 
 ## References
-  - IEA Global Energy Review 2025** :contentReference[oaicite:6]{index=6}  
-  - UK Energy Skills Passport initiative** :contentReference[oaicite:7]{index=7}  
+  - IEA Global Energy Review 2025 
+  - UK Energy Skills Passport initiative
   - OSHA / NEBOSH energy safety codes
   - IEA World Energy Employment 2024 
   - International Energy Agency
   - Reuters energy‑skills gap analysis 
+  - U.S. DOE. *Hydrogen Safety Best Practices*.
+  - NERC. *Critical Infrastructure Protection Standards*.
 ---

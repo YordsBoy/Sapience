@@ -21,3 +21,9 @@ Travel & Tourism generated **US $10.9 trillion GDP in 2024 and 357 milli
   - WTTC Economic Impact 2024 :contentReference[oaicite:7]{index=7}  
   - UNWTO Sustainable Tourism Toolkit  
   - STR global hotel performance indices
+  - AHLEI. *Guest Service Gold Curriculum*
+  - Solomon, M. (2023). *The Heart of Hospitality*
+  - UNWTO. *Sustainable Tourism Guidelines*
+  - Green Key Global. *Eco‑Rating Program*
+  - Cornell University. *Hospitality Revenue Management Framework*
+  - STR. *Hotel Data Analytics*

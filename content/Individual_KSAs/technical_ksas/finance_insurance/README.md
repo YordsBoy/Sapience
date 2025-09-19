@@ -19,5 +19,10 @@ Fintech, open‑banking, and climate‑risk modelling reshape core banking & ins
   - FATF AML skills guides
   - BLS Employment Situation April 2025 
   - BIS Open‑Banking report; IFRS 17 transition guidance
+  - IFRS Foundation. *ISSB Standards S1 & S2*
+  - BIS. *Basel III Framework*
+  - FATF. *Guidance for Virtual‑Asset Service Providers*
+  - IAIS. *FinTech Developments in the Insurance Sector*
+  - OECD. *Digital Financial Literacy Framework*
 
 ...

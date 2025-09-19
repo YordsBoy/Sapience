@@ -36,11 +36,16 @@ cluster_tags: ["Ground Segment","RF Engineering"]
 ---
 ## References
   - McKinsey Space‑Economy $1.8 T forecast (2023) 
-
-
   - Space Skills Alliance – Space Skills Roadmap 2030 
-
-
   - ISO 22684 Ground systems & operations
-
   - ESA/JAXA orbital‑debris mitigation guidelines
+  - NASA APPEL. *Mission Operations Curriculum*
+  - CCSDS. *Space Data Link Protocols*
+  - NASA SE Handbook Rev3
+  - ECSS‑E‑ST‑10C. *Systems Engineering General*
+  - ITU. *Radio Regulations 2024*
+  - UNOOSA. *Space Law Treaties*
+  - FAA 14 CFR Part 450. *Launch & Reentry Licensing*
+  - ISO 24113:2021. *Space Debris Mitigation*
+  - NIST SP 800‑160. *Systems Security Engineering*
+  - NASA HIDH Rev2. *Human Integration Design Handbook*

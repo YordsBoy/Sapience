@@ -25,4 +25,10 @@ horizon: emerging
   - IFPI Global Music Report**  
   - PWC Global Entertainment & Media Outlook**
   - UNCTAD Creative Economy Outlook 2024
+  - PGA. *Transmedia Producer Credit Guidelines*
+  - Jenkins, H. (2006). *Convergence Culture*
+  - AES. *TD1008 Guidelines for Production Loudness of Streaming and On‑Demand Video Content*
+  - Dolby. *Atmos Home Entertainment Specifications*.
+  - Autodesk. *Maya Certified Professional – 3D Animation*.
+  - Animation Guild. *Best Practices for Rigging & Animation*
 ...

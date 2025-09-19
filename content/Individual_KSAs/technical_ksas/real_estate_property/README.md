@@ -4,7 +4,7 @@
 ```markdown
 # 🏘 Real Estate & Property Services
 
-Real‑estate services support **≈ 2 million U.S. jobs** spanning brokerage, property‑tech, and facilities management :contentReference[oaicite:8]{index=8}.
+Real‑estate services support **≈ 2 million U.S. jobs** spanning brokerage, property‑tech, and facilities management.
 
 ## Sub‑domains & illustrative KSAs
 | PropTech | *Digital Twin BIM*, *IoT Asset Monitoring* |
@@ -16,3 +16,15 @@ Real‑estate services support **≈ 2 million U.S. jobs** spanning brokerag
 *YAML template identical—set sector=Real_Estate_Property.*
 
 ## References
+- IREM. *CPM Curriculum*
+- GRESB. *Real Estate Assessment*
+- NAR. *Code of Ethics*
+- RESPA. *Real Estate Settlement Procedures Act*
+- USPAP 2024‑25 Edition
+- Appraisal Institute. *MAI Curriculum*
+- BOMA. *Standard Methods of Measurement*
+- ASHRAE Standard 100
+- ULI. *Emerging Trends in Real Estate*
+- CoStar. *Market Analytics Guide*
+- ARGUS. *Enterprise Modelling Standards*
+- CCIM. *Financial Analysis Curriculum*

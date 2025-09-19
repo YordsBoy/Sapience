@@ -12,3 +12,9 @@ Etsy sellers generated **US $10.9 billion GMS in 2024** :contentReferenc
 ## References
   - Etsy 10‑K 2024 :contentReference[oaicite:16]{index=16}
   - MakerCity economic impact studies
+  - ISO/ASTM 52900:2021. *Additive Manufacturing — General Principles*
+  - UL. *Blue Card Program for AM Safety*
+  - Raspberry Pi Foundation. *Digital Making Curriculum*
+  - NISTIR 8367. *Foundational Cybersecurity Practices for IoT Manufacturers*
+  - UNESCO. *TVET Craft Entrepreneurship Toolkit*
+  - Etsy. *Seller Handbook*

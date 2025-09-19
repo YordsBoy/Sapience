@@ -21,5 +21,12 @@ sub_domain: XR_Content_Design
 horizon: emerging
 
 ### References
-  - IDC AR/VR market tracker Q1 2025 
+  - IDC AR/VR market tracker Q1 2025
+  - Khronos Group. *OpenXR Specification*.
+  - Unity. *XR Production Guidelines*.
+  - Epic Games. *Unreal VR Optimization Guide*.
+  - XRA. *XR Interaction Design Guidelines*.
+  - Apple. *visionOS Human Interface Guidelines*.
+  - IEEE P2048.1. *XR Safety & Ethics*.
+  - ISO/IEC 23844:2021. *Ergonomics of XR Head‑Mounted Displays*.
 ...
