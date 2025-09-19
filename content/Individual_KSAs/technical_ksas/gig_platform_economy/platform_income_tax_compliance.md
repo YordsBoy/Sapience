@@ -1,0 +1,21 @@
+---
+ksa_id: platform_income_tax_compliance
+label: Platform Income & Tax Compliance
+category: Technical
+sector: Gig_Platform_Economy
+horizon: core_2025
+cluster_tags: ["Tax Compliance","Platform Work","Reporting"]
+description: Tracking, reporting, and remitting income and self‑employment taxes for multi‑platform earnings, utilising OECD Model Reporting Rules for Digital Platforms (MRDP) and jurisdiction‑specific requirements.
+source_frameworks: ["Organisation for Economic Co‑operation and Development (OECD) MRDP 2023","IRS Publication 334 Tax Guide for Small Business"]
+proficiency_levels:
+  - level: Awareness
+    indicator: Records gross earnings; identifies deductible business expenses; recognises tax‑reporting deadlines.
+  - level: Basic
+    indicator: Generates income statements from multiple platforms; calculates quarterly estimated taxes; files Form 1099‑K or equivalents.
+  - level: Intermediate
+    indicator: Utilises accounting software integrations; applies home‑office deductions; reconciles cross‑border earnings.
+  - level: Advanced
+    indicator: Advises peers on tax optimisation; ensures compliance with OECD MRDP data‑sharing; mitigates double‑taxation risks.
+  - level: Expert
+    indicator: Develops platform tax‑reporting tools; consults policymakers on gig‑economy taxation; publishes guidance on evolving regulations.
+---
