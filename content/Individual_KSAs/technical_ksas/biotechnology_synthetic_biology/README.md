@@ -1,6 +1,6 @@
 # 🧬 Biotechnology & Synthetic Biology
 
-The U.S. bioeconomy alone supports **≈ 430 000 direct jobs** and could add tens of billions in annual output by 2030 :contentReference[oaicite:4]{index=4}. CRISPR, cell‑free biomanufacturing, and precision fermentation are expanding career pathways.
+The U.S. bioeconomy alone supports **≈ 430 000 direct jobs** and could add tens of billions in annual output by 2030. CRISPR, cell‑free biomanufacturing, and precision fermentation are expanding career pathways.
 
 ## Sub‑domains
 | SynBio_Design 
@@ -22,9 +22,16 @@ sub_domain: Genome_Editing
 horizon: emerging
 
 ## References
-  - BIO Economic Power of the Bioeconomy 2025** :contentReference[oaicite:5]{index=5}  
-  - FDA CMC guidance for biologics**  
-  - NIH Genomic Data Sharing Policy**  
+  - BIO Economic Power of the Bioeconomy 2025
+  - FDA CMC guidance for biologics
+  - NIH Genomic Data Sharing Policy 
   - BioSpace synthetic‑bio market report 2024
-
-(YAML template identical to Space example—change sector & sub_domain.)
+  - NIH. *Guidelines for rDNA Research
+  - WHO. *Laboratory Biosafety Manual 4th Ed
+  - Global Biofoundries Alliance. *Automation Standard
+  - SBOL 3.0 Specification
+  - ELIXIR. *Bioinformatics Core Competencies
+  - ICH Q5E & Q7
+  - ISO 35001:2019
+  - DeepMind. *AlphaFold Papers
+  - NSF. *SBIR/STTR Guidance

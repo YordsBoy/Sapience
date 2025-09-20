@@ -16,4 +16,14 @@ UNODC highlights integrated intelligence, cyber forensics, and community policin
 *YAML sample identical—set sector=Public_Safety_Security.*
 
 ## References
-  - 
+  - FEMA. *NIMS Doctrine*
+  - NFPA 1561. *Incident Management*
+  - ASIS. *Physical Asset Protection*
+  - SAFECOM. *Interoperability Continuum*
+  - DHS. *Infrastructure Protection Plan*
+  - NIST SP 800‑86 & 800‑82
+  - NFPA 101. *Life Safety Code*
+  - FAA/DHS. *Counter‑UAS Guidance*
+  - USSS NTAC. *Threat Assessment Model*
+  - SAMHSA. *Trauma‑Informed Care*
+  - Esri. *ArcGIS Crime Analysis Standard*
