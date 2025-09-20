@@ -24,3 +24,14 @@ horizon: core_2025
 ## References
   - BLS Wholesale & Retail Productivity Highlights 2023 
   - NRF Omnichannel Benchmark 2024
+  - NRF. *Unified Commerce Index*; *Retail Media Council*
+  - IBF. *Demand Forecasting Body of Knowledge*
+  - GS1. *EPC/RFID Guidelines; Product Information Standards*
+  - ISO 20400; ISO 27701
+  - SAC. *Higg Index*
+  - Mach Alliance. *Principles*
+  - LPRC. *Loss Prevention Standards*
+  - RLA. *Reverse Logistics Best Practices*
+  - Digital Shelf Institute. *PIM Guidelines*
+  - WFM Institute. *Best Practices*
+  - IAB. *Retail Media Measurement Guidelines*

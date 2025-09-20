@@ -44,7 +44,17 @@ cluster_tags: ["IoT","Maintenance_AI"]
 
 ## References
   - World Bank Logistics Performance Index 2023 
-
   - BLS Transportation Outlook 2024 
-
   - ISO 15143‑3 (AEMP telematics API)
+  - APICS. *SCOR DS 12.0*
+  - CSCMP. *Supply Chain Standards*
+  - SAE J3016 & ISO 21448
+  - SAE AVSC000012
+  - ITE. *Urban Freight Guidelines*
+  - WEF. *Last‑Mile Ecosystem Playbook*
+  - EU GDP Guidelines 2022
+  - IATA. *CEIV Pharma*
+  - ISO 23412:2020
+  - ICC. *Incoterms 2020*
+  - WCO. *Harmonized System*
+  - U.S. CBP. *ACE Guide*

@@ -1,6 +1,6 @@
 # 🏗️ Construction & Infrastructure
 
-Global infrastructure spend will top **US $9 trillion/yr by 2030** and the sector must recruit ~220 million additional workers :contentReference[oaicite:0]{index=0}. Digital twins, modular methods, and climate‑resilient design redefine required KSAs.
+Global infrastructure spend will top **US $9 trillion/yr by 2030** and the sector must recruit ~220 million additional workers. Digital twins, modular methods, and climate‑resilient design redefine required KSAs.
 
 ## Core sub‑domains
 | ID | Sub‑domain | Illustrative KSAs |

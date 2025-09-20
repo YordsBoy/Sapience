@@ -26,3 +26,11 @@ horizon: emerging
   - ISO 14044:2020. *Life‑Cycle Assessment Requirements & Guidelines
   - GHG Protocol. *Product Life‑Cycle Accounting & Reporting Standard
   - IRENA (2025). *Green Hydrogen Supply Chain Report
+  - GHG Protocol; ISO 14064‑1
+  - IEC 61724; IEC 61400
+  - IPCC CMIP6; TCFD Guidance
+  - ASCE 7‑22
+  - ISO 14040/44; EN 15804
+  - DOE NETL Carbon Capture Handbook; ISO 27914
+  - EMF Circular Design Guide; ISO 59010
+  - ICMA Green Bond Principles; EU Taxonomy; GRI Standards

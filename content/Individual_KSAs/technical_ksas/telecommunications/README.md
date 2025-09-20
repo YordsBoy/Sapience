@@ -42,3 +42,10 @@ cluster_tags: ["Network_Automation","Cloud_Edge"]
   - Cisco Annual Internet Report – device & traffic forecasts 
 
   - 3GPP Rel‑18 specs; ETSI NFV‑MANO guidelines
+  - 3GPP TS 23.501 & TS 23.288
+  - ETSI NFV‑SEC 016 & GS NFV‑MANO 006
+  - Linux Foundation Anuket & CNCF Security Guides
+  - OSHA 29 CFR 1926; NESC 2023
+  - ITU‑T P.1203; ETSI TS 103 640
+  - Fiber Broadband Association OSP Handbook
+  - TM Forum AI‑Ops Framework
