@@ -1,0 +1,24 @@
+---
+ksa_id: structural_engineering_basics
+label: Structural Engineering Basics
+category: Technical
+sector: Construction_Infrastructure
+horizon: core_2025
+cluster_tags:
+  - "Structural Design"
+  - "Blueprint Reading"
+description: "Understands fundamental structural principles (loads, forces, material strength) and can read structural plans to ensure construction projects meet engineering requirements for stability and safety."
+source_frameworks:
+  - "References NCCER curriculum & ONET civil engineer tech competencies (public domain):contentReference[oaicite:175]{index=175}:contentReference[oaicite:176]{index=176}"
+proficiency_levels:
+  - level: Awareness
+    indicator: Recognizes common structural elements (beams, columns, foundations) on blueprints and knows they support loads.
+  - level: Basic
+    indicator: Reads simple structural drawings (e.g. residential beam layouts); follows instructions to implement reinforcement (rebar placement, specified concrete psi).
+  - level: Intermediate
+    indicator: Interprets structural plans for commercial buildings; calculates basic loads or stresses with provided formulas; ensures construction (formwork, steel erection) follows engineering specs.
+  - level: Advanced
+    indicator: Coordinates with structural engineers to adjust field conditions (e.g. minor modifications on site while maintaining integrity); identifies potential structural issues during construction (overloaded support, misalignments) and resolves them.
+  - level: Expert
+    indicator: Integrates structural considerations into project planning proactively; mentors others in reading complex structural and seismic retrofit plans; contributes to value engineering discussions by suggesting structurally sound yet cost-effective solutions.
+---
