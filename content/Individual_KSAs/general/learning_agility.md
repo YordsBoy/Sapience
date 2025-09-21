@@ -2,24 +2,21 @@
 ksa_id: learning_agility
 label: Learning Agility
 category: General
-cluster_tags: 
-  - "Continuous Learning"
-  - "Cognitive Flexibility"
 sector: cross_sector
 horizon: perennial
-description: "Quickly acquires and applies new knowledge and skills in evolving contexts."
+cluster_tags: ["Continuous Learning"]
+description: "Rapidly acquires and applies new knowledge and skills to novel situations; reflects on experience to improve future performance."
 source_frameworks:
-  - "shrm_bask:4.E.1"
+  - "Adapted from Korn Ferry & O*NET 'Learning Strategies' (public-domain descriptions)"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognizes the need for learning new skills.
+    indicator: Seeks guidance and resources when faced with unfamiliar tasks.
   - level: Basic
-    indicator: Seeks learning opportunities and applies them.
+    indicator: Learns new tools or processes quickly using available training; applies lessons to similar tasks.
   - level: Intermediate
-    indicator: Adapts learning strategies to various contexts.
+    indicator: Experiments with multiple learning methods; transfers insights across domains; solicits feedback to refine practice.
   - level: Advanced
-    indicator: Teaches others and applies insights across domains.
+    indicator: Learns ahead of need for upcoming challenges; designs learning resources for others; evaluates learning return on investment (ROI).
   - level: Expert
-    indicator: Drives organizational learning and adaptive strategy.
+    indicator: Embeds continuous-learning systems in the organization; anticipates skill trends and orchestrates upskilling strategies at scale.
 ---
-

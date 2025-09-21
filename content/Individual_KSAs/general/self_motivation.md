@@ -1,24 +1,22 @@
 ---
 ksa_id: self_motivation
-label: Self‑Motivation
+label: Self-Motivation
 category: General
-cluster_tags: 
-  - "Work Ethic"
-  - "Initiative"
 sector: cross_sector
 horizon: perennial
-description: "Initiates and sustains actions without external encouragement; driven to achieve personal and organizational goals."
-source_frameworks: []
+cluster_tags: ["Work Ethic","Initiative"]
+description: "Drives oneself to achieve goals with sustained energy, without constant external supervision."
+source_frameworks:
+  - "Informed by O*NET Work Style 'Achievement/Effort' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Completes tasks when assigned.
+    indicator: Completes assigned tasks when prompted.
   - level: Basic
-    indicator: Seeks opportunities to improve and contribute.
+    indicator: Sets personal targets aligned with team objectives; monitors own progress.
   - level: Intermediate
-    indicator: Sets and pursues own performance goals.
+    indicator: Pursues stretch goals; maintains focus despite routine obstacles.
   - level: Advanced
-    indicator: Models proactive behavior that inspires others.
+    indicator: Energizes others through example; sustains momentum on long-term projects.
   - level: Expert
-    indicator: Establishes systems and culture for intrinsic motivation and excellence.
+    indicator: Establishes systems that foster intrinsic motivation across teams; mentors colleagues in self-leadership techniques.
 ---
-

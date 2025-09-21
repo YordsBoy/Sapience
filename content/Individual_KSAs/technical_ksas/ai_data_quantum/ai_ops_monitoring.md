@@ -1,4 +1,4 @@
----
+Both---
 ksa_id: ai_ops_monitoring
 label: AI Ops & Model Monitoring
 category: Technical

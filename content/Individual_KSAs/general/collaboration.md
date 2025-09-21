@@ -2,24 +2,21 @@
 ksa_id: collaboration
 label: Collaboration
 category: General
-cluster_tags: 
-  - "Teamwork"
-  - "Interpersonal Skills"
 sector: cross_sector
 horizon: perennial
-description: "Works cooperatively with others to achieve shared goals and support group efforts."
-source_frameworks: 
-  - "onet:2.D.1"
+cluster_tags: ["Teamwork","Interpersonal Skills"]
+description: "Works cooperatively with others toward shared goals, valuing diverse perspectives and resolving conflicts constructively."
+source_frameworks:
+  - "Adapted from O*NET Work Style 'Cooperation' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Participates in group discussions and activities.
+    indicator: Participates in team meetings when asked; completes assigned group tasks.
   - level: Basic
-    indicator: Shares information and supports team members.
+    indicator: Shares information openly; offers help to teammates; accepts feedback.
   - level: Intermediate
-    indicator: Coordinates tasks and resolves minor conflicts.
+    indicator: Facilitates group problem-solving; manages minor disagreements respectfully.
   - level: Advanced
-    indicator: Facilitates collaboration across departments or disciplines.
+    indicator: Builds cross-functional partnerships; mediates conflicts to consensus.
   - level: Expert
-    indicator: Designs and leads strategic cross‑functional collaboration initiatives.
+    indicator: Fosters a collaborative culture across the organization; designs systems that reward teamwork and shared success.
 ---
-

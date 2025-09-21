@@ -2,24 +2,21 @@
 ksa_id: accountability
 label: Accountability
 category: General
-cluster_tags: 
-  - "Ethics"
-  - "Responsibility"
 sector: cross_sector
 horizon: perennial
-description: "Takes responsibility for outcomes, actions, and decisions while upholding integrity."
-source_frameworks: 
-  - "shrm_bask:5.A.2"
+cluster_tags: ["Integrity","Ownership"]
+description: "Takes responsibility for actions, decisions, and results; upholds ethical standards and follows through on commitments."
+source_frameworks:
+  - "Based on O*NET Work Value 'Integrity' and USA OPM guidance (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Acknowledges errors when pointed out.
+    indicator: Acknowledges own errors when pointed out; meets basic deadlines with supervision.
   - level: Basic
-    indicator: Takes ownership of assigned tasks.
+    indicator: Completes assigned tasks on time; owns mistakes and initiates corrective action.
   - level: Intermediate
-    indicator: Accepts consequences and learns from mistakes.
+    indicator: Sets clear expectations; tracks performance metrics; meets quality standards without external prompting.
   - level: Advanced
-    indicator: Promotes a culture of accountability in teams.
+    indicator: Holds self and others accountable; enforces ethical guidelines; transparently reports outcomes.
   - level: Expert
-    indicator: Establishes accountability frameworks and ethical standards.
+    indicator: Embeds accountability mechanisms into organizational culture; mentors others on ethical decision-making and responsibility.
 ---
-

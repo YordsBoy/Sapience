@@ -1,72 +1,34 @@
-# 🌾 Agriculture & Natural Resources
+# Agriculture & Natural Resources
 
-Food‑system resilience, sustainable land stewardship, and climate‑smart production will dominate talent demand this decade.  
-The U.S. ag sector alone faces a short‑fall of **2.4 million workers by 2025** :contentReference[oaicite:0]{index=0}, while USDA projects **~59 000 bachelor‑level openings each year through 2030** across food, agriculture and natural‑resources careers :contentReference[oaicite:1]{index=1}.  
-Automation, climate‑smart practices, and regenerative models therefore shape the KSAs curated for this sector.
+**Sector Overview:** This sector encompasses the skills driving modern agriculture, forestry, and natural resource management. Rapid advances in agri-tech (drones, IoT sensors, biotech) and a focus on sustainability are transforming traditional farming. Professionals need competencies in precision farming, sustainable practices, and resource stewardship to increase yields while conserving land and water. This sector’s KSAs range from crop science and soil health to livestock technology and environmental conservation. (Emerging trends like smart farming and climate resilience feature prominently.)
 
-## Core sub‑domains (scaffold v1)
+## Sub-domains
 
-| ID | Sub‑domain | Illustrative KSAs |
-|----|------------|-------------------|
-| Precision_Farming | GNSS Machine Guidance, Variable‑Rate Application, Drone Crop‑Scouting |
-| Climate_Smart_Ag | GHG Accounting, Drought‑Resilient Cultivar Selection, Soil‑Carbon Practices |
-| Natural_Resource_Management | Watershed Analysis, Wildlife Habitat Planning, Forestry Operations |
-| Agri_Supply_Chain | Post‑Harvest Handling, Cold‑Chain Logistics, Traceability Tech |
-| Extension_Education | Farmer Needs Assessment, Participatory Training, Digital Advisory Apps |
-| Agri_Robotics| design and upkeep of in‑field robotic platforms |
+- **Crop Science & Production:** Focus on plant cultivation and crop management. Examples: *Soil Health Analysis*, *Crop Disease Identification*, *Precision Agriculture Technologies*.
+- **Livestock & Aquaculture:** Focus on animal husbandry and aquatic farming. Examples: *Smart Livestock Farming*, *Animal Nutrition Optimization*. *(Aquaculture practices are mentioned for future inclusion.)*
+- **Agri-Tech & Analytics:** Use of technology and data in farming. Examples: *Precision Agriculture Technologies*, *Agricultural Data Analytics*, *Farm Automation Systems*.
+- **Natural Resources & Sustainability:** Management of land, water, and ecosystems. Examples: *Climate-Resilient Farming Practices*, *Forestry Management Basics*, *Sustainable Irrigation Management*.
 
-*(Rename / split as your SMEs refine.)*
+**Horizon Key:** Most core farming skills are `core_2025` (widely in use today). Some cutting-edge sustainable or biotech skills might be labeled `emerging` if not yet mainstream. (Currently, all listed KSAs are core or current skills.)
 
-## KSA file conventions
+## KSA Inventory
 
-* **Folder** `content/technical_KSAs/Agriculture_Natural_Resources/`
-* **Filename** `<ksa_id>.md` (lower snake‑case)
-* **Required YAML keys**
+- **soil_health_analysis** – *Soil Health Analysis* (core_2025) – Assesses soil properties (pH, nutrients, microbiome) to inform fertilization and crop rotation.
+- **crop_disease_management** – *Crop Disease Management* (core_2025) – Identifies and controls crop pests and diseases, integrating IPM (Integrated Pest Management) techniques.
+- **irrigation_technology** – *Smart Irrigation Technology* (core_2025) – Uses sensor data and automated systems (e.g. drip irrigation controllers) to optimize water usage for crops.
+- **precision_agriculture_technologies** – *Precision Agriculture Technologies* (core_2025) – Uses GPS, GIS mapping, and IoT sensors for site-specific crop management:contentReference[oaicite:97]{index=97}:contentReference[oaicite:98]{index=98}.
+- **agricultural_data_analytics** – *Agricultural Data Analytics* (core_2025) – Analyzes farm data (yield maps, weather, markets) to inform decisions and improve farm performance.
+- **agricultural_machinery_operation** – *Advanced Machinery Operation* (core_2025) – Operates and maintains modern farm machinery (e.g. GPS-guided tractors, combines, UAVs for scouting).
+- **climate_resilient_farming** – *Climate-Resilient Farming* (core_2025) – Adapts farming practices to climate change (drought-resistant crops, carbon sequestration, following IPCC guidelines for GHG reduction).
+- **smart_livestock_farming** – *Smart Livestock Farming* (core_2025) – Uses sensors and automation to monitor herd health and manage livestock efficiently:contentReference[oaicite:99]{index=99}. *(New)*
+- **sustainable_forestry_practices** – *Sustainable Forestry Practices* (core_2025) – (If included) Manages forest resources with tech and ecology knowledge (harvesting planning, reforestation, wildfire monitoring). *(Planned for future)*
+*(...and other existing KSAs covering agricultural economics, regulatory compliance, etc.)*
 
-```yaml
----
-ksa_id: drone_crop_scouting
-label: Drone‑Based Crop Scouting
-category: Technical
-sector: Agriculture_Natural_Resources
-sub_domain: Precision_Farming
-horizon: core_2025      # or emerging / watch_2030 / perennial / peripheral
-description: Uses UAS platforms and spectral imagery to detect crop stress and optimise input use.
-source_frameworks: ["esco:A2.2.3", "fao:CSA_Sourcebook"]
-proficiency_levels:
-  - level: Awareness
-    indicator: Operates basic quad‑copter and captures RGB images.
-  - level: Basic
-    indicator: Executes flight plans and interprets NDVI heat‑maps.
-  - level: Intermediate
-    indicator: Integrates multispectral data with variable‑rate scripts.
-  - level: Advanced
-    indicator: Advises on ROI and compliance (FAA Part 107 or local regs).
-  - level: Expert
-    indicator: Designs enterprise UAS programmes and trains agronomists.
-cluster_tags: ["Remote Sensing","Sustainability"]
----
-## Authoritative references
-  - CREO (2025). *Agricultural Robotics Landscape*.
-  - Fiveable Study Guide on precision‑farming swarms.
-  - USDA–NIFA Employment Projections 2025‑2030** ([NIFA Reporting Portal][1]) | Quantifies degree demand & job growth                        |
-  - FAO Climate‑Smart Agriculture Sourcebook** ([FAOHome][2]) | Competency basis for CSA KSAs                                |
-  - World Bank Climate‑Smart Agriculture Brief** ([World Bank][3]) | Global skills & investment gaps                              |
-  - ILO Rural Youth Skills Reports** ([International Labour Organization][4]) | Highlights training needs in informal / smallholder contexts |
-  - ESCO “Agriculture, Forestry & Fishery” skills taxonomy** ([ESCo][5]) | Open skills framework for mapping                            |
-  - FAO Extension Training Guides** ([Open Knowledge FAO][6]) | Standards for advisory/extension KSAs                        |
-  - USDA Agricultural Baseline to 2030** ([USDA][7]) | Macro‑trends shaping commodity & resource needs              |
-  - AgritechTomorrow labour‑shortage article (2025)** ([agritechtomorrow.com][8]) | Illustrates automation drivers                               |
-  - Fresh Consulting Ag‑Robotics Market Outlook** ([Fresh Consulting][9]) | Market growth for precision‑ag tech talent                   |
-  - AP News robotics & farm‑labour feature** ([AP News][10]) | Worker‑impact context & ethical considerations               |
+## Referenced Frameworks & Standards
 
-[1]: https://portal.nifa.usda.gov/web/crisprojectpages/1032289-employment-opportunities-for-college-graduates-in-food-agriculture-renewable-natural-resources-and-the-environment-united-states-2025--2030.html?utm_source=chatgpt.com "Employment Opportunities for College Graduates in Food ..."
-[2]: https://www.fao.org/3/i3325e/i3325e.pdf?utm_source=chatgpt.com "[PDF] Climate-Smart Agriculture Sourcebook"
-[3]: https://www.worldbank.org/en/topic/climate-smart-agriculture?utm_source=chatgpt.com "Climate-Smart Agriculture - World Bank"
-[4]: https://www.ilo.org/publications/elevating-potential-rural-youth-paths-decent-jobs-and-sustainable-futures-1?utm_source=chatgpt.com "Elevating the potential of rural youth: Paths to Decent Jobs and ..."
-[5]: https://esco.ec.europa.eu/en/about-esco/data-science-and-esco/esco-skill-occupation-matrix-tables-linking-occupation-and-skill-groups?utm_source=chatgpt.com "ESCO Skill-Occupation Matrix Tables: linking occupation and skill ..."
-[6]: https://openknowledge.fao.org/server/api/core/bitstreams/72985d26-76ff-4ecc-b0e7-c7607fc86408/content?utm_source=chatgpt.com "[PDF] Guide to extension training - FAO Knowledge Repository"
-[7]: https://www.usda.gov/sites/default/files/documents/USDA-Agricultural-Projections-to-2030.pdf?utm_source=chatgpt.com "[PDF] USDA Agricultural Projections to 2030"
-[8]: https://www.agritechtomorrow.com/story/2025/01/the-agriculture-labor-shortage-challenges-and-solutions-through-automation/16272/?utm_source=chatgpt.com "The Agriculture Labor Shortage: Challenges and Solutions Through ..."
-[9]: https://www.freshconsulting.com/insights/blog/robots-in-agriculture-transforming-the-future-of-farming/?utm_source=chatgpt.com "Robots in Agriculture: Transforming the Future of Farming"
-[10]: https://apnews.com/article/df6087837925c14cfdd7ad2f80410a54?utm_source=chatgpt.com "Autonomous tech is coming to farming. What will it mean for crops and workers who harvest them?"
+- **O*NET OnLine (USDOL):** We aligned many KSAs with O*NET occupational competencies for roles like *Agricultural Manager*, *Precision Agriculture Technician*, and *Animal Scientist*. For instance, our Precision Agriculture KSA was adapted from O*NET’s description for precision ag technicians:contentReference[oaicite:100]{index=100}. O*NET content is used under CC BY 4.0.
+- **USDA Guidelines:** The U.S. Department of Agriculture’s public resources (on soil health, smart farming, livestock welfare) informed KSAs such as Soil Health Analysis and Smart Livestock Farming. We cited these where applicable (USDA materials are public domain).
+- **FAO & UN Sustainable Ag Initiatives:** High-level concepts of sustainable agriculture and climate-smart practices were drawn from FAO guidelines (e.g., FAO’s Climate-Smart Agriculture framework). These guided the inclusion of climate resilience and sustainability topics (no direct text copied).
+- **MSHA & OSHA (for farm safety):** For any KSAs touching on farm equipment safety or pesticide handling, we consulted safety standards by OSHA and EPA (public regulations) to ensure compliance topics are covered.
+- **Academic Research:** General trends like precision ag ROI come from ag extension research (e.g., land-grant university studies). We integrated findings (like the importance of cost-benefit analysis of tech) conceptually without copying text.
+

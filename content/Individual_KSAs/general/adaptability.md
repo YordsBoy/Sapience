@@ -2,24 +2,21 @@
 ksa_id: adaptability
 label: Adaptability
 category: General
-cluster_tags: 
-  - "Emotional Intelligence"
-  - "Change Management"
 sector: cross_sector
 horizon: perennial
-description: "Adjusts effectively to changing environments, tasks, and responsibilities."
-source_frameworks: 
-  - "onet:2.B.4"
+cluster_tags: ["Change Management","Resilience"]
+description: "Adjusts effectively to new information, shifting priorities, and evolving circumstances while remaining productive."
+source_frameworks:
+  - "Adapted from O*NET Work Style 'Adaptability/Flexibility' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Notices and accepts basic changes in routine.
+    indicator: Accepts changes in tasks or schedules when directed.
   - level: Basic
-    indicator: Adjusts to minor shifts in process or environment.
+    indicator: Modifies personal work methods when priorities shift; remains calm with minor disruptions.
   - level: Intermediate
-    indicator: Remains effective despite unexpected change.
+    indicator: Reprioritizes workload independently when conditions change; quickly learns new procedures or tools.
   - level: Advanced
-    indicator: Guides others through transitions while maintaining stability.
+    indicator: Anticipates change drivers; helps team adjust plans and resources proactively.
   - level: Expert
-    indicator: Champions adaptive culture and frameworks across functions.
+    indicator: Champions adaptive culture across functions; designs processes that remain effective in rapidly changing environments.
 ---
-

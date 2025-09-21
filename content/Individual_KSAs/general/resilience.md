@@ -2,23 +2,21 @@
 ksa_id: resilience
 label: Resilience
 category: General
-cluster_tags: 
-  - "Mental Fortitude"
-  - "Stress Management"
 sector: cross_sector
 horizon: perennial
-description: "Demonstrates the ability to recover from setbacks, adversity, or pressure."
-source_frameworks: []
+cluster_tags: ["Well-Being","Stress Tolerance"]
+description: "Maintains performance and a positive outlook when faced with adversity, stress, or rapid change."
+source_frameworks:
+  - "Derived from O*NET Work Style 'Stress Tolerance' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Acknowledges stress but maintains basic functioning.
+    indicator: Recovers from minor setbacks with guidance.
   - level: Basic
-    indicator: Returns to baseline performance after minor challenges.
+    indicator: Persists through routine challenges; seeks support when stress affects performance.
   - level: Intermediate
-    indicator: Handles sustained pressure while meeting responsibilities.
+    indicator: Uses coping strategies to remain effective during extended pressure; helps teammates regain focus after setbacks.
   - level: Advanced
-    indicator: Develops support strategies for personal and team resilience.
+    indicator: Demonstrates optimism in crises; guides teams in stress-management techniques.
   - level: Expert
-    indicator: Implements resilience programming at the organizational level.
+    indicator: Builds organizational resilience frameworks; leads cultural initiatives that normalize adaptive coping and recovery.
 ---
-

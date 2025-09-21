@@ -1,4 +1,4 @@
----
+"digital---
 ksa_id: sensory_mindfulness
 label: "Sensory Mindfulness"
 category: "Self Management"
