@@ -7,18 +7,20 @@ horizon: perennial
 cluster_tags:
   - "Well-being"
   - "Coping Skills"
-description: "Employs techniques to manage stress and maintain personal well-being and performance under pressure."
+description: >
+  Employs evidence-based techniques to manage stress and maintain performance,
+  resilience, and health under pressure.
 source_frameworks:
-  - "Adapted from CDC/NIOSH stress management guidelines (U.S. public domain)"
+  - "Adapted from CDC/NIOSH stress-management guidelines (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognizes common stressors and basic ways to relax (e.g. deep breathing).
+    indicator: Recognises common stress signals; uses a brief breathing exercise to relax.
   - level: Basic
-    indicator: Uses simple stress-reduction practices (like taking short breaks or exercise) to recover from routine work stress.
+    indicator: Applies simple practices (micro-breaks, stretching, gratitude journaling) during routine stress.
   - level: Intermediate
-    indicator: Proactively applies time management, mindfulness, or coping strategies during busy periods to remain effective.
+    indicator: Utilises structured coping strategies (progressive relaxation, time-boxing, social support) to navigate busy periods; reflects on stress triggers.
   - level: Advanced
-    indicator: Integrates stress management into daily routine (e.g. consistent exercise, structured reflection) and helps teammates with stress-reduction tips.
+    indicator: Integrates stress-reduction techniques into daily habits; coaches teammates; tracks personal stress metrics.
   - level: Expert
-    indicator: Maintains resilience during crises; implements comprehensive wellness programs or training for others on managing stress.
+    indicator: Designs enterprise stress-management programs; measures impact on wellbeing and retention; advocates for systemic changes that reduce chronic stressors.
 ---

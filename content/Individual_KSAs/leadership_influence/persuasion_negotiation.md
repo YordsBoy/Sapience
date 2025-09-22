@@ -4,19 +4,22 @@ label: Persuasion & Negotiation
 category: Leadership
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Influence","Consensus Building"] 
-description: "Persuades others to accept recommendations or change behaviors and works toward mutually acceptable agreements through compromise and diplomacy."
+cluster_tags:
+  - "Influence"
+  - "Negotiation"
+description: >
+  Persuades others to accept ideas or change behaviors and negotiates mutually beneficial agreements through active listening, evidence-based arguments, and diplomacy.
 source_frameworks:
-  - "Adapted from OPM ECQ Influencing/Negotiating competency, public domain:contentReference[oaicite:43]{index=43}:contentReference[oaicite:44]{index=44}"
+  - "Adapted from OPM Influencing/Negotiating competency (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains ideas or recommendations to peers; occasionally gains agreement on minor issues.
+    indicator: Presents ideas clearly; accepts differing viewpoints respectfully.
   - level: Basic
-    indicator: Uses logical arguments and supportive facts to persuade others in meetings; negotiates simple agreements by finding basic common ground.
+    indicator: Uses logical arguments and basic data to gain agreement on routine matters; seeks common ground.
   - level: Intermediate
-    indicator: Builds rapport and uses win-win techniques to resolve disagreements; negotiates agreements or compromises on team projects.
+    indicator: Builds rapport; applies win-win techniques to negotiate project resources or timelines; adapts persuasion style to audience needs.
   - level: Advanced
-    indicator: Influences senior stakeholders by tailoring persuasive approaches to their interests; negotiates complex or high-stakes agreements (with significant give-and-take) that satisfy multiple parties.
+    indicator: Leads high-stakes negotiations; overcomes resistance with tailored value propositions; achieves complex agreements that balance multiple interests.
   - level: Expert
-    indicator: Shapes organizational or inter-organizational decisions through expert negotiation and coalition-building; mediates conflicts and secures broad consensus on strategic initiatives.
+    indicator: Shapes organizational or inter-organizational decisions through expert negotiation; mentors others in advanced influence strategies; brokers consensus on contentious strategic issues.
 ---

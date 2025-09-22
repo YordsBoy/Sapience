@@ -4,8 +4,11 @@ label: Emotional Intelligence
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Self-Awareness","Empathy"]
-description: "Recognizes, understands, and manages one’s own emotions while perceiving and positively influencing the emotions of others."
+cluster_tags:
+  - "Self-Awareness"
+  - "Empathy"
+description: >
+  Recognizes, understands, and manages one’s own emotions while perceiving and positively influencing the emotions of others.
 source_frameworks:
   - "Concept aligned with Daniel Goleman’s EI model (publicly summarized); wording original"
 proficiency_levels:

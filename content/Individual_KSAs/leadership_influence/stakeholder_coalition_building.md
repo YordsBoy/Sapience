@@ -1,23 +1,25 @@
 ---
 ksa_id: stakeholder_coalition_building
-label: "Stakeholder Coalition Building"
-category: "Leadership"
+label: Stakeholder Coalition Building
+category: Leadership
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Negotiation"
+  - "Collaboration"
   - "Influence"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Identifies, aligns, and mobilizes diverse stakeholders toward shared objectives."
-source_frameworks: []
+description: >
+  Builds alliances and collaborative networks among diverse stakeholders to achieve shared objectives.
+source_frameworks:
+  - "Derived from OPM Partnering/Political Savvy competencies (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: "Lists primary stakeholders and concerns."
+    indicator: Identifies key stakeholders; communicates project goals to them when directed.
   - level: Basic
-    indicator: "Communicates project value to gain support."
+    indicator: Maintains positive relationships; seeks input and support for initiatives.
   - level: Intermediate
-    indicator: "Negotiates trade‑offs among diverse interests."
+    indicator: Aligns interests of multiple parties; negotiates resource sharing to advance mutual goals.
   - level: Advanced
-    indicator: "Builds multi‑party coalitions that champion change initiatives."
+    indicator: Leads multi-organizational coalitions; resolves competing priorities to maintain momentum.
   - level: Expert
-    indicator: "Orchestrates broad networks sustaining long‑term strategic alliances."
+    indicator: Creates enduring networks that drive systemic change across sectors; influences policy or industry standards through broad coalitions.
 ---

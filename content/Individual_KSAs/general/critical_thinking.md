@@ -4,8 +4,11 @@ label: Critical Thinking
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Problem Solving","Analysis"]
-description: "Objectively analyzes information, evaluates arguments, and applies logical reasoning to reach sound conclusions."
+cluster_tags:
+  - "Problem Solving"
+  - "Analysis"
+description: >
+  Objectively analyzes information, evaluates arguments, and applies logical reasoning to reach sound conclusions.
 source_frameworks:
   - "Adapted from O*NET Work Style 'Analytical Thinking' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

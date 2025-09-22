@@ -1,23 +1,26 @@
 ---
 ksa_id: metacognition_skills
-label: "Metacognition Skills"
-category: "Self Management"
+label: Metacognition Skills
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
   - "Learning Agility"
   - "Innovation"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Thinks about and regulates one’s own thinking to improve learning and strategy."
-source_frameworks: []
+description: >
+  Monitors and regulates one’s own thinking and learning processes,
+  selecting strategies that optimise understanding and performance.
+source_frameworks:
+  - "Aligned with Flavell’s metacognition theory; informed by workplace-learning research"
 proficiency_levels:
   - level: Awareness
-    indicator: "Notices thinking traps after results."
+    indicator: Describes how a task was approached after completion.
   - level: Basic
-    indicator: "Plans work using simple metacognitive questions (What? Why? How?)."
+    indicator: Selects learning tactics (note-taking, retrieval practice) and evaluates basic effectiveness.
   - level: Intermediate
-    indicator: "Monitors comprehension in real time; adapts strategy mid‑task."
+    indicator: Chooses and adapts strategies in real time; articulates why a method works or fails.
   - level: Advanced
-    indicator: "Coaches others in metacognitive techniques and measures learning ROI."
+    indicator: Coaches peers on strategy selection; measures learning return on investment (ROI) for projects.
   - level: Expert
-    indicator: "Designs systemic meta‑learning routines driving adaptive organizations."
+    indicator: Embeds metacognitive routines in organisational learning systems; innovates new reflection frameworks for complex problem-solving.
 ---

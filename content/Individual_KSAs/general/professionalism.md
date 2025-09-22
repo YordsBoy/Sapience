@@ -4,8 +4,10 @@ label: Professionalism
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Work Ethic"]
-description: "Demonstrates reliability, respectful conduct, appropriate appearance, and a commitment to ethical standards."
+cluster_tags:
+  - "Work Ethic"
+description: >
+  Demonstrates reliability, respectful conduct, appropriate appearance, and a commitment to ethical standards.
 source_frameworks:
   - "Synthesized from widely accepted professional-conduct guidelines (public domain)"
 proficiency_levels:

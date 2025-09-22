@@ -1,22 +1,28 @@
 ---
 ksa_id: deep_work_practice
-label: "Deep‑Work Practice"
-category: "Self Management"
+label: Deep Work Practice
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Focus"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Eliminates distraction for cognitively intense sessions."
-source_frameworks: []
+  - "Productivity"
+  - "Focus Management"
+description: >
+  Schedules and protects extended blocks of distraction-free, cognitively
+  demanding work to maximise learning, creativity, and throughput, and
+  deliberately balances these sessions with restorative breaks.
+source_frameworks:
+  - "Cal Newport’s Deep Work framework (publicly summarised)"
+  - "Sophie Leroy’s attention-residue research (public domain summaries)"
 proficiency_levels:
   - level: Awareness
-    indicator: "Tries short distraction‑free blocks."
+    indicator: Recognises that frequent context-switching harms concentration.
   - level: Basic
-    indicator: "Schedules regular 60‑minute deep‑work periods."
+    indicator: Blocks 30–60 min sessions; silences notifications; logs interruptions.
   - level: Intermediate
-    indicator: "Achieves 90–120 minute sustained focus with clear outputs."
+    indicator: Protects 90–120 min deep-work cycles daily; uses recovery breaks that avoid attention residue.
   - level: Advanced
-    indicator: "Integrates deep‑work rhythms across teams."
+    indicator: Designs weekly cadence of deep vs. shallow work; tracks output metrics (e.g., words written, features shipped); mentors peers on setup and rituals.
   - level: Expert
-    indicator: "Cultivates culture where deep work is protected norm."
+    indicator: Embeds deep-work norms in team culture (meeting-free mornings, focus hours); measures impact on innovation and delivery KPIs; evangelises organisation-wide practices.
 ---

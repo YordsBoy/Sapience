@@ -1,23 +1,25 @@
 ---
 ksa_id: strategic_thinking
-label: "Strategic Thinking"
-category: "Leadership"
+label: Strategic Thinking
+category: Leadership
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Systems Thinking"
+  - "Strategy"
   - "Analysis"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Synthesizes data and insights to chart long‑range direction that balances opportunity and risk."
-source_frameworks: []
+description: >
+  Analyzes complex factors, anticipates future trends, and formulates long-term plans that position the organization for success.
+source_frameworks:
+  - "Based on OPM ECQ Strategic Thinking plus public-domain strategy models"
 proficiency_levels:
   - level: Awareness
-    indicator: "Recognizes how routine work supports objectives."
+    indicator: Contributes data for planning; recognizes organizational goals.
   - level: Basic
-    indicator: "Performs simple SWOT or PESTLE analyses."
+    indicator: Performs simple Strengths, Weaknesses, Opportunities, Threats (SWOT) or Political, Economic, Social, Technological, Legal, Environmental (PESTLE) analyses for projects.
   - level: Intermediate
-    indicator: "Transforms market data into actionable plans."
+    indicator: Synthesizes internal and external trends; proposes strategic options with supporting rationale.
   - level: Advanced
-    indicator: "Builds multi‑horizon roadmaps balancing risk and opportunity."
+    indicator: Integrates cross-functional insights; selects strategic path; establishes key performance indicators (KPIs) for execution.
   - level: Expert
-    indicator: "Shapes industry positioning through scenario planning and portfolio shifts."
+    indicator: Shapes enterprise strategy; anticipates industry disruptions; guides resource allocation to realize long-range vision.
 ---

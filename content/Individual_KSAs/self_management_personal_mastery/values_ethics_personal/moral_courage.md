@@ -1,22 +1,26 @@
 ---
 ksa_id: moral_courage
-label: "Moral Courage"
-category: "Self Management"
+label: Moral Courage
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Responsibility"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Acts ethically despite potential negative consequences."
-source_frameworks: []
+  - "Courage"
+  - "Ethics"
+description: >
+  Acts on ethical convictions despite fear of negative consequences,
+  defending principles and others who may be at risk.
+source_frameworks:
+  - "Adapted from public-domain leadership-ethics literature"
 proficiency_levels:
   - level: Awareness
-    indicator: "Speaks up on minor issues."
+    indicator: Recognises instances where speaking up is necessary.
   - level: Basic
-    indicator: "Reports wrongdoing through proper channels."
+    indicator: Raises concerns about minor policy violations to supervisor.
   - level: Intermediate
-    indicator: "Takes principled stands in difficult meetings."
+    indicator: Challenges unfair practices respectfully; documents and escalates serious issues.
   - level: Advanced
-    indicator: "Leads ethical reform efforts."
+    indicator: Takes principled stands in high-stakes contexts; protects whistle-blowers; seeks systemic fixes.
   - level: Expert
-    indicator: "Protects whistle‑blowers and institutionalizes moral‑courage culture."
+    indicator: Inspires culture of moral courage; influences industry norms and legislation for ethical conduct.
 ---

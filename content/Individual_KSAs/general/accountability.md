@@ -4,8 +4,11 @@ label: Accountability
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Integrity","Ownership"]
-description: "Takes responsibility for actions, decisions, and results; upholds ethical standards and follows through on commitments."
+cluster_tags:
+  - "Integrity"
+  - "Ownership"
+description: >
+  Takes responsibility for actions, decisions, and results; upholds ethical standards and follows through on commitments.
 source_frameworks:
   - "Based on O*NET Work Value 'Integrity' and USA OPM guidance (public domain)"
 proficiency_levels:

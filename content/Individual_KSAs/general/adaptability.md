@@ -4,8 +4,11 @@ label: Adaptability
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Change Management","Resilience"]
-description: "Adjusts effectively to new information, shifting priorities, and evolving circumstances while remaining productive."
+cluster_tags:
+  - "Change Management"
+  - "Resilience"
+description: >
+  Adjusts effectively to new information, shifting priorities, and evolving circumstances while remaining productive.
 source_frameworks:
   - "Adapted from O*NET Work Style 'Adaptability/Flexibility' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

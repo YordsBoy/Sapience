@@ -4,8 +4,11 @@ label: Collaboration
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Teamwork","Interpersonal Skills"]
-description: "Works cooperatively with others toward shared goals, valuing diverse perspectives and resolving conflicts constructively."
+cluster_tags:
+  - "Teamwork"
+  - "Interpersonal Skills"
+description: >
+  Works cooperatively with others toward shared goals, valuing diverse perspectives and resolving conflicts constructively.
 source_frameworks:
   - "Adapted from O*NET Work Style 'Cooperation' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

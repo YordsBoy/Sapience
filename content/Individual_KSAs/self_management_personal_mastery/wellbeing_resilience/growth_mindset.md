@@ -1,22 +1,26 @@
 ---
 ksa_id: growth_mindset
-label: "Growth Mindset"
-category: "Self Management"
+label: Growth Mindset
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
   - "Learning"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Believes abilities can develop through effort and feedback."
-source_frameworks: []
+  - "Resilience"
+description: >
+  Believes abilities can be developed through effort, feedback, and learning,
+  embracing challenges and persisting after setbacks.
+source_frameworks:
+  - "Based on Carol Dweck’s growth-mindset research (widely cited public work)"
 proficiency_levels:
   - level: Awareness
-    indicator: "Accepts the basic idea."
+    indicator: Acknowledges that skills can improve with practice.
   - level: Basic
-    indicator: "Embraces challenges instead of avoidance."
+    indicator: Seeks feedback; views mistakes as learning opportunities.
   - level: Intermediate
-    indicator: "Seeks feedback proactively."
+    indicator: Pursues stretch goals; reframes setbacks as data for improvement.
   - level: Advanced
-    indicator: "Turns failures into learning roadmaps."
+    indicator: Coaches others to adopt growth mindset; designs learning challenges that build resilience.
   - level: Expert
-    indicator: "Builds growth‑mindset culture in teams and organizations."
+    indicator: Embeds growth-mindset culture; influences talent and performance systems to reward learning and adaptability.
 ---

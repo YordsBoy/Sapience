@@ -1,22 +1,26 @@
 ---
 ksa_id: digital_minimalism
-label: "Digital Minimalism"
-category: "Self Management"
+label: Digital Minimalism
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Well‑being"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Curates digital tools and inputs to reduce cognitive load."
-source_frameworks: []
+  - "Mindfulness"
+  - "Well-being"
+description: >
+  Intentionally curates digital tools and information consumption to minimise distraction,
+  maximise value, and support mental well-being.
+source_frameworks:
+  - "Concepts from Cal Newport’s digital-minimalism framework (publicly discussed)"
 proficiency_levels:
   - level: Awareness
-    indicator: "Audits notifications occasionally."
+    indicator: Notices impact of excessive notifications; silences non-urgent alerts.
   - level: Basic
-    indicator: "Disables nonessential alerts."
+    indicator: Audits apps; removes low-value digital clutter; schedules screen-free periods.
   - level: Intermediate
-    indicator: "Establishes tech‑use boundaries (email windows)."
+    indicator: Establishes usage rules (e.g., email windows); practices single-tasking online.
   - level: Advanced
-    indicator: "Periodically declutters apps and platforms."
+    indicator: Coaches team in digital-minimalism practices; redesigns workflows to reduce digital overload.
   - level: Expert
-    indicator: "Models and teaches digital‑minimalist principles organization‑wide."
+    indicator: Shapes organisational tech-use policies to promote focused, healthy digital environments; measures impact on productivity and well-being.
 ---

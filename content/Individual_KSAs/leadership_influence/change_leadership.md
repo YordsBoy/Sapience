@@ -1,23 +1,25 @@
 ---
 ksa_id: change_leadership
-label: "Change Leadership"
-category: "Leadership"
+label: Change Leadership
+category: Leadership
+sector: cross_sector
+horizon: perennial
 cluster_tags:
   - "Transformation"
   - "Adaptability"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Guides individuals and organizations through transitions, uncertainty, and reinvention."
-source_frameworks: []
+description: >
+  Leads organizational change by communicating purpose, engaging stakeholders, and sustaining momentum through transition.
+source_frameworks:
+  - "Inspired by Kotter’s change model and OPM Leading Change (public domain concepts)"
 proficiency_levels:
   - level: Awareness
-    indicator: "Explains rationale for change initiatives."
+    indicator: Supports change initiatives when directed; adapts personal work habits accordingly.
   - level: Basic
-    indicator: "Uses simple change‑management tools."
+    indicator: Explains reasons for change to team; addresses straightforward resistance.
   - level: Intermediate
-    indicator: "Develops change plans and monitors adoption metrics."
+    indicator: Develops change plans, including milestones and stakeholder engagement; mitigates risks and maintains performance.
   - level: Advanced
-    indicator: "Leads enterprise transformations with multi‑stakeholder alignment."
+    indicator: Drives complex, multi-department transformations; aligns structures, processes, and culture with new strategy.
   - level: Expert
-    indicator: "Establishes sustainable change capability embedded in culture."
+    indicator: Leads enterprise-wide or multi-sector change initiatives; establishes continuous-improvement culture for ongoing transformation.
 ---

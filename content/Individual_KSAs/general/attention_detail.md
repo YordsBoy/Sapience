@@ -4,8 +4,10 @@ label: Attention to Detail
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Quality"]
-description: "Thoroughly accomplishes tasks, ensuring accuracy and identifying even small errors or inconsistencies."
+cluster_tags:
+  - "Quality"
+description: >
+  Thoroughly accomplishes tasks, ensuring accuracy and identifying even small errors or inconsistencies.
 source_frameworks:
   - "Adapted from O*NET Work Style 'Attention to Detail' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

@@ -1,23 +1,26 @@
 ---
 ksa_id: integrity_alignment
-label: "Integrity Alignment"
-category: "Self Management"
+label: Integrity Alignment
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
   - "Ethics"
   - "Authenticity"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Aligns daily actions with proclaimed values."
-source_frameworks: []
+description: >
+  Consistently aligns words and actions with stated values,
+  maintaining honesty and transparency even under pressure.
+source_frameworks:
+  - "Public-domain guidance from OPM ‘Integrity/Honesty’ competency"
 proficiency_levels:
   - level: Awareness
-    indicator: "Notices misalignments after the fact."
+    indicator: Follows rules and commitments when monitored.
   - level: Basic
-    indicator: "Avoids actions conflicting with values."
+    indicator: Admits mistakes promptly; keeps promises to peers.
   - level: Intermediate
-    indicator: "Proactively chooses value‑aligned options."
+    indicator: Upholds standards despite inconvenience; addresses integrity lapses in team.
   - level: Advanced
-    indicator: "Upholds values under pressure."
+    indicator: Balances conflicting interests ethically; models courageous integrity in difficult negotiations.
   - level: Expert
-    indicator: "Sets integrity standards and models unwavering consistency."
+    indicator: Embeds integrity systems in culture; influences external partners toward higher ethical standards.
 ---

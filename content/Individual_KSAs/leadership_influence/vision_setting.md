@@ -1,23 +1,25 @@
 ---
 ksa_id: vision_setting
-label: "Vision‑Setting"
-category: "Leadership"
+label: Vision-Setting
+category: Leadership
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Strategic Leadership"
+  - "Strategic Vision"
   - "Inspiration"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Crafts and communicates a compelling picture of the future, aligning people and resources toward that vision."
-source_frameworks: []
+description: >
+  Creates and articulates a compelling long-term vision that inspires others and guides organizational direction.
+source_frameworks:
+  - "Based on U.S. OPM ECQ Leading Change—Vision (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: "States team goals and basic aspirations."
+    indicator: States team goals when prompted; understands the organization’s mission.
   - level: Basic
-    indicator: "Links near‑term tasks to a clear medium‑term vision."
+    indicator: Articulates clear near-term objectives linked to broader goals; communicates enthusiasm for future possibilities.
   - level: Intermediate
-    indicator: "Articulates multi‑year vision and secures stakeholder sponsorship."
+    indicator: Synthesizes trends to craft an engaging multi-year vision; aligns team efforts with strategic priorities.
   - level: Advanced
-    indicator: "Inspires cross‑functional teams to act on a shared long‑term direction."
+    indicator: Inspires cross-functional commitment to an ambitious vision; adjusts direction responsively to environmental changes.
   - level: Expert
-    indicator: "Orchestrates enterprise‑wide vision that shapes markets and culture."
+    indicator: Shapes enterprise-wide or societal vision; influences external stakeholders and resources to realize long-range goals.
 ---

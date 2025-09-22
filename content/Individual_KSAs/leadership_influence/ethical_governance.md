@@ -1,23 +1,25 @@
 ---
 ksa_id: ethical_governance
-label: "Ethical Governance"
-category: "Leadership"
+label: Ethical Governance
+category: Leadership
+sector: cross_sector
+horizon: perennial
 cluster_tags:
   - "Integrity"
-  - "Accountability"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Ensures decisions and behaviours align with legal, moral, and societal expectations."
-source_frameworks: []
+  - "Compliance"
+description: >
+  Models integrity and transparency; establishes policies and oversight mechanisms that ensure ethical decision-making and regulatory compliance.
+source_frameworks:
+  - "Aligned with public-domain ethics guidelines from OPM and OECD"
 proficiency_levels:
   - level: Awareness
-    indicator: "Follows code of conduct."
+    indicator: Follows code of conduct; discloses conflicts of interest when prompted.
   - level: Basic
-    indicator: "Identifies ethical dilemmas and seeks guidance."
+    indicator: Applies ethical standards to daily decisions; reports observed misconduct.
   - level: Intermediate
-    indicator: "Weighs stakeholder impacts and mitigates conflicts of interest."
+    indicator: Implements controls to prevent unethical behavior; conducts ethical risk assessments.
   - level: Advanced
-    indicator: "Champions ethical decision frameworks across teams."
+    indicator: Leads ethics investigations; integrates ethics and compliance into strategic planning; communicates ethical expectations organization-wide.
   - level: Expert
-    indicator: "Engineers organization‑wide ethics programs and public accountability processes."
+    indicator: Establishes industry-leading governance frameworks; advises external bodies on ethics policy; fosters culture of integrity and accountability.
 ---

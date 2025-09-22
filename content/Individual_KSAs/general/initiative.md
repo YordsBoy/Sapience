@@ -4,8 +4,10 @@ label: Initiative
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Proactivity"]
-description: "Proactively identifies opportunities and takes action without waiting for direction."
+cluster_tags:
+  - "Proactivity"
+description: >
+  Proactively identifies opportunities and takes action without waiting for direction.
 source_frameworks:
   - "Adapted from O*NET Work Style 'Initiative' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

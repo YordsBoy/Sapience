@@ -4,8 +4,11 @@ label: Self-Motivation
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Work Ethic","Initiative"]
-description: "Drives oneself to achieve goals with sustained energy, without constant external supervision."
+cluster_tags:
+  - "Work Ethic"
+  - "Initiative"
+description: >
+  Drives oneself to achieve goals with sustained energy, without constant external supervision.
 source_frameworks:
   - "Informed by O*NET Work Style 'Achievement/Effort' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

@@ -4,8 +4,10 @@ label: Time Management
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Productivity"]
-description: "Prioritizes tasks, allocates time efficiently, and meets deadlines consistently."
+cluster_tags:
+  - "Productivity"
+description: >
+  Prioritizes tasks, allocates time efficiently, and meets deadlines consistently.
 source_frameworks:
   - "Conceptual alignment with O*NET 'Time Management' knowledge area (public domain)"
 proficiency_levels:

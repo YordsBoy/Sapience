@@ -1,23 +1,26 @@
 ---
 ksa_id: ethical_reflection_reasoning
-label: "Ethical Reflection & Reasoning"
-category: "Self Management"
+label: Ethical Reflection & Reasoning
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Philosophy"
-  - "Decision‑Making"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Applies ethical frameworks (utilitarian, duty, virtue) to dilemmas."
-source_frameworks: []
+  - "Ethics"
+  - "Decision-Making"
+description: >
+  Examines moral dilemmas, applies ethical principles, and justifies decisions
+  that align with personal and organisational values.
+source_frameworks:
+  - "Rest’s Four-Component Model of Moral Behavior (public summaries)"
 proficiency_levels:
   - level: Awareness
-    indicator: "Recognizes ethical elements in decisions."
+    indicator: Recognises when choices have ethical implications.
   - level: Basic
-    indicator: "Uses one framework such as fairness."
+    indicator: Consults policies and values statements before acting; explains chosen course.
   - level: Intermediate
-    indicator: "Compares multiple frameworks for complex dilemmas."
+    indicator: Weighs competing values; uses structured methods (e.g., stakeholder impact matrix) to decide.
   - level: Advanced
-    indicator: "Facilitates group ethical decision‑making sessions."
+    indicator: Leads ethical discussions; anticipates downstream consequences; documents rationale.
   - level: Expert
-    indicator: "Develops systemic ethical‑reasoning curricula."
+    indicator: Shapes codes of conduct; mentors others in ethical reasoning; influences industry ethics standards.
 ---

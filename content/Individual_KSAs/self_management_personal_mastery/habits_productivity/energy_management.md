@@ -1,22 +1,26 @@
 ---
 ksa_id: energy_management
-label: "Energy Management"
-category: "Self Management"
+label: Energy Management
+category: Self Management
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Peak Performance"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Aligns tasks with natural energy rhythms and recovery practices."
-source_frameworks: []
+  - "Productivity"
+  - "Well-being"
+description: >
+  Optimises physical, mental, and emotional energy through routines of rest, nutrition,
+  movement, and focused recovery to sustain high performance.
+source_frameworks:
+  - "Public-domain sports-science and workplace-energy research"
 proficiency_levels:
   - level: Awareness
-    indicator: "Tracks energy highs and lows."
+    indicator: Recognises personal energy highs and lows; schedules demanding tasks at peak times when possible.
   - level: Basic
-    indicator: "Schedules demanding tasks in high‑energy windows."
+    indicator: Uses simple strategies (hydration, short breaks) to maintain alertness.
   - level: Intermediate
-    indicator: "Uses nutrition, movement, and rest to influence energy curve."
+    indicator: Implements balanced exercise, sleep, and nutrition plans; cycles work and recovery for sustained output.
   - level: Advanced
-    indicator: "Designs quarterly energy‑recharge cycles."
+    indicator: Tracks energy metrics (heart-rate variability, fatigue scores) to fine-tune routines; mentors colleagues on energy rituals.
   - level: Expert
-    indicator: "Creates organization‑level energy‑management policies."
+    indicator: Integrates energy-management programs into organisational health strategy; leverages data analytics to link energy patterns to productivity and wellbeing KPIs.
 ---

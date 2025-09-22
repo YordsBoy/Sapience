@@ -4,19 +4,22 @@ label: Effective Communication
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Communication","Active Listening"]
-description: "Clearly and appropriately conveys information in oral and written forms, actively listens to others, and tailors communication style to audience and context."
+cluster_tags:
+  - "Communication"
+  - "Active Listening"
+description: >
+  Conveys information clearly in oral and written forms, actively listens, tailors messages to the audience, and facilitates mutual understanding.
 source_frameworks:
-  - "Adapted from U.S. OPM competency definitions for Oral/Written Communication, public domain"
+  - "Based on U.S. OPM competencies for Oral & Written Communication (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Conveys basic information with clarity in one-on-one settings; listens when prompted.
+    indicator: Shares basic information politely; follows communication protocols.
   - level: Basic
-    indicator: Communicates routine messages with minimal errors; engages in active listening by paraphrasing others' points.
+    indicator: Writes and speaks with clarity on routine topics; practices active listening by paraphrasing key points.
   - level: Intermediate
-    indicator: Explains complex ideas in simple terms to peers; adjusts tone and format (email, presentation) to suit the audience; provides constructive feedback.
+    indicator: Explains complex ideas in simple terms; adapts tone and format (email, presentation) to audience needs; provides constructive feedback.
   - level: Advanced
-    indicator: Articulates vision and technical concepts clearly to diverse stakeholder groups; facilitates discussions and ensures mutual understanding.
+    indicator: Persuades diverse stakeholders with well-structured messages; facilitates discussions to resolve misunderstandings and reach consensus.
   - level: Expert
-    indicator: Persuades and influences broad audiences through compelling communication; coaches others in advanced communication and active listening techniques.
+    indicator: Crafts compelling narratives that influence organizational direction; mentors others in advanced communication strategy and active-listening techniques.
 ---

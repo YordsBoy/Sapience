@@ -4,19 +4,22 @@ label: Creative Thinking
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: {"Innovation","Ideation"}
-description: "Develops new insights and novel solutions by questioning conventional approaches and encouraging innovative ideas, designs, and methods."
+cluster_tags:
+  - "Innovation"
+  - "Ideation"
+description: >
+  Develops novel ideas and approaches by questioning assumptions, connecting disparate concepts, and experimenting with alternatives.
 source_frameworks:
-  - "Adapted from U.S. OPM ECQ (Creativity & Innovation), public domain"
+  - "Inspired by U.S. OPM ECQ 'Creativity & Innovation' (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Generates simple ideas or alternatives when faced with a problem.
+    indicator: Suggests simple alternatives when solving routine problems.
   - level: Basic
-    indicator: Adapts known approaches to new contexts; contributes a creative suggestion within a team.
+    indicator: Combines existing ideas in new ways; participates in brainstorming sessions constructively.
   - level: Intermediate
-    indicator: Proposes innovative solutions and improvements, combining ideas from different domains.
+    indicator: Generates multiple, diverse solutions to complex challenges; prototypes and tests promising concepts.
   - level: Advanced
-    indicator: Leads brainstorming sessions; fosters an environment that encourages experimentation and creative risk-taking.
+    indicator: Leads innovation initiatives; removes barriers to creative risk-taking; secures resources for experimentation.
   - level: Expert
-    indicator: Champions a culture of innovation across the organization; develops cutting-edge strategies or products unprecedented in the field.
+    indicator: Shapes organizational strategy through breakthrough ideas; mentors others in structured creativity techniques.
 ---

@@ -1,23 +1,25 @@
 ---
 ksa_id: crisis_leadership
-label: "Crisis Leadership"
-category: "Leadership"
+label: Crisis Leadership
+category: Leadership
+sector: cross_sector
+horizon: perennial
 cluster_tags:
-  - "Resilience"
-  - "Emergency Management"
-sector: "cross_sector"
-horizon: "perennial"
-description: "Leads under extreme volatility, ambiguity, and pressure while preserving mission and people."
-source_frameworks: []
+  - "Crisis Management"
+  - "Decision-Making"
+description: >
+  Maintains composure, makes timely decisions, and directs coordinated responses during high-pressure or emergency situations.
+source_frameworks:
+  - "Aligned with FEMA ICS leadership principles (publicly released); wording original"
 proficiency_levels:
   - level: Awareness
-    indicator: "Stabilizes immediate safety and communication."
+    indicator: Follows emergency procedures; remains calm under guidance.
   - level: Basic
-    indicator: "Implements contingency plans and allocates critical resources."
+    indicator: Communicates clear instructions during minor incidents; escalates appropriately.
   - level: Intermediate
-    indicator: "Leads teams under pressure, balancing mission and people care."
+    indicator: Leads team response to significant disruptions; balances fast action with available data.
   - level: Advanced
-    indicator: "Builds antifragile cultures that learn and improve through crises."
+    indicator: Coordinates multi-team crisis operations; reallocates resources dynamically; briefs senior leaders and media.
   - level: Expert
-    indicator: "Anticipates, prepares for, and exploits disruptions, strengthening institutional resilience."
+    indicator: Designs crisis-management frameworks; anticipates systemic risks; mentors leaders in resilience and antifragile practices.
 ---

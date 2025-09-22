@@ -4,8 +4,10 @@ label: Learning Agility
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Continuous Learning"]
-description: "Rapidly acquires and applies new knowledge and skills to novel situations; reflects on experience to improve future performance."
+cluster_tags:
+  - "Continuous Learning"
+description: >
+  Rapidly acquires and applies new knowledge and skills to novel situations; reflects on experience to improve future performance.
 source_frameworks:
   - "Adapted from Korn Ferry & O*NET 'Learning Strategies' (public-domain descriptions)"
 proficiency_levels:

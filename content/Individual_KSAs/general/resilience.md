@@ -4,8 +4,11 @@ label: Resilience
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Well-Being","Stress Tolerance"]
-description: "Maintains performance and a positive outlook when faced with adversity, stress, or rapid change."
+cluster_tags:
+  - "Well-Being"
+  - "Stress Tolerance"
+description: >
+  Maintains performance and a positive outlook when faced with adversity, stress, or rapid change.
 source_frameworks:
   - "Derived from O*NET Work Style 'Stress Tolerance' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

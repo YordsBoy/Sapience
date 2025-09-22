@@ -4,8 +4,10 @@ label: Digital Literacy
 category: General
 sector: cross_sector
 horizon: perennial
-cluster_tags: ["Technology Fluency"]
-description: "Confidently uses digital tools, evaluates online information, and applies technology to solve problems and communicate effectively."
+cluster_tags:
+  - "Technology Fluency"
+description: >
+  Confidently uses digital tools, evaluates online information, and applies technology to solve problems and communicate effectively.
 source_frameworks:
   - "Derived from EU DigComp framework (publicly released) and O*NET 'Computers & Electronics' knowledge"
 proficiency_levels:
