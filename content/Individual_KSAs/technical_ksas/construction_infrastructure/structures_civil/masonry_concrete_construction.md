@@ -1,15 +1,18 @@
 ---
-ksa_id: masonry_concrete_construction  
-label: Masonry and Concrete Construction  
-category: Technical  
-sector: Construction_Infrastructure  
-horizon: perennial  
-cluster_tags:  
-  - "Masonry"  
-  - "Concrete"  
-  - "Construction"  
-description: "Constructs and finishes masonry and concrete elements (foundations, walls, slabs) to meet structural specifications, quality standards, and building codes."  
-source_frameworks: []  
+ksa_id: masonry_concrete_construction
+label: Masonry & Concrete Construction Techniques
+category: Technical
+sector: Construction_Infrastructure
+horizon: core_2025
+cluster_tags:
+  - "Structural"
+  - "ACI 318"
+description: >
+  Places formwork, reinforcement, and masonry units in compliance with ACI 318
+  and ASTM C standards, ensuring durability, alignment, and structural
+  integrity.
+source_frameworks:
+  - "ACI 318 Building Code Requirements for Structural Concrete" 
 proficiency_levels:  
   - level: Awareness  
     indicator: Mixes concrete or mortar under supervision; assists journeymen in basic tasks like carrying bricks and setting up forms.  

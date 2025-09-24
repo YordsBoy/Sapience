@@ -11,8 +11,8 @@ description: >
   Operates grid-scale lithium-ion or flow-battery systems per IEC 62933 safety
   requirements, optimising state-of-charge for arbitrage and grid-services
   value. See also `distributed_energy_resource_management` for aggregation
-  dispatch and `asset_integrity_management` for predictive-maintenance
-  programmes.
+  dispatch and `asset_integrity_management` 
+  for ISO 55000 asset-management governance .
 source_frameworks:
   - "IEC 62933 battery-storage safety standard"
 proficiency_levels:

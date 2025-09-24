@@ -1,15 +1,17 @@
 ---
-ksa_id: structural_engineering_basics
-label: Structural Engineering Basics
+ksa_id: structural_engineering_fundamentals
+label: Structural Engineering Fundamentals & Framing
 category: Technical
 sector: Construction_Infrastructure
 horizon: core_2025
 cluster_tags:
-  - "Structural Design"
-  - "Blueprint Reading"
-description: "Understands fundamental structural principles (loads, forces, material strength) and can read structural plans to ensure construction projects meet engineering requirements for stability and safety."
-source_frameworks:
-  - "References NCCER curriculum & ONET civil engineer tech competencies (public domain):contentReference[oaicite:175]{index=175}:contentReference[oaicite:176]{index=176}"
+  - "Structural"
+  - "Framing"
+description: >
+  Understands fundamental structural principles (loads, forces, material strength) and can read structural plans to ensure construction projects meet engineering requirements for stability and safety.
+source_frameworks: >
+  - "References NCCER curriculum & ONET civil engineer tech competencies (public domain)"
+  - "AISC Steel Manual & Wood Design Standards"
 proficiency_levels:
   - level: Awareness
     indicator: Recognizes common structural elements (beams, columns, foundations) on blueprints and knows they support loads.

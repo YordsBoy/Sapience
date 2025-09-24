@@ -33,4 +33,6 @@
 - **ISO & Industry Standards:** International standards like ISO 45001 (Occupational Health & Safety) and ISO 14001 (Environmental Management) for mining were used as reference points for best practices in safety and environmental management. (No text copied, but principles included.)
 - **Environmental Regulations:** We consulted public guidelines from environmental agencies (e.g., the U.S. EPA’s guidelines on mine reclamation and water quality) for the Mine Site Rehabilitation KSA. These public domain sources ensure our content meets or exceeds typical regulatory expectations.
 - **Academic & Industry Training:** Concepts from free university lectures on mining engineering (e.g., basics of blasting, mine planning) and open-pit design textbooks (where permissible) were used to double-check the technical accuracy of our KSAs (conceptual verification only).
-
+- **API 653 – Tank Inspection, Repair & Reconstruction:** Provides minimum fitness-for-service criteria used in the API Tank & Pipeline Inspection Compliance KSA. 
+- **ISO 16530-1 – Well-Integrity Life-Cycle Governance:** Grounds the Well-Integrity Life-Cycle Assurance KSA, detailing barrier management from design through abandonment. 
+- **SIGTTO LNG Cargo-Handling Competency Standards:** Supply operational and safety benchmarks for the LNG Terminal Cargo-Handling Operations KSA.

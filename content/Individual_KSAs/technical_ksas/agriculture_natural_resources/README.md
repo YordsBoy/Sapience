@@ -31,4 +31,4 @@
 - **FAO & UN Sustainable Ag Initiatives:** High-level concepts of sustainable agriculture and climate-smart practices were drawn from FAO guidelines (e.g., FAO’s Climate-Smart Agriculture framework). These guided the inclusion of climate resilience and sustainability topics (no direct text copied).
 - **MSHA & OSHA (for farm safety):** For any KSAs touching on farm equipment safety or pesticide handling, we consulted safety standards by OSHA and EPA (public regulations) to ensure compliance topics are covered.
 - **Academic Research:** General trends like precision ag ROI come from ag extension research (e.g., land-grant university studies). We integrated findings (like the importance of cost-benefit analysis of tech) conceptually without copying text.
-
+- **ISO/TC 23 – Tractors & Machinery for Agriculture & Forestry:** Key safety and performance standards integrated into Advanced Machinery Operation and Agricultural Robotics Maintenance KSAs.

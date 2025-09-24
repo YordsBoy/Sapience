@@ -1,12 +1,19 @@
 ---
 ksa_id: offsite_modular_construction_management
-label: Off‑Site Modular Construction Management
+label: Off-Site Modular Construction Management
 category: Technical
 sector: Construction_Infrastructure
 horizon: emerging
-cluster_tags: ["Modular Construction","Prefabrication","Project Delivery"]
-description: Planning, coordinating, and integrating off‑site manufactured building modules—including logistics, just‑in‑time delivery, and on‑site assembly—to reduce project timelines, waste, and safety incidents.
-source_frameworks: ["McKinsey (2025) Modular Construction Report"]
+cluster_tags:
+  - "Modular"
+  - "Lean"
+description: >
+  Plans, fabricates, transports, and installs volumetric or panelised modules,
+  coordinating factory QA, logistics, and on-site assembly per Modular Building
+  Institute best practices.  See also `site_logistics_material_handling`.
+source_frameworks:
+  - "Modular Building Institute best-practice guides"
+  - "McKinsey (2025) Modular Construction Report"
 proficiency_levels:
 - level: Awareness
 indicator: Identifies volumetric vs. panelised modules; follows factory quality‑assurance (QA) checklists.

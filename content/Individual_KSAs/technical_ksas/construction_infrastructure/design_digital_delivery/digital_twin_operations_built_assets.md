@@ -4,9 +4,15 @@ label: Digital Twin Operations for Built Assets
 category: Technical
 sector: Construction_Infrastructure
 horizon: emerging
-cluster_tags: ["Digital Twin","Asset Management","BIM"]
-description: Creating and maintaining high‑fidelity digital twins of buildings and infrastructure to support real‑time monitoring, predictive maintenance, and performance optimisation throughout the asset life‑cycle.
-source_frameworks: ["ISO 23247 Digital Twin Framework"]
+cluster_tags:
+  - "Digital Twin"
+  - "ISO 23247"
+description: >
+  Creates and maintains operational digital twins post-handover, linking BIM,
+  IoT sensors, and asset-management systems per ISO 23247 to enable predictive
+  maintenance and performance optimisation.  See also `asset_integrity_management`.
+source_frameworks:
+  - "ISO 23247 Digital-Twin Framework"
 proficiency_levels:
 - level: Awareness
 indicator: Explains difference between BIM and digital twin; synchronises basic sensor data feeds.
