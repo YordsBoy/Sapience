@@ -1,32 +1,44 @@
+Arts & Recreation Services
+==========================
 
----
+Creative technology, hybrid participation models, and outcome-focused funding are rapidly reshaping arts, sports, and recreation programs. Community organisations now blend digital media, esports, and wellness offerings to reach broader, more diverse audiences while meeting rigorous safety and accreditation standards. NRPA data show agencies that track social-impact metrics secure **26 % more grant funding** on average, while virtual-event adoption has grown 35 % YoY since 2021.
 
-```markdown
-# 🏞 Arts & Recreation
+## Sub-domain structure
 
-Global parks, sports and recreation sector expects **5 % CAGR to 2028**, with XR fan engagement and wellness tourism driving roles :contentReference[oaicite:14]{index=14}.
+| Sub-folder | Focus |
+|------------|-------|
+| **events_programming/** | Live, hybrid, and esports event planning & stage ops |
+| **media_design/** | Digital, interactive, and performance media creation |
+| **fitness_wellness/** | Group exercise and individual instruction skills |
+| **outdoor_recreation/** | Trail operations and outdoor safety competencies |
+| **recreation_programs/** | Program design and impact evaluation |
 
-## Sub‑domains & sample KSAs
-| Sub‑domain | Purpose | Representative KSAs |
-|------------|---------|---------------------|
-| Performing_Arts | Live artistic productions in theatre, music, and dance | Stage Production Management · Lighting Design & Programming |
-| Digital_Arts_Media | Creation of multimedia and interactive content | Digital Content Creation Tools |
-| Recreation_Management | Community programmes for participation and wellness | Recreation Program Design |
-| Fitness_Wellness | Physical‑activity instruction and coaching | Fitness Instruction Techniques (planned) |
-| Parks_Operations | Management and safety of outdoor facilities and programmes | Outdoor Recreation Safety & Risk Management |
-| Esports_Gaming | Competitive video‑gaming events and leagues | Esports Event Coordination |
+## Sapience horizon keys
 
+| Key | Definition |
+|-----|------------|
+| **core_2025** | Widely used competencies essential today |
+| **emerging**  | Rapid-growth skills that will become mainstream within 2–4 years |
 
-## Authoritative References
-- International Alliance of Theatrical Stage Employees (IATSE). *Safety Bulletins for Theatrical Production*.
-- United States Institute for Theatre Technology (USITT). *Lighting and Stagecraft Competencies*.
-- Adobe. *Certified Professional Exam Objectives*.
-- National Recreation and Park Association (NRPA). *CPRP Competency Standards*.
-- Leave No Trace Center for Outdoor Ethics. *Trainer Course Manual*.
-- Wilderness Medical Associates. *Wilderness First Responder Curriculum*.
-- Esports Integrity Commission (ESIC). *Event Hosting Guidelines*.
-- North American Scholastic Esports Federation (NASEF). *Event Playbook*.
-- U.S. BLS Occupational Outlook Handbook – Arts, Design, Entertainment.
-- ACE. *Group Fitness Instructor Manual*.
-- ACSM (2025). *Certified Personal Trainer Exam Outline*.
-- U.S. NPS. *Trail Management Handbook*.
+## KSA inventory
+
+Community_Event_Planning · Digital_Content_Creation_Tools · Esports_Event_Coordination · Fitness_Instruction_Techniques · Group_Exercise_Programming · Interactive_Media_Design · Lighting_Design_Programming · Multimedia_Content_Creation · Outdoor_Recreation_Safety · Recreation_Outcome_Measurement · Recreation_Program_Design · Sound_Design_FOH_Engineering · Stage_Production_Management · Trail_Facility_Maintenance · Virtual_Event_Management
+
+*(All files reside in the sub-folders shown above.)*
+
+## Referenced Frameworks & Standards
+
+- **International Live Events Association (CSEP):** Competency domains guided Community Event Planning and Stage Production Management KSAs. 
+- **NRPA CAPRA Accreditation Standards:** Benchmarked Recreation Program Design and Outcome Measurement for quality and equity metrics. 
+- **Adobe Certified Professional Objectives:** Defined tool-proficiency requirements for Digital and Multimedia Content Creation KSAs.  
+- **ACSM & CSEP Fitness Guidelines:** Provided evidence-based principles for Fitness Instruction Techniques and Group Exercise Programming. 
+- **IES RP-41-20:** Performance-lighting recommended practice underpinning Lighting Design & Programming. 
+- **AVIXA A103 Sound Standards:** Ensured Sound Design & FOH Engineering aligns with measurable audio-quality benchmarks.
+- **US Forest Service Trail Maintenance Notebook (2025):** Specified sustainability and safety techniques for Trail & Facility Maintenance.  
+- **FHWA Active-Transportation Maintenance Guide (2025):** Added infrastructure-safety protocols for trail upkeep.
+- **Wilderness Risk-Management Guidelines:** Informed Outdoor Recreation Safety incident-prevention stages.  
+- **Execu-Events Virtual Event Planner Guide (2025) & TechRadar Platform Review:** Defined best practices and tool landscape for Virtual Event Management. 
+- **Esports Event Planning Guides (TicketFairy 2025; BCE 2025):** Established workflows for Esports Event Coordination.  
+
+> *All sources were referenced conceptually; no proprietary text has been copied. Standards cited are public or used under permissible licences.*
+
