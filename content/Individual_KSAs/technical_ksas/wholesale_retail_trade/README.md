@@ -30,10 +30,14 @@
 
 ## Referenced Frameworks & Standards
 
-- **ONET OnLine (Retail Roles):** ONET descriptions for *Retail Salespersons*, *First-Line Supervisors of Retail Sales*, and *Merchandise Displayers* were used to cover fundamental tasks. For instance, inventory and sales tracking tasks in ONET informed our Inventory Control KSA:contentReference[oaicite:270]{index=270}. ONET is public domain and cited accordingly.
-- **National Retail Federation (NRF):** NRF’s published materials on omnichannel best practices and retail management (conceptual frameworks, not proprietary data) guided the inclusion of Omnichannel Strategies and Customer Experience KSAs:contentReference[oaicite:271]{index=271}:contentReference[oaicite:272]{index=272}. We didn’t quote any NRF text, but their identification of omnichannel and customer-centric skills validated our additions.
+- **ONET OnLine (Retail Roles):** ONET descriptions for *Retail Salespersons*, *First-Line Supervisors of Retail Sales*, and *Merchandise Displayers* were used to cover fundamental tasks. For instance, inventory and sales tracking tasks in ONET informed our Inventory Control KSA. ONET is public domain and cited accordingly.
+- **National Retail Federation (NRF):** NRF’s published materials on omnichannel best practices and retail management (conceptual frameworks, not proprietary data) guided the inclusion of Omnichannel Strategies and Customer Experience KSAs. We didn’t quote any NRF text, but their identification of omnichannel and customer-centric skills validated our additions.
 - **Retail Technology Vendors:** General knowledge from POS system manuals (e.g., Square or Shopify documentation, which are public) helped ensure our POS Operations KSA covers relevant functions. Similarly, understanding capabilities of typical Inventory Management Software (publicly documented features) helped shape the Inventory Analytics KSA.
 - **Academic Research & Reports:** We referenced insights from reports like *WEF Future of Retail 2025* and *McKinsey on Omnichannel* for context (e.g., importance of seamless channels, though we did not copy any text). These emphasize why skills like digital integration and data analytics are critical, reinforcing our additions.
 - **Customer Service Standards:** Concepts from publicly available customer service training (like library of common standards: courtesy, active listening, etc.) are embedded in Customer Service Basics. No copyrighted materials used – just widely accepted service principles.
 - **Logistics Coordination:** We aligned the logistics aspects of retail (like BOPIS, last-mile delivery) with content in the Transportation & Logistics sector to avoid duplication. Where overlap exists, we mention collaboration (e.g., retail staff working with couriers). This alignment is conceptually based on standard practices in industry.
-
+- **ISO / ASTM 52939:**QA requirements for additive construction 
+- **NRF Unified Commerce Blueprint:** reference for unified-platform KSA 
+- **CCPA / GDPR:** consumer-privacy regulations informing data-privacy KSA 
+- **Sedex Circular-Economy Toolkit:** guides sustainable sourcing 
+- **Forbes & Deloitte Retail Media Network reports:** standards for RMN monetization
