@@ -13,15 +13,15 @@ description: >
   biodiversity and soil health.
 source_frameworks:
   - "FAO 10 Elements of Agroecology (public)"
-proficiency_levels:
-  - level: Awareness
-    indicator: Recognises concepts of biodiversity, nutrient cycling, and soil cover.
-  - level: Basic
-    indicator: Implements crop rotations and habitat strips to encourage beneficial insects.
-  - level: Intermediate
-    indicator: Integrates livestock–crop systems; reduces synthetic inputs via ecological services.
-  - level: Advanced
-    indicator: Designs polyculture or agroforestry systems; measures ecosystem service indicators.
-  - level: Expert
-    indicator: Leads landscape-scale agroecology projects; advises policymakers on agroecological transition strategies.
+proficiency_levels:  
+  - level: Awareness  
+    indicator: Can define agroecology and lists basic practices (crop rotation, organic composting).  
+  - level: Basic  
+    indicator: Participates in soil conservation measures (cover crop planting, reduced tillage) under guidance.  
+  - level: Intermediate  
+    indicator: Manages a farm plot using regenerative methods; monitors soil organic matter and crop diversity outcomes.  
+  - level: Advanced  
+    indicator: Optimises whole-farm ecosystem (integrates crops and livestock, biological pest control) to improve resilience and yield.  
+  - level: Expert  
+    indicator: Advocates and designs region-wide regenerative programs; contributes to policy or frameworks (e.g., FAO) promoting sustainable agriculture.  
 ---

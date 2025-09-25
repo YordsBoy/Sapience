@@ -13,15 +13,16 @@ description: >
   models through design, construction, and hand-over.
 source_frameworks:
   - "ISO 19650 series for BIM information management"
-proficiency_levels:
-  - level: Awareness
-    indicator: Navigates 3-D viewer; reads model element data.
-  - level: Basic
-    indicator: Uploads discipline models to CDE; follows file-naming rules.
-  - level: Intermediate
-    indicator: Runs clash detection; issues BCF/markup; updates MIDP.
-  - level: Advanced
-    indicator: Automates 4-D/5-D simulations; configures openBIM exchanges (IFC, COBie).
+  - "US National BIM Standard–United States (NBIMS-US)"
+proficiency_levels:  
+  - level: Awareness  
+    indicator: Understands what BIM is and can navigate 3D models to view basic building elements.  
+  - level: Basic  
+    indicator: Modifies simple components in a BIM model under supervision; participates in model review meetings.  
+  - level: Intermediate  
+    indicator: Develops detailed multi-discipline BIM models; runs clash detection and resolves minor design conflicts with team input.  
+  - level: Advanced  
+    indicator: Manages a common data environment for large projects; enforces BIM standards (naming conventions, version control) and coordinates across teams; automates 4-D/5-D simulations; configures openBIM exchanges (IFC, COBie).
   - level: Expert
-    indicator: Leads enterprise BIM strategy; mentors teams; audits ISO 19650 compliance.
+    indicator: Establishes company-wide BIM protocols (aligning with NBIMS-US); leads BIM strategy and execution planning on major infrastructure projects, mentoring others; audits ISO 19650 compliance.
 ---
