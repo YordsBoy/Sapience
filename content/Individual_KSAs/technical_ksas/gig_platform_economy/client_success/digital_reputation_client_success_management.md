@@ -3,10 +3,16 @@ ksa_id: digital_reputation_client_success_management
 label: Digital Reputation & Client Success Management
 category: Technical
 sector: Gig_Platform_Economy
-horizon: perennial
-cluster_tags: ["Reputation Management","Client Relations","Gig Work"]
+horizon: core_2025
+cluster_tags:
+  - "Reputation"
+  - "Client Success"
 description: Building and maintaining positive digital reputations across freelancing and on‑demand platforms through proactive communication, quality‑of‑service metrics, and conflict‑resolution strategies to secure repeat business and higher ratings.
-source_frameworks: ["Upwork Talent Toolbox","Freelancers Union Best Practices Guide"]
+source_frameworks:
+  - "Upwork Freelance Success Guide"    
+  - "Upwork Talent Toolbox"
+  - "Fiverr Level System Overview" 
+  - "Freelancers Union Best Practices Guide"]
 proficiency_levels:
   - level: Awareness
     indicator: Monitors rating dashboards; responds politely to client messages; meets basic service‑level expectations.

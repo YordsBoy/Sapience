@@ -4,9 +4,15 @@ label: Platform Income & Tax Compliance
 category: Technical
 sector: Gig_Platform_Economy
 horizon: core_2025
-cluster_tags: ["Tax Compliance","Platform Work","Reporting"]
+cluster_tags:
+  - "Tax"
+  - "Global Compliance"
 description: Tracking, reporting, and remitting income and self‑employment taxes for multi‑platform earnings, utilising OECD Model Reporting Rules for Digital Platforms (MRDP) and jurisdiction‑specific requirements.
-source_frameworks: ["Organisation for Economic Co‑operation and Development (OECD) MRDP 2023","IRS Publication 334 Tax Guide for Small Business"]
+source_frameworks:
+  - "Organisation for Economic Co‑operation and Development (OECD) MRDP 2023"
+  - "OECD DAC7 Reporting Rules"
+  - "IRS Gig-Economy FAQs"
+  - "IRS Publication 334 Tax Guide for Small Business"
 proficiency_levels:
   - level: Awareness
     indicator: Records gross earnings; identifies deductible business expenses; recognises tax‑reporting deadlines.
