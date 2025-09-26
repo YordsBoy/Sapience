@@ -3,10 +3,15 @@ ksa_id: heritage_conservation_techniques
 label: Heritage Conservation Techniques
 category: Technical
 sector: Creative_Cultural_Industries
-horizon: perennial
-cluster_tags: ["Cultural Heritage","Conservation","Materials Science"]
+horizon: core_2025
+cluster_tags: 
+  - "Conservation"
+  - "Built Heritage"
 description: Identifying, documenting, and applying scientific and artisanal methods to preserve and restore tangible cultural assets—such as paintings, textiles, architecture, and artifacts—while respecting historical integrity and community values.
-source_frameworks: ["International Council of Museums (ICOM) Conservation Principles","UNESCO World Heritage Capacity‑Building Guidelines"]
+source_frameworks: 
+    - "International Council of Museums (ICOM) Conservation Principles"
+    - "UNESCO World Heritage Capacity‑Building Guidelines"
+    - "ICOMOS Australia Burra Charter 2013" 
 proficiency_levels:
 - level: Awareness
 indicator: Recognises common deterioration symptoms (flaking paint, textile fading); follows basic object‑handling protocols.
