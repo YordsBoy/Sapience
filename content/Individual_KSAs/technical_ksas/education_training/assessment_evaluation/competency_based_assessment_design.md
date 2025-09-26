@@ -6,16 +6,19 @@ sector: Education_Training
 horizon: core_2025
 cluster_tags: ["Assessment","Competency‑Based Learning","Rubrics"]
 description: Designing valid and reliable assessments—performance tasks, portfolios, rubrics—that measure mastery of defined competencies rather than seat‑time or rote knowledge.
-source_frameworks: ["European Commission Key Competences Framework","IMS Global Competency Framework"]
+source_frameworks:
+  - "Quality Matters Higher-Education Rubric 7th Ed."
+  - "European Qualifications Framework (EQF)"
+  - "IMS Global Competency Framework"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies learning outcomes; selects basic assessment types; provides descriptive feedback.
   - level: Basic
     indicator: Writes criterion‑referenced rubrics; aligns tasks to Bloom’s taxonomy; collects evidence of mastery.
   - level: Intermediate
-    indicator: Calibrates scoring with colleagues; analyses reliability statistics; differentiates assessments for diverse learners.
+    indicator: Calibrates scoring with colleagues; analyses reliability statistics; maps evidence to frameworks (EQF, AQF); differentiates assessments for diverse learners.
   - level: Advanced
-    indicator: Designs cross‑disciplinary performance tasks; implements e‑portfolio systems; validates construct alignment.
+    indicator: Aligns competencies across programs; designs cross‑disciplinary performance tasks; implements e‑portfolio systems; validates construct alignment.
   - level: Expert
-    indicator: Leads competency‑based accreditation; publishes assessment research; consults on policy for proficiency‑based diplomas.
+    indicator: Leads competency‑based accreditation; publishes assessment research; consults on policy for proficiency‑based progams; mentors assessment designers..
 ---

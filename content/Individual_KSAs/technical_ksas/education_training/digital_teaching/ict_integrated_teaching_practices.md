@@ -4,10 +4,14 @@ label: ICT‑Integrated Teaching Practices
 category: Technical
 sector: Education_Training
 horizon: core_2025
-cluster_tags: ["ICT in Education","Digital Pedagogy","EdTech"]
+cluster_tags:
+  - "ICT"
+  - "Pedagogy"
 description: > 
   Applying Information and Communication Technology (ICT) tools—learning‑management systems, collaborative apps, digital content—to design and facilitate learner‑centred instruction aligned with curriculum standards to enhance student engagement and personalize learning.
-source_frameworks: ["UNESCO ICT Competency Framework for Teachers v4 (ICT‑CFT)"]
+source_frameworks:
+  - "ISTE Standards for Educators (Designer, Analyst)"
+  - "UNESCO ICT Competency Framework for Teachers"
 proficiency_levels:
   - level: Awareness
     indicator: Uses presentation software; uploads resources to Learning Management System (LMS); follows basic digital‑safety rules.
