@@ -3,15 +3,15 @@ ksa_id: omnichannel_service_management
 label: Omnichannel Service Management  
 category: Technical  
 sector: Customer_Experience_Service  
-horizon: emerging  
+horizon: core_2025 
 cluster_tags: 
-    - "Customer Service"
+    - "Service Design"
     - "Omnichannel"
 description: >  
-  Designs and manages an integrated customer support experience across channels (phone, email, live chat, social media, chatbots);  
-  ensures consistency in service quality, tracks cross-channel customer journeys, and deploys appropriate tools (helpdesk software, AI assistants) for unified support.  
+  Designs and manages an integrated customer support experience across channels (phone, email, live chat, social media, chatbots); ensures consistency in service quality, tracks cross-channel customer journeys, and deploys appropriate tools (helpdesk software, AI assistants) for unified support.  
 source_frameworks:  
   - "ITU Customer Contact Center Guidelines"  
+  - "COPC CX Standard 7.0"
 proficiency_levels:  
   - level: Awareness  
     indicator: Understands the concept of multiple service channels and why consistency is important.  
