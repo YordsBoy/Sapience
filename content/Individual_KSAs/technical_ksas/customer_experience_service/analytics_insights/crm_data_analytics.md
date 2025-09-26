@@ -14,13 +14,13 @@ source_frameworks:
   - "Salesforce Admin Competencies"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Can navigate basic CRM interface; understands customer data fields and simple reports.  
+    indicator: Can navigate basic CRM interface; understands key CRM fields (lead, case, opportunity) and simple reports.  
   - level: Basic  
     indicator: Logs customer interactions in CRM properly; pulls pre-built reports on customer satisfaction or sales metrics.  
   - level: Intermediate  
-    indicator: Customises CRM dashboards; performs segmentation and trend analysis on customer data to identify improvement areas.  
+    indicator: Customises CRM dashboards; performs segmentation and trend analysis on customer data to identify improvement areas; segments personas with AI insights.
   - level: Advanced  
-    indicator: Integrates multi-source data (CRM + web analytics); designs targeted campaigns or service changes based on data insights; ensures data quality and privacy compliance.  
+    indicator: Integrates multi-source data (CRM + web analytics); designs targeted campaigns or service changes based on data insights; ensures data quality and privacy compliance; designs predictive churn and propensity models; presents data stories to executives; ensures data governance.
   - level: Expert  
-    indicator: Architects the CRM strategy; implements advanced analytics or AI for customer insights; mentors teams on data-driven customer experience improvements.  
+    indicator: Architects the CRM strategy; implements advanced analytics or AI for customer insights; mentors teams on data-driven customer experience improvements and ethical AI use.  
 ---  

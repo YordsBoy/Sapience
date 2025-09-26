@@ -4,12 +4,17 @@ label: Service Recovery and Conflict Resolution
 category: Technical  
 sector: Customer_Experience_Service  
 horizon: perennial  
-cluster_tags:  
-  - "Customer Service"  
-  - "Conflict Resolution"  
-  - "Communication"  
-description: "Addresses customer complaints or service failures promptly and effectively to restore satisfaction, trust, and loyalty."  
-source_frameworks: []  
+horizon: core_2025
+cluster_tags:
+  - "Recovery"
+  - "Conflict" 
+description: >
+  Executes structured recovery protocols to turn service failures into loyalty
+  opportunities, leveraging the Service-Recovery Paradox (SRP) framework and
+  principles of procedural, distributive, and interactional justice.
+source_frameworks:
+  - "Harvard Business Review – Profitable Art of Service Recovery"
+  - "Service Recovery Paradox Research" 
 proficiency_levels:  
   - level: Awareness  
     indicator: Recognizes when a customer is dissatisfied or an error has occurred; remains calm and courteous during difficult interactions.  

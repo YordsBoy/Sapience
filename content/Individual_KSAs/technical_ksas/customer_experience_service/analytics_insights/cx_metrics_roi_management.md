@@ -4,9 +4,13 @@ label: CX Metrics, ROI & Business Case Management
 category: Technical
 sector: Customer_Experience_Service
 horizon: core_2025
-cluster_tags: ["CX Metrics","ROI","Business Case"]
+cluster_tags:
+  - "Metrics"
+  - "ROI"
 description: Defining, tracking, and communicating Customer Experience performance—with metrics such as Customer Satisfaction (CSAT), Customer Effort Score (CES), Customer Lifetime Value (CLV)—and linking improvements to financial outcomes.
-source_frameworks: ["Forrester CX Index Methodology","CXPA ROI Playbook"]
+source_frameworks:
+  - "Bain Net Promoter System"
+  - "Forrester CX Index"  
 proficiency_levels:
   - level: Awareness
     indicator: Calculates basic CSAT averages; recognises key CX metrics definitions.

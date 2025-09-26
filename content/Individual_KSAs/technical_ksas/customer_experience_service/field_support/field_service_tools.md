@@ -4,12 +4,13 @@ label: Field Service Management Tools
 category: Technical  
 sector: Customer_Experience_Service  
 horizon: emerging  
-cluster_tags:  
-  - "Customer Service"  
-  - "Software"  
-  - "Scheduling"  
-description: "Utilizes digital platforms and software (e.g. scheduling apps, CRM systems) to coordinate field service work, manage appointments, and document service delivery."  
-source_frameworks: []  
+cluster_tags:
+  - "Field Service"
+  - "Mobility"
+description: "Utilizes digital platforms and software (e.g. scheduling apps, CRM systems) to coordinate field service work, manage appointments,  parts logistics, on-site customer experience, and document service delivery."  
+source_frameworks:
+  - "Gartner Field Service Management Market Guide"
+  - "International Association of Field Service Managers (IAFSM) Body of Knowledge" 
 proficiency_levels:  
   - level: Awareness  
     indicator: Is aware of common field service apps and digital scheduling; uses a smartphone or tablet for basic communication and lookup.  

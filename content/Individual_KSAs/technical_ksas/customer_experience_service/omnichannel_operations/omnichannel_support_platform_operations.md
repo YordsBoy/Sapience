@@ -2,11 +2,15 @@
 ksa_id: omnichannel_support_platform_operations
 label: Omnichannel Support Platform Operations
 category: Technical
-sector: Customer_Experience_Service
-horizon: emerging
+horizon: core_2025
+cluster_tags:
+  - "Platform Ops"
+  - "ITIL"
 cluster_tags: ["Omnichannel","Support Technology","Contact Centre"]
 description: Configuring, optimising, and maintaining omnichannel support platforms—voice, chat, messaging, social, and self‑service—to deliver seamless customer experiences and real‑time context hand‑offs.
-source_frameworks: ["Gartner Magic Quadrant for Contact Centre as a Service 2025"]
+source_frameworks:
+  - "ITIL 4 Incident Management"
+  - "COPC CX Standard – Technology Management"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies supported channels; navigates agent desktop; recognises customer‑identity pop‑ups.
