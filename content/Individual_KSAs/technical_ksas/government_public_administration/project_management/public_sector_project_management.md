@@ -4,9 +4,14 @@ label: Public-Sector Project Management
 category: Technical
 sector: government_public_admin
 horizon: core_2025
-cluster_tags: ["PMBOK", "Earned-Value", "Stakeholder-Gov"]
+cluster_tags:
+  - "Project Management"
+  - "Public Sector"
 description: Plans, executes, and controls government projects using industry frameworks adapted for public-sector constraints, emphasizing value delivery, risk, and accountability.
-source_frameworks: ["pmi:PMBOK", "gao:ScheduleAssessment"]
+source_frameworks:
+  - "PMI PMBOK Guide 7th Edition"
+  - "Prince2 Agile"
+  - "gao:ScheduleAssessment"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies project objectives, scope, and basic milestones.

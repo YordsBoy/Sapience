@@ -4,9 +4,14 @@ label: ECQ Leadership in the Digital Era
 category: Technical
 sector: Government_Public_Administration
 horizon: core_2025
-cluster_tags: ["ECQ","Digital Leadership","Public Sector"]
-description: Applying the U.S. Office of Personnel Management (OPM) Executive Core Qualifications (ECQ)—Leading Change, Leading People, Results Driven, Business Acumen, and Building Coalitions—in a digital‑government context that emphasises agile delivery, data ethics, and user‑centred services.
-source_frameworks: ["OPM ECQ Competency Model","Federal CIO Council Digital Services Playbook"]
+cluster_tags:
+  - "Leadership"
+  - "Digital Transformation"
+description: Applying the U.S. Office of Personnel Management (OPM) Executive Core Qualifications (ECQ)—Leading Change, Leading People, Results Driven, Business Acumen, and Building Coalitions—in a digital‑government context that emphasizes agile delivery, data ethics, innvation, public value, and user‑centred services.
+source_frameworks:
+  - "OPM Executive Core Qualifications"
+  - "OECD Digital Government Policy Framework"
+  - "Federal CIO Council Digital Services Playbook"
 proficiency_levels:
   - level: Awareness
     indicator: Defines each ECQ; recognises agile terminology; understands executive‑order mandates for digital services.

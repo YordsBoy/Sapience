@@ -3,10 +3,15 @@ ksa_id: government_continuity_resilience_planning
 label: Government Continuity & Resilience Planning
 category: Technical
 sector: Government_Public_Administration
-horizon: perennial
-cluster_tags: ["Continuity of Operations","Resilience","Emergency Management"]
+horizon: core_2025
+cluster_tags:
+  - "Resilience"
+  - "Risk Management"
 description: Developing and maintaining Continuity of Operations (COOP) and Continuity of Government (COG) plans that ensure essential services, data integrity, and leadership succession during all‑hazards disruptions.
-source_frameworks: ["Federal Emergency Management Agency (FEMA) Continuity Guidance Circular","ISO 22301:2019 Business Continuity Management"]
+source_frameworks:
+  - "ISO 31000:2018 Risk Management"
+  - "Federal Emergency Management Agency (FEMA) Continuity Guidance Circular"
+  - "ISO 22301:2019 Business Continuity Management"
 proficiency_levels:
   - level: Awareness
     indicator: Lists essential functions; identifies alternate facilities; recognises alert and notification systems.

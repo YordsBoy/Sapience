@@ -4,9 +4,16 @@ label: Evidence‑Based Policy Analytics
 category: Technical
 sector: Government_Public_Administration
 horizon: core_2025
-cluster_tags: ["Policy Analytics","Evidence Act","Data Science"]
+cluster_tags:
+  - "Policy Analysis"
+  - "Evidence"
 description: Leveraging administrative data, statistical methods, and program‑evaluation techniques to formulate, implement, and review public policies in compliance with the Foundations for Evidence‑Based Policymaking Act and OMB Circular A‑11.
-source_frameworks: ["Evidence Act of 2018","OMB Circular A‑11 Section 290","GAO Program Evaluation Guide"]
+source_frameworks:
+  - "OECD Recommendation on Public-Policy Evaluation"
+  - "U.S. Foundations for Evidence-Based Policymaking Act"
+  - "Evidence Act of 2018"
+  - "OMB Circular A‑11 Section 290"
+  - "GAO Program Evaluation Guide"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies data sources; understands logic‑model basics; distinguishes outputs vs. outcomes.

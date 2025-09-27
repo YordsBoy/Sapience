@@ -2,11 +2,11 @@
 ksa_id: digital_government_services  
 label: Digital Government Services Delivery  
 category: Technical  
-sector: Government_Public_Admin  
-horizon: emerging  
-cluster_tags: 
-    - "e-Government"
-    - "Service Design"
+sector: Government_Public_Administration
+horizon: core_2025
+cluster_tags:
+  - "Digital Services"
+  - "User Experience"
 description: >  
   Designs and manages online public service platforms (e.g. e-government portals, digital IDs, online license renewals);  
   improves citizen experience and access by implementing user-friendly, secure digital services and streamlining bureaucratic processes via automation.  

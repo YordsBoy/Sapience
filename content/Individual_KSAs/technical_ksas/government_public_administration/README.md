@@ -1,33 +1,54 @@
+Government & Public Administration
+==================================
 
----
+Digitalisation, poly-crisis resilience, and data-driven policymaking are redefining public administration.  
+OECD’s 2022 *Recommendation on Public-Policy Evaluation* urges evidence and transparency across the policy cycle, while the *Recommendation on Open Government* embeds citizen co-creation and integrity principles.  ISO 22301 and FEMA’s NIMS guide business-continuity capacities in an era of climate-driven disruptions.  NIST’s 2023 *AI Risk Management Framework* sets the bar for trustworthy AI in public services.  World Bank’s 2023 Procurement Framework updates value-for-money and integrity safeguards.  Rising citizen expectations are captured in the U.S. Digital Services Playbook and Web Design System standards
+## Sub-domain folders
 
-```markdown
-# 🏛 Government & Public Administration
+| Folder | Focus |
+|--------|-------|
+| **digital_governance/** | Open data, digital services, AI/algorithmic governance, smart-city & identity |
+| **continuity_resilience/** | Emergency & continuity planning |
+| **policy_analysis/** | Evidence, data analytics, participatory budgeting |
+| **finance_procurement/** | Budgeting, procurement, public-private partnerships |
+| **performance_evaluation/** | Results-based management & evaluation |
+| **legislative_regulatory/** | Drafting & compliance |
+| **stakeholder_engagement/** | Intergovernmental & civic engagement |
+| **ethics_accountability/** | Public-sector ethics & data-privacy governance |
+| **project_management/** | Public-sector PM methods |
 
-UN Public Service Forum emphasises the need for **digital‑first, data‑driven** public servants to achieve SDGs.
+## Horizon keys
 
-## Sub‑domains & illustrative KSAs
-| Digital_Public_Services | *X‑Road Interoperability*, *eID Implementation* |
-| Policy_Analysis | *RegTech Data Mining*, *Behavioural Insights for Policy* |
-| Public_Finance | *Programme‑Budget Linking*, *Outcome‑Based Contracts* |
-| Civic_Engagement | *Participatory Budget Platform Ops*, *Open‑Data Storytelling* |
-| Resilience_Gov | *Continuity‑of‑Ops (COOP) Planning*, *Climate‑Risk Adaptation* |
+| Key | Meaning |
+|-----|---------|
+| **core_2025** | Essential in today’s public roles |
+| **emerging** | Scaling in 2-4 years |
 
-### YAML snippet
-```yaml
-ksa_id: eid_implementation
-sector: Government_Public_Admin
-sub_domain: Digital_Public_Services
-horizon: core_2025
-...
+## KSA inventory (22)
 
-## References
-  - UN DESA Young Public Servants concept note 2024 
-  - OECD Digital Government Policy Framework
-  - OPM. *Executive Core Qualifications Framework*
-  - Federal CIO Council. *Digital Services Playbook*
-  - Evidence Act of 2018
-  - OMB Circular A‑11, Section 290 (Data‑Driven Policy)
-  - GAO. *Program Evaluation Guide*
-  - FEMA. *Continuity Guidance Circular*
-  - ISO 22301:2019. *Business Continuity Management Systems*
+Civic_Tech_Open_Data_Governance · Digital_Government_Services · ECQ_Digital_Leadership · Emergency_Management_Continuity_Operations · Government_Continuity_Resilience_Planning · Evidence_Based_Policy_Analytics · Public_Policy_Data_Analytics · Public_Policy_Development · Participatory_Budgeting_Civic_Engagement · Legislative_Drafting_Regulatory_Compliance · Government_Procurement_Contract_Management · Public_Budgeting_Financial_Management · Public_Private_Partnership_Management · Performance_Measurement_Results_Based_Management · Public_Analysis_Program_Evaluation · Intergovernmental_Relations_Stakeholder_Engagement · Public_Service_Ethics_Accountability · Data_Privacy_Governance_Public_Sector · Public_Sector_Project_Management · Algorithmic_Transparency_Accountability · Smart_City_Governance_IoT_Cybersecurity · Digital_Identity_Management_Interoperability
+
+## Future gaps to watch
+
+* **Green Public-Procurement & Climate Budgeting**  
+* **Quantum-Safe Cyber Policy**  
+* **GovCloud FinOps & Sustainability**  
+* **Inclusive Service Co-design for Marginalised Groups**
+
+## Referenced frameworks & standards
+
+- **OECD Recommendation on Open Government** – transparency & integrity.
+- **OECD Recommendation on Public-Policy Evaluation** – evaluation quality.
+- **ISO 22301:2019** – business-continuity requirements.
+- **FEMA NIMS 2022** – incident-command doctrine (continuity).  
+- **NIST AI RMF 1.0** – trustworthy AI governance.
+- **World Bank Procurement Framework 2023** – value-for-money & integrity.
+- **U.S. Digital Services Playbook & Web Design System** – user-centric digital services.
+- **UNDP Results-Based Management guidance** – developmental RBM.
+- **IAP2 Spectrum of Public Participation** – stakeholder engagement standards.
+- **OECD Open Government Toolkit** – implementation guidance.
+- **IRS Gig-Economy Tax Center** (cross-reference for finance compliance).  
+- **MDPI Behavioural Sciences Algorithmic-Management study** – risk context. 
+
+> *All sources are used for conceptual alignment; no copyrighted text has been copied.*
+
