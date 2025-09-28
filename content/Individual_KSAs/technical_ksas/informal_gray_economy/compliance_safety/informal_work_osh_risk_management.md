@@ -4,9 +4,15 @@ label: Informal‑Work OSH & Risk Management
 category: Technical
 sector: Informal_Gray_Economy
 horizon: core_2025
-cluster_tags: ["Occupational Safety","Informal Work","Risk Management"]
+cluster_tags:
+  - "OSH"
+  - "Risk Management"
 description: Identifying and mitigating occupational‑safety and health (OSH) hazards in informal workplaces—street vending, home‑based production, waste picking—using participatory risk‑assessment tools and low‑cost protective measures.
-source_frameworks: ["International Labour Organization (ILO) Participatory OSH Training Manual","ISO 45001:2018 Occupational Health & Safety Management"]
+source_frameworks:
+  - "International Labour Organization (ILO) Participatory OSH Training Manual"
+  - "ILO Safety & Health Toolkit for Informal Economy"
+  - "WHO Healthy Workplaces Manual"
+  - "ISO 45001:2018 Occupational Health & Safety Management"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises common informal‑sector hazards; uses basic personal protective equipment (PPE); knows local emergency contacts.

@@ -4,13 +4,14 @@ label: Informal Microenterprise Management
 category: Technical  
 sector: Informal_Gray_Economy  
 horizon: core_2025  
-cluster_tags: 
-    - "Informal Economy"
-    - "Entrepreneurship"
+cluster_tags:
+  - "Microenterprise"
+  - "Management"
 description: >  
-  Runs small-scale businesses or hustles in the informal economy (e.g. street vending, unregistered home services);  
-  handles operations without formal frameworks – manages cash transactions, informal credit, supply sourcing through personal networks – demonstrating adaptability and entrepreneurial problem-solving under resource constraints.  
-source_frameworks:  
+  Runs small-scale businesses or hustles in the informal economy (e.g. street vending, unregistered home services); handles operations without formal frameworks – manages cash transactions, informal credit, supply sourcing through personal networks – demonstrating adaptability and entrepreneurial problem-solving under resource constraints.  
+source_frameworks:
+  - "World Bank Informal-Sector Skills Report"
+  - "IFC Gender & Informal Economy Study"
   - "ILO Guide on Informal Economy (R204)"  
 proficiency_levels:  
   - level: Awareness  

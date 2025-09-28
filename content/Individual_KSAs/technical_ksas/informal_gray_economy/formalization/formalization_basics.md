@@ -3,14 +3,16 @@ ksa_id: formalization_basics
 label: Transition to Formal Economy Basics  
 category: Technical  
 sector: Informal_Gray_Economy  
-horizon: watch_2030  
-cluster_tags: 
-    - "Formalization"
-    - "Regulatory Literacy"
+horizon: core_2025
+cluster_tags:
+  - "Formalization"
+  - "Basics"
 description: >  
   Understands the basic steps and implications of moving informal businesses or work into the formal economy;  
   knows about business registration processes, basic licensing/permit requirements, simple accounting and taxation for micro-enterprises, and the benefits (and challenges) of formalization.  
-source_frameworks:  
+source_frameworks:
+  - "USAID Business Formalization Guide"
+  - "ILO R204 Transition Toolkit"
   - "World Bank Informal to Formal Toolkit"  
 proficiency_levels:  
   - level: Awareness  
