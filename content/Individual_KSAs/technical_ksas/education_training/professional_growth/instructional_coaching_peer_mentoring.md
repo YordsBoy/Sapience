@@ -8,9 +8,7 @@ cluster_tags:
   - "Coaching"
   - "Mentoring"
 description: >
-  Facilitates reflective cycles (pre-observation, feedback, goal setting) to
-  support colleagues’ growth, using the International Coaching Federation (ICF)
-  core competencies and ISTE Educator Standard 7.
+  Facilitates reflective cycles (pre-observation, feedback, goal setting) to support colleagues’ growth, using the International Coaching Federation (ICF) core competencies and ISTE Educator Standard 7.
 source_frameworks:
   - "International Coaching Federation Core Competencies"
   - "ISTE Standards for Educators – Collaborator"

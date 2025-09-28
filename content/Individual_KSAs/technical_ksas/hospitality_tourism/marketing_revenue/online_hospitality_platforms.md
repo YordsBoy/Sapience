@@ -4,13 +4,15 @@ label: Online Hospitality Platform Management
 category: Technical  
 sector: Hospitality_Tourism  
 horizon: core_2025  
-cluster_tags: 
-    - "Booking Platforms"
-    - "Digital Marketing"
+cluster_tags:
+  - "Platforms"
+  - "Channel Management"
 description: >  
   Manages presence on online travel agencies (OTAs) and review sites (e.g. Expedia, Airbnb, TripAdvisor);  
   optimises listings, responds to customer reviews, adjusts pricing and promotions based on platform analytics to maximize visibility and bookings.  
-source_frameworks:  
+source_frameworks:
+  - "Airbnb Host Quality Standards"
+  - "Booking.com Partner Hub Guidelines" 
   - "Hospitality Digital Marketing Certification (e.g. HSMAI)"  
 proficiency_levels:  
   - level: Awareness  

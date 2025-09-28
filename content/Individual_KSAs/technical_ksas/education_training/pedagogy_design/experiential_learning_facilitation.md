@@ -8,9 +8,7 @@ cluster_tags:
   - "Experiential"
   - "Facilitation"
 description: >
-  Guides learners through Kolb’s Experiential Learning Cycle—concrete
-  experience, reflective observation, abstract conceptualisation, active
-  experimentation—using simulations, fieldwork, and service-learning.
+  Guides learners through Kolb’s Experiential Learning Cycle—concrete experience, reflective observation, abstract conceptualisation, active experimentation—using simulations, fieldwork, and service-learning.
 source_frameworks:
   - "Kolb Experiential Learning Theory (ELT)"
   - "National Society for Experiential Education (NSEE) Principles"

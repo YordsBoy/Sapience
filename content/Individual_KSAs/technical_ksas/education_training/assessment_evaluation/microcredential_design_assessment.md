@@ -8,8 +8,7 @@ cluster_tags:
   - "Micro-credential"
   - "Badging"
 description: >
-  Structures short, skills-verified micro-credentials with clear evidence
-  requirements, blockchain-secure badges, and labor-market alignment.
+  Structures short, skills-verified micro-credentials with clear evidence requirements, blockchain-secure badges, and labor-market alignment.
 source_frameworks:
   - "Quality Matters Micro-credential Standards"
   - "European MOOC Consortium Common Micro-credential Framework"

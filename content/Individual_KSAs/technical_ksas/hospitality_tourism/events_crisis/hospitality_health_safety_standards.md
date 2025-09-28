@@ -8,9 +8,10 @@ cluster_tags:
     - "Safety Protocols"
     - "Compliance"
 description: >  
-  Implements and adheres to rigorous health and safety protocols in hospitality settings;  
-  maintains cleanliness standards (e.g., post-pandemic sanitization procedures), ensures food safety and emergency preparedness, and obtains relevant health/safety certifications (like HACCP, GBAC).  
-source_frameworks:  
+  Implements and adheres to rigorous health and safety protocols in hospitality settings; maintains cleanliness standards (e.g., post-pandemic sanitization procedures), ensures food safety and emergency preparedness, and obtains relevant health/safety certifications (like HACCP, GBAC).  
+source_frameworks:
+  - "WTTC Safe Travels Stamp Protocols"
+  - "GBAC STAR Facility Accreditation 
   - "WHO COVID-19 Hospitality Safety Guidelines"  
 proficiency_levels:  
   - level: Awareness  

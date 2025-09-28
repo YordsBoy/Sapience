@@ -3,10 +3,15 @@ ksa_id: revenue_yield_management
 label: Hospitality Revenue & Yield Management
 category: Technical
 sector: Hospitality_Tourism
-horizon: core_2025
-cluster_tags: ["Revenue Management","Yield","Pricing Strategy"]
+horizon: emerging
+cluster_tags:
+  - "Yield Management"
+  - "Optimization"
 description: Applying dynamic pricing, demand forecasting, and distribution‑channel optimisation to maximise RevPAR (Revenue per Available Room) and GOPPAR (Gross Operating Profit per Available Room) in hotels and events.
-source_frameworks: ["Cornell School of Hotel Administration Revenue Management Framework","STR Hotel Data Analytics"]
+source_frameworks:
+  - "HSMAI Revenue Optimization Framework"
+  - "Cornell School of Hotel Administration Revenue Management Framework"
+  - "STR Hotel Data Analytics"
 proficiency_levels:
   - level: Awareness
     indicator: Defines ADR (Average Daily Rate), occupancy, RevPAR; monitors competitor sets.

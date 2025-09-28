@@ -4,9 +4,15 @@ label: Housekeeping Operations
 category: Technical
 sector: hospitality_tourism
 horizon: core_2025
-cluster_tags: ["Quality-Standards", "Occupancy-Turnover", "Inventory-Control"]
+cluster_tags:
+  - "Housekeeping"
+  - "Operations"
 description: Oversees cleaning, linen, and maintenance standards to ensure hygienic, aesthetically pleasing environments and quick room-turnaround cycles.
-source_frameworks: ["osha:1910", "iso:HF Hygiene"]
+source_frameworks:
+  - "AHLEI Managing Housekeeping Operations"
+  - "GBAC STAR Cleaning Guidelines"
+  - "osha:1910"
+  - "iso:HF Hygiene"
 proficiency_levels:
   - level: Awareness
     indicator: Follows SOPs for guest-room cleaning and replenishes amenities correctly.

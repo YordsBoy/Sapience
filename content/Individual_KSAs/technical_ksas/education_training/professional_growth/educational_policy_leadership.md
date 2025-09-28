@@ -8,9 +8,7 @@ cluster_tags:
   - "Leadership"
   - "Policy"
 description: >
-  Develops, implements, and evaluates education policies, accreditation
-  processes, and change-management initiatives that advance equitable student
-  outcomes.
+  Develops, implements, and evaluates education policies, accreditation processes, and change-management initiatives that advance equitable student outcomes.
 source_frameworks:
   - "Council for the Accreditation of Educator Preparation (CAEP) Standards"
   - "Kotter 8-Step Change Model"

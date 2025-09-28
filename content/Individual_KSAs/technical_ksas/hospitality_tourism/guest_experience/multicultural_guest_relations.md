@@ -4,9 +4,13 @@ label: Multicultural Guest Relations
 category: Technical
 sector: hospitality_tourism
 horizon: core_2025
-cluster_tags: ["Cultural-Etiquette", "Language-Support", "Inclusive-Service"]
+cluster_tags:
+  - "Multicultural"
+  - "Relations"
 description: Delivers culturally responsive service, anticipates diverse guest needs, and resolves cross-cultural misunderstandings to elevate global guest satisfaction.
-source_frameworks: ["unwto:CulturalTourism", "dei:ServiceInclusion"]
+source_frameworks:
+  - "UNWTO Global Code of Ethics"
+  - "Hofstede Cultural Dimensions"
 proficiency_levels:
   - level: Awareness
     indicator: Uses basic cultural greetings and avoids biased language.

@@ -8,9 +8,7 @@ cluster_tags:
   - "Multilingual"
   - "CLIL"
 description: >
-  Implements Content and Language Integrated Learning (CLIL), scaffolding, and
-  translanguaging strategies to support multilingual learners and foster
-  language equity.
+  Implements Content and Language Integrated Learning (CLIL), scaffolding, and translanguaging strategies to support multilingual learners and foster language equity.
 source_frameworks:
   - "European Commission CLIL Guidelines"
   - "WIDA English Language Development Standards"

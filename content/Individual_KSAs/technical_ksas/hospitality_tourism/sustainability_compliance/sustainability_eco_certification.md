@@ -3,8 +3,10 @@ ksa_id: sustainability_eco_certification
 label: Sustainability & Eco-Certification
 category: Technical
 sector: hospitality_tourism
-horizon: watch_2030
-cluster_tags: ["LEED", "Waste-Reduction", "Carbon-Footprint"]
+horizon: emerging
+cluster_tags:
+  - "Sustainability"
+  - "Certification"
 description: Implements environmental-management systems and achieves eco-certifications by reducing energy, water, and waste footprints and engaging guests in sustainable practices.
 source_frameworks: ["unwto:GSTC", "iso:14001"]
 proficiency_levels:

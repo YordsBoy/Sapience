@@ -3,10 +3,14 @@ ksa_id: hospitality_technology_pms
 label: Hospitality Technology & PMS
 category: Technical
 sector: hospitality_tourism
-horizon: watch_2030
-cluster_tags: ["Cloud-PMS", "API-Integration", "Smart-Rooms"]
+horizon: core_2025
+cluster_tags:
+  - "Technology"
+  - "PMS"
 description: Implements and maintains property-management systems (PMS) and integrated tech stacks—including POS, CRS, IoT devices—to streamline operations and enhance guest experiences.
-source_frameworks: ["htng:Standards", "pci:DSS"]
+source_frameworks:
+  - "HTNG API Specifications"
+  - "PCI-DSS v4.0"
 proficiency_levels:
   - level: Awareness
     indicator: Navigates PMS modules and follows data-security guidelines.

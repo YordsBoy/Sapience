@@ -8,9 +8,7 @@ cluster_tags:
   - "Research"
   - "Evidence"
 description: >
-  Critically reads, interprets, and applies educational research following
-  American Educational Research Association (AERA) and evidence-based practice
-  standards to enhance pedagogy.
+  Critically reads, interprets, and applies educational research following American Educational Research Association (AERA) and evidence-based practice standards to enhance pedagogy.
 source_frameworks:
   - "AERA Standards for Reporting Research"
   - "What Works Clearinghouse (WWC) Procedures"

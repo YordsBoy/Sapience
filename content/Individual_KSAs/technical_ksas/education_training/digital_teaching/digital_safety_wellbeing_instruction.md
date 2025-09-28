@@ -8,9 +8,7 @@ cluster_tags:
   - "Digital Citizenship"
   - "Well-Being"
 description: >
-  Teaches students to navigate cyberbullying, screen-time balance, data privacy,
-  and mental health online using Common Sense Education digital-citizenship
-  curriculum and American Psychological Association (APA) guidelines.
+  Teaches students to navigate cyberbullying, screen-time balance, data privacy, and mental health online using Common Sense Education digital-citizenship curriculum and American Psychological Association (APA) guidelines.
 source_frameworks:
   - "Common Sense Education Digital Citizenship Curriculum"
   - "APA Digital Device Guidelines for Youth"
