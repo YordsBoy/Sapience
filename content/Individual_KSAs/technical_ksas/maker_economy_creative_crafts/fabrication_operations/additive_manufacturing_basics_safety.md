@@ -2,11 +2,17 @@
 ksa_id: additive_manufacturing_basics_safety
 label: Intro to Additive Manufacturing & Safety
 category: Technical
-sector: Maker_Creative_Crafts
-horizon: emerging
-cluster_tags: ["Additive Manufacturing","3D Printing","Safety"]
+sector: Maker_Economy_Creative_Crafts
+horizon: core_2025
+cluster_tags:
+  - "Additive Manufacturing"
+  - "Safety"
 description: Operating desktop fused‑filament fabrication (FFF) and resin stereolithography (SLA) printers, preparing models, and implementing ventilation, personal protective equipment (PPE), and material‑handling protocols aligned with ISO/ASTM 52900.
-source_frameworks: ["ISO/ASTM 52900:2021 Additive Manufacturing — General Principles","UL Blue Card Additive Manufacturing Safety"]
+source_frameworks:
+  - "ASTM F2792 Additive Manufacturing Terminology"
+  - "NIOSH 3-D Printer Emissions Guide"
+  - "ISO/ASTM 52900:2021 Additive Manufacturing — General Principles"
+  - "UL Blue Card Additive Manufacturing Safety"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies printer types; recognises filament/resin hazards; follows basic PPE usage.

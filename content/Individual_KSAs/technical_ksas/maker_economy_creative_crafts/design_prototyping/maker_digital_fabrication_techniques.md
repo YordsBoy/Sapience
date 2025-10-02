@@ -1,15 +1,14 @@
 ---  
-ksa_id: maker_digital_fabrication  
+ksa_id: maker_digital_fabrication_techniques  
 label: Maker Digital Fabrication Techniques  
 category: Technical  
-sector: Maker_Creative_Crafts  
+sector: Maker_Economy_Creative_Crafts 
 horizon: emerging  
 cluster_tags: 
     - "DIY Tech"
     - "Fabrication"
 description: >  
-  Utilizes common maker lab tools and technologies to design and build DIY projects;  
-  operates 3D printers, laser cutters, CNC machines, or simple microcontroller (Arduino/Raspberry Pi) setups to fabricate prototypes, gadgets, or craftwork enhancements.  
+  Utilizes common maker lab tools and technologies to design and build DIY projects; operates 3D printers, laser cutters, CNC machines, or simple microcontroller (Arduino/Raspberry Pi) setups to fabricate prototypes, gadgets, or craftwork enhancements.  
 source_frameworks:  
   - "Makerspace Core Competencies (Fab Foundation)"  
 proficiency_levels:  
