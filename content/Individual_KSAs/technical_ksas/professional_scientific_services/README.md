@@ -1,52 +1,40 @@
+Professional & Scientific Services
+==================================
 
-# 🧪 Professional & Scientific Services
+Management-consulting, analytics, and scientific-advisory firms drive **USD 1.2 trillion** in global revenue. Mastery now spans rigorous research ethics, EVMS-level project control, AI-enabled analytics, and ISO 56005 innovation-IP governance. PMI’s *Managing Change in Organizations* equips transformation projects. ANSI/EIA-748 and NDIA intent guides define earned-value best-practice. WIPO’s IP Strategy resources and ISO 56005 integrate innovation and protection. Publication integrity relies on COPE guidelines, while OECD reports set global research-integrity norms. AICPA SSCS No. 1 anchors consulting ethics, and GRI standards guide ESG advisory.  
 
-OECD notes professional & scientific roles spearhead post‑pandemic employment recovery, with STEM vacancies above pre‑2020 by **≈ 18 %** :contentReference[oaicite:7]{index=7}.
+## Folder structure
 
-## Sub‑domains & illustrative KSAs
-| R&D_Project_Management | *TRL Assessment*, *Grant Proposal Writing* |
-| Data_Science_Services | *Explainable AI Modelling*, *Data Storytelling* |
-| Consulting_Methods | *Design Thinking Facilitation*, *Change Impact Modelling* |
-| Lab_Quality_Systems | *ISO/IEC 17025 Accreditation*, *Good Lab Practice (GLP)* |
-| IP_Commercialisation | *Patent Landscape Analysis*, *Tech Transfer Negotiation* |
+| Folder | Scope |
+|--------|-------|
+| **consulting_practice/** | Change, digital transformation, ethics, proposals, trade |
+| **analytics_ai/** | Data analytics & AI for consulting |
+| **project_controls_risk/** | Earned-value & risk frameworks |
+| **research_ethics_integrity/** | Peer-review, methods, stakeholder comms |
+| **ip_innovation/** | IP strategy & ISO 56005 innovation IP |
+| **sustainability_services/** | ESG & sustainability advisory |
 
-### YAML template
-```yaml
----
-ksa_id: trl_assessment
-label: Technology‑Readiness‑Level Assessment
-sector: Professional_Scientific_Services
-sub_domain: R&D_Project_Management
-horizon: core_2025
-description: Evaluates maturity of emerging tech and maps roadmaps to TRL criteria for funding or launch decisions.
-source_frameworks: ["nasa:trl"]
-proficiency_levels:
-  - level: Awareness
-    indicator: Identifies basic TRL stages.
-  - level: Basic
-    indicator: Documents evidence for TRL 3→4 progression.
-  - level: Intermediate
-    indicator: Leads cross‑functional TRL reviews.
-  - level: Advanced
-    indicator: Optimises investment portfolios by TRL risk mix.
-  - level: Expert
-    indicator: Creates enterprise governance linking TRL to stage‑gate.
-cluster_tags: ["Innovation","R&D"]
----
+## KSA inventory (15)
 
-## References
-  - OECD Employment Outlook 2024 
-  - NASA TRL definitions; ISO 56002 Innovation management
-  - ISO 20700:2017. *Management Consultancy Services Guidelines*
-  - IMC USA. *Code of Ethics*
-  - ICMCI. *CMC Competency Framework*
-  - OECD. *Frascati Manual*
-  - COPE. *Core Practices*
-  - ANSI/EIA‑748‑D. *Earned Value Management*
-  - PMI. *Practice Standard for EVM*
-  - INFORMS. *CAP Body of Knowledge*
-  - Prosci. *ADKAR Model*
-  - ACMP. *Standard for Change Management*
-  - ICMJE. *Recommendations*
-  - WIPO. *IP Management Toolkit*
-  - ISO 56005:2020. *Innovation Management — IP Management*
+Change_Management_Facilitation · Data_Analytics_AI_Consulting · Data_Analytics_for_Consulting · Earned_Value_Project_Controls · Intellectual_Property_Strategy · Management_Consulting_Practice_Ethics · Peer_Review_Publication_Ethics · Scientific_Research_Methods_Integrity · Sustainability_Advisory_Services · Trade_Business_Management · **Risk_Management_Framework_Consulting** · **Digital_Transformation_Consulting** · **Professional_Proposal_Bidding_Management** · **Stakeholder_Science_Communication** · **Innovation_IP_Management_ISO56005**
+
+## Future gaps
+
+* **Quantum-Computing Advisory**  
+* **AI-Ethics Audit Services (IEEE 7000)**  
+* **Climate-Risk Financial Advisory**  
+* **Digital Twin Consulting for R&D Labs**
+
+## Key references
+
+- **PMI Managing Change in Organizations** – change facilitation.
+- **ANSI/EIA-748 & NDIA Intent Guide** – earned-value control. 
+- **WIPO IP Strategy Toolkit** – IP roadmap.
+- **ISO 56005** – innovation-IP guidance.
+- **COPE Core Practices** – publication ethics.
+- **OECD Research-Integrity Report** – global policy.
+- **AICPA SSCS No. 1** – consulting ethics.
+- **GRI Standards** – ESG disclosure.
+- **CDC & ISO sources** (applied in individual KSAs) ensure safety & quality alignment.
+
+> *All sources referenced conceptually; no proprietary text reproduced.*

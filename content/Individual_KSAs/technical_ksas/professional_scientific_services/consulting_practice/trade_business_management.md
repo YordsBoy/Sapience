@@ -4,21 +4,23 @@ label: Small Trade Business Management
 category: Technical  
 sector: Professional_Scientific_Services  
 horizon: core_2025  
-cluster_tags: 
-    - "Estimating"
-    - "Job Management"
+cluster_tags:
+  - "Firm Operations"
+  - "Trade Compliance"
 description: >  
   Runs the business side of skilled trade work (plumbing, carpentry, electrical contracting, etc.);  
   prepares job estimates and quotes, manages inventory of materials, handles scheduling and customer communication, issues invoices and takes payment, and ensures compliance with licensing and insurance requirements for the trade.  
-source_frameworks:  
+source_frameworks:
+  - "ISO 20700:2017 Management Consultancy"
+  - "Deltek PSA Best Practices" 
   - "NAHB Remodelers Business Management Guidelines"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Realizes that beyond doing the trade work, there is a need to handle paperwork, money, and customers; knows very basic terms like “estimate” or “permit”.  
+    indicator: Realizes that beyond doing the trade work, there is a need to handle paperwork, money, and customers; knows very basic terms like “estimate” or “permit”; tracks billable hours; identifies engagement lifecycle.  
   - level: Basic  
-    indicator: Writes simple estimates for small jobs using templates or past experience; keeps receipts and notes in a notebook; schedules appointments in a basic calendar; communicates with clients by phone about work timing and cost in a courteous manner.  
+    indicator: Writes simple estimates for small jobs using templates or past experience; keeps receipts and notes in a notebook; generates invoice; stores contract; checks export-control lists; schedules appointments in a basic calendar; communicates with clients by phone about work timing and cost in a courteous manner.  
   - level: Intermediate  
-    indicator: Uses software or apps for estimates and invoices; calculates costs (materials, labor) with reasonable accuracy for bids; keeps track of expenses and revenue for each project; maintains necessary licenses and insurance and pulls permits when required; coordinates a few jobs at once without missing deadlines.  
+    indicator: Uses software or apps for estimates and invoices; calculates costs (materials, labor) with reasonable accuracy for bids; keeps track of expenses and revenue for each project; monitors utilisation; forecasts pipeline; manages key-person risk; maintains necessary licenses and insurance and pulls permits when required; coordinates a few jobs at once without missing deadlines.  
   - level: Advanced  
     indicator: Optimizes business operations for profitability (bulk ordering materials, adjusting pricing strategies); manages a small team or subcontractors if needed; employs a CRM or job management software to handle client relationships and scheduling; ensures full compliance with building codes and business regulations; markets the business via word-of-mouth and online presence.  
   - level: Expert  
