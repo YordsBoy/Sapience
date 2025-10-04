@@ -14,13 +14,13 @@ source_frameworks:
   - "CFRE International Competencies"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands that nonprofits rely on grants and donations; familiar with basic terminology (grant, donor, proposal).  
+    indicator: Defines pipeline stages; logs opportunity ID.
   - level: Basic  
-    indicator: Assists in writing sections of a grant application or thank-you letters; maintains a simple list of local donors or grants with deadlines.  
+    indicator: Scores fit; develops capture calendar; assigns writers. 
   - level: Intermediate  
-    indicator: Writes complete grant proposals with clear objectives and budgets; orchestrates small fundraising events or online campaigns; uses a donor database/CRM to track interactions and giving history.  
+    indicator: Orchestrates small fundraising events or online campaigns; uses a donor database/CRM to track interactions and giving history; tracks win rate; analyses average ask; updates decision tree.
   - level: Advanced  
-    indicator: Strategically targets grants and major donors that fit the nonprofit’s mission; manages a portfolio of grants (reporting results to funders on schedule); designs multi-channel fundraising strategies (events, digital, major gifts) to meet annual targets.  
+    indicator: Strategically targets grants and major donors that fit the nonprofit’s mission; manages a portfolio of grants (reporting results to funders on schedule); designs multi-channel fundraising strategies (events, digital, major gifts) to meet annual targets; mitigates over-reliance; secures multi-year awards.
   - level: Expert  
     indicator: Leads organizational fundraising strategy; cultivates high-value donor relationships over years; influences sector best practices by mentoring others or through CFRE (Certified Fund Raising Executive) standards involvement; achieves sustainable funding growth even in challenging climates.  
 ---  
