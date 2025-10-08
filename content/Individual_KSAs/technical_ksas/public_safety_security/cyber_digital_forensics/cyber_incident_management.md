@@ -8,10 +8,11 @@ cluster_tags:
     - "Cybersecurity"
     - "Emergency Response"
 description: >  
-  Coordinates response to cyber incidents (e.g., critical infrastructure hacks, ransomware affecting city services) from a public safety/emergency management perspective;  
-  works with IT/cyber experts, disseminates public information if needed, protects citizens’ data, and integrates cyber scenarios into disaster preparedness plans following frameworks like NIST or FEMA guidelines.  
-source_frameworks:  
+  Coordinates response to cyber incidents (e.g., critical infrastructure hacks, ransomware affecting city services) from a public safety/emergency management perspective; works with IT/cyber experts, disseminates public information if needed, protects citizens’ data, and integrates cyber scenarios into disaster preparedness plans following frameworks like NIST or FEMA guidelines.  
+source_frameworks:
+  - "NIST SP 800-61 Rev 3"
   - "NIST Cybersecurity Incident Response Guide"  
+  - "CISA Cyber Incident Playbook" 
 proficiency_levels:  
   - level: Awareness  
     indicator: Knows that cyber attacks can cause public emergencies (e.g., power grid hack) and that responders might be involved; has heard of basic cybersecurity terms (hack, firewall).  
