@@ -1,51 +1,43 @@
-# 📡 Telecommunications
+Telecommunications
+==================
 
-Global ICT jobs will reach **5.4 million by 2025**, driven by 5G/6G roll‑outs and fibre densification :contentReference[oaicite:0]{index=0}.  
-Cisco’s Internet Report forecasts **30 billion networked devices by 2026**, demanding expertise in automation and secured edge :contentReference[oaicite:1]{index=1}.
+5G and cloud-native architectures are reshaping telecom operations.  
+**3GPP Release 17/18** introduces network-slicing assurance and **Non-Terrestrial Networks (NTN)** integration, while **O-RAN Alliance** adds MACsec & OAuth security to open RAN interfaces. ETSI’s **MEC** framework enables edge content delivery, and **ETSI NFV-SEC** hardens MANO security orchestration. **NENA i3 NG911** brings IP-native emergency services. FinOps practices align telco-cloud spend with ROI, and **GSMA digital-twin pilots** demonstrate AI-driven planning. Quantum-safe crypto (ITU-T X.1710) prepares networks for post-quantum threats.
 
-## Sub‑domains & illustrative KSAs
-| ID | Sub‑domain | Sample KSAs |
-|----|------------|-------------|
-| Net_Infrastructure | *5G RAN Optimisation*, *Fibre Splicing Precision* |
-| Core_Networking | *SD‑WAN Orchestration*, *Network Slicing Design* |
-| Edge_Services | *MEC Application Deployment*, *Low‑Latency QoS Tuning* |
-| Telco_Cloud | *NFV Lifecycle Management*, *Kubernetes for CNFs* |
-| Telecom_Security | *SS7/Diameter Threat Mitigation*, *Zero‑Trust Telco* |
+## Folder overview
 
-## YAML template
-```yaml
----
-ksa_id: sd_wan_orchestration
-label: SD‑WAN Orchestration
-sector: Telecommunications
-sub_domain: Core_Networking
-horizon: core_2025
-description: Designs and automates software‑defined WAN overlays for dynamic path selection and policy‑based traffic steering.
-source_frameworks: ["sfia:NTDS","esco:3514"]
-proficiency_levels:
-  - level: Awareness
-    indicator: Configures basic edge devices via GUI templates.
-  - level: Basic
-    indicator: Implements path‑conditioning and monitors SLA metrics.
-  - level: Intermediate
-    indicator: Automates provisioning with APIs and CI/CD pipelines.
-  - level: Advanced
-    indicator: Optimises multi‑cloud SD‑WAN with intent‑based analytics.
-  - level: Expert
-    indicator: Architect of carrier‑grade SD‑WAN platforms serving >10 000 sites.
-cluster_tags: ["Network_Automation","Cloud_Edge"]
----
+| Folder | Scope |
+|--------|-------|
+| **core_5g/** | 5G-Advanced, network slicing, private 5G |
+| **ran_access/** | RAN optimization, O-RAN security, edge MEC |
+| **transport_outside_plant/** | Fiber construction & safety |
+| **orchestration_security/** | NFV-MANO security, quantum-safe |
+| **emergency_public_safety/** | NG911 & NTN integration |
+| **analytics_finops_qoe/** | Data/NWDAF analytics, FinOps, QoE |
+| **innovation_future/** | Network digital-twin planning |
 
-## References
-  - ITU Facts & Figures 2024 – workforce & connectivity KPIs 
+## KSA inventory (16)
 
-  - Cisco Annual Internet Report – device & traffic forecasts 
+Advanced_5G_Networking · 5G_Core_Network_Operations_Slicing · Private_5G_Enterprise_Deployment · Edge_MEC_Content_Delivery · Fiber_Outside_Plant_Construction_Safety · NFV_Mano_Security_Orchestration · NG911_Emergency_Service_Communications · Non_Terrestrial_Networks_NTN_Integration · Open_RAN_Security_Integration · RAN_Optimisation_Self_Organising_Networks · Telco_Cloud_FinOps_Cost_Optimization · Telecom_Data_Analytics · Telecom_Network_Data_Analytics_NWDAF · Telecom_QoE_Service_Assurance · Telecom_Quantum_Safe_Network_Security · Network_Digital_Twin_Planning
 
-  - 3GPP Rel‑18 specs; ETSI NFV‑MANO guidelines
-  - 3GPP TS 23.501 & TS 23.288
-  - ETSI NFV‑SEC 016 & GS NFV‑MANO 006
-  - Linux Foundation Anuket & CNCF Security Guides
-  - OSHA 29 CFR 1926; NESC 2023
-  - ITU‑T P.1203; ETSI TS 103 640
-  - Fiber Broadband Association OSP Handbook
-  - TM Forum AI‑Ops Framework
+## Future gaps
+
+* **6 G AI-Native RIC & Joint-Communication-Sensing**  
+* **Satellite Direct-to-Device Regulation (3GPP Rel-19)**  
+* **eCPRI 25 Gbps Fronthaul over Time-Sensitive Networking**  
+* **Open RAN SMO/OSC DevSecOps pipelines**
+
+## Key references
+
+- **3GPP Release 17 network slicing mgmt** – closed-loop assurance.
+- **3GPP NTN architecture** – satellite integration.
+- **O-RAN security protocols (2025)** – OAuth & MACsec.
+- **ETSI MEC & GR MEC 041** – edge content delivery.
+- **ETSI GS NFV-SEC 031/014** – MANO security.
+- **NENA i3 NG911 standard** – IP PSAP.
+- **FinOps best-practice (Onix) & UST white-paper** – cloud cost.
+- **GSMA digital-twin foundry project** – network twin adoption. 
+- **ITU-T X.1710 quantum-safe guidance** – post-quantum security.   
+- **3GPP Rel-17 overview** – feature timeline. 
+
+> All sources cited for conceptual alignment; no proprietary text has been copied.
