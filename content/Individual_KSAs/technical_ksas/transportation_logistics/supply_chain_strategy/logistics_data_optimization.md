@@ -3,22 +3,24 @@ ksa_id: logistics_data_optimization
 label: Logistics Data Analysis & Optimization  
 category: Technical  
 sector: Transportation_Logistics  
-horizon: core_2025  
-cluster_tags: 
-    - "Route Optimization"
-    - "Supply Chain Analytics"
+horizon: emerging
+cluster_tags:
+  - "Data Optimisation"
+  - "Supply Chain"
 description: >  
   Utilizes advanced software and data analytics to optimize transportation routes and supply chain efficiency;  
   interprets data from GPS tracking, telematics, and inventory systems to improve routing, reduce fuel consumption and delivery times, predict delays, and enhance overall supply chain visibility and responsiveness.  
-source_frameworks:  
+source_frameworks:
+  - "GS1 EPCIS 2.0"
+  - "ISO 19115"
   - "CSCMP Supply Chain Analytics Standards"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands that logistics uses GPS and tracking; has seen a basic route map or schedule printout.  
+    indicator: Understands that logistics uses GPS and tracking; has seen a basic route map or schedule printout; lists master-data fields; notes data quality KPIs.  
   - level: Basic  
-    indicator: Uses a routing software or GPS app to follow given routes; reports simple metrics (on-time deliveries, mileage) to supervisors; can interpret a basic dashboard (green/red indicators for delays).  
+    indicator: Uses a routing software or GPS app to follow given routes; reports simple metrics (on-time deliveries, mileage) to supervisors; can interpret a basic dashboard (green/red indicators for delays); removes duplicates; standardizes codes;.  
   - level: Intermediate  
-    indicator: Adjusts routes based on real-time information (traffic, weather) using TMS (Transport Management System) tools; analyzes data from past deliveries (e.g., average delays on certain routes) to suggest schedule changes; monitors fuel or vehicle data to schedule maintenance or driver coaching.  
+    indicator: Runs ML demand forecast; adjusts routes based on real-time information (traffic, weather) using TMS (Transport Management System) tools; analyzes data from past deliveries (e.g., average delays on certain routes) to suggest schedule changes; monitors fuel or vehicle data to schedule maintenance or driver coaching; improves forecast accuracy %.  
   - level: Advanced  
     indicator: Runs simulations or uses optimization algorithms to redesign delivery routes or distribution networks; incorporates multiple data sources (customer orders, warehouse inventory levels, driver hours) for integrated planning; improves KPIs (on-time rate, cost per mile) by making data-driven decisions; aligns practices with CSCMP guidelines.  
   - level: Expert  

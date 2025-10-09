@@ -1,60 +1,41 @@
+Transportation & Logistics
+==========================
 
----
+Rising e-commerce volumes, automation, and ESG imperatives have transformed logistics.  
+**ISO 23412** sets global cold-chain requirements, while **SAE J3016** defines automation levels adopted in yard robots and autonomous trucks. **IATA Dangerous Goods Regulations** govern hazmat air shipments and **UN ECE R155** secures cyber-connected fleets. **ISO 15638** telematics standards enable data-driven routing; **APICS SCOR v12** provides end-to-end process metrics. GS1 transport standards underpin real-time supply-chain visibility. New KSAs address multimodal planning, quantum-safe haz-goods compliance, warehouse robotics, and carbon accounting, future-proofing skills across the sector.
 
-```markdown
-# 🚛 Transportation & Logistics
+## Folders
 
-The World Bank LPI highlights capacity gaps in digital freight visibility, while U.S. BLS projects **1.9 million openings yearly** in transport & material‑moving through 2033 :contentReference[oaicite:4]{index=4}.
+| Folder | Scope |
+|--------|-------|
+| **autonomous_systems/** | ADS logistics design |
+| **fleet_operations/** | Driver & vehicle ops, telematics, haz-goods |
+| **supply_chain_strategy/** | Trade, SCOR, multimodal, data |
+| **last_mile_delivery/** | Cargo securement & micro-fulfilment |
+| **cold_chain/** | Quality & compliance |
+| **warehouse_automation/** | Robotics & AMRs |
+| **sustainability_emissions/** | Carbon & sustainability mgmt |
 
-## Sub‑domains & illustrative KSAs
-| Freight_Operations | *Digital Waybill Processing*, *Cold‑Chain Handling* |
-| Logistics_Analytics | *Demand Forecast ML*, *Network Optimisation* |
-| Smart_Warehousing | *Autonomous Mobile Robot (AMR) Control*, *Pick‑to‑Light Design* |
-| Fleet_Maintenance | *Predictive Telematics*, *EV Truck Charging Ops* |
-| Sustainable_Logistics | *Scope‑3 Emission Accounting*, *Modal Shift Planning* |
-| Fleet_Electrification | *EV Route Energy Modelling*, *Depot Charger Load‑Mgmt* |
-| SupplyChain_Planning | *S&OP Scenario Optimiser*, *Network Resilience Analytics* |
-| Last_Mile_Tech | *Crowd‑Shipping Platform Ops*, *Delivery Drone Compliance* |
-| Global_Trade | *Incoterms 2020 Mastery*, *Sanctions Screening* |
-| Logistics_Data_Science | *Time‑Series ETA Prediction*, *Carbon Freight Dashboards* |
+## KSA inventory (17)
 
-### YAML template
-```yaml
----
-ksa_id: predictive_telematics
-label: Predictive Telematics Diagnostics
-sector: Transportation_Logistics
-sub_domain: Fleet_Maintenance
-horizon: emerging
-description: Utilises IoT sensor streams to forecast component failure and schedule just‑in‑time repairs for mixed ICE/EV fleets.
-source_frameworks: ["iso:15143-3"]
-proficiency_levels:
-  - level: Awareness
-    indicator: Monitors dashboard alerts for fault codes.
-  - level: Basic
-    indicator: Generates maintenance work‑orders from telematics data.
-  - level: Intermediate
-    indicator: Builds predictive models reducing unplanned downtime ≥15 %.
-  - level: Advanced
-    indicator: Integrates telematics with ERP & parts‑supply automation.
-  - level: Expert
-    indicator: Leads enterprise fleet‑health strategy across global hubs.
-cluster_tags: ["IoT","Maintenance_AI"]
----
+Autonomous_Logistics_Systems · Autonomous_Vehicle_Fleet_Operations_Safety · Commercial_Driving_Compliance · EV_Systems_Basics · Fleet_Telematics_Route_Planning · Mechanical_Systems_Diagnosis · Vehicle_Diagnostics · Dangerous_Goods_Transport_Compliance · Global_Trade_Compliance_Incoterms · Logistics_Data_Optimization · SCOR_Based_Supply_Chain_Strategy · Multimodal_Transport_Planning · Cargo_Handling_Securement · Last_Mile_Delivery_Micro_Fulfilment · Cold_Chain_Quality_Regulatory_Compliance · Warehouse_Robotics_Automation · Sustainable_Transport_Emissions_Management
 
-## References
-  - World Bank Logistics Performance Index 2023 
-  - BLS Transportation Outlook 2024 
-  - ISO 15143‑3 (AEMP telematics API)
-  - APICS. *SCOR DS 12.0*
-  - CSCMP. *Supply Chain Standards*
-  - SAE J3016 & ISO 21448
-  - SAE AVSC000012
-  - ITE. *Urban Freight Guidelines*
-  - WEF. *Last‑Mile Ecosystem Playbook*
-  - EU GDP Guidelines 2022
-  - IATA. *CEIV Pharma*
-  - ISO 23412:2020
-  - ICC. *Incoterms 2020*
-  - WCO. *Harmonized System*
-  - U.S. CBP. *ACE Guide*
+## Future gaps
+
+* **Hydrogen-Fuel Supply Logistics**  
+* **AI-Driven Dynamic Pricing for Freight**  
+* **Drone Air Cargo Corridor Certification**  
+* **Blockchain Bill-of-Lading Standards (eBL)**
+
+## Key references
+
+- **ISO 23412**, temp-controlled transport.
+- **SAE J3016** automation taxonomy. 
+- **IATA DGR** hazmat air transport.  
+- **ISO 39001** road-traffic safety. 
+- **APICS SCOR v12** supply-chain model. 
+- **UN ECE R155** vehicle cyber-security.
+- **GS1 logistics & EPCIS** visibility.
+- **ISO 15638** fleet telematics.
+
+> *Sources used conceptually; no proprietary text reproduced.*
