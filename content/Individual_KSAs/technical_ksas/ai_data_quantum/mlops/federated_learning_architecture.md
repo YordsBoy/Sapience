@@ -4,9 +4,14 @@ label: Federated Learning Architecture
 category: Technical
 sector: AI_Data_Quantum
 horizon: emerging
-cluster_tags: ["Federated Learning","Privacy","Distributed Artificial Intelligence"]
+cluster_tags:
+  - "Federated Learning"
+  - "Privacy"
+  - "Distributed Artificial Intelligence"
 description: Designing, deploying, and optimizing Federated Learning (FL) systems that train shared models across decentralized data silos while preserving privacy and minimising communication overhead.
-source_frameworks: ["arXiv 2502.05273 (2025) – Federated Learning Architecture Survey"]
+source_frameworks:
+  - "arXiv 2502.05273 (2025)"
+  - "Federated Learning Architecture Survey"
 proficiency_levels:
   - level: Awareness
     indicator: Describes FL versus centralised Machine Learning (ML); sets basic hyper‑parameters in an open‑source FL framework.

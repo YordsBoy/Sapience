@@ -4,9 +4,14 @@ label: Quantum Networking Protocols
 category: Technical
 sector: AI_Data_Quantum
 horizon: watch_2030
-cluster_tags: ["Quantum Computing","Quantum Networking","Cryptography"]
+cluster_tags:
+  - "Quantum Computing"
+  - "Networking"
 description: Understanding and implementing the protocols that enable qubit‑level entanglement distribution, Quantum Key Distribution (QKD), and error‑corrected quantum‑repeater networks for the emerging quantum internet.
-source_frameworks: ["European Telecommunications Standards Institute (ETSI) QKD Standards","National Aeronautics and Space Administration (NASA) Quantum Internet Roadmap 2024"]
+source_frameworks:
+  - "European Telecommunications Standards Institute (ETSI) QKD Standards"
+  - "ETSI Quantum Safe Security Whitepaper (2024)"
+  - "National Aeronautics and Space Administration (NASA) Quantum Internet Roadmap 2024"
 proficiency_levels:
   - level: Awareness
     indicator: Explains qubit entanglement, Bell tests, and basic QKD principles.

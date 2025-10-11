@@ -4,9 +4,14 @@ label: Machine Learning Engineering
 category: Technical
 sector: ai_data_quantum
 horizon: core_2025
-cluster_tags: ["ML", "Model Deployment"]
-description: Builds, trains, deploys, and maintains machine-learning models in production environments.
-source_frameworks: ["sfia:MLDS", "onet:15-2051.01"]
+cluster_tags:
+  - "Machine Learning"
+  - "Model Deployment"
+description: |
+  Builds, deploys, and maintains machine-learning models in production; automates pipelines, manages feature stores, sets up scalable serving architectures, and monitors lifecycle performance in alignment with responsible-AI guidelines.
+source_frameworks:
+  - "SFIA MLDS"
+  - "ONET 15-2051.01"
 proficiency_levels:
   - level: Awareness
     indicator: Trains off-the-shelf models on sample data.
