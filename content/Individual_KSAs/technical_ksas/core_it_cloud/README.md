@@ -1,56 +1,72 @@
+# Core IT & Cloud Infrastructure
 
----
+## Sector Overview  
+Gartner projects **global public-cloud spend to top $723 billion in 2025** as hybrid and multi-cloud strategies become the enterprise default.  HashiCorp’s *2025 Cloud Complexity Report* finds that **94 % of organisations are multi-cloud** and cite skill gaps and security as top hurdles.  The **AWS Well-Architected Framework** (six pillars) and analogous Azure/GCP guides remain the dominant reference for cloud design.  **FinOps** adoption is surging: 70 % of teams rank cost-optimisation as their #1 cloud priority in the *State of FinOps 2025* survey.  Reliability culture is cemented by Google’s SRE principles, now widely implemented beyond hyperscalers.  
 
-## Core _IT & Cloud Infrastructure
+On the technology front, **Kubernetes powers >80 % of new cloud-native workloads** per CNCF research, while **Zero-Trust Architecture (NIST SP 800-207)** guides cloud-security transformations.  ISO/IEC 27017 and sovereign-cloud regulations drive heightened data-residency governance.  Edge-computing spend will exceed **$261 billion by 2025** according to IDC, amplifying the need for orchestration skills across the core–edge continuum.
 
-```markdown
-# ☁️ Core IT & Cloud Infrastructure
+## Sub-Domains & Representative KSAs
+| Code | Sub-Domain             | Example KSAs                                          |
+|------|------------------------|-------------------------------------------------------|
+| **FN** | Fundamentals           | Programming Fundamentals · Version Control           |
+| **SA** | Systems Admin         | Linux & System Administration                        |
+| **NW** | Networking            | Networking Fundamentals                              |
+| **DB** | Databases             | Database Management                                  |
+| **DV** | DevOps & IaC          | DevOps Tooling · Infrastructure as Code · Kubernetes |
+| **CA** | Cloud Architecture    | Cloud Infrastructure & Serverless Architectures      |
+| **OP** | Cloud Operations      | Cloud Infra Management · SRE · Observability         |
+| **SE** | Security              | Cloud Security Architecture · IAM                    |
+| **GV** | Data Governance       | Cloud Data Governance & Residency                    |
+| **FO** | FinOps                | Cloud FinOps & Cost Optimisation                     |
+| **ED** | Edge Computing        | Edge-Cloud Orchestration                             |
 
-Cloud adoption drives an ongoing global skills shortage—90 % of firms will face IT talent gaps by 2026 :contentReference[oaicite:2]{index=2}. This sector houses the foundational compute, network, and platform KSAs on which all digital transformation depends.
+## Horizon Key
+| Horizon        | Meaning                                                  |
+|----------------|----------------------------------------------------------|
+| **perennial**  | Evergreen foundational skill set that remains relevant over multiple tech cycles |
+| **core_2025**  | Widely adopted, essential today                          |
+| **emerging**   | Rapid growth; mainstream by ≈ 2027                       |
 
-## Core sub‑domains
-| ID | Sub‑domain | Sample KSAs |
-|----|------------|-------------|
-| Cloud_Platforms | IAM Policies, IaC Scripting, Cost‑Optimisation, AWS Landing‑Zone Design*, *Azure Policy Automation |
-| Networking | IPv6 Design, SD‑WAN Ops, Zero‑Trust Segmentation |
-| DevOps & SRE | CI/CD Pipeline, Observability, Chaos Engineering |
-| End‑User_Support | ITIL Ticketing, Endpoint Hardening, VDI Troubleshooting |
-| Cyber_Hygiene | Patch Management, Vulnerability Scanning, Incident Triage |
-| DevSecOps | GitOps Pipelines, SBOM Compliance |
-| Container_Orchestration | Kubernetes Multi‑Cluster Ops, Service Mesh Tuning |
-| Site_Reliability | Error‑Budget Policy, Chaos Engineering |
-| FinOps | Cloud Cost‑Allocation, RI/Savings‑Plan Optimisation |
+## KSA Inventory
+| KSA ID                              | Label                                      | Horizon    |
+|-------------------------------------|--------------------------------------------|------------|
+| programming_fundamentals            | Programming Fundamentals                   | core_2025  |
+| version_control                     | Version Control & Git                      | core_2025  |
+| system_admin                        | Linux & System Administration              | core_2025  |
+| network_basics                      | Networking Fundamentals                    | core_2025  |
+| database_management                 | Database Management                        | core_2025  |
+| devops_tooling                      | DevOps Tooling & CI/CD                     | core_2025  |
+| infrastructure_as_code              | Infrastructure as Code                     | core_2025  |
+| kubernetes_container_orchestration  | Kubernetes & Container Orchestration       | core_2025  |
+| cloud_infrastructure_architecture   | Cloud Infrastructure Architecture          | core_2025  |
+| cloud_infrastructure_management     | Cloud Infrastructure Management            | core_2025  |
+| cloud_observability_monitoring      | Cloud Observability & Monitoring           | core_2025  |
+| site_reliability_engineering_practices | Site Reliability Engineering Practices  | core_2025  |
+| cloud_security_architecture         | Cloud Security Architecture                | emerging   |
+| identity_access_management_cloud    | Cloud Identity & Access Management         | core_2025  |
+| cloud_data_governance_residency     | Cloud Data Governance & Residency          | emerging   |
+| cloud_finops_cost_optimization      | Cloud FinOps & Cost Optimisation           | emerging   |
+| edge_cloud_orchestration            | Edge-Cloud Orchestration                   | emerging   |
+| serverless_architecture             | Serverless Architecture                    | emerging   |
+| it_support_helpdesk_operations      | IT Support & Helpdesk Operations           | core_2025  |
+| cybersecurity_fundamentals          | Cybersecurity Fundamentals                 | perennial  |
 
-### YAML template
-```yaml
----
-ksa_id: kubernetes_multi_cluster_ops
-label: Kubernetes Multi‑Cluster Operations
-sector: Core_IT_Cloud
-sub_domain: Container_Orchestration
-horizon: core_2025
-description: Designs and manages federated Kubernetes clusters across regions, ensuring policy consistency and low‑latency service discovery.
-source_frameworks: ["sfia:INCA","esco:2521"]
-proficiency_levels:
-  - level: Awareness
-    indicator: Deploys workloads to a single managed cluster.
-  - level: Basic
-    indicator: Configures cluster federation with default settings.
-  - level: Intermediate
-    indicator: Implements GitOps‑driven multi‑cluster CI/CD and monitors SLOs.
-  - level: Advanced
-    indicator: Optimises cross‑cluster traffic with service mesh and global ingress.
-  - level: Expert
-    indicator: Architects highly‑available, compliance‑aligned global mesh for >500 nodes.
-cluster_tags: ["K8s","SRE"]
----
+## Referenced Frameworks & Standards
+* Gartner Cloud-Spending Forecast 2025
+* HashiCorp *Cloud Complexity Report* 2025 
+* AWS Well-Architected Framework (2023)
+* Google *Site Reliability Engineering* (2023)
+* FinOps Foundation *State of FinOps 2025* 
+* CNCF Kubernetes Adoption Survey 2025
+* NIST SP 800-207 Zero-Trust Architecture 
+* ISO/IEC 27017 — Cloud Security Controls
+* IDC Edge-Computing Spending Guide 2025
 
-## References
-  - NIST NICE Work‑Role KSAs  
-  - ISO/IEC 17788, 27001  
-  - TechTarget cloud‑skills gap analysis 2025 :contentReference[oaicite:3]{index=3}
-  - BLS Computer & IT Outlook 2024 (15 % growth) 
-  - CNCF Annual Survey 2024 – multi‑cluster adoption trends
-  - FinOps Foundation Cost Optimisation framework
-  - KubeEdge. *Project Documentation*.
-  - Google Cloud. *Security Foundations Guide 2025*.
+## Future-Expansion Recommendations
+* **AI-Driven Cloud Ops (AIOps)** – predictive scaling & autonomous remediation.  
+* **Confidential-Computing Services** – encrypted runtime for sensitive workloads.  
+* **Green-Cloud Optimisation** – carbon-aware workload scheduling and reporting.
+
+> *All sources cited for conceptual alignment. No proprietary text copied.*
+
+_Last updated: 11 Oct 2025_
