@@ -1,37 +1,58 @@
-# 🧬 Biotechnology & Synthetic Biology
+# Biotechnology & Synthetic Biology
 
-The U.S. bioeconomy alone supports **≈ 430 000 direct jobs** and could add tens of billions in annual output by 2030. CRISPR, cell‑free biomanufacturing, and precision fermentation are expanding career pathways.
+## Sector Overview  
+Synthetic-biology revenue is projected to reach **USD 18.9 billion by 2025** with a CAGR of 17 % through 2030, reflecting rapid commercialisation of engineered organisms and bio-based products.  Breakthroughs in CRISPR gene-editing continue, with more than 75 clinical trials underway as of mid-2025.  Automation is scaling R&D: biofoundry facilities integrate robotics, analytics, and data pipelines to accelerate design-build-test cycles.  Bio-risk governance advances alongside innovation—ISO 35001 sets global biorisk-management requirements, while WHO’s **Laboratory Biosafety Manual (4th Ed.)** standardises safe lab practice.  Quality and regulatory rigor remain critical: **ISO 13485** guides biologics quality-management, and updated FDA gene-therapy guidances clarify CMC expectations.  Collectively, these trends drive a skills mix of **core 2025** wet-lab and bio-data competencies, with automation, AI-driven design, and advanced biosecurity positioned as **emerging**.
 
-## Sub‑domains
-| SynBio_Design 
-| Bioprocess_Scale‑Up 
-| Regulatory_Compliance 
-| Bioinformatics 
-| Genomic_Data_Ethics |
-| Genome_Editing | *CRISPR‑Cas12a HDR Design*, *Off‑Target Risk Modelling* |
-| Bio‑Foundry_Automation | *Liquid‑Handler Protocol Scripting*, *Design‑Build‑Test‑Learn Loops* |
-| Bioprocess_Scaleup | *Fed‑Batch Parameterisation*, *PAT Raman Spectroscopy* |
-| Regulatory_Bio | *FDA CBER IND Module‑2*, *Dual‑Use Biosecurity Assessment* |
-| SynBio_Computing | *SBOL Standardisation*, *Genome‑Scale Metabolic Modelling* |
+## Sub-Domains & Representative KSAs
+| Code | Sub-Domain          | Example KSAs                                   |
+|------|---------------------|-----------------------------------------------|
+| **BD** | Bio-Design          | Bio-Design CAD Tools · AI-Driven Protein Design |
+| **LA** | Lab Automation      | Biofoundry Automation & Lab Robotics          |
+| **BI** | Bioinformatics      | Biological Data Science                       |
+| **MF** | Biomanufacturing    | Biomanufacturing QA/QC                        |
+| **BS** | Biosecurity         | Biosecurity & Risk Management                 |
+| **LT** | Lab Techniques      | Synthetic Biology Core Techniques · Genome Editing & Lab Safety |
+| **RG** | Regulatory Affairs  | Regulatory Compliance (Biologics CMC)         |
+| **EN** | Entrepreneurship    | Synthetic-Bio Entrepreneurship & Finance      |
 
-### YAML snippet
-```yaml
-ksa_id: crispr_hardware_design
-sector: Biotechnology_SynBio
-sub_domain: Genome_Editing
-horizon: emerging
+## Horizon Key
+| Horizon        | Meaning                                                   |
+|----------------|-----------------------------------------------------------|
+| **core_2025**  | Widely practiced skills essential today                   |
+| **emerging**   | Rapid-growth skills; mainstream by ≈ 2027                 |
 
-## References
-  - BIO Economic Power of the Bioeconomy 2025
-  - FDA CMC guidance for biologics
-  - NIH Genomic Data Sharing Policy 
-  - BioSpace synthetic‑bio market report 2024
-  - NIH. *Guidelines for rDNA Research
-  - WHO. *Laboratory Biosafety Manual 4th Ed
-  - Global Biofoundries Alliance. *Automation Standard
-  - SBOL 3.0 Specification
-  - ELIXIR. *Bioinformatics Core Competencies
-  - ICH Q5E & Q7
-  - ISO 35001:2019
-  - DeepMind. *AlphaFold Papers
-  - NSF. *SBIR/STTR Guidance
+## KSA Inventory
+| KSA ID                           | Label                                   | Horizon    |
+|----------------------------------|-----------------------------------------|------------|
+| biodesign_cad_tools              | Bio-Design CAD Tools                    | core_2025  |
+| ai_driven_protein_design         | AI-Driven Protein Design                | emerging   |
+| biofoundry_automation            | Biofoundry Automation & Lab Robotics    | emerging   |
+| biological_data_science          | Biological Data Science & Bioinformatics| core_2025  |
+| biomanufacturing_qa_qc           | Biomanufacturing QA/QC                  | core_2025  |
+| biosecurity_risk_management      | Biosecurity & Risk Management           | emerging   |
+| gene_editing_techniques          | CRISPR & Gene-Editing Techniques        | core_2025  |
+| synthetic_biology_techniques     | Synthetic Biology Core Techniques       | core_2025  |
+| genome_editing_lab_safety        | Genome Editing & Lab Safety             | core_2025  |
+| regulatory_cmc_biologics         | Regulatory Compliance (Biologics CMC)   | core_2025  |
+| synthetic_bio_entrepreneurial_finance | Synthetic-Bio Entrepreneurship & Finance | emerging |
+
+## Referenced Frameworks & Standards
+* Grand View Research Synthetic-Biology Market Report (2024) 
+* Innovative Genomics Institute CRISPR Clinical-Trials Update (2025)  
+* “Building a Biofoundry” – Nature Communications (2020) 
+* WHO Laboratory Biosafety Manual, 4th Edition (2020)
+* ISO 35001:2019 Biorisk Management Standard 
+* ISO 13485:2016 Medical-Device QMS Standard
+* ISO 20387:2018 Biobanking Standard
+* FDA Cellular & Gene-Therapy Guidances (updated 2025)
+* NIH Bioinformatics Core Competencies Framework
+* Le Monde – Base-Editing Breakthrough Case Report (2025)
+
+## Future-Expansion Recommendations
+* **Cell-Free Biomanufacturing** – rapid prototyping and on-demand protein production.  
+* **Microfluidic Single-Cell Analysis** – high-resolution omics and screening at single-cell level.  
+* **Whole-Genome Engineering & Minimal Cells** – chassis organisms for industrial bio-production.  
+
+> *All sources cited for conceptual alignment. No proprietary text copied.*
+
+_Last updated: 11 Oct 2025_
