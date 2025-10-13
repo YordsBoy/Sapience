@@ -4,14 +4,20 @@ label: Climate Risk Modelling & Scenario Analysis
 category: Technical
 sector: Environmental_Advanced_Energy
 horizon: emerging
-cluster_tags: ["Climate Engineering","Risk Modelling","TCFD"]
-description: Modelling physical and transition climate risks using CMIP6 scenarios, downscaled climate data, and Task Force on Climate‑related Financial Disclosures (TCFD) frameworks.
-source_frameworks: ["TCFD Guidance 2023","IPCC CMIP6 Data Protocols"]
+cluster_tags:
+  - "Climate Risk"
+  - "Scenario Analysis"
+description: >
+  Modelling physical and transition climate risks using climate-economic models (GCAM, REMIND), network-based stress tests, downscaled climate data, and Task Force on Climate‑related Financial Disclosures (TCFD) frameworks.
+source_frameworks:
+  - "NGFS Climate Scenario Handbook"
+  - "TCFD Guidance 2023"
+  - "IPCC CMIP6 Data Protocols"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies RCP/SSP scenarios; maps hazards; reviews TCFD pillars.
   - level: Basic
-    indicator: Imports climate datasets; runs simple exposure analyses; reports qualitative risks.
+    indicator: Imports climate datasets; runs simple exposure analyses; interprets outputs; reports qualitative risks.
   - level: Intermediate
     indicator: Performs sector vulnerability assessments; applies damage functions; quantifies transition pathways.
   - level: Advanced
