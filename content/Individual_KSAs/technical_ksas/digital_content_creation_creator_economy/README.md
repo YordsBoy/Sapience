@@ -1,67 +1,61 @@
 # Digital Content Creation & Creator Economy
 
-## Sector Overview
-Digital content creators drive value through storytelling, audience engagement, and multi-platform distribution. This sector covers the competencies needed to ideate, produce, monetise, and safeguard digital content across video, audio, social-media, live-streaming, and interactive formats. **eSports** competencies are included as a specialised sub-domain and are discoverable via the metadata tag `"eSports"`—no additional sub-folder is required.
+## Sector Overview  
+The creator economy surpassed **USD 252 billion in 2025 and is forecast to grow 23 % CAGR through 2033**. Short-form video is the growth engine: **YouTube Shorts now average 200 billion daily views**, while **TikTok’s monthly active users reached 1.59 billion in 2025**. Community hubs expand in parallel—Discord counts **196 million monthly users**. Monetisation is diversifying: Patreon hosts **≈293 k creators with paid memberships**, and brand-influencer spending is guided by new IAB standards.  
 
----
+Generative-AI tools accelerate production: 55 % of creators report using AI in their workflow, per McKinsey’s 2024 survey, and OpenAI’s public **Prompt-Engineering Guide** underpins best practice. Esports continues its ascent toward **USD 4.8 billion global revenue in 2025**, driving specialised KSAs in live production, coaching, and integrity.
 
-## Sub-domains
-| Code | Description | Representative KSAs |
-|------|-------------|---------------------|
-| **ALG** | Platform & Algorithm Mastery | Platform Algorithm & Engagement Optimisation |
-| **MON** | Monetisation & Revenue Streams | Creator Revenue Diversification · Merchandise & E-commerce Operations |
-| **COM** | Community Growth & Analytics | Audience Analytics & Community Management |
-| **BRD** | Brand Partnerships & Sponsorships | Brand Partnership Negotiation |
-| **PROD** | Production Workflows | Short-Form Video Production Workflow |
-| **LAW** | Legal, IP & Compliance | Creator Legal & IP Management · Creator Tax Compliance & Finance |
-| **ESP** | **eSports** Competitive Operations | Team Operations & Coaching · Live-Event Production · Anti-Cheat Compliance · Player Health & Well-Being |
-
-> *Sub-domain codes appear in each KSA’s `cluster_tags` for easy filtering.*
-
----
+## Sub-Domains & Representative KSAs
+| Code | Sub-Domain              | Example KSAs                                      |
+|------|-------------------------|---------------------------------------------------|
+| **AC** | Audience & Community     | Audience Analytics & Community Management        |
+| **BP** | Brand Partnerships       | Brand-Partnership Negotiation                    |
+| **LF** | Legal & Finance         | Legal/IP Management · Tax Compliance             |
+| **PS** | Platform Strategy       | Platform-Algorithm Engagement Optimisation       |
+| **MO** | Monetisation            | Revenue Diversification for Creators             |
+| **CP** | Content Production      | Short-Form Video Workflow · **AI-Assisted Content Gen.** |
+| **ES** | Esports Management      | Live-Event Production · Anti-Cheat Compliance    |
+| **ME** | Merch & E-Commerce      | Merchandise & E-Commerce Operations              |
 
 ## Horizon Key
-| Horizon | Meaning |
-|---------|---------|
-| **core_2025** | Critical for success through 2025 |
-| **emerging** | Rapid-growth, early-adoption skills |
-| **perennial** | Evergreen or compliance-driven competencies |
-| **watch_2030** | Frontier skills—monitor for post-2030 relevance |
+| Horizon        | Meaning                                       |
+|----------------|-----------------------------------------------|
+| **core_2025**  | Widely adopted, essential today               |
+| **emerging**   | Rapid growth; mainstream by ≈ 2027            |
 
----
-
-## KSA Inventory (12)
-| KSA ID | Label | Horizon | Tags |
-|--------|-------|---------|------|
-| platform_algorithm_engagement_optimization | Platform Algorithm & Engagement Optimisation | core_2025 | ALG |
-| revenue_diversification_for_creators | Creator Revenue Diversification | core_2025 | MON |
-| audience_analytics_community_management | Audience Analytics & Community Management | core_2025 | COM |
-| brand_partnership_negotiation | Brand Partnership Negotiation | core_2025 | BRD |
-| short_form_video_production_workflow | Short-Form Video Production Workflow | core_2025 | PROD |
-| creator_legal_ip_management | Creator Legal & IP Management | core_2025 | LAW |
-| merchandise_ecommerce_operations | Merchandise & E-commerce Operations | core_2025 | MON |
-| creator_tax_compliance_finance | Creator Tax Compliance & Finance | core_2025 | LAW |
-| esports_team_operations_coaching | eSports Team Operations & Coaching | emerging | ESP |
-| esports_live_event_production | eSports Live-Event Production | emerging | ESP |
-| esports_anti_cheat_compliance | eSports Anti-Cheat Compliance | core_2025 | ESP |
-| esports_player_health_wellbeing | eSports Player Health & Well-Being | emerging | ESP |
-
----
+## KSA Inventory
+| KSA ID                               | Label                                         | Horizon    |
+|--------------------------------------|-----------------------------------------------|------------|
+| audience_analytics_community_management | Audience Analytics & Community Management   | core_2025  |
+| brand_partnership_negotiation        | Brand-Partnership Negotiation                 | core_2025  |
+| creator_legal_ip_management          | Creator Legal & IP Management                 | core_2025  |
+| creator_tax_compliance_finance       | Creator Tax Compliance & Finance              | core_2025  |
+| platform_algorithm_engagement_optimization | Platform-Algorithm Engagement Optimisation | core_2025  |
+| revenue_diversification_for_creators | Revenue Diversification for Creators          | core_2025  |
+| short_form_video_production_workflow | Short-Form Video Production Workflow          | core_2025  |
+| ai_assisted_content_generation       | AI-Assisted Content Generation & Prompting    | emerging   |
+| esports_anti_cheat_compliance        | Esports Anti-Cheat Compliance                 | emerging   |
+| esports_live_event_production        | Esports Live-Event Production                 | core_2025  |
+| esports_player_health_wellbeing      | Esports Player Health & Well-Being            | core_2025  |
+| esports_team_operations_coaching     | Esports Team Operations & Coaching            | emerging   |
+| merchandise_ecommerce_operations     | Merchandise & E-Commerce Operations           | core_2025  |
 
 ## Referenced Frameworks & Standards
-* YouTube Creator Academy Analytics & TikTok Creator Guide 2025 – platform algorithm insights  
-* Patreon *Creator Success Framework* – diversified revenue models  
-* IAB Influencer Marketing Measurement & FTC *Endorsement Guides 2023* – sponsorship compliance  
-* Discord Community Guidelines & CMX Community Engagement Framework – community management  
-* WIPO Copyright Toolkit & YouTube Content ID – intellectual-property protection  
-* Shopify Print-on-Demand Guide & FLA Sourcing Code – ethical merch operations  
-* IRS Small-Business Tax Guide & OECD VAT Digital Services – tax compliance  
-* IESF Player Health Manual & ACSM eSports Guidelines – player well-being  
-* ESIC Anti-Corruption Code & Valve VAC Guidelines – competitive integrity  
-* Broadcast Engineers Association Live Production Guide – live-event standards  
+* IAB Influencer-Marketing Measurement Standards (2024) 
+* Hootsuite Social-Marketing Certification (2024)  
+* OpenAI Prompt-Engineering Guide (2024)
+* Patreon Creator Success Framework (2024) 
+* Esports Integrity Commission (ESIC) Standards (2025)
+* NAB Live-Production Workflow Guides (2024)  
+* TikTok Creative Center Best Practices (2025)  
+* WHO Physical-Activity Guidelines (2020)  
+* ISC Esports Coaching Framework (2024)  
 
-> **Attribution** — Each KSA cites the specific frameworks above in its `source_frameworks` field for transparency.
+## Future-Expansion Recommendations
+* **Virtual Influencer Production** – AI-generated personalities and IP governance.  
+* **Voice-AI & Real-Time Dubbing** – multilingual reach and accessibility.  
+* **Immersive 3-D & Metaverse Events** – volumetric capture and WebXR storytelling.  
 
----
+> *All sources cited for conceptual alignment. No proprietary text copied.*
 
-*Last updated: 19 Sep 2025*
+_Last updated: 11 Oct 2025_
