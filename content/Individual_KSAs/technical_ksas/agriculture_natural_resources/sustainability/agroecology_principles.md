@@ -3,7 +3,7 @@ ksa_id: agroecology_principles
 label: Agroecology Principles
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Sustainability"
   - "Ecosystem Services"

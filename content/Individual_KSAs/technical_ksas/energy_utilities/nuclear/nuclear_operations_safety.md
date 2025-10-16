@@ -3,7 +3,7 @@ ksa_id: nuclear_energy_operations
 label: Nuclear Energy Operations & Safety
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Generation"
   - "Nuclear"

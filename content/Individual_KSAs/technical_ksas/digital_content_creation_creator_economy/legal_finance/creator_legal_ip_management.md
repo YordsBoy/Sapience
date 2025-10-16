@@ -3,7 +3,7 @@ ksa_id: creator_legal_ip_management
 label: Creator Legal & Intellectual-Property Management
 category: Technical
 sector: Digital_Content_Creator_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Copyright"
   - "IP Management"

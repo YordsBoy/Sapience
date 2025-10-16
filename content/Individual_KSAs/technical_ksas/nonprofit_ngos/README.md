@@ -20,7 +20,7 @@ These **24 KSAs** incorporate that guidance so organisations can govern ethicall
 
 | Key | Meaning |
 |-----|---------|
-| **core_2025** | Essential now |
+| **core** | Essential now |
 | **emerging**  | Growing skills (2-4 yrs) |
 
 ## KSA inventory (24)

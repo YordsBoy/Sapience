@@ -3,7 +3,7 @@ ksa_id: cash_based_accounting
 label: Cash-Based Accounting
 category: Technical
 sector: Informal_Gray_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Accounting"
   - "Cash Basis"

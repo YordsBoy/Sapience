@@ -10,21 +10,21 @@
 - **Supply Chain & Production Planning:** Coordinating manufacturing with supply and demand. *Examples:* *Production Scheduling & ERP*, *Inventory/Materials Management (JIT)*, *Supply Chain Integration*.
 - **Emerging Manufacturing Tech:** New methods and trends. *Examples:* *Additive Manufacturing Design*, *Advanced Materials Processing (composites, nanomaterials)*, *Green Manufacturing (energy-efficient processes)*.
 
-**Horizon Key:** Most listed skills are `core_2025` (today’s manufacturing practices). Some cutting-edge ones like nanomanufacturing or fully AI-driven production might be `emerging`, tagged as such if included. Generally, manufacturing quickly adopts new tech, so many innovations (IIoT, 3D printing) are already core in advanced facilities.
+**Horizon Key:** Most listed skills are `core` (today’s manufacturing practices). Some cutting-edge ones like nanomanufacturing or fully AI-driven production might be `emerging`, tagged as such if included. Generally, manufacturing quickly adopts new tech, so many innovations (IIoT, 3D printing) are already core in advanced facilities.
 
 ## KSA Inventory
 
-- **cnc_machine_operation** – *CNC Machine Operation* (core_2025) – Operates computer numerical control (CNC) machines; interprets G-code and sets up mills/lathes to fabricate parts to specifications.
-- **industrial_welding_techniques** – *Industrial Welding Techniques* (core_2025) – Performs MIG/TIG/arc welding, understands metallurgy basics and safety in welding processes.
-- **industrial_robotics_operation** – *Industrial Robotics Operation* (core_2025) – Programs and operates robotic arms on the production line; troubleshoots basic robot issues.
-- **iiot_systems_integration** – *IIoT Systems Integration* (core_2025) – Integrates Industrial Internet of Things sensors/devices to collect real-time production data; works with PLCs and networked machines.
-- **cloud_manufacturing_data** – *Manufacturing Data Analytics* (core_2025) – Analyzes production data (from MES, SCADA) to identify trends, anomalies; uses dashboards for OEE (Overall Equipment Effectiveness) tracking.
-- **predictive_maintenance** – *Predictive Maintenance & CMMS* (core_2025) – Uses sensor data and Computerized Maintenance Management Systems (CMMS) to predict equipment failures (vibration analysis, etc.) and schedule maintenance proactively.
-- **quality_control_sixsigma** – *Quality Control & Six Sigma* (core_2025) – Implements quality checks, SPC (Statistical Process Control); uses Six Sigma tools (DMAIC) to reduce defects.
-- **continuous_improvement_lean_sixsigma** – *Continuous Improvement (Lean/Six Sigma)* (core_2025) – Eliminates waste and improves processes using Lean principles and Six Sigma techniques. *(New)*
-- **additive_manufacturing** – *Additive Manufacturing (3D Printing)* (core_2025) – Operates 3D printers (metal/polymer) for prototyping or production; understands design for additive manufacturing.
-- **supply_chain_production_planning** – *Supply Chain & Production Planning* (core_2025) – Plans production schedules in coordination with inventory and supply chain for just-in-time efficiency. *(New)*
-- **manufacturing_safety_standards** – *Manufacturing Safety & Ergonomics* (core_2025) – Enforces shop floor safety (machine guarding, OSHA standards) and ergonomic best practices for workers (lifting techniques, repetitive motion reduction).
+- **cnc_machine_operation** – *CNC Machine Operation* (core) – Operates computer numerical control (CNC) machines; interprets G-code and sets up mills/lathes to fabricate parts to specifications.
+- **industrial_welding_techniques** – *Industrial Welding Techniques* (core) – Performs MIG/TIG/arc welding, understands metallurgy basics and safety in welding processes.
+- **industrial_robotics_operation** – *Industrial Robotics Operation* (core) – Programs and operates robotic arms on the production line; troubleshoots basic robot issues.
+- **iiot_systems_integration** – *IIoT Systems Integration* (core) – Integrates Industrial Internet of Things sensors/devices to collect real-time production data; works with PLCs and networked machines.
+- **cloud_manufacturing_data** – *Manufacturing Data Analytics* (core) – Analyzes production data (from MES, SCADA) to identify trends, anomalies; uses dashboards for OEE (Overall Equipment Effectiveness) tracking.
+- **predictive_maintenance** – *Predictive Maintenance & CMMS* (core) – Uses sensor data and Computerized Maintenance Management Systems (CMMS) to predict equipment failures (vibration analysis, etc.) and schedule maintenance proactively.
+- **quality_control_sixsigma** – *Quality Control & Six Sigma* (core) – Implements quality checks, SPC (Statistical Process Control); uses Six Sigma tools (DMAIC) to reduce defects.
+- **continuous_improvement_lean_sixsigma** – *Continuous Improvement (Lean/Six Sigma)* (core) – Eliminates waste and improves processes using Lean principles and Six Sigma techniques. *(New)*
+- **additive_manufacturing** – *Additive Manufacturing (3D Printing)* (core) – Operates 3D printers (metal/polymer) for prototyping or production; understands design for additive manufacturing.
+- **supply_chain_production_planning** – *Supply Chain & Production Planning* (core) – Plans production schedules in coordination with inventory and supply chain for just-in-time efficiency. *(New)*
+- **manufacturing_safety_standards** – *Manufacturing Safety & Ergonomics* (core) – Enforces shop floor safety (machine guarding, OSHA standards) and ergonomic best practices for workers (lifting techniques, repetitive motion reduction).
 - **environmental_sustainable_mfg** – *Sustainable Manufacturing Practices* (emerging) – Implements energy-efficient processes, waste reduction (reuse/recycle materials) and compliance with environmental regulations in manufacturing.
 
 ## Referenced Frameworks & Standards

@@ -2,7 +2,7 @@
 ksa_id: omnichannel_support_platform_operations
 label: Omnichannel Support Platform Operations
 category: Technical
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Platform Ops"
   - "ITIL"

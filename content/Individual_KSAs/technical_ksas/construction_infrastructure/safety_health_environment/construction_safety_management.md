@@ -3,7 +3,7 @@ ksa_id: construction_safety_management
 label: Construction Safety Management (OSHA 1926)
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Safety"
   - "OSHA 1926"

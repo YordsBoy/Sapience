@@ -3,7 +3,7 @@ ksa_id: production_planning_scheduling
 label: Production Planning & Scheduling
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Planning"
   - "MES"

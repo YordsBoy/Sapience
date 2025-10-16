@@ -3,7 +3,7 @@ ksa_id: asset_pipeline_3d_optimization
 label: 3-D Asset Pipeline & Optimization
 category: Technical
 sector: immersive_media_ARVR
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "3D Assets"
   - "Optimisation"

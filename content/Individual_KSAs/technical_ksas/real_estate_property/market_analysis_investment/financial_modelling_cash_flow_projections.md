@@ -3,7 +3,7 @@ ksa_id: financial_modelling_cash_flow_projections
 label: Financial Modelling & Cash‑Flow Projections
 category: Technical
 sector: Real_Estate_Property
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Financial Modelling"
   - "Cash-Flow"

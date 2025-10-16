@@ -20,25 +20,25 @@ Generative-AI tools accelerate production: 55 % of creators report using AI in t
 ## Horizon Key
 | Horizon        | Meaning                                       |
 |----------------|-----------------------------------------------|
-| **core_2025**  | Widely adopted, essential today               |
+| **core**  | Widely adopted, essential today               |
 | **emerging**   | Rapid growth; mainstream by ≈ 2027            |
 
 ## KSA Inventory
 | KSA ID                               | Label                                         | Horizon    |
 |--------------------------------------|-----------------------------------------------|------------|
-| audience_analytics_community_management | Audience Analytics & Community Management   | core_2025  |
-| brand_partnership_negotiation        | Brand-Partnership Negotiation                 | core_2025  |
-| creator_legal_ip_management          | Creator Legal & IP Management                 | core_2025  |
-| creator_tax_compliance_finance       | Creator Tax Compliance & Finance              | core_2025  |
-| platform_algorithm_engagement_optimization | Platform-Algorithm Engagement Optimisation | core_2025  |
-| revenue_diversification_for_creators | Revenue Diversification for Creators          | core_2025  |
-| short_form_video_production_workflow | Short-Form Video Production Workflow          | core_2025  |
+| audience_analytics_community_management | Audience Analytics & Community Management   | core  |
+| brand_partnership_negotiation        | Brand-Partnership Negotiation                 | core  |
+| creator_legal_ip_management          | Creator Legal & IP Management                 | core  |
+| creator_tax_compliance_finance       | Creator Tax Compliance & Finance              | core  |
+| platform_algorithm_engagement_optimization | Platform-Algorithm Engagement Optimisation | core  |
+| revenue_diversification_for_creators | Revenue Diversification for Creators          | core  |
+| short_form_video_production_workflow | Short-Form Video Production Workflow          | core  |
 | ai_assisted_content_generation       | AI-Assisted Content Generation & Prompting    | emerging   |
 | esports_anti_cheat_compliance        | Esports Anti-Cheat Compliance                 | emerging   |
-| esports_live_event_production        | Esports Live-Event Production                 | core_2025  |
-| esports_player_health_wellbeing      | Esports Player Health & Well-Being            | core_2025  |
+| esports_live_event_production        | Esports Live-Event Production                 | core  |
+| esports_player_health_wellbeing      | Esports Player Health & Well-Being            | core  |
 | esports_team_operations_coaching     | Esports Team Operations & Coaching            | emerging   |
-| merchandise_ecommerce_operations     | Merchandise & E-Commerce Operations           | core_2025  |
+| merchandise_ecommerce_operations     | Merchandise & E-Commerce Operations           | core  |
 
 ## Referenced Frameworks & Standards
 * IAB Influencer-Marketing Measurement Standards (2024) 

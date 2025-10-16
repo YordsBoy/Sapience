@@ -3,7 +3,7 @@ ksa_id: farm_financial_planning_analysis
 label: Farm Financial Planning & Analysis
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Finance"
   - "Farm Management"

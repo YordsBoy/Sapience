@@ -3,7 +3,7 @@ ksa_id: gene_editing_techniques
 label: CRISPR & Gene Editing Techniques  
 category: Technical  
 sector: Biotechnology_Synthetic_Biology  
-horizon: core_2025  
+horizon: core  
 cluster_tags:
   - "Genome Engineering"
   - "Laboratory Techniques"

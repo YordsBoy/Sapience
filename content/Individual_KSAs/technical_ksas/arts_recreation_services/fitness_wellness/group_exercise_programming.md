@@ -3,7 +3,7 @@ ksa_id: group_exercise_programming
 label: Group Exercise Programming
 category: Technical
 sector: Arts_Recreation
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Fitness"
   - "Programming"

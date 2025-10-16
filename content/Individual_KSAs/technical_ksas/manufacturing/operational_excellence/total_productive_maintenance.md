@@ -3,7 +3,7 @@ ksa_id: total_productive_maintenance
 label: Total Productive Maintenance (TPM)
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Maintenance"
   - "TPM"

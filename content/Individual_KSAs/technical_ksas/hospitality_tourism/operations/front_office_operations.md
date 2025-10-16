@@ -3,7 +3,7 @@ ksa_id: front_office_operations
 label: Front-Office Operations
 category: Technical
 sector: hospitality_tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Front Office"
   - "Operations"

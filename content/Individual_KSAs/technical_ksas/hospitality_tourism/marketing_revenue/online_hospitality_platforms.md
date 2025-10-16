@@ -3,7 +3,7 @@ ksa_id: online_hospitality_platforms
 label: Online Hospitality Platform Management  
 category: Technical  
 sector: Hospitality_Tourism  
-horizon: core_2025  
+horizon: core  
 cluster_tags:
   - "Platforms"
   - "Channel Management"

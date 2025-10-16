@@ -3,7 +3,7 @@ ksa_id: network_basics
 label: Network Fundamentals
 category: Technical
 sector: core_it_cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Networking"
   - "TCP/IP"

@@ -3,7 +3,7 @@ ksa_id: small_business_finance_pricing_personal_services
 label: Small-Business Finance & Pricing (Personal Services)
 category: Technical
 sector: Personal_Other_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Finance"
   - "Pricing"

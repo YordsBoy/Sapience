@@ -3,7 +3,7 @@ ksa_id: smart_livestock_farming
 label: Smart Livestock Farming
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Livestock"
   - "IoT"

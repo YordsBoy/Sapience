@@ -3,7 +3,7 @@ ksa_id: guest_recovery_complaint_resolution
 label: Guest Recovery & Complaint Resolution
 category: Technical
 sector: Hospitality_Tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Recovery"
   - "Service"

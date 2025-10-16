@@ -3,7 +3,7 @@ ksa_id: street_vendor_operations
 label: Street-Vendor Operations
 category: Technical
 sector: Informal_Gray_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Street Vendor"
   - "Operations"

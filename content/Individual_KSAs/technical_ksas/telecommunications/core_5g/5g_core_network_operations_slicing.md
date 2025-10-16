@@ -3,7 +3,7 @@ ksa_id: 5g_core_network_operations_slicing
 label: 5G Core Network Operations & Slicing
 category: Technical
 sector: Telecommunications
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "5G Core"
   - "Network Slicing"

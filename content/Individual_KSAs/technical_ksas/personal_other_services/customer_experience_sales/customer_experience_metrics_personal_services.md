@@ -3,7 +3,7 @@ ksa_id: customer_experience_metrics_personal_services
 label: Customer‑Experience Metrics (Personal Services)
 category: Technical
 sector: Personal_Other_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "CX Metrics"
   - "Analytics"

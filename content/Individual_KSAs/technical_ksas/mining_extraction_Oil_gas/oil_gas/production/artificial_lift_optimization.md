@@ -3,7 +3,7 @@ ksa_id: artificial_lift_optimization
 label: Artificial Lift System Optimization
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Production"
   - "ALS"

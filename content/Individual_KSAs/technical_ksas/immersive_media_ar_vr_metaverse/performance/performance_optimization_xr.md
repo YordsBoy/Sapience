@@ -3,7 +3,7 @@ ksa_id: performance_optimization_xr
 label: XR Performance Optimization & Profiling
 category: Technical
 sector: immersive_media_ARVR
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Performance"
   - "XR"

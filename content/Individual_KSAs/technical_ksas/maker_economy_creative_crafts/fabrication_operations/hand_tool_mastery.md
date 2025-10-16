@@ -3,7 +3,7 @@ ksa_id: hand_tool_mastery
 label: Hand-Tool Mastery
 category: Technical
 sector: Maker_Economy_Creative_Crafts
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Hand Tools"
   - "Craftsmanship"

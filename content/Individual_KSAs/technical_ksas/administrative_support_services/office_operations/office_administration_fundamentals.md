@@ -3,7 +3,7 @@ ksa_id: office_administration_fundamentals
 label: Office Administration Fundamentals
 category: Technical
 sector: Administrative_Support
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Office Operations"
   - "Coordination"

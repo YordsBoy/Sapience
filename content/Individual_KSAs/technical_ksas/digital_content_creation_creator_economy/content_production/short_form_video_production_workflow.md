@@ -3,7 +3,7 @@ ksa_id: short_form_video_production_workflow
 label: Short‑Form Video Production Workflow
 category: Technical
 sector: Digital_Content_Creator_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Video Production"
   - "Short-Form"

@@ -20,7 +20,7 @@ This sector equips practitioners to design, measure, automate, and continuously 
 
 | Key | Definition |
 |-----|------------|
-| **core_2025** | Competencies essential today |
+| **core** | Competencies essential today |
 | **emerging**  | Skills scaling rapidly within 2–4 years |
 
 ## KSA inventory

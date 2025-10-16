@@ -3,7 +3,7 @@ ksa_id: elder_care_hygiene_assistance
 label: Elder Care Hygiene Assistance
 category: Technical
 sector: Unpaid_Caregiving_Domestic_Work
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Elder Care"
   - "Hygiene"

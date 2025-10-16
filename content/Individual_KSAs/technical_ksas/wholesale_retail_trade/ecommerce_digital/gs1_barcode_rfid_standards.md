@@ -3,7 +3,7 @@ ksa_id: gs1_barcode_rfid_standards
 label: GS1 Barcode & RFID Standards
 category: Technical
 sector: Wholesale_Retail_Trade
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "GS1"
   - "RFID"

@@ -3,7 +3,7 @@ ksa_id: digital_heritage_archiving
 label: Digital Heritage Archiving  
 category: Technical  
 sector: Creative_Cultural_Industries  
-horizon: core_2025
+horizon: core
 cluster_tags: 
   - "Heritage"
   - "Digital Preservation"

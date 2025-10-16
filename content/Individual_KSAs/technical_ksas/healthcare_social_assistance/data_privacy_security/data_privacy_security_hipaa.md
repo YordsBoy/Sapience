@@ -3,7 +3,7 @@ ksa_id: data_privacy_security_hipaa
 label: Data Privacy & Security (HIPAA)
 category: Technical
 sector: healthcare_social_assistance
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "HIPAA Compliance"
   - "Security"

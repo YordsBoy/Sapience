@@ -3,7 +3,7 @@ ksa_id: e_marketplace_listing_optimization
 label: e-Marketplace Listing Optimization
 category: Technical
 sector: Maker_Economy_Creative_Crafts
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Marketplace"
   - "SEO"

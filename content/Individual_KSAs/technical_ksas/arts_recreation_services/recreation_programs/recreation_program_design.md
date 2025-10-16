@@ -3,7 +3,7 @@ ksa_id: recreation_program_design
 label: Recreation Program Design
 category: Technical
 sector: Arts_Recreation
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Recreation"
   - "Program Design"

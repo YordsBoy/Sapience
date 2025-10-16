@@ -3,7 +3,7 @@ ksa_id: developmental_play_childcare
 label: Developmental Play & Childcare Fundamentals
 category: Technical
 sector: Unpaid_Caregiving_Domestic_Work
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Child Development"
   - "Play"

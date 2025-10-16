@@ -18,7 +18,7 @@ Travel demand rebounded to **96 % of 2019 levels** in 2024, yet guests now expec
 
 | Key | Meaning |
 |-----|---------|
-| **core_2025** | Immediately essential competencies |
+| **core** | Immediately essential competencies |
 | **emerging**  | Growing skills maturing in 2-4 years |
 
 ## KSA inventory (23)

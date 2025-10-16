@@ -3,7 +3,7 @@ ksa_id: genome_editing_lab_safety
 label: Genome Editing & Lab Safety
 category: Technical
 sector: Biotechnology_Synthetic_Biology
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Genome Editing"
   - "Biosafety"

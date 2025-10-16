@@ -3,7 +3,7 @@ ksa_id: customer_service_escalation
 label: Customer Service & Escalation Management
 category: Technical
 sector: administrative_support_services
-horizon: core_2025
+horizon: core
 cluster_tags: ["Service Excellence", "Issue Resolution"]
 description: Handles inquiries, resolves issues, and manages escalations to maintain high internal and external customer satisfaction.
 source_frameworks: ["sfia:CSMG", "onet:43-4051.00"]

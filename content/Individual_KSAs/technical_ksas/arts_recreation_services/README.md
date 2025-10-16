@@ -17,7 +17,7 @@ Creative technology, hybrid participation models, and outcome-focused funding ar
 
 | Key | Definition |
 |-----|------------|
-| **core_2025** | Widely used competencies essential today |
+| **core** | Widely used competencies essential today |
 | **emerging**  | Rapid-growth skills that will become mainstream within 2–4 years |
 
 ## KSA inventory

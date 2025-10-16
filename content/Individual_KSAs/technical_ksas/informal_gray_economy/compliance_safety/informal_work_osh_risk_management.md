@@ -3,7 +3,7 @@ ksa_id: informal_work_osh_risk_management
 label: Informal‑Work OSH & Risk Management
 category: Technical
 sector: Informal_Gray_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "OSH"
   - "Risk Management"

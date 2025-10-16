@@ -3,7 +3,7 @@ ksa_id: digital_community_policing
 label: Digital Community Policing & Public Alerting  
 category: Technical  
 sector: Public_Safety_Security  
-horizon: core_2025  
+horizon: core  
 cluster_tags:
   - "Community Policing"
   - "Digital Engagement"

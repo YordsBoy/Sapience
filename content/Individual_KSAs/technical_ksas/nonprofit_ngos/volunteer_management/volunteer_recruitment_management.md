@@ -3,7 +3,7 @@ ksa_id: volunteer_recruitment_management
 label: Volunteer Recruitment & Management
 category: Technical
 sector: Nonprofit_NGO
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Volunteer"
   - "Recruitment"

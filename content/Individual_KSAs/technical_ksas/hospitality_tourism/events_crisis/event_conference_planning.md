@@ -3,7 +3,7 @@ ksa_id: event_conference_planning
 label: Event & Conference Planning
 category: Technical
 sector: hospitality_tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Events"
   - "Meetings"

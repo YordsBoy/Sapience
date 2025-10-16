@@ -3,7 +3,7 @@ ksa_id: multimedia_content_creation
 label: Multimedia Content Creation
 category: Technical
 sector: Arts_Recreation
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Media"
   - "Multimedia"

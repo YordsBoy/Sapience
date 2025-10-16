@@ -3,7 +3,7 @@ ksa_id: surface_mining_operations
 label: Surface Mining Operations
 category: Technical
 sector: Mining_Extraction_Minerals
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Operations"
   - "Open-Pit"

@@ -3,7 +3,7 @@ ksa_id: incident_command_nims
 label: Incident Command & NIMS Coordination
 category: Technical
 sector: Public_Safety_Security
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "ICS"
   - "NIMS"

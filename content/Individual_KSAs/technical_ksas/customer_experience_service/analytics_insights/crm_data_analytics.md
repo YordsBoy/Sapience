@@ -3,7 +3,7 @@ ksa_id: crm_data_analytics
 label: CRM Systems & Customer Analytics  
 category: Technical  
 sector: Customer_Experience_Service  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "CRM"
     - "Customer Analytics"

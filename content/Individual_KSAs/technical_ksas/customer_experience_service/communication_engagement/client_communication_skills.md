@@ -3,7 +3,7 @@ ksa_id: client_communication_skills
 label: Client Communication Skills
 category: Technical
 sector: Customer_Experience_Service
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Communication"
   - "Empathy"

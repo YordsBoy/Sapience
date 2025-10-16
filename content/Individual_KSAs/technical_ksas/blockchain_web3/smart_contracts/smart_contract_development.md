@@ -3,7 +3,7 @@ ksa_id: smart_contract_development
 label: Smart Contract Development  
 category: Technical  
 sector: Blockchain_Web3  
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Solidity"
   - "EVM"

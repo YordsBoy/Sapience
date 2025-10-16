@@ -3,7 +3,7 @@ ksa_id: lng_cargo_handling_operations
 label: LNG Terminal Cargo-Handling Operations
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "LNG"
   - "Terminal Operations"

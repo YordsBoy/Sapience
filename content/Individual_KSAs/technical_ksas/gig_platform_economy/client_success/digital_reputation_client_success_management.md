@@ -3,7 +3,7 @@ ksa_id: digital_reputation_client_success_management
 label: Digital Reputation & Client Success Management
 category: Technical
 sector: Gig_Platform_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Reputation"
   - "Client Success"

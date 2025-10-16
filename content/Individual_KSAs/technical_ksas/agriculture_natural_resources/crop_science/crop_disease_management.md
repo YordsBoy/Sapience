@@ -3,7 +3,7 @@ ksa_id: crop_disease_management
 label: Crop Disease Management
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Crop Science"
   - "Integrated Pest Management"

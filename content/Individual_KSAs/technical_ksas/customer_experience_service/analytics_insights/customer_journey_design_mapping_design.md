@@ -3,7 +3,7 @@ ksa_id: customer_journey_mapping_design
 label: Customer Journey Mapping & Design
 category: Technical
 sector: Customer_Experience_Service
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Journey Mapping"
   - "Touchpoints"

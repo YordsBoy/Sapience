@@ -3,7 +3,7 @@ ksa_id: emergency_communications_interoperability
 label: Emergency Communications Interoperability
 category: Technical
 sector: Public_Safety_Security
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Interoperability"
   - "Communications"

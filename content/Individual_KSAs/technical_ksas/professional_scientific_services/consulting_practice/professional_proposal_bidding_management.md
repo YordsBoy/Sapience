@@ -3,7 +3,7 @@ ksa_id: professional_proposal_bidding_management
 label: Professional Proposal & Bidding Management
 category: Technical
 sector: Professional_Scientific_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Proposal"
   - "Bid Management"

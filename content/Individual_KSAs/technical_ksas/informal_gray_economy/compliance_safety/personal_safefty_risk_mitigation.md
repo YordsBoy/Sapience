@@ -3,7 +3,7 @@ ksa_id: personal_safety_risk_mitigation
 label: Personal Safety & Risk Mitigation
 category: Technical
 sector: Informal_Gray_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Personal Safety"
   - "Risk"

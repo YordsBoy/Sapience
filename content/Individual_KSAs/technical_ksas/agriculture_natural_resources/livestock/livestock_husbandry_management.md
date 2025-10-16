@@ -3,7 +3,7 @@ ksa_id: livestock_husbandry_management
 label: Livestock Husbandry & Management
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Livestock"
   - "Animal Welfare"

@@ -21,7 +21,7 @@ Administrative professionals remain essential to organisational agility even as 
 
 | Key | Meaning |
 |-----|---------|
-| **core_2025** | Competencies already indispensable for today’s roles (2025 horizon). |
+| **core** | Competencies already indispensable for today’s roles (2025 horizon). |
 | **emerging** | Rapidly growing importance; likely mainstream within 2-4 years. |
 
 ## KSA inventory

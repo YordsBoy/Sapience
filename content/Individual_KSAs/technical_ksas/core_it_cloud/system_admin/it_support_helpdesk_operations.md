@@ -3,7 +3,7 @@ ksa_id: it_support_helpdesk_operations
 label: IT Support & Helpdesk Operations
 category: Technical
 sector: Core_IT_Cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "IT Support"
   - "Troubleshooting"

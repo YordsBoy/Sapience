@@ -3,7 +3,7 @@ ksa_id: ict_integrated_teaching_practices
 label: ICT‑Integrated Teaching Practices
 category: Technical
 sector: Education_Training
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "ICT"
   - "Pedagogy"

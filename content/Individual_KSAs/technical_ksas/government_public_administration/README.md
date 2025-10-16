@@ -21,7 +21,7 @@ OECD’s 2022 *Recommendation on Public-Policy Evaluation* urges evidence and tr
 
 | Key | Meaning |
 |-----|---------|
-| **core_2025** | Essential in today’s public roles |
+| **core** | Essential in today’s public roles |
 | **emerging** | Scaling in 2-4 years |
 
 ## KSA inventory (22)

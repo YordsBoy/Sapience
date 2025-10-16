@@ -3,7 +3,7 @@ ksa_id: launch_range_safety_management
 label: Launch & Range Safety Management
 category: Technical
 sector: Space_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Range Safety"
   - "14 CFR Part 450"

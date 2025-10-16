@@ -3,7 +3,7 @@ ksa_id: ng911_emergency_service_communications
 label: NG911 Emergency‑Services Communications
 category: Technical
 sector: Telecommunications
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "NG911"
   - "IP PSAP"

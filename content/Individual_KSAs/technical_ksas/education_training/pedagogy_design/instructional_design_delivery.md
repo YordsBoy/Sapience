@@ -3,7 +3,7 @@ ksa_id: instructional_design_delivery
 label: Instructional Design and Delivery  
 category: Technical  
 sector: Education_Training  
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Instructional Design"
   - "Delivery"

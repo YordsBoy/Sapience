@@ -3,7 +3,7 @@ ksa_id: asset_integrity_management
 label: Asset Integrity & Maintenance Programs
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Asset Management"
   - "Maintenance"

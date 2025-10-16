@@ -21,20 +21,20 @@ The result: smart-contract skills are **core 2025**, rollups, ZKPs, and DID arch
 ## Horizon Key
 | Horizon        | Meaning                                            |
 |----------------|----------------------------------------------------|
-| **core_2025**  | Widely adopted, essential today                    |
+| **core**  | Widely adopted, essential today                    |
 | **emerging**   | Rapid growth; expected mainstream by ≈ 2027        |
 
 ## KSA Inventory
 | KSA ID                         | Label                                   | Horizon    |
 |--------------------------------|-----------------------------------------|------------|
-| smart_contract_development     | Smart-Contract Development             | core_2025  |
-| smart_contract_auditing        | Smart-Contract Auditing                | core_2025  |
+| smart_contract_development     | Smart-Contract Development             | core  |
+| smart_contract_auditing        | Smart-Contract Auditing                | core  |
 | dao_governance_compliance      | DAO Governance & Compliance            | emerging   |
 | defi_treasury_risk_operations  | DeFi Treasury & Risk Operations        | emerging   |
-| token_economics_analysis       | Token-Economics Analysis               | core_2025  |
+| token_economics_analysis       | Token-Economics Analysis               | core  |
 | layer2_rollup_operations       | Layer-2 Rollup Operations              | emerging   |
 | zk_proof_engineering           | Zero-Knowledge Proof Engineering       | emerging   |
-| nft_lifecycle_management       | NFT Lifecycle Management               | core_2025  |
+| nft_lifecycle_management       | NFT Lifecycle Management               | core  |
 | cross_chain_bridge_security    | Cross-Chain Bridge Security            | emerging   |
 | decentralized_identity_architecture | Decentralized-Identity Architecture | emerging   |
 

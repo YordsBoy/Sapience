@@ -3,7 +3,7 @@ ksa_id: gig_worker_financial_planning_retirement
 label: Gig-Worker Financial Planning & Retirement
 category: Technical
 sector: Gig_Platform_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Finance"
   - "Retirement"

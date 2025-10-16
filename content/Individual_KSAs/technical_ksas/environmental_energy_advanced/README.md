@@ -22,31 +22,31 @@ Green hydrogen is emerging as “the new oil”: IRENA projects **a USD 1.5 tril
 ## Horizon Key
 | Horizon        | Meaning                                                             |
 |----------------|---------------------------------------------------------------------|
-| **core_2025**  | Competencies needed today for mainstream decarbonisation projects   |
+| **core**  | Competencies needed today for mainstream decarbonisation projects   |
 | **emerging**   | Rapid-growth skills; expected to dominate by ≈ 2027                 |
 
 ## KSA Inventory
 | ID | Label | Horizon |
 |----|-------|---------|
-| battery_storage_integration | Battery-Storage Integration | core_2025 |
-| carbon_accounting_ghg_inventory | Carbon Accounting & GHG Inventory | core_2025 |
-| lifecycle_ghg_accounting_lca | Life-Cycle GHG Accounting (LCA) | core_2025 |
+| battery_storage_integration | Battery-Storage Integration | core |
+| carbon_accounting_ghg_inventory | Carbon Accounting & GHG Inventory | core |
+| lifecycle_ghg_accounting_lca | Life-Cycle GHG Accounting (LCA) | core |
 | carbon_capture_utilization_storage_ccus | CCUS | emerging |
 | ccus_operations_monitoring | CCUS Operations & Monitoring | emerging |
 | direct_air_capture_operations_management | Direct-Air Capture Operations | emerging |
-| circular_economy_design_engineering | Circular-Economy Design Engineering | core_2025 |
-| sustainable_materials_life_cycle_assessment | Sustainable-Materials LCA | core_2025 |
-| climate_adaptation_infrastructure_planning | Climate-Adaptation Infrastructure | core_2025 |
+| circular_economy_design_engineering | Circular-Economy Design Engineering | core |
+| sustainable_materials_life_cycle_assessment | Sustainable-Materials LCA | core |
+| climate_adaptation_infrastructure_planning | Climate-Adaptation Infrastructure | core |
 | climate_risk_modeling_scenario_analysis | Climate-Risk Modelling & Scenarios | emerging |
-| energy_auditing_efficiency | Energy Auditing & Efficiency | core_2025 |
-| green_building_principles | Green-Building Principles | core_2025 |
-| water_conservation_systems | Water Conservation Systems | core_2025 |
-| renewable_energy_systems_design | Renewable-Energy Systems Design | core_2025 |
-| renewable_energy_systems_integration | Renewable-Energy Systems Integration | core_2025 |
-| solar_system_installation | Solar-System Installation | core_2025 |
+| energy_auditing_efficiency | Energy Auditing & Efficiency | core |
+| green_building_principles | Green-Building Principles | core |
+| water_conservation_systems | Water Conservation Systems | core |
+| renewable_energy_systems_design | Renewable-Energy Systems Design | core |
+| renewable_energy_systems_integration | Renewable-Energy Systems Integration | core |
+| solar_system_installation | Solar-System Installation | core |
 | grid_interactive_buildings_smart_microgrids | Grid-Interactive Buildings & Microgrids | emerging |
 | renewable_hydrogen_supply_chain_management | Renewable-Hydrogen Supply Chain | emerging |
-| green_finance_esg_reporting | Green Finance & ESG Reporting | core_2025 |
+| green_finance_esg_reporting | Green Finance & ESG Reporting | core |
 | environmental_blockchain_energy_trading | Environmental-Blockchain Energy Trading | emerging |
 
 ## Referenced Frameworks & Standards

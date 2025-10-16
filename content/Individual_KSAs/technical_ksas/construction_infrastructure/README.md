@@ -10,21 +10,21 @@
 - **Project Management & Administration:** Planning and managing construction projects. *Examples:* *Construction Project Management*, *Budgeting & Estimating*, *Contract Management & Permitting*.
 - **Infrastructure Specializations:** Focus on large-scale infrastructure projects. *Examples:* *Highway & Road Construction*, *Urban Utilities Infrastructure*, *Bridge Construction Techniques*.
 
-**Horizon Key:** Most construction skills are `core_2025` – well-established practices using current technology. Innovations like 3D printing of buildings or extensive use of robotics might be `emerging`, but those are either covered in an advanced manufacturing sector or will be noted accordingly if included here.
+**Horizon Key:** Most construction skills are `core` – well-established practices using current technology. Innovations like 3D printing of buildings or extensive use of robotics might be `emerging`, but those are either covered in an advanced manufacturing sector or will be noted accordingly if included here.
 
 ## KSA Inventory
 
-- **carpentry_framing** – *Carpentry & Framing* (core_2025) – Constructs structural frameworks (walls, roofs) using wood/metal, interpreting building plans.
-- **masonry_construction** – *Masonry Construction* (core_2025) – Lays bricks, blocks, stone with proper techniques and mortar mixes to create structures.
-- **electrical_wiring_nec** – *Electrical Wiring & Code Compliance* (core_2025) – Installs electrical systems following National Electrical Code (NEC) standards.
-- **hvac_system_installation** – *HVAC Systems Installation* (core_2025) – Installs and services heating, ventilation, air conditioning systems, sizing equipment and ductwork for buildings.
-- **plumbing_pipefitting** – *Plumbing & Pipefitting* (core_2025) – Installs water, sewage, and gas lines; reads plumbing blueprints and follows code for pipe materials and slope.
-- **cad_bim_proficiency** – *CAD/BIM Proficiency* (core_2025) – Uses computer-aided design (CAD) and Building Information Modeling (BIM) tools to interpret and coordinate design plans.
-- **structural_engineering_basics** – *Structural Engineering Basics* (core_2025) – Understands loads and reads structural plans to ensure construction meets engineering specs. *(New)*
-- **construction_site_safety** – *Construction Site Safety Management* (core_2025) – Implements OSHA construction safety standards (PPE use, fall protection, hazard communication) and fosters a safety culture on site.
-- **quality_inspection_codes** – *Quality Control & Codes Inspection* (core_2025) – Performs inspections to ensure work meets building codes and project specifications; coordinates with code inspectors (building, electrical, etc.).
-- **construction_project_management** – *Construction Project Management* (core_2025) – Plans and oversees construction projects (scheduling, budgeting, coordinating trades) to timely, on-budget completion. *(New)*
-- **construction_estimation** – *Construction Estimation & Bidding* (core_2025) – Prepares cost estimates and bid proposals; calculates material/labor costs and manages bid process.
+- **carpentry_framing** – *Carpentry & Framing* (core) – Constructs structural frameworks (walls, roofs) using wood/metal, interpreting building plans.
+- **masonry_construction** – *Masonry Construction* (core) – Lays bricks, blocks, stone with proper techniques and mortar mixes to create structures.
+- **electrical_wiring_nec** – *Electrical Wiring & Code Compliance* (core) – Installs electrical systems following National Electrical Code (NEC) standards.
+- **hvac_system_installation** – *HVAC Systems Installation* (core) – Installs and services heating, ventilation, air conditioning systems, sizing equipment and ductwork for buildings.
+- **plumbing_pipefitting** – *Plumbing & Pipefitting* (core) – Installs water, sewage, and gas lines; reads plumbing blueprints and follows code for pipe materials and slope.
+- **cad_bim_proficiency** – *CAD/BIM Proficiency* (core) – Uses computer-aided design (CAD) and Building Information Modeling (BIM) tools to interpret and coordinate design plans.
+- **structural_engineering_basics** – *Structural Engineering Basics* (core) – Understands loads and reads structural plans to ensure construction meets engineering specs. *(New)*
+- **construction_site_safety** – *Construction Site Safety Management* (core) – Implements OSHA construction safety standards (PPE use, fall protection, hazard communication) and fosters a safety culture on site.
+- **quality_inspection_codes** – *Quality Control & Codes Inspection* (core) – Performs inspections to ensure work meets building codes and project specifications; coordinates with code inspectors (building, electrical, etc.).
+- **construction_project_management** – *Construction Project Management* (core) – Plans and oversees construction projects (scheduling, budgeting, coordinating trades) to timely, on-budget completion. *(New)*
+- **construction_estimation** – *Construction Estimation & Bidding* (core) – Prepares cost estimates and bid proposals; calculates material/labor costs and manages bid process.
 - **green_building_practices** – *Green Building Practices* (emerging) – Applies sustainable construction methods (LEED standards, energy-efficient materials, waste reduction on site). *(If not in Env/Energy sector, covered here for basics.)*
 
 ## Referenced Frameworks & Standards

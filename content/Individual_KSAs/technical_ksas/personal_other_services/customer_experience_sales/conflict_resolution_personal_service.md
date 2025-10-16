@@ -3,7 +3,7 @@ ksa_id: conflict_resolution_personal_service
 label: Conflict Resolution in Personal Services
 category: Technical
 sector: personal_other_services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Conflict"
   - "Resolution"

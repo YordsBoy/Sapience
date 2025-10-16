@@ -3,7 +3,7 @@ ksa_id: drilling_well_control
 label: Drilling Operations Well Control
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Drilling"
   - "Safety"

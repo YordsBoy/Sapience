@@ -3,7 +3,7 @@ ksa_id: nft_lifecycle_management
 label: NFT Lifecycle Management
 category: Technical
 sector: Blockchain_Web3
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "NFT"
   - "IPFS"

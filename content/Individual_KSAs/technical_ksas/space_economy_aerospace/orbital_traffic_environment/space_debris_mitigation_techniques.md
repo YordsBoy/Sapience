@@ -3,7 +3,7 @@ ksa_id: space_debris_mitigation_techniques
 label: Space Debris‑Mitigation Techniques
 category: Technical
 sector: Space_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Orbital Debris"
   - "ISO 24113"

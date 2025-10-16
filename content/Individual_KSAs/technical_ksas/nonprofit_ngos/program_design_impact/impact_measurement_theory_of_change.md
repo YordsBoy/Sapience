@@ -3,7 +3,7 @@ ksa_id: impact_measurement_theory_of_change
 label: Impact Measurement & Theory‑of‑Change Design
 category: Technical
 sector: Nonprofit_NGO
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Impact"
   - "M&E"

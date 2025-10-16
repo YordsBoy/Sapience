@@ -3,7 +3,7 @@ ksa_id: multi_platform_income_strategy
 label: Multi-Platform Income Strategy
 category: Technical
 sector: Gig_Platform_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Diversification"
   - "Income Strategy"

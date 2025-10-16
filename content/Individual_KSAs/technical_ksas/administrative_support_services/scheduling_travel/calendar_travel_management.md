@@ -3,7 +3,7 @@ ksa_id: customer_service_escalation_management
 label: Customer Service & Escalation Management
 category: Technical
 sector: Administrative_Support
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Customer Service"
   - "Escalation"

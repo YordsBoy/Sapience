@@ -3,7 +3,7 @@ ksa_id: accessibility_captioning_audio_description
 label: Accessibility Captioning & Audio Description
 category: Technical
 sector: Media_Arts_Entertainment
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Accessibility"
   - "Captioning"

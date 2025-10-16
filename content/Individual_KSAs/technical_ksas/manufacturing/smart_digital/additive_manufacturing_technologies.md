@@ -3,7 +3,7 @@ ksa_id: additive_manufacturing_technologies
 label: Additive Manufacturing Technologies
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Additive Manufacturing"
   - "ASTM F42"

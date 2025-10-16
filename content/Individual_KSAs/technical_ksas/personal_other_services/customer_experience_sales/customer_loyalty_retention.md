@@ -3,7 +3,7 @@ ksa_id: customer_loyalty_retention
 label: Customer Loyalty & Retention Strategies
 category: Technical
 sector: personal_other_services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Loyalty"
   - "Retention"

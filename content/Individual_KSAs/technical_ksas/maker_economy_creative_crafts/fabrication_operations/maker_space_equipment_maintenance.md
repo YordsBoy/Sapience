@@ -3,7 +3,7 @@ ksa_id: maker_space_equipment_maintenance
 label: Makerspace Equipment Maintenance
 category: Technical
 sector: Maker_Economy_Creative_Crafts
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Maintenance"
   - "Maker Space"

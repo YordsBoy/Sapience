@@ -3,7 +3,7 @@ ksa_id: cultural_entrepreneurship
 label: Cultural Entrepreneurship
 category: Technical
 sector: Creative_Cultural_Industries
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Business"
   - "Culture"

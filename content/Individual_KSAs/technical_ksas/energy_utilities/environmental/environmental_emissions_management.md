@@ -3,7 +3,7 @@ ksa_id: environmental_emissions_management
 label: Environmental & Emissions Management
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Environment"
   - "Compliance"

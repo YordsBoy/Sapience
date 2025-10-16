@@ -3,7 +3,7 @@ ksa_id: insurance_underwriting_principles
 label: Insurance Underwriting Principles
 category: Technical
 sector: finance_insurance
-horizon: core_2025
+horizon: core
 cluster_tags: ["P&C", "Life", "Reinsurance"]
 description: Evaluates risk characteristics, determines coverage terms, and prices policies consistent with underwriting guidelines, loss-ratio targets, and regulatory constraints.
 source_frameworks: ["naic:UW", "acord:Guidelines"]

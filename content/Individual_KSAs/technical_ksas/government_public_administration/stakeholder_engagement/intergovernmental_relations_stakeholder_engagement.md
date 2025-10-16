@@ -3,7 +3,7 @@ ksa_id: intergovernmental_relations_stakeholder_engagement
 label: Intergovernmental Relations & Stakeholder Engagement
 category: Technical
 sector: government_public_admin
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Intergovernmental"
   - "Stakeholder"

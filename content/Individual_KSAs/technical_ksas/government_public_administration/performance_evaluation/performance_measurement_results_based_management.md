@@ -3,7 +3,7 @@ ksa_id: performance_measurement_results_based_management
 label: Performance Measurement & Results-Based Management
 category: Technical
 sector: government_public_admin
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Performance"
   - "RBM"

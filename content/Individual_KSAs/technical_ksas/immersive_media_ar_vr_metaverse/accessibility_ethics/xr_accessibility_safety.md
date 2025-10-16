@@ -3,7 +3,7 @@ ksa_id: xr_accessibility_safety
 label: XR Accessibility & Safety Engineering
 category: Technical
 sector: immersive_media_ARVR
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Accessibility"
   - "Safety"

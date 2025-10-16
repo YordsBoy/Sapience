@@ -3,7 +3,7 @@ ksa_id: filing_and_archiving_management
 label: Document & Records Management
 category: Technical
 sector: Administrative_Support
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Filing"
   - "Archiving"

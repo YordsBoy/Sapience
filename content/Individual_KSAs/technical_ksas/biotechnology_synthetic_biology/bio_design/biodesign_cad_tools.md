@@ -3,7 +3,7 @@ ksa_id: biodesign_cad_tools
 label: Biodesign Computer‑Aided Design (CAD)
 category: Technical
 sector: Biotechnology_Synthetic_Biology
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Synthetic Biology"
   - "CAD"

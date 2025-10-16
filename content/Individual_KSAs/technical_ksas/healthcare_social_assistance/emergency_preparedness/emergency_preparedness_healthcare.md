@@ -3,7 +3,7 @@ ksa_id: emergency_preparedness_healthcare
 label: Emergency Preparedness in Healthcare
 category: Technical
 sector: healthcare_social_assistance
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Emergency Preparedness"
   - "CMS Rule"

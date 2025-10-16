@@ -3,7 +3,7 @@ ksa_id: welding_processes_mastery
 label: Welding Processes Mastery
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Welding"
   - "AWS D1.1"

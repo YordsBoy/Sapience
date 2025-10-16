@@ -3,7 +3,7 @@ ksa_id: custom_order_management
 label: Custom Order Management
 category: Technical
 sector: Maker_Economy_Creative_Crafts
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Custom Orders"
   - "Workflow"

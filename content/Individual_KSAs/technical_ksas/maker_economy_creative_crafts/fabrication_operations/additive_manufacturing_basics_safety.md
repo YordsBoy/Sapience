@@ -3,7 +3,7 @@ ksa_id: additive_manufacturing_basics_safety
 label: Intro to Additive Manufacturing & Safety
 category: Technical
 sector: Maker_Economy_Creative_Crafts
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Additive Manufacturing"
   - "Safety"

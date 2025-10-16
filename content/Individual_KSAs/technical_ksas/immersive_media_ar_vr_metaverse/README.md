@@ -26,29 +26,29 @@ Industry bodies are codifying safety and ethics: **XR Association (XRA) released
 ## Horizon Key
 | Horizon        | Meaning                                                                       |
 |----------------|-------------------------------------------------------------------------------|
-| **core_2025**  | Skills required for current commercial AR/VR production and enterprise rollout|
+| **core**  | Skills required for current commercial AR/VR production and enterprise rollout|
 | **emerging**   | Rapid-growth competencies expected to mainstream by ≈ 2027                    |
 
 ## KSA Inventory
 | ID | Label | Horizon |
 |----|-------|---------|
-| ar_cloud_geospatial_anchoring | AR-Cloud Geospatial Anchoring | core_2025 |
-| asset_pipeline_3d_optimization | 3-D Asset-Pipeline Optimisation | core_2025 |
-| enterprise_xr_deployment_safety_management | Enterprise XR Deployment & Safety Mgmt | core_2025 |
-| immersive_interaction_ux_design | Immersive-Interaction UX Design | core_2025 |
-| interaction_design_xr | Interaction-Design Patterns for XR | core_2025 |
-| performance_optimization_xr | Runtime Performance Optimisation for XR | core_2025 |
-| realtime_engine_development | Realtime Engine Development | core_2025 |
+| ar_cloud_geospatial_anchoring | AR-Cloud Geospatial Anchoring | core |
+| asset_pipeline_3d_optimization | 3-D Asset-Pipeline Optimisation | core |
+| enterprise_xr_deployment_safety_management | Enterprise XR Deployment & Safety Mgmt | core |
+| immersive_interaction_ux_design | Immersive-Interaction UX Design | core |
+| interaction_design_xr | Interaction-Design Patterns for XR | core |
+| performance_optimization_xr | Runtime Performance Optimisation for XR | core |
+| realtime_engine_development | Realtime Engine Development | core |
 | social_multiplayer_xr | Social & Multiplayer XR | emerging |
-| spatial_audio_engineering | Spatial-Audio Engineering | core_2025 |
-| xr_accessibility_safety | XR Accessibility & Safety | core_2025 |
-| xr_analytics_telemetry | XR Analytics & Telemetry | core_2025 |
+| spatial_audio_engineering | Spatial-Audio Engineering | core |
+| xr_accessibility_safety | XR Accessibility & Safety | core |
+| xr_analytics_telemetry | XR Analytics & Telemetry | core |
 | xr_ethics_privacy | XR Ethics & Privacy | emerging |
 | xr_hardware_prototyping | XR Hardware Prototyping | emerging |
 | haptics_interface_design_xr | Haptics-Interface Design for XR | emerging |
 | volumetric_capture_pipeline | Volumetric-Capture Pipeline | emerging |
-| xr_production_workflow_asset_optimization | XR Production Workflow & Asset Optimisation | core_2025 |
-| xr_storytelling | XR Storytelling & Narrative Design | core_2025 |
+| xr_production_workflow_asset_optimization | XR Production Workflow & Asset Optimisation | core |
+| xr_storytelling | XR Storytelling & Narrative Design | core |
 | webxr_frontend_development | WebXR Frontend Development | emerging |
 
 ## Referenced Frameworks & Standards

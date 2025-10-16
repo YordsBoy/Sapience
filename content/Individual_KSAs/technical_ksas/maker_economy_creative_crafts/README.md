@@ -15,7 +15,7 @@ Independent makers now power a **$100 B+ global market**, propelled by low-cost 
 ## Horizon keys
 | Key | Meaning |
 |-----|---------|
-| **core_2025** | Essential today |
+| **core** | Essential today |
 | **emerging**  | Scaling within 2–4 years |
 
 ## KSA inventory (22)

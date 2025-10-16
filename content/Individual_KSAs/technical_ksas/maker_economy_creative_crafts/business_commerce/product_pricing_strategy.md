@@ -3,7 +3,7 @@ ksa_id: product_pricing_strategy
 label: Product Pricing Strategy
 category: Technical
 sector: Maker_Economy_Creative_Crafts
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Pricing"
   - "Strategy"

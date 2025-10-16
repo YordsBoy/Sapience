@@ -3,7 +3,7 @@ ksa_id: pipefitting_techniques
 label: Pipefitting Techniques
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Piping"
   - "ASME B31"

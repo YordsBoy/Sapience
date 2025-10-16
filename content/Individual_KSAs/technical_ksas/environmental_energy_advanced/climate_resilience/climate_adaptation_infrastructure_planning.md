@@ -3,7 +3,7 @@ ksa_id: climate_adaptation_infrastructure_planning
 label: Climate Adaptation Infrastructure Planning
 category: Technical
 sector: Environmental_Advanced_Energy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Climate Adaptation"
   - "Infrastructure"

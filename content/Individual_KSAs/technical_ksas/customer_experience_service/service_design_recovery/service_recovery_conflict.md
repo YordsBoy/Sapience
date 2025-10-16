@@ -4,7 +4,7 @@ label: Service Recovery and Conflict Resolution
 category: Technical  
 sector: Customer_Experience_Service  
 horizon: perennial  
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Recovery"
   - "Conflict" 

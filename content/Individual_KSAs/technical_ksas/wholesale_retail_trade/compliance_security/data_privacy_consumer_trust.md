@@ -3,7 +3,7 @@ ksa_id: data_privacy_consumer_trust
 label: Data Privacy & Consumer Trust (CCPA/GDPR)
 category: Technical
 sector: Wholesale_Retail_Trade
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Privacy"
   - "Compliance"

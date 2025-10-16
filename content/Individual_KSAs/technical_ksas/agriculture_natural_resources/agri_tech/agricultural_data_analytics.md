@@ -3,7 +3,7 @@ ksa_id: agricultural_data_analytics
 label: Agricultural Data Analytics
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Data Analytics"
   - "Precision Agriculture"

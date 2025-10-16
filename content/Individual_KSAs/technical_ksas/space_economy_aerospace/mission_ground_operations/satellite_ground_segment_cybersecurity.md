@@ -3,7 +3,7 @@ ksa_id: satellite_ground_segment_cybersecurity
 label: Satellite Ground‑Segment Cybersecurity
 category: Technical
 sector: Space_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Ground Segment"
   - "Cybersecurity"

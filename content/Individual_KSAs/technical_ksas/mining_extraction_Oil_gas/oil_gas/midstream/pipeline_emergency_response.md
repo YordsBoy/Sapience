@@ -3,7 +3,7 @@ ksa_id: pipeline_emergency_response
 label: Pipeline Operations Emergency Response
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Midstream"
   - "Emergency Response"

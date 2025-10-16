@@ -16,26 +16,26 @@ Artificial-intelligence adoption and data volumes continue to surge: the NIST AI
 ## Horizon Key
 | Horizon        | Meaning                                                     |
 |----------------|-------------------------------------------------------------|
-| **core_2025**  | Widely adopted skills required today                        |
+| **core**  | Widely adopted skills required today                        |
 | **emerging**   | Rapid adoption; mainstream by ~2027                         |
 | **watch_2030** | Frontier skills likely mainstream post-2030                 |
 
 ## KSA Inventory
 | KSA ID                              | Label                                   | Horizon    |
 |-------------------------------------|-----------------------------------------|------------|
-| data_analysis_fundamentals          | Data Analysis Fundamentals              | core_2025  |
-| data_pipeline_architecture          | Data Pipeline Architecture              | core_2025  |
-| data_governance_ethics              | Data Governance & Ethics                | core_2025  |
-| machine_learning_model_development  | Machine Learning Model Development      | core_2025  |
-| machine_learning_engineering        | Machine Learning Engineering            | core_2025  |
-| model_evaluation_validation         | Model Evaluation & Validation           | core_2025  |
-| generative_ai_prompt_engineering    | Generative-AI Prompt Engineering        | core_2025  |
+| data_analysis_fundamentals          | Data Analysis Fundamentals              | core  |
+| data_pipeline_architecture          | Data Pipeline Architecture              | core  |
+| data_governance_ethics              | Data Governance & Ethics                | core  |
+| machine_learning_model_development  | Machine Learning Model Development      | core  |
+| machine_learning_engineering        | Machine Learning Engineering            | core  |
+| model_evaluation_validation         | Model Evaluation & Validation           | core  |
+| generative_ai_prompt_engineering    | Generative-AI Prompt Engineering        | core  |
 | ai_ops_monitoring                   | AIOps & Model Monitoring                | emerging   |
 | scalable_ml_infrastructure          | Scalable ML Infrastructure              | emerging   |
 | mlops_security_hardening            | MLOps Security Hardening                | emerging   |
 | ai_safety_red_team_operations       | AI Safety & Red-Team Operations         | emerging   |
 | federated_learning_architecture     | Federated Learning Architecture         | emerging   |
-| ai_ethics_governance                | AI Ethics & Governance                  | core_2025  |
+| ai_ethics_governance                | AI Ethics & Governance                  | core  |
 | quantum_computing_fundamentals      | Quantum Computing Fundamentals          | watch_2030 |
 | quantum_algorithm_design            | Quantum Algorithm Design & Programming  | watch_2030 |
 | quantum_networking_protocols        | Quantum Networking & Protocols          | watch_2030 |

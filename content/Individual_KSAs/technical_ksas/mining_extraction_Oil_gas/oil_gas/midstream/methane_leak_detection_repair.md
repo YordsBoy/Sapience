@@ -3,7 +3,7 @@ ksa_id: methane_leak_detection_repair
 label: Methane Leak Detection & Repair (LDAR)
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Environment"
   - "Methane"

@@ -3,7 +3,7 @@ ksa_id: peer_network_trust_building
 label: Peer-Network Trust Building
 category: Technical
 sector: Informal_Gray_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Peer Network"
   - "Trust"

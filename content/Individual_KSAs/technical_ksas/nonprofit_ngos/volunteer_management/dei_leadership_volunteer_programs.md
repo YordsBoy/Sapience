@@ -3,7 +3,7 @@ ksa_id: dei_leadership_volunteer_programs
 label: Diversity, Equity & Inclusion (DEI) Leadership in Volunteer Programs
 category: Technical
 sector: Nonprofit_NGOs
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "DEI"
   - "Volunteer Management"

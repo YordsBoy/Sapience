@@ -3,7 +3,7 @@ ksa_id: agricultural_machinery_operation
 label: Advanced Machinery Operation
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Machinery"
   - "Automation"

@@ -19,7 +19,7 @@ Roughly **60 % of the world’s workers** earn their livelihoods in informal or 
 
 | Key | Definition |
 |-----|------------|
-| **core_2025** | Must-have skills today |
+| **core** | Must-have skills today |
 | **emerging**  | Skills maturing in 2–4 years |
 
 ## KSA inventory (23)

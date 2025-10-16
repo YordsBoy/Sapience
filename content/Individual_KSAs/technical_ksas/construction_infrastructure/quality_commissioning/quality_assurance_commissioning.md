@@ -3,7 +3,7 @@ ksa_id: quality_assurance_commissioning
 label: Quality Assurance & Commissioning
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Quality"
   - "Commissioning"

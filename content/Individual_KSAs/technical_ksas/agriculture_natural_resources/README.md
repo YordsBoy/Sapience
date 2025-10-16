@@ -9,19 +9,19 @@
 - **Agri-Tech & Analytics:** Use of technology and data in farming. Examples: *Precision Agriculture Technologies*, *Agricultural Data Analytics*, *Farm Automation Systems*.
 - **Natural Resources & Sustainability:** Management of land, water, and ecosystems. Examples: *Climate-Resilient Farming Practices*, *Forestry Management Basics*, *Sustainable Irrigation Management*.
 
-**Horizon Key:** Most core farming skills are `core_2025` (widely in use today). Some cutting-edge sustainable or biotech skills might be labeled `emerging` if not yet mainstream. (Currently, all listed KSAs are core or current skills.)
+**Horizon Key:** Most core farming skills are `core` (widely in use today). Some cutting-edge sustainable or biotech skills might be labeled `emerging` if not yet mainstream. (Currently, all listed KSAs are core or current skills.)
 
 ## KSA Inventory
 
-- **soil_health_analysis** – *Soil Health Analysis* (core_2025) – Assesses soil properties (pH, nutrients, microbiome) to inform fertilization and crop rotation.
-- **crop_disease_management** – *Crop Disease Management* (core_2025) – Identifies and controls crop pests and diseases, integrating IPM (Integrated Pest Management) techniques.
-- **irrigation_technology** – *Smart Irrigation Technology* (core_2025) – Uses sensor data and automated systems (e.g. drip irrigation controllers) to optimize water usage for crops.
-- **precision_agriculture_technologies** – *Precision Agriculture Technologies* (core_2025) – Uses GPS, GIS mapping, and IoT sensors for site-specific crop management:contentReference[oaicite:97]{index=97}:contentReference[oaicite:98]{index=98}.
-- **agricultural_data_analytics** – *Agricultural Data Analytics* (core_2025) – Analyzes farm data (yield maps, weather, markets) to inform decisions and improve farm performance.
-- **agricultural_machinery_operation** – *Advanced Machinery Operation* (core_2025) – Operates and maintains modern farm machinery (e.g. GPS-guided tractors, combines, UAVs for scouting).
-- **climate_resilient_farming** – *Climate-Resilient Farming* (core_2025) – Adapts farming practices to climate change (drought-resistant crops, carbon sequestration, following IPCC guidelines for GHG reduction).
-- **smart_livestock_farming** – *Smart Livestock Farming* (core_2025) – Uses sensors and automation to monitor herd health and manage livestock efficiently:contentReference[oaicite:99]{index=99}. *(New)*
-- **sustainable_forestry_practices** – *Sustainable Forestry Practices* (core_2025) – (If included) Manages forest resources with tech and ecology knowledge (harvesting planning, reforestation, wildfire monitoring). *(Planned for future)*
+- **soil_health_analysis** – *Soil Health Analysis* (core) – Assesses soil properties (pH, nutrients, microbiome) to inform fertilization and crop rotation.
+- **crop_disease_management** – *Crop Disease Management* (core) – Identifies and controls crop pests and diseases, integrating IPM (Integrated Pest Management) techniques.
+- **irrigation_technology** – *Smart Irrigation Technology* (core) – Uses sensor data and automated systems (e.g. drip irrigation controllers) to optimize water usage for crops.
+- **precision_agriculture_technologies** – *Precision Agriculture Technologies* (core) – Uses GPS, GIS mapping, and IoT sensors for site-specific crop management:contentReference[oaicite:97]{index=97}:contentReference[oaicite:98]{index=98}.
+- **agricultural_data_analytics** – *Agricultural Data Analytics* (core) – Analyzes farm data (yield maps, weather, markets) to inform decisions and improve farm performance.
+- **agricultural_machinery_operation** – *Advanced Machinery Operation* (core) – Operates and maintains modern farm machinery (e.g. GPS-guided tractors, combines, UAVs for scouting).
+- **climate_resilient_farming** – *Climate-Resilient Farming* (core) – Adapts farming practices to climate change (drought-resistant crops, carbon sequestration, following IPCC guidelines for GHG reduction).
+- **smart_livestock_farming** – *Smart Livestock Farming* (core) – Uses sensors and automation to monitor herd health and manage livestock efficiently:contentReference[oaicite:99]{index=99}. *(New)*
+- **sustainable_forestry_practices** – *Sustainable Forestry Practices* (core) – (If included) Manages forest resources with tech and ecology knowledge (harvesting planning, reforestation, wildfire monitoring). *(Planned for future)*
 *(...and other existing KSAs covering agricultural economics, regulatory compliance, etc.)*
 
 ## Referenced Frameworks & Standards

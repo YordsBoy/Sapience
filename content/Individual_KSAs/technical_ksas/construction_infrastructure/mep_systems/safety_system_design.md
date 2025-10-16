@@ -3,7 +3,7 @@ ksa_id: safety_system_design
 label: Fire & Life-Safety System Design
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Life Safety"
   - "NFPA 72"

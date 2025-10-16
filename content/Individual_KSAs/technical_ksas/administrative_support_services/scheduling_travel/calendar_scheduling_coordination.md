@@ -3,7 +3,7 @@ ksa_id: calendar_scheduling_coordination
 label: Calendar & Scheduling Coordination
 category: Technical
 sector: Administrative_Support
-horizon: core_2025
+horizon: core
 cluster_tags: 
     - "Scheduling"
     - "Coordination"

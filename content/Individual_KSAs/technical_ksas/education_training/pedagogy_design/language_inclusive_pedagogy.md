@@ -3,7 +3,7 @@ ksa_id: language_inclusive_pedagogy
 label: Language-Inclusive Pedagogy
 category: Technical
 sector: Education_Training
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Multilingual"
   - "CLIL"

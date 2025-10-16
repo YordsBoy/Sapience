@@ -3,7 +3,7 @@ ksa_id: data_analytics_ai_consulting
 label: Data Analytics & AI Consulting  
 category: Technical  
 sector: Professional_Scientific_Services  
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Analytics"
   - "AI Consulting"

@@ -3,7 +3,7 @@ ksa_id: revenue_diversification_for_creators
 label: Creator Revenue Diversification
 category: Technical
 sector: Digital_Content_Creator_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Monetization"
   - "Revenue Streams"

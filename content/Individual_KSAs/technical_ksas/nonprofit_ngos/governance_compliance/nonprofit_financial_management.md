@@ -3,7 +3,7 @@ ksa_id: nonprofit_financial_management
 label: Nonprofit Financial Management
 category: Technical
 sector: nonprofit_ngos
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Finance"
   - "Accounting"

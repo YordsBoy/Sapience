@@ -3,7 +3,7 @@ ksa_id: medical_device_regulatory_compliance
 label: Medical Device Regulatory Compliance
 category: Technical
 sector: healthcare_social_assistance
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "FDA"
   - "ISO 13485"

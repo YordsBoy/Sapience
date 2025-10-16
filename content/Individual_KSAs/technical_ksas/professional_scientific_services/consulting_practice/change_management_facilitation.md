@@ -3,7 +3,7 @@ ksa_id: change_management_facilitation
 label: Change‑Management Facilitation
 category: Technical
 sector: Professional_Scientific_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Change Management"
   - "Facilitation"

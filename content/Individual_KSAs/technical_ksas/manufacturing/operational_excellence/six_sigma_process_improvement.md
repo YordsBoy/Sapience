@@ -3,7 +3,7 @@ ksa_id: six_sigma_process_improvement
 label: Six Sigma Process Improvement
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Six Sigma"
   - "Statistics"

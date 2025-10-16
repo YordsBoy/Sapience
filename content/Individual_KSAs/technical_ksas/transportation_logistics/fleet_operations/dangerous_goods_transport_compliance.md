@@ -3,7 +3,7 @@ ksa_id: dangerous_goods_transport_compliance
 label: Dangerous-Goods Transport Compliance
 category: Technical
 sector: Transportation_Logistics
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Hazmat"
   - "Compliance"

@@ -3,7 +3,7 @@ ksa_id: cargo_handling_securement
 label: Cargo Handling and Load Securement  
 category: Technical  
 sector: Transportation_Logistics  
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Cargo Securement"
   - "Safety"

@@ -19,7 +19,7 @@ The sector now spans **17 KSAs** that equip educators to design inclusive, data-
 
 | Key | Definition |
 |-----|------------|
-| **core_2025** | Competencies already indispensable |
+| **core** | Competencies already indispensable |
 | **emerging**  | Rapid-growth skills maturing in 2–4 years |
 
 ## KSA inventory

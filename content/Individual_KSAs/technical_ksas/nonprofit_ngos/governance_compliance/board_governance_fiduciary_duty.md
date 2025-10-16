@@ -3,7 +3,7 @@ ksa_id: board_governance_fiduciary_duty
 label: Board Governance & Fiduciary Duty
 category: Technical
 sector: Nonprofit_NGO
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Board"
   - "Governance"

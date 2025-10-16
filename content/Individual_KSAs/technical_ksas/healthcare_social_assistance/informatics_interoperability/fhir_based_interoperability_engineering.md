@@ -3,7 +3,7 @@ ksa_id: fhir_based_interoperability_engineering
 label: FHIR-Based Interoperability Engineering
 category: Technical
 sector: Healthcare_Social_Assistance
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "HL7 FHIR"
   - "Interoperability"

@@ -3,7 +3,7 @@ ksa_id: grant_writing_fundraising
 label: Grant Writing & Fundraising
 category: Technical
 sector: nonprofit_ngos
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Grant Writing"
   - "Fundraising"

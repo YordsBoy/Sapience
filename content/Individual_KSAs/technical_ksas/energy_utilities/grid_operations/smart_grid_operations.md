@@ -3,7 +3,7 @@ ksa_id: smart_grid_operations
 label: Smart Grid Operations & Demand Response  
 category: Technical  
 sector: Energy_Utilities  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "Smart Grid"
     - "Grid Management"

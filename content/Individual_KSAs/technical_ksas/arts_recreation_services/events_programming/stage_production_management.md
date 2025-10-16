@@ -3,7 +3,7 @@ ksa_id: stage_production_management
 label: Stage Production Management
 category: Technical
 sector: Arts_Recreation
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Production"
   - "Stage Management"

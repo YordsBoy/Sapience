@@ -3,7 +3,7 @@ ksa_id: voc_data_management_insight_activation
 label: Voice‑of‑Customer (VoC) Data Management & Insight Activation
 category: Technical
 sector: Customer_Experience_Service
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Voice of Customer"
   - "Analytics"

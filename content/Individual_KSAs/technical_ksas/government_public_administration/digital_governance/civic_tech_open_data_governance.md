@@ -3,7 +3,7 @@ ksa_id: civic_tech_open_data_governance
 label: Civic-Tech & Open-Data Governance
 category: Technical
 sector: Government_Public_Administration
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Open Data"
   - "Civic Tech"

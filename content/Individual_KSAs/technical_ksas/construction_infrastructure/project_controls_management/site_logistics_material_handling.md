@@ -3,7 +3,7 @@ ksa_id: site_logistics_material_handling
 label: Site Logistics & Material Handling
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Logistics"
   - "Material Handling"

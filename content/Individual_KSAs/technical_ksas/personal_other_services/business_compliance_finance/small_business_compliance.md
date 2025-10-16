@@ -3,7 +3,7 @@ ksa_id: small_business_compliance
 label: Small-Business Legal & Tax Compliance
 category: Technical
 sector: personal_other_services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Compliance"
   - "Regulations"

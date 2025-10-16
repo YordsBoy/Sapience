@@ -3,7 +3,7 @@ ksa_id: video_editing_postproduction
 label: Video Editing & Post-Production
 category: Technical
 sector: media_arts_entertainment
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Video Editing"
   - "Post"

@@ -3,7 +3,7 @@ ksa_id: professional_business_communication
 label: Business Communications & Writing
 category: Technical
 sector: Administrative_Support
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Communication"
   - "Writing"

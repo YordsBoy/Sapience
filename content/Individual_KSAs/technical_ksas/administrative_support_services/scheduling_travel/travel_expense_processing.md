@@ -3,7 +3,7 @@ ksa_id: travel_expense_processing
 label: Travel & Expense Processing
 category: Technical
 sector: Administrative_Support
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Travel"
   - "Expense Management"

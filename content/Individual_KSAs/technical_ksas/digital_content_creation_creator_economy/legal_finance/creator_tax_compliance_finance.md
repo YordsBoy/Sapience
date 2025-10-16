@@ -3,7 +3,7 @@ ksa_id: creator_tax_compliance_finance
 label: Creator Tax Compliance & Finance
 category: Technical
 sector: Digital_Content_Creator_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Tax Compliance"
   - "Creator Finance"

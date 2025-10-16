@@ -3,7 +3,7 @@ ksa_id: green_building_practices
 label: Green Building & Sustainable Construction
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Sustainability"
   - "LEED v4"

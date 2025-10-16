@@ -3,7 +3,7 @@ ksa_id: soil_health_analysis
 label: Soil Health Analysis
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Crop Science"
   - "Sustainability"

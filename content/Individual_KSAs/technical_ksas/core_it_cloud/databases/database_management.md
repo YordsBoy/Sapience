@@ -3,7 +3,7 @@ ksa_id: database_management
 label: Database Administration & Optimization
 category: Technical
 sector: core_it_cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "SQL"
   - "NoSQL"

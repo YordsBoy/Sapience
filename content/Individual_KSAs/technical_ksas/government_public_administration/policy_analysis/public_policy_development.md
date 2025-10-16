@@ -3,7 +3,7 @@ ksa_id: public_policy_development
 label: Public Policy Development  
 category: Technical  
 sector: Government_Public_Admin  
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Policy"
   - "Development"

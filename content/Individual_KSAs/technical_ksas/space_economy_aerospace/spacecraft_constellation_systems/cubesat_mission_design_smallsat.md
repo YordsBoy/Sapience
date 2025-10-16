@@ -3,7 +3,7 @@ ksa_id: cubesat_mission_design_smallsat
 label: CubeSat Mission-Design & SmallSat Architecture
 category: Technical
 sector: Space_Economy_Aerospace
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "CubeSat"
   - "SmallSat"

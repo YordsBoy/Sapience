@@ -54,7 +54,7 @@
         "Unpaid_Caregiving",
         "Maker_Creative_Crafts",
         "cross_sector" ] },
-    "horizon":            { "type": "string", "enum": ["core_2025","emerging","watch_2030","perennial","peripheral"] },
+    "horizon":            { "type": "string", "enum": ["core","emerging","watch_2030","perennial","peripheral"] },
     "proficiency_levels": {
       "type": "array",
       "items": {

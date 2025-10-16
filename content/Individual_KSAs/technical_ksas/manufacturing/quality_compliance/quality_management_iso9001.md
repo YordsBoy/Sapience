@@ -3,7 +3,7 @@ ksa_id: quality_management_iso9001
 label: Quality Management System (QMS) – ISO 9001
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Quality"
   - "ISO 9001"

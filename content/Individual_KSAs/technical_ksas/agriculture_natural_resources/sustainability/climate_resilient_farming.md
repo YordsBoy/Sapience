@@ -3,7 +3,7 @@ ksa_id: climate_resilient_farming
 label: Climate-Resilient Farming
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Sustainability"
   - "Climate Adaptation"

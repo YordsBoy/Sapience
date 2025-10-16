@@ -3,7 +3,7 @@ ksa_id: hospitality_technology_pms
 label: Hospitality Technology & PMS
 category: Technical
 sector: hospitality_tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Technology"
   - "PMS"

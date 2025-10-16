@@ -3,7 +3,7 @@ ksa_id: ai_ethics_governance
 label: AI Ethics & Governance  
 category: Technical  
 sector: AI_Data_Quantum  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "Responsible AI"
     - "Governance"

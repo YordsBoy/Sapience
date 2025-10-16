@@ -3,7 +3,7 @@ ksa_id: enterprise_xr_deployment_safety_management
 label: Enterprise XR Deployment & Safety Management
 category: Technical
 sector: Immersive_Media_ARVR
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Enterprise XR"
   - "Safety Management"

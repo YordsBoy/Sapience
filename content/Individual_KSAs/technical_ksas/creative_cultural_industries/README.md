@@ -16,7 +16,7 @@ UNESCO and UNCTAD estimate the creative economy generates **3.1 % of global GDP*
 
 | Key | Definition |
 |-----|------------|
-| **core_2025** | Must-have skills in current roles |
+| **core** | Must-have skills in current roles |
 | **emerging** | Rapid-growth skills scaling in 2–4 years |
 
 ## KSA inventory

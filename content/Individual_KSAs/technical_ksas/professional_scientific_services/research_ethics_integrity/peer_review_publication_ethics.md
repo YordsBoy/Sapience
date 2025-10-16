@@ -3,7 +3,7 @@ ksa_id: peer_review_publication_ethics
 label: Peer-Review & Publication Ethics
 category: Technical
 sector: Professional_Scientific_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Publication Ethics"
   - "Peer Review"

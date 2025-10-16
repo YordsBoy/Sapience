@@ -3,7 +3,7 @@ ksa_id: hospitality_crisis_management
 label: Hospitality Crisis Management
 category: Technical
 sector: hospitality_tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Crisis"
   - "Management"

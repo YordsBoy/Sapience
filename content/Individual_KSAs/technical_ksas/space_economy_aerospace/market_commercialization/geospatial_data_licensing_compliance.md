@@ -3,7 +3,7 @@ ksa_id: geospatial_data_licensing_compliance
 label: Geospatial-Data Licensing & Compliance
 category: Technical
 sector: Space_Economy_Aerospace
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Licensing"
   - "Compliance"

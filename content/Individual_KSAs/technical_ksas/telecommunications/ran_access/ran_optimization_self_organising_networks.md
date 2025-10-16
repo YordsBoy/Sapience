@@ -3,7 +3,7 @@ ksa_id: ran_optimization_self_organising_networks
 label: RAN Optimization & Self‑Organising Networks (SON)
 category: Technical
 sector: Telecommunications
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "RAN Optimization"
   - "SON"

@@ -3,7 +3,7 @@ ksa_id: customer_experience_design
 label: Customer Experience (CX) Design & Personalization
 category: Technical
 sector: Wholesale_Retail_Trade
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "CX"
   - "Personalization"

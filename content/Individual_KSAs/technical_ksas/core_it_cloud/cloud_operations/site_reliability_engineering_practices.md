@@ -3,7 +3,7 @@ ksa_id: site_reliability_engineering_practices
 label: Site Reliability Engineering (SRE) Practices
 category: Technical
 sector: Core_IT_Cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "SRE"
   - "Reliability"

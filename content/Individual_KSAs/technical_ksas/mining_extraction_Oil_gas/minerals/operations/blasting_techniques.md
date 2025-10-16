@@ -3,7 +3,7 @@ ksa_id: blasting_techniques
 label: Blasting Techniques
 category: Technical
 sector: Mining_Extraction_Minerals
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Operations"
   - "Safety"

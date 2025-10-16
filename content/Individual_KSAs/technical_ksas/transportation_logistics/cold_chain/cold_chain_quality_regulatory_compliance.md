@@ -3,7 +3,7 @@ ksa_id: cold_chain_quality_regulatory_compliance
 label: Cold‑Chain Quality & Regulatory Compliance
 category: Technical
 sector: Transportation_Logistics
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Cold Chain"
   - "Quality"

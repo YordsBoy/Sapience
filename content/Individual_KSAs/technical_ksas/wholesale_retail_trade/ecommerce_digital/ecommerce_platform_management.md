@@ -3,7 +3,7 @@ ksa_id: ecommerce_platform_management
 label: E-Commerce Platform Management
 category: Technical
 sector: Wholesale_Retail_Trade
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "E-Commerce"
   - "Shopify"

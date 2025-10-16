@@ -3,7 +3,7 @@ ksa_id: hvac_system_fundamentals_troubleshooting
 label: HVAC Fundamentals & Troubleshooting
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "HVAC"
   - "ASHRAE"

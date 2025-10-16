@@ -3,7 +3,7 @@ ksa_id: fitness_instruction_techniques
 label: Fitness Instruction Techniques
 category: Technical
 sector: Arts_Recreation
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Fitness"
   - "Instruction"

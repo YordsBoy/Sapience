@@ -3,7 +3,7 @@ ksa_id: xr_analytics_telemetry
 label: XR Analytics & Telemetry
 category: Technical
 sector: immersive_media_ARVR
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Analytics"
   - "Telemetry"

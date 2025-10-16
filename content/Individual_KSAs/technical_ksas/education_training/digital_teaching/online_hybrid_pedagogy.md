@@ -3,7 +3,7 @@ ksa_id: online_hybrid_pedagogy
 label: Online & Hybrid Pedagogy  
 category: Technical  
 sector: Education_Training  
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Online Learning"
   - "Hybrid"

@@ -3,7 +3,7 @@ ksa_id: agricultural_supply_chain_logistics
 label: Agricultural Supply-Chain Logistics
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Supply Chain"
   - "Post-Harvest"

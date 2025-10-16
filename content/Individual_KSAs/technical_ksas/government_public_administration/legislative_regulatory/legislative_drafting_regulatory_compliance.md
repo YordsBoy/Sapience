@@ -3,7 +3,7 @@ ksa_id: legislative_drafting_regulatory_compliance
 label: Legislative Drafting & Regulatory Compliance
 category: Technical
 sector: government_public_admin
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Legislation"
   - "Regulation"

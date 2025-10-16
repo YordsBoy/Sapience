@@ -3,7 +3,7 @@ ksa_id: predictive_maintenance_iot
 label: Predictive Maintenance & IoT  
 category: Technical  
 sector: Manufacturing  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "Maintenance"
     - "IoT Analytics"

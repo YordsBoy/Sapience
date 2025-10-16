@@ -3,7 +3,7 @@ ksa_id: lighting_design_programming
 label: Lighting Design & Programming
 category: Technical
 sector: Arts_Recreation
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Production"
   - "Lighting"

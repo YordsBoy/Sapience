@@ -3,7 +3,7 @@ ksa_id: electrical_wiring_code_compliance
 label: Electrical Wiring & NEC Compliance
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Electrical"
   - "NEC"

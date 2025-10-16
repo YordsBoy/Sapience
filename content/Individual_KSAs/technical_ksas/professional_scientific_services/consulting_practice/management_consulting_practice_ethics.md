@@ -3,7 +3,7 @@ ksa_id: management_consulting_practice_ethics
 label: Management Consulting Practice & Ethics
 category: Technical
 sector: Professional_Scientific_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Consulting Ethics"
   - "Professional Practice"

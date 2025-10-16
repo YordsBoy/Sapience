@@ -3,7 +3,7 @@ ksa_id: trade_business_management
 label: Small Trade Business Management  
 category: Technical  
 sector: Professional_Scientific_Services  
-horizon: core_2025  
+horizon: core  
 cluster_tags:
   - "Firm Operations"
   - "Trade Compliance"

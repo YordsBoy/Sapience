@@ -3,7 +3,7 @@ ksa_id: contract_administration_compliance
 label: Contract Administration & Regulatory Compliance
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Contracts"
   - "Compliance"

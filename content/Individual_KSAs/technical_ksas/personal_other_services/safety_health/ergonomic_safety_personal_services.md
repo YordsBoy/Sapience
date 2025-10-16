@@ -3,7 +3,7 @@ ksa_id: ergonomic_safety_personal_services
 label: Ergonomic & Physical Safety Practices
 category: Technical
 sector: personal_other_services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Ergonomics"
   - "Safety"

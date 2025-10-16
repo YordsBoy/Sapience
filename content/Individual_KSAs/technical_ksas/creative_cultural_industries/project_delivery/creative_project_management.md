@@ -3,7 +3,7 @@ ksa_id: creative_project_management
 label: Creative Project Management
 category: Technical
 sector: Creative_Cultural_Industries
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Project Management"
   - "Agile"

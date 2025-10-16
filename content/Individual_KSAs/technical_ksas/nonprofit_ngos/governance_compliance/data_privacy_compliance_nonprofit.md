@@ -3,7 +3,7 @@ ksa_id: data_privacy_compliance_nonprofit
 label: Data-Privacy Compliance for Non-profits
 category: Technical
 sector: Nonprofit_NGOs
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Data Privacy"
   - "Compliance"

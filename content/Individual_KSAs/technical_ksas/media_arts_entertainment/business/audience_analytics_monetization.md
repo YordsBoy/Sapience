@@ -3,7 +3,7 @@ ksa_id: audience_analytics_monetization
 label: Audience Analytics & Monetization Strategy
 category: Technical
 sector: Media_Arts_Entertainment
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Audience Analytics"
   - "Monetization"

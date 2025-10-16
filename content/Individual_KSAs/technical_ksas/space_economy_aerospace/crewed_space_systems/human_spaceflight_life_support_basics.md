@@ -3,7 +3,7 @@ ksa_id: human_spaceflight_life_support_basics
 label: Human‑Spaceflight Life‑Support Basics
 category: Technical
 sector: Space_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Life Support"
   - "ECLSS"

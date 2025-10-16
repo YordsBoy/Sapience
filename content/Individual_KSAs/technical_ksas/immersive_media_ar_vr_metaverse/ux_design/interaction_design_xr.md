@@ -3,7 +3,7 @@ ksa_id: interaction_design_xr
 label: XR Interaction Design & HCI
 category: Technical
 sector: immersive_media_ARVR
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Interaction Design"
   - "XR Patterns"

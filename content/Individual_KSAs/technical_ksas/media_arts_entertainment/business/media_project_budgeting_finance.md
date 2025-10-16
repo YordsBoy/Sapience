@@ -3,7 +3,7 @@ ksa_id: media_project_budgeting_finance
 label: Media Project Budgeting & Financial Management
 category: Technical
 sector: Media_Arts_Entertainment
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Budgeting"
   - "Finance"

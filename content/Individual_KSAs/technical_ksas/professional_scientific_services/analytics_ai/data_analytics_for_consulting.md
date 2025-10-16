@@ -3,7 +3,7 @@ ksa_id: data_analytics_for_consulting
 label: Data Analytics for Consulting
 category: Technical
 sector: Professional_Scientific_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Analytics"
   - "Consulting Toolkit"

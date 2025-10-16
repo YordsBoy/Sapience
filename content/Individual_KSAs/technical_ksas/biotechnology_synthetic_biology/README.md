@@ -18,22 +18,22 @@ Synthetic-biology revenue is projected to reach **USD 18.9 billion by 2025** wit
 ## Horizon Key
 | Horizon        | Meaning                                                   |
 |----------------|-----------------------------------------------------------|
-| **core_2025**  | Widely practiced skills essential today                   |
+| **core**  | Widely practiced skills essential today                   |
 | **emerging**   | Rapid-growth skills; mainstream by ≈ 2027                 |
 
 ## KSA Inventory
 | KSA ID                           | Label                                   | Horizon    |
 |----------------------------------|-----------------------------------------|------------|
-| biodesign_cad_tools              | Bio-Design CAD Tools                    | core_2025  |
+| biodesign_cad_tools              | Bio-Design CAD Tools                    | core  |
 | ai_driven_protein_design         | AI-Driven Protein Design                | emerging   |
 | biofoundry_automation            | Biofoundry Automation & Lab Robotics    | emerging   |
-| biological_data_science          | Biological Data Science & Bioinformatics| core_2025  |
-| biomanufacturing_qa_qc           | Biomanufacturing QA/QC                  | core_2025  |
+| biological_data_science          | Biological Data Science & Bioinformatics| core  |
+| biomanufacturing_qa_qc           | Biomanufacturing QA/QC                  | core  |
 | biosecurity_risk_management      | Biosecurity & Risk Management           | emerging   |
-| gene_editing_techniques          | CRISPR & Gene-Editing Techniques        | core_2025  |
-| synthetic_biology_techniques     | Synthetic Biology Core Techniques       | core_2025  |
-| genome_editing_lab_safety        | Genome Editing & Lab Safety             | core_2025  |
-| regulatory_cmc_biologics         | Regulatory Compliance (Biologics CMC)   | core_2025  |
+| gene_editing_techniques          | CRISPR & Gene-Editing Techniques        | core  |
+| synthetic_biology_techniques     | Synthetic Biology Core Techniques       | core  |
+| genome_editing_lab_safety        | Genome Editing & Lab Safety             | core  |
+| regulatory_cmc_biologics         | Regulatory Compliance (Biologics CMC)   | core  |
 | synthetic_bio_entrepreneurial_finance | Synthetic-Bio Entrepreneurship & Finance | emerging |
 
 ## Referenced Frameworks & Standards

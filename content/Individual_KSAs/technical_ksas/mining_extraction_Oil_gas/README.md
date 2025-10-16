@@ -10,20 +10,20 @@
 - **Safety & Compliance:** Ensuring worker safety and regulatory compliance. *(e.g. Mine Safety Protocols; Hazard Management (PPE, HSE standards))* 
 - **Environmental Management & Closure:** Rehabilitating sites and managing environmental impact. *(e.g. Mine Site Rehabilitation & Closure; Tailings Waste Management)*
 
-**Horizon Key:** Almost all competencies here are `core_2025` – current standard practices. Some high-tech aspects (like fully autonomous mining operations) might be considered `emerging`, but core safety and extraction skills remain central.
+**Horizon Key:** Almost all competencies here are `core` – current standard practices. Some high-tech aspects (like fully autonomous mining operations) might be considered `emerging`, but core safety and extraction skills remain central.
 
 ## KSA Inventory
 
-- **geological_surveying** – *Geological Surveying & Exploration* (core_2025) – Conducts geological analysis to locate and assess mineral deposits:contentReference[oaicite:125]{index=125}.
-- **mine_planning** – *Mine Planning & Design* (core_2025) – Plans the mine layout and schedules extraction, balancing efficiency and safety.
-- **surface_mining_operations** – *Surface Mining Operations* (core_2025) – Extracts resources via surface methods (open-pit, strip mining) and manages related equipment and earthworks.
-- **underground_mining_methods** – *Underground Mining Methods* (core_2025) – Extracts resources via subsurface methods (shaft & tunnel operations), including ground support and ventilation.
-- **mining_equipment_maintenance** – *Mining Equipment Maintenance* (core_2025) – Maintains drills, loaders, trucks, and other heavy equipment for continuous, safe operation.
-- **mine_safety_protocols** – *Mine Safety Protocols* (core_2025) – Implements safety procedures (e.g. proper PPE usage, hazard inspections, emergency response drills) in compliance with MSHA regulations.
-- **blasting_techniques** – *Blasting Techniques* (core_2025) – Uses controlled explosives safely for rock breakage, understands blast design and vibration control.
+- **geological_surveying** – *Geological Surveying & Exploration* (core) – Conducts geological analysis to locate and assess mineral deposits:contentReference[oaicite:125]{index=125}.
+- **mine_planning** – *Mine Planning & Design* (core) – Plans the mine layout and schedules extraction, balancing efficiency and safety.
+- **surface_mining_operations** – *Surface Mining Operations* (core) – Extracts resources via surface methods (open-pit, strip mining) and manages related equipment and earthworks.
+- **underground_mining_methods** – *Underground Mining Methods* (core) – Extracts resources via subsurface methods (shaft & tunnel operations), including ground support and ventilation.
+- **mining_equipment_maintenance** – *Mining Equipment Maintenance* (core) – Maintains drills, loaders, trucks, and other heavy equipment for continuous, safe operation.
+- **mine_safety_protocols** – *Mine Safety Protocols* (core) – Implements safety procedures (e.g. proper PPE usage, hazard inspections, emergency response drills) in compliance with MSHA regulations.
+- **blasting_techniques** – *Blasting Techniques* (core) – Uses controlled explosives safely for rock breakage, understands blast design and vibration control.
 - **mine_automation** – *Mining Automation Systems* (emerging) – Operates or oversees autonomous or remotely controlled mining equipment for improved safety and efficiency.
-- **site_rehabilitation** – *Mine Site Rehabilitation & Closure* (core_2025) – Restores mined land, seals mines, treats water/soil, and ensures environmental compliance post-mining:contentReference[oaicite:126]{index=126}. *(New)*
-- **environmental_monitoring** – *Environmental Monitoring in Mining* (core_2025) – Monitors air, water, and soil quality around mining operations; implements pollution controls (often paired with Reclamation).
+- **site_rehabilitation** – *Mine Site Rehabilitation & Closure* (core) – Restores mined land, seals mines, treats water/soil, and ensures environmental compliance post-mining:contentReference[oaicite:126]{index=126}. *(New)*
+- **environmental_monitoring** – *Environmental Monitoring in Mining* (core) – Monitors air, water, and soil quality around mining operations; implements pollution controls (often paired with Reclamation).
 *(plus other KSAs covering mineral processing, logistics of ore transport, etc.)*
 
 ## Referenced Frameworks & Standards

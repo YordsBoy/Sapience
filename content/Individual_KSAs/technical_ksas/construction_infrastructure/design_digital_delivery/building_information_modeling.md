@@ -3,7 +3,7 @@ ksa_id: building_information_modeling
 label: Building Information Modeling (BIM)
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Digital Delivery"
   - "ISO 19650"

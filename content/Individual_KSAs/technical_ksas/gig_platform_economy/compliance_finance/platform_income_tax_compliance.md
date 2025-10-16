@@ -3,7 +3,7 @@ ksa_id: platform_income_tax_compliance
 label: Platform Income & Tax Compliance
 category: Technical
 sector: Gig_Platform_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Tax"
   - "Global Compliance"

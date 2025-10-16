@@ -3,7 +3,7 @@ ksa_id: physical_security_systems_integration
 label: Physical Security Systems Integration
 category: Technical
 sector: Public_Safety_Security
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Physical Security"
   - "Systems Integration"

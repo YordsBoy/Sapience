@@ -3,7 +3,7 @@ ksa_id: government_continuity_resilience_planning
 label: Government Continuity & Resilience Planning
 category: Technical
 sector: Government_Public_Administration
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Resilience"
   - "Risk Management"

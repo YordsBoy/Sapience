@@ -3,7 +3,7 @@ ksa_id: infrastructure_as_code
 label: Infrastructure as Code (IaC)
 category: Technical
 sector: Core_IT_Cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "IaC"
   - "Automation"

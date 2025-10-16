@@ -3,7 +3,7 @@ ksa_id: kubernetes_container_orchestration
 label: Kubernetes & Container Orchestration
 category: Technical
 sector: Core_IT_Cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Kubernetes"
   - "Containers"

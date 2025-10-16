@@ -3,7 +3,7 @@ ksa_id: monitoring_evaluation_learning
 label: Monitoring, Evaluation & Learning (MEL)
 category: Technical
 sector: nonprofit_ngos
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "MEL"
   - "Learning"

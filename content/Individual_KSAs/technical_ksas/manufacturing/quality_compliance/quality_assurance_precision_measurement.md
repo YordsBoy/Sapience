@@ -3,7 +3,7 @@ ksa_id: quality_assurance_precision_measurement
 label: Quality Assurance & Precision Measurement
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Metrology"
   - "GD&T"

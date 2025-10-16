@@ -3,7 +3,7 @@ ksa_id: fundraising_donor_stewardship
 label: Fundraising & Donor Stewardship
 category: Technical
 sector: Nonprofit_NGO
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Fundraising"
   - "Stewardship"

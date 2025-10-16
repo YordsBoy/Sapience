@@ -3,7 +3,7 @@ ksa_id: refinery_process_operations
 label: Refinery Process-Operator Competencies
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Refining"
   - "Process Safety"

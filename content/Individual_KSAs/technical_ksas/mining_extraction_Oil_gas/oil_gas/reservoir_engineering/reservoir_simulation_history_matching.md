@@ -3,7 +3,7 @@ ksa_id: reservoir_simulation_history_matching
 label: Reservoir Simulation & History Matching
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Reservoir Engineering"
   - "Data Analytics"

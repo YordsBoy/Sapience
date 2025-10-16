@@ -3,7 +3,7 @@ ksa_id: safety_health_environment_compliance
 label: Safety, Health & Environment (SHE) Compliance
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Safety"
   - "Compliance"

@@ -3,7 +3,7 @@ ksa_id: smart_contract_auditing
 label: Smart Contract Auditing
 category: Technical
 sector: Blockchain_Web3
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Security"
   - "Formal Verification"

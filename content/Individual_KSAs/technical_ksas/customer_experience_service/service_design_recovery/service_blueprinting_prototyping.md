@@ -3,7 +3,7 @@ ksa_id: service_blueprinting_prototyping
 label: Service Blueprinting & Prototyping
 category: Technical
 sector: Customer_Experience_Service
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Service Design"
   - "Blueprinting"

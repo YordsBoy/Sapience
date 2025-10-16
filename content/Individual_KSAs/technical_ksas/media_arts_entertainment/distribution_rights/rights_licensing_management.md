@@ -3,7 +3,7 @@ ksa_id: rights_licensing_management
 label: Rights & Licensing Management
 category: Technical
 sector: media_arts_entertainment
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Licensing"
   - "IP Management"

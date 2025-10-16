@@ -3,7 +3,7 @@ ksa_id: recreation_outcome_measurement
 label: Recreation Outcome Measurement
 category: Technical
 sector: Arts_Recreation
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Recreation"
   - "Evaluation"

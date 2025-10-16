@@ -18,7 +18,7 @@ Salons, spas, and mobile wellness providers employ **120 M+ workers globally**. 
 
 | Key | Meaning |
 |-----|---------|
-| **core_2025** | Must-have now |
+| **core** | Must-have now |
 | **emerging**  | Maturing 2–4 yrs |
 
 ## KSA inventory (24)

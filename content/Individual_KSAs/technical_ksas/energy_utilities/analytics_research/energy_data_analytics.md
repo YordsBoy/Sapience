@@ -3,7 +3,7 @@ ksa_id: energy_data_analytics
 label: Energy Data Analytics
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Analytics"
   - "AI"

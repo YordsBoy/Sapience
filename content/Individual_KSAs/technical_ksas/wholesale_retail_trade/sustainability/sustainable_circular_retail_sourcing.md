@@ -3,7 +3,7 @@ ksa_id: sustainable_circular_retail_sourcing
 label: Sustainable & Circular Retail Sourcing
 category: Technical
 sector: Wholesale_Retail_Trade
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Sustainability"
   - "Circular Economy"

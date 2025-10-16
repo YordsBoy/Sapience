@@ -3,7 +3,7 @@ ksa_id: cx_metrics_roi_management
 label: CX Metrics, ROI & Business Case Management
 category: Technical
 sector: Customer_Experience_Service
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Metrics"
   - "ROI"

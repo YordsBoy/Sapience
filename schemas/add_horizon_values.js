@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const horizonCategories = {
-  core_2025: [
+  core: [
     'generative_ai_proficiency',
     'digital_collaboration',
     'sustainability_practices',
@@ -33,8 +33,8 @@ const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 data.ksa = data.ksa.map(ksa => {
   let horizon = 'perennial'; // default value
   
-  if (horizonCategories.core_2025.includes(ksa.id)) {
-    horizon = 'core_2025';
+  if (horizonCategories.core.includes(ksa.id)) {
+    horizon = 'core';
   } else if (horizonCategories.watch_2030.includes(ksa.id)) {
     horizon = 'watch_2030';
   }

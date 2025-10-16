@@ -3,7 +3,7 @@ ksa_id: utility_financial_regulatory_strategy
 label: Utility Financial & Regulatory Strategy
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Finance"
   - "Regulation"

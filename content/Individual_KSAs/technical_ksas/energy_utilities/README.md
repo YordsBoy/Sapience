@@ -11,20 +11,20 @@
 - **Regulatory Compliance & Safety:** Following industry standards for reliability and safety. *Examples:* *NERC Reliability Standards Compliance*, *Utility Safety & SHE Management*, *Regulatory Reporting (PUC/FERC requirements)*.
 - **Cybersecurity for Utilities:** Protecting critical infrastructure (often overlaps with cybersecurity sector). *Examples:* *SCADA/OT Cybersecurity*, *Grid Incident Response*.
 
-**Horizon Key:** Predominantly `core_2025` for traditional skills (plant ops, grid maintenance). `Emerging` tags apply to newer aspects like high renewable integration, advanced smart grids, or novel energy storage solutions that are still being scaled up.
+**Horizon Key:** Predominantly `core` for traditional skills (plant ops, grid maintenance). `Emerging` tags apply to newer aspects like high renewable integration, advanced smart grids, or novel energy storage solutions that are still being scaled up.
 
 ## KSA Inventory
 
-- **power_plant_operations** – *Power Plant Operations* (core_2025) – Operates conventional power generation units (coal/gas turbines, hydroelectric generators) and monitors outputs.
-- **grid_monitoring_scada** – *Grid Monitoring & SCADA Control* (core_2025) – Uses SCADA systems to monitor and control grid parameters, substations, and load dispatch.
-- **utility_system_protection** – *Utility System Protection* (core_2025) – Implements protective relays and systems to prevent grid damage (e.g., fault detection, isolation).
+- **power_plant_operations** – *Power Plant Operations* (core) – Operates conventional power generation units (coal/gas turbines, hydroelectric generators) and monitors outputs.
+- **grid_monitoring_scada** – *Grid Monitoring & SCADA Control* (core) – Uses SCADA systems to monitor and control grid parameters, substations, and load dispatch.
+- **utility_system_protection** – *Utility System Protection* (core) – Implements protective relays and systems to prevent grid damage (e.g., fault detection, isolation).
 - **renewable_integration_grid** – *Renewable Integration in Grid* (emerging) – Incorporates solar/wind power into grid operations, using storage and demand-response to maintain stability. *(New)*
 - **energy_storage_management** – *Energy Storage Management* (emerging) – Operates batteries or other storage to balance load and store excess renewable energy.
-- **nuclear_energy_operations** – *Nuclear Energy Operations & Safety* (core_2025) – Runs nuclear reactors and adheres to strict safety protocols. *(New)*
-- **td_infrastructure_maintenance** – *T&D Infrastructure Maintenance* (core_2025) – Maintains transformers, transmission lines, and distribution networks; handles line work and outage restoration.
-- **energy_trading_markets** – *Energy Trading & Markets* (core_2025) – Manages utility participation in electricity markets (day-ahead trading, demand forecasting, hedging fuel contracts).
-- **utility_cybersecurity** – *Utility SCADA Cybersecurity* (core_2025) – Protects energy control systems from cyber threats (aligns with NICE energy sector cyber skills).
-- **utility_regulatory_compliance** – *Utility Regulatory Compliance* (core_2025) – Ensures operations meet regulatory standards (NERC reliability standards, environmental emissions, etc.) and handles reporting to authorities.
+- **nuclear_energy_operations** – *Nuclear Energy Operations & Safety* (core) – Runs nuclear reactors and adheres to strict safety protocols. *(New)*
+- **td_infrastructure_maintenance** – *T&D Infrastructure Maintenance* (core) – Maintains transformers, transmission lines, and distribution networks; handles line work and outage restoration.
+- **energy_trading_markets** – *Energy Trading & Markets* (core) – Manages utility participation in electricity markets (day-ahead trading, demand forecasting, hedging fuel contracts).
+- **utility_cybersecurity** – *Utility SCADA Cybersecurity* (core) – Protects energy control systems from cyber threats (aligns with NICE energy sector cyber skills).
+- **utility_regulatory_compliance** – *Utility Regulatory Compliance* (core) – Ensures operations meet regulatory standards (NERC reliability standards, environmental emissions, etc.) and handles reporting to authorities.
 *(Additional KSAs for oil/gas specifics could be integrated here or in separate sectors; currently primary focus is electric utilities.)*
 
 ## Referenced Frameworks & Standards

@@ -3,7 +3,7 @@ ksa_id: health_informatics_ehr_management
 label: Health Informatics & EHR Management
 category: Technical
 sector: healthcare_social_assistance
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Health Informatics"
   - "EHR"

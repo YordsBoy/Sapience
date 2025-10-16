@@ -3,7 +3,7 @@ ksa_id: digital_insurance_product_management
 label: Digital Insurance Product Management  
 category: Technical  
 sector: Finance_Insurance  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "InsurTech"
     - "AI Underwriting"

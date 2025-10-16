@@ -3,7 +3,7 @@ ksa_id: generative_ai_prompt_engineering
 label: Generative-AI Prompt Engineering
 category: Technical
 sector: AI_Data_Quantum
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Prompt Engineering"
   - "Generative AI"

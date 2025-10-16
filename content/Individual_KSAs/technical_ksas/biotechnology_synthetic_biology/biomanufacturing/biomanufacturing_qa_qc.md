@@ -3,7 +3,7 @@ ksa_id: biomanufacturing_qa_qc
 label: Biomanufacturing Quality Assurance & Control
 category: Technical
 sector: Biotechnology_Synthetic_Biology
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Quality Assurance"
   - "GMP"

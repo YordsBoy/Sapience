@@ -3,7 +3,7 @@ ksa_id: value_based_care_data_quality_metrics
 label: Value-Based Care Data & Quality Metrics
 category: Technical
 sector: Healthcare_Social_Assistance
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Value-Based Care"
   - "Quality Metrics"

@@ -3,7 +3,7 @@ ksa_id: identity_access_management_cloud
 label: Cloud Identity & Access Management
 category: Technical
 sector: Core_IT_Cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "IAM"
   - "Security"

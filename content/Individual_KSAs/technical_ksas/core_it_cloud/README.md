@@ -24,31 +24,31 @@ On the technology front, **Kubernetes powers >80 % of new cloud-native workloads
 | Horizon        | Meaning                                                  |
 |----------------|----------------------------------------------------------|
 | **perennial**  | Evergreen foundational skill set that remains relevant over multiple tech cycles |
-| **core_2025**  | Widely adopted, essential today                          |
+| **core**  | Widely adopted, essential today                          |
 | **emerging**   | Rapid growth; mainstream by ≈ 2027                       |
 
 ## KSA Inventory
 | KSA ID                              | Label                                      | Horizon    |
 |-------------------------------------|--------------------------------------------|------------|
-| programming_fundamentals            | Programming Fundamentals                   | core_2025  |
-| version_control                     | Version Control & Git                      | core_2025  |
-| system_admin                        | Linux & System Administration              | core_2025  |
-| network_basics                      | Networking Fundamentals                    | core_2025  |
-| database_management                 | Database Management                        | core_2025  |
-| devops_tooling                      | DevOps Tooling & CI/CD                     | core_2025  |
-| infrastructure_as_code              | Infrastructure as Code                     | core_2025  |
-| kubernetes_container_orchestration  | Kubernetes & Container Orchestration       | core_2025  |
-| cloud_infrastructure_architecture   | Cloud Infrastructure Architecture          | core_2025  |
-| cloud_infrastructure_management     | Cloud Infrastructure Management            | core_2025  |
-| cloud_observability_monitoring      | Cloud Observability & Monitoring           | core_2025  |
-| site_reliability_engineering_practices | Site Reliability Engineering Practices  | core_2025  |
+| programming_fundamentals            | Programming Fundamentals                   | core  |
+| version_control                     | Version Control & Git                      | core  |
+| system_admin                        | Linux & System Administration              | core  |
+| network_basics                      | Networking Fundamentals                    | core  |
+| database_management                 | Database Management                        | core  |
+| devops_tooling                      | DevOps Tooling & CI/CD                     | core  |
+| infrastructure_as_code              | Infrastructure as Code                     | core  |
+| kubernetes_container_orchestration  | Kubernetes & Container Orchestration       | core  |
+| cloud_infrastructure_architecture   | Cloud Infrastructure Architecture          | core  |
+| cloud_infrastructure_management     | Cloud Infrastructure Management            | core  |
+| cloud_observability_monitoring      | Cloud Observability & Monitoring           | core  |
+| site_reliability_engineering_practices | Site Reliability Engineering Practices  | core  |
 | cloud_security_architecture         | Cloud Security Architecture                | emerging   |
-| identity_access_management_cloud    | Cloud Identity & Access Management         | core_2025  |
+| identity_access_management_cloud    | Cloud Identity & Access Management         | core  |
 | cloud_data_governance_residency     | Cloud Data Governance & Residency          | emerging   |
 | cloud_finops_cost_optimization      | Cloud FinOps & Cost Optimisation           | emerging   |
 | edge_cloud_orchestration            | Edge-Cloud Orchestration                   | emerging   |
 | serverless_architecture             | Serverless Architecture                    | emerging   |
-| it_support_helpdesk_operations      | IT Support & Helpdesk Operations           | core_2025  |
+| it_support_helpdesk_operations      | IT Support & Helpdesk Operations           | core  |
 | cybersecurity_fundamentals          | Cybersecurity Fundamentals                 | perennial  |
 
 ## Referenced Frameworks & Standards

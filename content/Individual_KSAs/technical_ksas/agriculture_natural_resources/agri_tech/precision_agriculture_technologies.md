@@ -3,7 +3,7 @@ ksa_id: precision_agriculture_technologies
 label: Precision Agriculture Technologies
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Precision Agriculture"
   - "IoT"

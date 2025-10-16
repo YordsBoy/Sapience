@@ -3,7 +3,7 @@ ksa_id: mining_safety_techniques
 label: Advanced Mine Safety & Monitoring  
 category: Technical  
 sector: Mining_Extraction  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "Mine Safety"
     - "Environmental Monitoring"

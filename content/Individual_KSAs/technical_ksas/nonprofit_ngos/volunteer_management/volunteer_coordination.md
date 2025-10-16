@@ -3,7 +3,7 @@ ksa_id: volunteer_coordination
 label: Volunteer Coordination
 category: Technical
 sector: Nonprofit_NGOs
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Volunteer"
   - "Coordination"

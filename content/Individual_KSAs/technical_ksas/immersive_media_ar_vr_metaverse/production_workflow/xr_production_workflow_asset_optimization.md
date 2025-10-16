@@ -3,7 +3,7 @@ ksa_id: xr_production_workflow_asset_optimization
 label: XR Production Workflow & Asset Optimization
 category: Technical
 sector: Immersive_Media_ARVR
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Production Workflow"
   - "Pipeline"

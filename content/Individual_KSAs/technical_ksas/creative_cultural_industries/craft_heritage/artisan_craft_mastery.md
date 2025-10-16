@@ -3,7 +3,7 @@ ksa_id: artisan_craft_mastery
 label: Artisan Craft Mastery
 category: Technical
 sector: Creative_Cultural_Industries
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Craft"
   - "Heritage"

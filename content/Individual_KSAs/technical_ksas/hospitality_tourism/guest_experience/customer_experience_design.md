@@ -3,7 +3,7 @@ ksa_id: customer_experience_design
 label: Customer-Experience Design (Hospitality)
 category: Technical
 sector: Hospitality_Tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Guest Experience"
   - "Service Design"

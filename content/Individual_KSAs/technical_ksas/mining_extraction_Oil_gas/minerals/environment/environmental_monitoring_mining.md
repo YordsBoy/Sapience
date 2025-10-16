@@ -3,7 +3,7 @@ ksa_id: environmental_monitoring_mining
 label: Environmental Monitoring (Mining)
 category: Technical
 sector: Mining_Extraction_Minerals
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Environment"
   - "Monitoring"

@@ -3,7 +3,7 @@ ksa_id: instructional_coaching_peer_mentoring
 label: Instructional Coaching & Peer Mentoring
 category: Technical
 sector: Education_Training
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Coaching"
   - "Mentoring"

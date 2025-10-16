@@ -3,7 +3,7 @@ ksa_id: satellite_data_value_pricing_strategy
 label: Satellite-Data Value-&-Pricing Strategy
 category: Technical
 sector: Space_Economy_Aerospace
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Pricing"
   - "Business Models"

@@ -3,7 +3,7 @@ ksa_id: inventory_management_optimization
 label: Inventory Management Optimization
 category: Technical
 sector: Wholesale_Retail_Trade
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Inventory"
   - "WMS"

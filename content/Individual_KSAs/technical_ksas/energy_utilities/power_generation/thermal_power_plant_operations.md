@@ -3,7 +3,7 @@ ksa_id: thermal_power_plant_operations
 label: Thermal Power-Plant Operations
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Power Generation"
   - "Process Control"

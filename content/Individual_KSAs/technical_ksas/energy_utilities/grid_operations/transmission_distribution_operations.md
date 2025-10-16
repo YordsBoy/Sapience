@@ -3,7 +3,7 @@ ksa_id: transmission_distribution_operations
 label: Transmission & Distribution Grid Operations
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Grid Operations"
   - "NERC"

@@ -3,7 +3,7 @@ ksa_id: craft_entrepreneurship_market_strategy
 label: Craft Entrepreneurship & Market Strategy
 category: Technical
 sector: Maker_Economy_Creative_Crafts
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Entrepreneurship"
   - "Market Strategy"

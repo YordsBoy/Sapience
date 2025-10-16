@@ -3,7 +3,7 @@ ksa_id: digital_audio_production
 label: Digital Audio Production
 category: Technical
 sector: media_arts_entertainment
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Audio"
   - "Production"

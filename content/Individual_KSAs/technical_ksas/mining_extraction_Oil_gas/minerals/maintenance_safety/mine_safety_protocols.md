@@ -3,7 +3,7 @@ ksa_id: mine_safety_protocols
 label: Mine Safety Protocols
 category: Technical
 sector: Mining_Extraction_Minerals
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Safety"
   - "Compliance"

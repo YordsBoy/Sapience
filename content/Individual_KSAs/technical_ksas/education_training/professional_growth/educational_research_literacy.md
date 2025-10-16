@@ -3,7 +3,7 @@ ksa_id: educational_research_literacy
 label: Educational Research Literacy
 category: Technical
 sector: Education_Training
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Research"
   - "Evidence"

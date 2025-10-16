@@ -3,7 +3,7 @@ ksa_id: water_conservation_systems
 label: Water Conservation Systems
 category: Technical
 sector: Env_Energy_Advanced
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Water Conservation"
   - "Efficiency"

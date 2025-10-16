@@ -3,7 +3,7 @@ ksa_id: inclusive_accessibility_guest_experience
 label: Inclusive & Accessibility Guest Experience
 category: Technical
 sector: Hospitality_Tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Accessibility"
   - "Inclusion"

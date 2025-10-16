@@ -20,7 +20,7 @@ This sector’s **11 KSAs** empower platform workers to master reputation, compl
 
 | Key | Definition |
 |-----|------------|
-| **core_2025** | Competencies essential now |
+| **core** | Competencies essential now |
 | **emerging**  | Rapid-growth, mainstream in 2-4 y |
 
 ## KSA inventory

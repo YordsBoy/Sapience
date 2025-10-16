@@ -3,7 +3,7 @@ ksa_id: chemical_service_safety
 label: Chemical-Service Safety
 category: Technical
 sector: Personal_Other_Services
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Chemical Safety"
   - "PPE"

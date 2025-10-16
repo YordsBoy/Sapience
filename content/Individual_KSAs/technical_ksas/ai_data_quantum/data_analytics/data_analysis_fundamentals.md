@@ -3,7 +3,7 @@ ksa_id: data_analysis_fundamentals
 label: Data Analysis Fundamentals
 category: Technical
 sector: AI_Data_Quantum
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Data Analytics"
   - "Statistics"

@@ -3,7 +3,7 @@ ksa_id: business_communications_writing
 label: Business Communications & Writing
 category: Technical
 sector: administrative_support_services
-horizon: core_2025
+horizon: core
 cluster_tags: ["Correspondence", "Professional Writing"]
 description: Produces clear, concise, and audience-appropriate business documents, presentations, and correspondence.
 source_frameworks: ["sfia:SUBM", "onet:27-3042.00"]

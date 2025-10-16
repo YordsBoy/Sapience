@@ -3,7 +3,7 @@ ksa_id: battery_energy_storage_operations
 label: Battery Energy-Storage Operations
 category: Technical
 sector: Energy_Utilities
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Energy Storage"
   - "BESS"

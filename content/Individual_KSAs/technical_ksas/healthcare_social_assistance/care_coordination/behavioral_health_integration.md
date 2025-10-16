@@ -3,7 +3,7 @@ ksa_id: behavioral_health_integration
 label: Behavioral Health Integration
 category: Technical
 sector: healthcare_social_assistance
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Behavioral Health"
   - "Integrated Care"

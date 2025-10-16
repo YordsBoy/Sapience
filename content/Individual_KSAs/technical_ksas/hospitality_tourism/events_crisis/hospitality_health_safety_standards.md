@@ -3,7 +3,7 @@ ksa_id: hospitality_health_safety_standards
 label: Enhanced Health & Safety Standards  
 category: Technical  
 sector: Hospitality_Tourism  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "Safety Protocols"
     - "Compliance"

@@ -3,7 +3,7 @@ ksa_id: blueprint_interpretation
 label: Blueprint Interpretation & Technical Drawing Literacy
 category: Technical
 sector: Construction_Infrastructure
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Drafting"
   - "QA/QC"

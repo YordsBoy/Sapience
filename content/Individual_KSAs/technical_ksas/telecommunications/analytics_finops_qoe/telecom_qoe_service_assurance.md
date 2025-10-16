@@ -3,7 +3,7 @@ ksa_id: telecom_qoe_service_assurance
 label: Telecom QoE & Service Assurance
 category: Technical
 sector: Telecommunications
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "QoE"
   - "Service Assurance"

@@ -3,7 +3,7 @@ ksa_id: system_admin
 label: Operating System & System Administration
 category: Technical
 sector: core_it_cloud
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "SysAdmin"
   - "Linux"

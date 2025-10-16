@@ -3,7 +3,7 @@ ksa_id: lean_manufacturing_methods
 label: Lean Manufacturing Methods
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Lean"
   - "Continuous Improvement"

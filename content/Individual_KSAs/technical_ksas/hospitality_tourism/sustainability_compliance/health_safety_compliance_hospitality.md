@@ -3,7 +3,7 @@ ksa_id: health_safety_compliance_hospitality
 label: Health & Safety Compliance (Hospitality)
 category: Technical
 sector: Hospitality_Tourism
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Health & Safety"
   - "Compliance"

@@ -21,29 +21,29 @@ Security pressures persist—hundreds of large HIPAA breaches are under active O
 ## Horizon Key
 | Horizon        | Meaning                                                    |
 |----------------|------------------------------------------------------------|
-| **core_2025**  | Competencies essential for current care-delivery models    |
+| **core**  | Competencies essential for current care-delivery models    |
 | **emerging**   | Rapid-growth skills expected to be mainstream by ≈ 2027    |
 
 ## KSA Inventory
 | KSA ID                                  | Label                                   | Horizon    |
 |-----------------------------------------|-----------------------------------------|------------|
-| behavioral_health_integration           | Behavioral-Health Integration           | core_2025  |
-| case_management_care_coordination       | Case Management & Care Coordination     | core_2025  |
-| clinical_care_coordination              | Clinical Care Coordination              | core_2025  |
-| data_privacy_security_hipaa             | Data Privacy & Security (HIPAA)         | core_2025  |
-| emergency_preparedness_healthcare       | Emergency Preparedness in Healthcare    | core_2025  |
-| essential_public_health_competencies    | Essential Public-Health Competencies    | core_2025  |
-| health_equity_community_engagement      | Health-Equity & Community Engagement    | core_2025  |
-| population_health_management            | Population-Health Management            | core_2025  |
-| public_health_surveillance_epidemiology | Public-Health Surveillance & Epidemiology | core_2025 |
-| fhir_based_interoperability_engineering | FHIR-Based Interoperability Engineering | core_2025  |
-| health_informatics_ehr_management       | Health Informatics & EHR Management     | core_2025  |
+| behavioral_health_integration           | Behavioral-Health Integration           | core  |
+| case_management_care_coordination       | Case Management & Care Coordination     | core  |
+| clinical_care_coordination              | Clinical Care Coordination              | core  |
+| data_privacy_security_hipaa             | Data Privacy & Security (HIPAA)         | core  |
+| emergency_preparedness_healthcare       | Emergency Preparedness in Healthcare    | core  |
+| essential_public_health_competencies    | Essential Public-Health Competencies    | core  |
+| health_equity_community_engagement      | Health-Equity & Community Engagement    | core  |
+| population_health_management            | Population-Health Management            | core  |
+| public_health_surveillance_epidemiology | Public-Health Surveillance & Epidemiology | core |
+| fhir_based_interoperability_engineering | FHIR-Based Interoperability Engineering | core  |
+| health_informatics_ehr_management       | Health Informatics & EHR Management     | core  |
 | ai_clinical_decision_support            | AI-Enabled Clinical Decision Support    | emerging   |
-| healthcare_quality_patient_safety       | Healthcare Quality & Patient Safety     | core_2025  |
-| medical_device_regulatory_compliance    | Medical-Device Regulatory Compliance    | core_2025  |
-| revenue_cycle_healthcare_finance        | Revenue-Cycle & Healthcare Finance      | core_2025  |
-| value_based_care_data_quality_metrics   | Value-Based Care Data Quality & Metrics | core_2025  |
-| telehealth_service_delivery             | Telehealth Service Delivery             | core_2025  |
+| healthcare_quality_patient_safety       | Healthcare Quality & Patient Safety     | core  |
+| medical_device_regulatory_compliance    | Medical-Device Regulatory Compliance    | core  |
+| revenue_cycle_healthcare_finance        | Revenue-Cycle & Healthcare Finance      | core  |
+| value_based_care_data_quality_metrics   | Value-Based Care Data Quality & Metrics | core  |
+| telehealth_service_delivery             | Telehealth Service Delivery             | core  |
 
 ## Referenced Frameworks & Standards
 * AMA Collaborative-Care Model Guide

@@ -3,7 +3,7 @@ ksa_id: digital_rights_distribution
 label: Digital Rights & Distribution Management  
 category: Technical  
 sector: Media_Arts_Entertainment  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "DRM"
     - "Distribution"

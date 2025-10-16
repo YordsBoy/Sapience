@@ -3,7 +3,7 @@ ksa_id: character_rigging_animation_pipeline
 label: 3D Character Rigging & Animation Pipeline
 category: Technical
 sector: Media_Arts_Entertainment
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Rigging"
   - "Pipeline"

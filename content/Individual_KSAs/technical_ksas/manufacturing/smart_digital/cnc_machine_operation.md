@@ -3,7 +3,7 @@ ksa_id: cnc_machine_operation
 label: CNC Machine Operation
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "CNC"
   - "Machining"

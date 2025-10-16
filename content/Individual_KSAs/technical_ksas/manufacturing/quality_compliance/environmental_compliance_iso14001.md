@@ -3,7 +3,7 @@ ksa_id: environmental_compliance_iso14001
 label: Environmental Compliance – ISO 14001
 category: Technical
 sector: Manufacturing
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Environment"
   - "ISO 14001"

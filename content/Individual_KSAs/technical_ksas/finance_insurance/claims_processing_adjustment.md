@@ -3,7 +3,7 @@ ksa_id: claims_processing_adjustment
 label: Claims Processing & Adjustment
 category: Technical
 sector: finance_insurance
-horizon: core_2025
+horizon: core
 cluster_tags: ["P&C", "Life-Health", "Automation"]
 description: Adjudicates and settles insurance claims accurately and fairly, leveraging technology and data to enhance customer satisfaction and operational efficiency.
 source_frameworks: ["naic:Claims", "iso:9001"]

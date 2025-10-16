@@ -3,7 +3,7 @@ ksa_id: well_completion_design
 label: Completions Fluid & Equipment Design
 category: Technical
 sector: Mining_Extraction_OilGas
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Completions"
   - "Fluids"

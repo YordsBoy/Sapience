@@ -3,7 +3,7 @@ ksa_id: barter_alternative_currency_trade
 label: Barter & Alternative-Currency Trade
 category: Technical
 sector: Informal_Gray_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Barter"
   - "Alternative Currency"

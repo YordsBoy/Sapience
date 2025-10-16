@@ -3,7 +3,7 @@ ksa_id: digital_government_services
 label: Digital Government Services Delivery  
 category: Technical  
 sector: Government_Public_Administration
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Digital Services"
   - "User Experience"

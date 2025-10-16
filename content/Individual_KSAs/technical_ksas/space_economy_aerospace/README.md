@@ -23,28 +23,28 @@ Commercial space momentum persists—small-sat constellations, lunar logistics, 
 ## Horizon Key
 | Horizon        | Meaning                                     |
 |----------------|---------------------------------------------|
-| **core_2025**  | Essential for present missions              |
+| **core**  | Essential for present missions              |
 | **emerging**   | Rapid-growth; mainstream by ≈ 2028          |
 
 ## KSA Inventory 
 | ID | Label | Horizon |
 |----|-------|---------|
-| human_spaceflight_life_support_basics | Human-Spaceflight Life-Support Basics | core_2025 |
-| launch_range_safety_management | Launch-Range Safety Management | core_2025 |
-| satellite_ground_segment_cybersecurity | Satellite Ground-Segment Cybersecurity | core_2025 |
-| satellite_mission_operations_ground_systems | Satellite Mission-Ops & Ground Systems | core_2025 |
-| cubesat_mission_design_smallsat | CubeSat Mission-Design & SmallSat Architecture | core_2025 |
-| space_debris_mitigation_techniques | Space-Debris Mitigation Techniques | core_2025 |
-| space_law_spectrum_regulatory_policy | Space Law, Spectrum & Regulatory Policy | core_2025 |
-| spacecraft_systems_engineering_fundamentals | Spacecraft Systems-Engineering Fundamentals | core_2025 |
+| human_spaceflight_life_support_basics | Human-Spaceflight Life-Support Basics | core |
+| launch_range_safety_management | Launch-Range Safety Management | core |
+| satellite_ground_segment_cybersecurity | Satellite Ground-Segment Cybersecurity | core |
+| satellite_mission_operations_ground_systems | Satellite Mission-Ops & Ground Systems | core |
+| cubesat_mission_design_smallsat | CubeSat Mission-Design & SmallSat Architecture | core |
+| space_debris_mitigation_techniques | Space-Debris Mitigation Techniques | core |
+| space_law_spectrum_regulatory_policy | Space Law, Spectrum & Regulatory Policy | core |
+| spacecraft_systems_engineering_fundamentals | Spacecraft Systems-Engineering Fundamentals | core |
 | on_orbit_servicing_isam_engineering | On-Orbit Servicing & ISAM Engineering | emerging |
 | hypersonic_reentry_thermal_analysis | Hypersonic Re-Entry Thermal Analysis | emerging |
 | cislunar_navigation_operations | Cislunar Navigation & Operations | emerging |
 | in_space_propellant_depot_management | In-Space Propellant Depot Management | emerging |
 | space_weather_forecasting_analytics | Space-Weather Forecasting & Analytics| emerging |
-| satellite_data_product_management | Satellite-Data Product Management | core_2025 |
-| satellite_data_value_pricing_strategy | Satellite-Data Value-&-Pricing Strategy | core_2025 |
-| geospatial_data_licensing_compliance | Geospatial-Data Licensing & Compliance | core_2025 |
+| satellite_data_product_management | Satellite-Data Product Management | core |
+| satellite_data_value_pricing_strategy | Satellite-Data Value-&-Pricing Strategy | core |
+| geospatial_data_licensing_compliance | Geospatial-Data Licensing & Compliance | core |
 | space_sector_finance_investment | Space-Sector Finance & Investment | emerging |
 
 

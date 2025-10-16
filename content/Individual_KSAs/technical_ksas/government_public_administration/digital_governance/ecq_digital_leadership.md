@@ -3,7 +3,7 @@ ksa_id: ecq_digital_leadership
 label: ECQ Leadership in the Digital Era
 category: Technical
 sector: Government_Public_Administration
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Leadership"
   - "Digital Transformation"

@@ -3,7 +3,7 @@ ksa_id: digital_record_systems_management
 label: Digital Record Systems Management
 category: Technical
 sector: Administrative_Support
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Records Management"
   - "EDRMS"

@@ -3,7 +3,7 @@ ksa_id: data_governance_ethics
 label: Data Governance & Ethics
 category: Technical
 sector: AI_Data_Quantum
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Data Governance"
   - "Privacy"

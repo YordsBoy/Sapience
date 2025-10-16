@@ -3,7 +3,7 @@ ksa_id: merchandise_ecommerce_operations
 label: Merchandise & E‑commerce Operations
 category: Technical
 sector: Digital_Content_Creator_Economy
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Merchandising"
   - "E-Commerce"

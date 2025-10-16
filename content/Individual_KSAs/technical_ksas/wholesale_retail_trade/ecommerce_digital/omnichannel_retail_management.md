@@ -3,7 +3,7 @@ ksa_id: omnichannel_retail_management
 label: Omnichannel Retail Operations  
 category: Technical  
 sector: Wholesale_Retail_Trade  
-horizon: core_2025  
+horizon: core  
 cluster_tags: 
     - "E-Commerce"
     - "Omnichannel"

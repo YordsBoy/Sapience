@@ -3,7 +3,7 @@ ksa_id: meal_planning_nutrition_domestic
 label: Meal Planning & Nutrition (DOmestic))
 category: Technical
 sector: Unpaid_Caregiving_Domestic_Work
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Nutrition"
   - "Meal Planning"

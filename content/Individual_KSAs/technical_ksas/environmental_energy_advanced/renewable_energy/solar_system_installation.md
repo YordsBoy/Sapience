@@ -3,7 +3,7 @@ ksa_id: solar_system_installation
 label: Solar System Installation Basics
 category: Technical
 sector: Env_Energy_Advanced
-horizon: core_2025
+horizon: core
 cluster_tags:
   - "Solar"
   - "Installation"
