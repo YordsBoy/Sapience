@@ -8,9 +8,7 @@ cluster_tags:
   - "Crop Science"
   - "Sustainability"
 description: >
-  Assesses physical, chemical, and biological soil properties—pH, nutrient
-  levels, organic matter, microbiome diversity—to guide fertilisation, crop
-  rotation, and regenerative practices.
+  Assesses physical, chemical, and biological soil properties—pH, nutrient levels, organic matter, microbiome diversity—to guide fertilisation, crop rotation, and regenerative practices.
 source_frameworks:
   - "Adapted from O*NET Soil and Plant Scientist tasks (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:

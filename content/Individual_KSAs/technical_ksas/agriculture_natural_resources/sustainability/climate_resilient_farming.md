@@ -8,9 +8,7 @@ cluster_tags:
   - "Sustainability"
   - "Climate Adaptation"
 description: >
-  Adapts agronomic practices—drought-tolerant varieties, carbon-sequestration
-  techniques, water-harvesting—to mitigate climate risks and reduce greenhouse-gas
-  emissions.
+  Adapts agronomic practices—drought-tolerant varieties, carbon-sequestration techniques, water-harvesting—to mitigate climate risks and reduce greenhouse-gas emissions.
 source_frameworks:
   - "FAO Climate-Smart Agriculture framework (public domain)"
 proficiency_levels:

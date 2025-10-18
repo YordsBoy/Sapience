@@ -8,8 +8,7 @@ cluster_tags:
   - "Data Analytics"
   - "Precision Agriculture"
 description: >
-  Collects, cleans, and analyses multi-source farm data (yield, climate,
-  satellite) to inform decisions and benchmark performance.
+  Collects, cleans, and analyses multi-source farm data (yield, climate, satellite) to inform decisions and benchmark performance.
 source_frameworks:
   - "FAO & USDA open-data initiatives (public domain)"
 proficiency_levels:

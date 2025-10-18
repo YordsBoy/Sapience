@@ -8,12 +8,10 @@ cluster_tags:
   - "Supply Chain"
   - "Post-Harvest"
 description: >
-  Plans and coordinates post-harvest handling, cold-chain storage,
-  transportation, and distribution of agricultural products to minimise loss,
-  maintain quality, and meet market timelines.
+  Plans and coordinates post-harvest handling, cold-chain storage, transportation, and distribution of agricultural products to minimise loss, maintain quality, and meet market timelines.
 source_frameworks:
-  - "USDA Agri-Food Supply-Chain Assessment (public report):contentReference[oaicite:8]{index=8}"
-  - "UF IFAS post-harvest handling guide (public):contentReference[oaicite:9]{index=9}"
+  - "USDA Agri-Food Supply-Chain Assessment (public report)"
+  - "UF IFAS post-harvest handling guide (public)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies stages of crop flow from field to market; recognises cold-chain importance.

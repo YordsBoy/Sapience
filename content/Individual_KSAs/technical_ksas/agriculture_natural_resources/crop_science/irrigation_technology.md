@@ -8,9 +8,7 @@ cluster_tags:
   - "Water Management"
   - "IoT"
 description: >
-  Uses soil-moisture probes, weather data, and automated valves to deliver
-  precise water volumes, improving yield while conserving resources.  
-  See also **`climate_resilient_farming`** for whole-farm water-resource strategies.
+  Uses soil-moisture probes, weather data, and automated valves to deliver precise water volumes, improving yield while conserving resources.  See also **`climate_resilient_farming`** for whole-farm water-resource strategies.
 source_frameworks:
   - "USDA Natural Resources Conservation Service smart-irrigation notes (public domain)"
 proficiency_levels:

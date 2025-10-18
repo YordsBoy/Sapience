@@ -8,8 +8,7 @@ cluster_tags:
   - "Finance"
   - "Farm Management"
 description: >
-  Prepares budgets, cash-flow projections, and profitability analyses for
-  farm enterprises; assesses investment returns and risk scenarios.
+  Prepares budgets, cash-flow projections, and profitability analyses for farm enterprises; assesses investment returns and risk scenarios.
 source_frameworks:
   - "USDA/NIFA farm-business training modules (public)"
   - "NRCS budget-analysis practitioner guide (public)"

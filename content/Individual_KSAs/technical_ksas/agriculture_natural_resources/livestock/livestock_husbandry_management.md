@@ -8,9 +8,7 @@ cluster_tags:
   - "Livestock"
   - "Animal Welfare"
 description: >
-  Applies best-practice animal-care routines—feeding, housing, health checks,
-  breeding—to ensure welfare and productivity across cattle, poultry, or other
-  farm animals.
+  Applies best-practice animal-care routines—feeding, housing, health checks, breeding—to ensure welfare and productivity across cattle, poultry, or other farm animals.
 source_frameworks:
   - "FAO husbandry competency draft (public)"
 proficiency_levels:

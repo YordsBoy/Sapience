@@ -9,7 +9,7 @@ cluster_tags:
   - "Nuclear"
 description: "Operates and maintains nuclear power generation systems, including reactor controls, cooling systems, and safety protocols (reactor shutdown, radiation protection, waste handling) to ensure safe, continuous power production."
 source_frameworks:
-  - "Adapted from ONET Nuclear Power Reactor Operator competencies (USDOL/ETA, public domain):contentReference[oaicite:145]{index=145}:contentReference[oaicite:146]{index=146}"
+  - "Adapted from ONET Nuclear Power Reactor Operator competencies (USDOL/ETA, public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Knows fundamental concepts of nuclear fission and the purpose of reactor control rods and cooling systems.

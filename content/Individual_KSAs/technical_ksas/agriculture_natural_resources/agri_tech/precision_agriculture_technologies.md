@@ -8,8 +8,7 @@ cluster_tags:
   - "Precision Agriculture"
   - "IoT"
 description: >
-  Utilises Global Positioning System (GPS), Geographic Information System (GIS),
-  drones (unmanned aerial vehicles – UAVs), and real-time sensors for site-specific crop management and operations at sub-field resolution.; analyzes sensor data (soil moisture, nutrient levels) to optimize irrigation, fertilization, and yields. 
+  Utilises Global Positioning System (GPS), Geographic Information System (GIS), drones (unmanned aerial vehicles – UAVs), and real-time sensors for site-specific crop management and operations at sub-field resolution.; analyzes sensor data (soil moisture, nutrient levels) to optimize irrigation, fertilization, and yields. 
 source_frameworks:
   - "O*NET Precision Agriculture Technicians profile 19-4012.01 (CC BY 4.0)"
 proficiency_levels:

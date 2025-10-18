@@ -9,8 +9,7 @@ cluster_tags:
   - "Integrated Pest Management"
 description: >
   Identifies, monitors, and controls integrated management of crop pests and diseases using integrated
-  pest-management (IPM) strategies that combine cultural, biological, and
-  chemical controls.
+  pest-management (IPM) strategies that combine cultural, biological, and chemical controls.
 source_frameworks:
   - "Public-domain IPM guidelines (USDA Extension)"
 proficiency_levels:

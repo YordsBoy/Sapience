@@ -8,9 +8,7 @@ cluster_tags:
   - "Sustainability"
   - "Ecosystem Services"
 description: >
-  Designs farming systems based on ecological processes—diversity,
-  synergies, recycling, resilience—to enhance productivity while conserving
-  biodiversity and soil health.
+  Designs farming systems based on ecological processes—diversity, synergies, recycling, resilience—to enhance productivity while conserving biodiversity and soil health.
 source_frameworks:
   - "FAO 10 Elements of Agroecology (public)"
 proficiency_levels:  

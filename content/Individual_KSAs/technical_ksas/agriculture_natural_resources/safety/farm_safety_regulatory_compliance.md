@@ -8,9 +8,7 @@ cluster_tags:
   - "Safety"
   - "Compliance"
 description: >
-  Implements Occupational Safety and Health Administration (OSHA) agricultural
-  standards, Environmental Protection Agency (EPA) pesticide rules, and food-safety
-  regulations (FSMA) to protect workers, consumers, and the environment.
+  Implements Occupational Safety and Health Administration (OSHA) agricultural standards, Environmental Protection Agency (EPA) pesticide rules, and food-safety regulations (FSMA) to protect workers, consumers, and the environment.
 source_frameworks:
   - "OSHA Agricultural-Operations Hazards & Controls (public)"
   - "FDA/FSMA produce-safety rule summaries (public)"

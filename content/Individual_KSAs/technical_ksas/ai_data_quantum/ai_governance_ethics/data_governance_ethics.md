@@ -21,9 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Implements stewardship roles, audits datasets, and addresses bias concerns.
   - level: Advanced
-    indicator: Leads governance programmes, aligns with international regulations, and
-      embeds ethical checkpoints in AI workflows.
+    indicator: Leads governance programs, aligns with international regulations, and embeds ethical checkpoints in AI workflows.
   - level: Expert
-    indicator: Chairs data-ethics boards, sets organisational policy, and influences external
-      standards bodies.
+    indicator: Chairs data-ethics boards, sets organisational policy, and influences external standards bodies.
 ---
