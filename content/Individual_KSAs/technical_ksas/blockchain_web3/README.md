@@ -37,23 +37,36 @@ The result: smart-contract skills are **core 2025**, rollups, ZKPs, and DID arch
 | nft_lifecycle_management       | NFT Lifecycle Management               | core  |
 | cross_chain_bridge_security    | Cross-Chain Bridge Security            | emerging   |
 | decentralized_identity_architecture | Decentralized-Identity Architecture | emerging   |
+| onchain_ai_agents_mev_bots        | On-Chain AI Agents & MEV-Aware Bots          | emerging |
+| cbdc_interoperability_frameworks  | CBDC Interoperability Frameworks             | emerging |
+| green_blockchain_consensus_research | Sustainability & Green Consensus R&D        | emerging |
 
 ## Referenced Frameworks & Standards
-* Electric Capital Crypto-Developer Report 2023
-* NISTIR 8202 — Blockchain Technology Overview 
-* ISO / TC 307 — Blockchain & DLT Standards Programme
-* Regulation (EU) 2023/1114 (MiCA)
-* OpenZeppelin Smart-Contract Readiness Guide
-* Chainalysis Bridge-Hack Report 2023
-* Ethereum zkEVM Roll-out News (2025)
-* World Economic Forum Decentralized-Identity Report 2024
-* Deloitte NFT Market Report 2023
-* FinTech-Intel Institutional Blockchain Adoption Insight 2024
+- **Electric Capital Crypto-Developer Report 2023 —** Annual study tracking code-commit and developer trends across 4 000+ open-source crypto projects; benchmarks ecosystem health and talent pipelines.  
+- **NISTIR 8202 “Blockchain Technology Overview” —** Foundational U.S. government report defining blockchain components, consensus, and threat models; serves as a technical primer for policymakers and engineers.
+- **ISO / TC 307 — Blockchain & Distributed-Ledger Technologies Standards Programme —** International committee coordinating global standards (terminology, smart contracts, governance, interoperability) for DLT systems.
+- **Regulation (EU) 2023/1114 (MiCA) —** First comprehensive EU framework on markets in crypto-assets, setting licensing, reserve, and disclosure rules for issuers and service providers.  
+- **OpenZeppelin Smart-Contract Readiness Guide —** Secure-development lifecycle (Plan → Code → Test → Audit → Deploy → Monitor) used to harden and audit Ethereum-based protocols.
+- **Chainalysis Bridge-Hack Report 2023 —** Forensic analysis showing a 63 % YoY drop in DeFi bridge thefts yet continued exploit prevalence; informs security controls for cross-chain bridges.{index=5}  
+- **Ethereum zkEVM Roll-out News (2025) —** Ethereum Foundation roadmap to integrate zero-knowledge Ethereum Virtual Machine at Layer 1, enabling scalable privacy-preserving smart contracts.
+- **WEF Decentralized-Identity Report 2024 —** World Economic Forum guidance on self-sovereign identity architectures and governance for Web3 ecosystems. 
+- **Deloitte NFT Market Report 2023 —** Industry analysis of non-fungible-token (NFT) trends, valuation, and adoption across sports and entertainment sectors.
+- **FinTech-Intel Institutional Blockchain Adoption Insight 2024 —** Predicts 2024 as the tipping point for enterprise-grade blockchain, highlighting CBDC pilots and tokenised-asset infrastructure.
+- **Flashbots MEV-Boost Specification (2024)** – relay API and auction rules for ethical MEV capture.  
+- **OnChain.org “AI Agent Economy” Article (2025)** – reference architecture for autonomous smart-contract agents.  
+- **BIS “Project Icebreaker” Report (2024)** – hub-and-spoke model for cross-border CBDC payments.  
+- **ETSI Quantum-Safe Security White Paper (2024)** – forward-looking crypto-agility considerations for CBDC bridges.  
+- **Elsevier Green-PoW Energy-Efficiency Study (2022)** & **Springer Blockchain Energy Metrics Review (2025)** – baselines for green-consensus benchmarking.  
 
-## Future-Expansion Recommendations
-* **On-chain AI Agents & MEV-Aware Bots** – autonomous agents interacting with protocols.  
-* **CBDC Interoperability Frameworks** – linking retail CBDCs with public chains.  
-* **Sustainability & Green Consensus R&D** – zero-carbon proofs and energy metrics.  
+### Future-Expansion  
+
+| Area | Why it matters |
+|------|----------------|
+| **Zero-Knowledge Hardware Acceleration (ZK-ASICs)** | Purpose-built ASICs that slash proving times and energy use for zk-rollups and privacy layers. |
+| **Decentralised Physical Infrastructure Networks (DePIN)** | Token-incentivised deployment of real-world infrastructure (sensors, connectivity), blending IoT and crypto. |
+| **Intent-Centric Protocols & Smart Order Routers** | User intents abstract away chains and liquidity; agents compose optimal execution paths. |
+| **Programmable Privacy Layers (PPL) for Regulated DeFi** | Selective disclosure and compliance-by-design using zero-knowledge proofs and confidential smart contracts. |
+ 
 
 > *All sources cited for conceptual alignment. No proprietary text copied.*
 
