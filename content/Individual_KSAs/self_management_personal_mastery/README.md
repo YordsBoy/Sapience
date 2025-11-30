@@ -23,20 +23,20 @@ The KSAs here are grouped into thematic sub-domains:
 - **ethical_reflection_reasoning** – *Ethical Reflection & Reasoning* (perennial) – Reflects on moral dilemmas and applies ethical principles to decisions.
 - **integrity_alignment** – *Integrity Alignment* (perennial) – Aligns actions with stated values; demonstrates honesty and consistency.
 - **moral_courage** – *Moral Courage* (perennial) – Stands up for ethical principles and values, even in the face of pressure.
-- **growth_mindset** – *Growth Mindset* (perennial) – Embraces challenges and sees effort as a path to mastery; believes abilities can be developed (tagged with *Resilience* as well as *Learning* for cross-linkage):contentReference[oaicite:73]{index=73}.
+- **growth_mindset** – *Growth Mindset* (perennial) – Embraces challenges and sees effort as a path to mastery; believes abilities can be developed (tagged with *Resilience* as well as *Learning* for cross-linkage).
 - **impulse_control** – *Impulse Control* (perennial) – Manages impulses and delays gratification to achieve long-term goals.
 - **attention_switching_focus** – *Attention Switching & Focus* (perennial) – Controls attention, maintains focus on tasks, and switches focus deliberately when needed.
-- **purpose_articulation** – *Purpose Articulation* (perennial) – Identifies and articulates one’s purpose and meaning, linking daily actions to personal values (associated with *Motivation* tag):contentReference[oaicite:74]{index=74}.
+- **purpose_articulation** – *Purpose Articulation* (perennial) – Identifies and articulates one’s purpose and meaning, linking daily actions to personal values (associated with *Motivation* tag).
 - **digital_minimalism** – *Digital Minimalism* (perennial) – Manages technology use intentionally to minimize distractions and information overload.
 - **energy_management** – *Energy Management* (perennial) – Optimizes personal energy (mental and physical) throughout the day via routines, rest, nutrition, etc.
-- **stress_management** – *Stress Management Techniques* (perennial) – Uses effective techniques to manage stress and sustain well-being under pressure:contentReference[oaicite:75]{index=75}. *(New)*
+- **stress_management** – *Stress Management Techniques* (perennial) – Uses effective techniques to manage stress and sustain well-being under pressure. 
 *(Note: *Time Management* is addressed under **General KSAs**; its principles are cross-referenced here as they strongly relate to personal productivity and stress reduction.)*
 
 ## Referenced Frameworks & Sources
 
 - **Psychology & Wellness Frameworks:** Content in this sector draws from widely accepted psychology practices (e.g., mindfulness techniques from Kabat-Zinn’s work, stress coping strategies from CDC/NIOSH). No proprietary text is used; sources like CDC stress management guidelines (public domain) inform KSAs such as Stress Management.
 - **OPM & DoD Human Capital Competencies:** The U.S. Office of Personnel Management’s competencies (e.g., *Integrity/Honesty*, *Continual Learning*) and Department of Defense’s “MOSAIC” competencies for self-management were referenced conceptually. These are public domain and provided insight especially for *Integrity Alignment* and *Metacognition Skills*.
-- **O*NET OnLine:** O*NET work styles and skills related to self-management (e.g., *Self Control*, *Stress Tolerance*, *Adaptability/Flexibility*) helped ensure alignment. For example, O*NET’s *Stress Tolerance* trait guided the scope of our Stress Management KSA. Attribution for O*NET content is provided where direct language was adapted (CC BY 4.0).
-- **SHRM BASK (limited):** Some KSAs initially referenced SHRM’s Behavioral Anchors (e.g., for *Accountability* and *Learning Agility*). We have removed any verbatim BASK text to avoid IP issues:contentReference[oaicite:76]{index=76}, but the conceptual coverage remains – supplemented by public sources or original wording. The repository now relies on public domain descriptions for those KSAs.
+- **ONET OnLine:** ONET work styles and skills related to self-management (e.g., *Self Control*, *Stress Tolerance*, *Adaptability/Flexibility*) helped ensure alignment. For example, O*NET’s *Stress Tolerance* trait guided the scope of our Stress Management KSA. Attribution for O*NET content is provided where direct language was adapted (CC BY 4.0).
+- **SHRM BASK (limited):** Some KSAs initially referenced SHRM’s Behavioral Anchors (e.g., for *Accountability* and *Learning Agility*). We have removed any verbatim BASK text to avoid IP issues, but the conceptual coverage remains – supplemented by public sources or original wording. The repository now relies on public domain descriptions for those KSAs.
 - **Educational Sources:** For *Growth Mindset*, Carol Dweck’s research inspired the concept (no copyrighted text used, just the concept of viewing abilities as developable). For *Mindfulness*, practices widely taught in public domain were referenced. These KSAs are grounded in well-known, freely available principles.
 
