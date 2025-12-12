@@ -1,12 +1,12 @@
 # Leadership & Influence (Cross-Sector)
 
-**Sector Overview:** This sector covers the competencies needed to lead people and influence outcomes in any organization. These cross-sector leadership KSAs include setting vision, driving change, guiding teams, communicating strategically, and upholding ethics. They equip individuals to inspire others, navigate crises, and build a positive organizational culture. All leadership KSAs are marked `perennial` because effective leadership principles remain relevant over time, even as contexts change:contentReference[oaicite:52]{index=52}. By mastering these, individuals can lead with integrity and influence in diverse environments.
+**Sector Overview:** This sector covers the competencies needed to lead people and influence outcomes in any organization. These cross-sector leadership KSAs include setting vision, driving change, guiding teams, communicating strategically, and upholding ethics. They equip individuals to inspire others, navigate crises, and build a positive organizational culture. All leadership KSAs are marked `perennial` because effective leadership principles remain relevant over time, even as contexts change. By mastering these, individuals can lead with integrity and influence in diverse environments.
 
 ## Sub-domains & Representative KSAs  
 
 | Code | Sub-Domain                 | Example KSAs                                                     |
 |------|----------------------------|------------------------------------------------------------------|
-| **CL** | Change & Transformation     | Change Leadership ·*Advanced Change Analytics & Sentiment Monitoring |
+| **CL** | Change & Transformation     | Change Leadership ·*Change Analytics & Sentiment Monitoring |
 | **CM** | Conflict & Crisis Management | Conflict Resolution · Crisis Leadership                         |
 | **IN** | Influence & Negotiation     | Persuasion & Negotiation · Strategic Communication              |
 | **DV** | Diversity & Inclusive Leadership | Inclusive Leadership · Ethical Governance                    |

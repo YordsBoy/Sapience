@@ -8,8 +8,7 @@ cluster_tags:
   - "Learning"
   - "Resilience"
 description: >
-  Believes abilities can be developed through effort, feedback, and learning,
-  embracing challenges and persisting after setbacks.
+  Believes abilities can be developed through effort, feedback, and learning, embracing challenges and persisting after setbacks.
 source_frameworks:
   - "Based on Carol Dweck’s growth-mindset research (widely cited public work)"
 proficiency_levels:

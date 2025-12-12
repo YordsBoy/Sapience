@@ -8,8 +8,7 @@ cluster_tags:
   - "Mindfulness"
   - "Well-being"
 description: >
-  Cultivates present-moment awareness through attention to breath, body sensations,
-  or surroundings, enhancing emotional regulation and cognitive clarity.
+  Cultivates present-moment awareness through attention to breath, body sensations, or surroundings, enhancing emotional regulation and cognitive clarity.
 source_frameworks:
   - "Based on Kabat-Zinn’s Mindfulness-Based Stress Reduction (public descriptions)"
 proficiency_levels:

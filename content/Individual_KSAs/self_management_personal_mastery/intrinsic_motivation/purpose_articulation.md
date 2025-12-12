@@ -8,8 +8,7 @@ cluster_tags:
   - "Purpose"
   - "Motivation"
 description: >
-  Identifies, clarifies, and communicates one’s overarching life or career purpose,
-  aligning daily actions and goals with that intrinsic motivation.
+  Identifies, clarifies, and communicates one’s overarching life or career purpose, aligning daily actions and goals with that intrinsic motivation.
 source_frameworks:
   - "Based on self-determination theory and purpose-driven leadership research"
 proficiency_levels:

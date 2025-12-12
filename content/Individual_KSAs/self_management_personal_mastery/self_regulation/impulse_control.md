@@ -7,8 +7,7 @@ horizon: perennial
 cluster_tags:
   - "Self-Discipline"
 description: >
-  Manages impulses and emotions, delaying gratification to pursue long-term goals
-  and maintain constructive behaviour under pressure.
+  Manages impulses and emotions, delaying gratification to pursue long-term goals and maintain constructive behavior under pressure.
 source_frameworks:
   - "Informed by neuroscience-based self-discipline exercises (publicly available)"
 proficiency_levels:

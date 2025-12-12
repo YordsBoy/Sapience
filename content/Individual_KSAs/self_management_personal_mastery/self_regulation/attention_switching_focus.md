@@ -8,8 +8,7 @@ cluster_tags:
   - "Productivity"
   - "Focus Management"
 description: >
-  Deliberately maintains deep focus on priority tasks, minimises distractions,
-  and switches attention efficiently when goals change.  
+  Deliberately maintains deep focus on priority tasks, minimizes distractions, and switches attention efficiently when goals change.  
   See also `deep_work_practice` for extended protocols on multi-hour
   distraction-free sessions.
 source_frameworks:

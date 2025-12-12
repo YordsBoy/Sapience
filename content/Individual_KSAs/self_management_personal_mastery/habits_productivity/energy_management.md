@@ -8,8 +8,7 @@ cluster_tags:
   - "Productivity"
   - "Well-being"
 description: >
-  Optimises physical, mental, and emotional energy through routines of rest, nutrition,
-  movement, and focused recovery to sustain high performance.
+  Optimizes physical, mental, and emotional energy through routines of rest, nutrition, movement, and focused recovery to sustain high performance.
 source_frameworks:
   - "Public-domain sports-science and workplace-energy research"
 proficiency_levels:

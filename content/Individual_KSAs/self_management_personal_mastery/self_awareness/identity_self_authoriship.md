@@ -8,8 +8,7 @@ cluster_tags:
   - "Leadership"
   - "Authenticity"
 description: >
-  Defines and lives by an internally generated sense of values, purpose,
-  and identity—rather than external scripts—guiding consistent, authentic actions.
+  Defines and lives by an internally generated sense of values, purpose, and identity—rather than external scripts—guiding consistent, authentic actions.
 source_frameworks:
   - "Kegan’s self-authorship theory (publicly summarised) and leadership-identity research"
 proficiency_levels:

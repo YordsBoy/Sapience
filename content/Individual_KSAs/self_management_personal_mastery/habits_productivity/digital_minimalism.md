@@ -8,8 +8,7 @@ cluster_tags:
   - "Mindfulness"
   - "Well-being"
 description: >
-  Intentionally curates digital tools and information consumption to minimise distraction,
-  maximise value, and support mental well-being.
+  Intentionally curates digital tools and information consumption to minimize distraction, maximize value, and support mental well-being.
 source_frameworks:
   - "Concepts from Cal Newport’s digital-minimalism framework (publicly discussed)"
 proficiency_levels:

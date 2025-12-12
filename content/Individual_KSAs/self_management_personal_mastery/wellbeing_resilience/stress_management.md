@@ -8,8 +8,7 @@ cluster_tags:
   - "Well-being"
   - "Coping Skills"
 description: >
-  Employs evidence-based techniques to manage stress and maintain performance,
-  resilience, and health under pressure.
+  Employs evidence-based techniques to manage stress and maintain performance, resilience, and health under pressure.
 source_frameworks:
   - "Adapted from CDC/NIOSH stress-management guidelines (public domain)"
 proficiency_levels:

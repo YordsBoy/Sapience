@@ -9,7 +9,7 @@ cluster_tags:
   - "Focus Management"
 description: >
   Schedules and protects extended blocks of distraction-free, cognitively
-  demanding work to maximise learning, creativity, and throughput, and
+  demanding work to maximize learning, creativity, and throughput, and
   deliberately balances these sessions with restorative breaks.
 source_frameworks:
   - "Cal Newport’s Deep Work framework (publicly summarised)"

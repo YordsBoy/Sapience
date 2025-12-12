@@ -8,8 +8,7 @@ cluster_tags:
   - "Courage"
   - "Ethics"
 description: >
-  Acts on ethical convictions despite fear of negative consequences,
-  defending principles and others who may be at risk.
+  Acts on ethical convictions despite fear of negative consequences, defending principles and others who may be at risk.
 source_frameworks:
   - "Adapted from public-domain leadership-ethics literature"
 proficiency_levels:

@@ -8,8 +8,7 @@ cluster_tags:
   - "Metacognition"
   - "Reflection"
 description: >
-  Examines one's thoughts, emotions, and behaviours to gain deeper self-understanding,
-  informing intentional growth and improved decision-making.
+  Examines one's thoughts, emotions, and behaviors to gain deeper self-understanding, informing intentional growth and improved decision-making.
 source_frameworks:
   - "Based on Schön’s reflective practice model (public domain concepts)"
 proficiency_levels:

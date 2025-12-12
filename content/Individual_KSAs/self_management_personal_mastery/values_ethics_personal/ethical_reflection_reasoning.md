@@ -8,8 +8,7 @@ cluster_tags:
   - "Ethics"
   - "Decision-Making"
 description: >
-  Examines moral dilemmas, applies ethical principles, and justifies decisions
-  that align with personal and organisational values.
+  Examines moral dilemmas, applies ethical principles, and justifies decisions that align with personal and organizational values.
 source_frameworks:
   - "Rest’s Four-Component Model of Moral Behavior (public summaries)"
 proficiency_levels:

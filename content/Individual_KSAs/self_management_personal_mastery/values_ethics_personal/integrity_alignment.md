@@ -8,8 +8,7 @@ cluster_tags:
   - "Ethics"
   - "Authenticity"
 description: >
-  Consistently aligns words and actions with stated values,
-  maintaining honesty and transparency even under pressure.
+  Consistently aligns words and actions with stated values, maintaining honesty and transparency even under pressure.
 source_frameworks:
   - "Public-domain guidance from OPM ‘Integrity/Honesty’ competency"
 proficiency_levels:

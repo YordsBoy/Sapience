@@ -8,8 +8,7 @@ cluster_tags:
   - "Learning Agility"
   - "Innovation"
 description: >
-  Monitors and regulates one’s own thinking and learning processes,
-  selecting strategies that optimise understanding and performance.
+  Monitors and regulates one’s own thinking and learning processes, selecting strategies that optimize understanding and performance.
 source_frameworks:
   - "Aligned with Flavell’s metacognition theory; informed by workplace-learning research"
 proficiency_levels:

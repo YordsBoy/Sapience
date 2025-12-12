@@ -1,6 +1,6 @@
 ---
-ksa_id: advanced_change_analytics_sentiment_monitoring
-label: Advanced Change Analytics & Sentiment Monitoring
+ksa_id: change_analytics_sentiment_monitoring
+label: Change Analytics & Sentiment Monitoring
 category: Technical
 sector: Leadership_Influence
 horizon: emerging
@@ -8,8 +8,7 @@ cluster_tags:
   - "Change Analytics"
   - "Sentiment Monitoring"
 description: >
-  Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programmes; integrates
-  dashboards with Prosci Change Scorecard metrics and AI-driven stakeholder insights.
+  Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programmes; integrates dashboards with Prosci Change Scorecard metrics and AI-driven stakeholder insights.
 source_frameworks:
   - "Prosci Change Scorecard metrics & AI Change-Management guidance"
   - "MIT Sloan 'How to Make Data Work Meaningful' & engagement analytics research (2025)"
