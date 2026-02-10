@@ -11,7 +11,7 @@ On the technology front, **Kubernetes powers >80 % of new cloud-native workloads
 |------|--------------------------------|---------------------------------------------------------------|
 | **CA** | Cloud Architecture               | Cloud-Infrastructure Architecture · Serverless Architecture   |
 | **CO** | Cloud Operations & Observability | Cloud Observability Monitoring · Site-Reliability Engineering |
-| **DB** | Databases & Data Stores          | Database Management                                            |
+| **DB** | Databases & Data Stores          | Database Management                                           |
 | **DV** | DevOps & Automation              | Infrastructure as Code · Kubernetes Orchestration             |
 | **EC** | Edge & Distributed Computing     | Edge-Cloud Orchestration                                      |
 | **FN** | FinOps & Green-Ops               | Cloud FinOps Cost Optimisation · Green-Cloud Optimisation |
