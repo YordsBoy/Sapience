@@ -49,7 +49,7 @@ npm run validate:ksas    # Build + validate KSA schema compliance
 
 ```
 content/Individual_KSAs/       # CORE ASSET — 400+ KSA markdown files by sector
-  general/                     #   15 Universal Professional competencies
+  universal_professional/      #   15 Universal Professional competencies
   leadership_influence/        #   15 Leadership competencies
   self_management_personal_mastery/  #   15+ Self-Mastery competencies
   technical_ksas/              #   Sector-specific KSAs (35 sectors)
