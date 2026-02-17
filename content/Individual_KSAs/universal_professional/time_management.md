@@ -1,7 +1,7 @@
 ---
 ksa_id: time_management
 label: Time Management
-category: General
+category: Universal Professional
 sector: cross_sector
 horizon: perennial
 cluster_tags:

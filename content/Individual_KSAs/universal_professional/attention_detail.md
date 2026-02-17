@@ -1,7 +1,7 @@
 ---
 ksa_id: attention_detail
 label: Attention to Detail
-category: General
+category: Universal Professional
 sector: cross_sector
 horizon: perennial
 cluster_tags:

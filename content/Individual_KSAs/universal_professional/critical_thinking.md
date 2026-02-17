@@ -1,7 +1,7 @@
 ---
 ksa_id: critical_thinking
 label: Critical Thinking
-category: General
+category: Universal Professional
 sector: cross_sector
 horizon: perennial
 cluster_tags:

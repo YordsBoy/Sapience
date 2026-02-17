@@ -1,7 +1,7 @@
 ---
 ksa_id: effective_communication
 label: Effective Communication
-category: General
+category: Universal Professional
 sector: cross_sector
 horizon: perennial
 cluster_tags:

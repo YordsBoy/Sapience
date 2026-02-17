@@ -1,7 +1,7 @@
 ---
 ksa_id: creative_thinking
 label: Creative Thinking
-category: General
+category: Universal Professional
 sector: cross_sector
 horizon: perennial
 cluster_tags:

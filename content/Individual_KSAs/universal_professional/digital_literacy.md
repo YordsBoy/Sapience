@@ -1,7 +1,7 @@
 ---
 ksa_id: digital_literacy
 label: Digital Literacy
-category: General
+category: Universal Professional
 sector: cross_sector
 horizon: perennial
 cluster_tags:

@@ -1,4 +1,4 @@
-# General & Self-Management (Cross-Sector Skills)
+# Universal Professional (Cross-Sector Skills)
 
 **Sector Overview:** This sector encompasses foundational personal and professional skills that are broadly applicable across all domains. These general KSAs – such as thinking critically, communicating effectively, self-regulating, and adapting to change – underlie success in any role. They are “perennial” competencies, meaning they remain relevant over time and are continually in demand. Developing these skills enhances an individual’s ability to learn, collaborate, lead, and thrive in a rapidly evolving work environment.
 
