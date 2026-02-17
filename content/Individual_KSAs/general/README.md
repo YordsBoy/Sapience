@@ -28,6 +28,7 @@
 - **professionalism** – *Professionalism* (perennial) – Demonstrates integrity, reliability, and respectful conduct.
 - **creative_thinking** – *Creative Thinking* (perennial) – Develops innovative ideas and solutions. 
 - **effective_communication** – *Effective Communication* (perennial) – Conveys information clearly and listens actively. 
+- **time_management** – *Time Management* (perennial) – Prioritizes tasks, allocates time efficiently, and meets deadlines consistently.
 
 ## Referenced Frameworks & Sources
 
