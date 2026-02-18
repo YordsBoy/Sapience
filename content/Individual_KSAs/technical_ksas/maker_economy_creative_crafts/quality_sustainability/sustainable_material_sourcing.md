@@ -2,7 +2,7 @@
 ksa_id: sustainable_material_sourcing
 label: Sustainable Material Sourcing
 category: Technical
-sector: Maker_Economy_Creative_Crafts
+sector: Maker_Creative_Crafts
 horizon: core
 cluster_tags:
   - "Sustainable Materials"

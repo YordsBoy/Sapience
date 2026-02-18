@@ -2,7 +2,7 @@
 ksa_id: surface_mining_operations
 label: Surface Mining Operations
 category: Technical
-sector: Mining_Extraction_Minerals
+sector: Mining_Extraction
 horizon: core
 cluster_tags:
   - "Operations"

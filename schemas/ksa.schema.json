@@ -53,6 +53,7 @@
         "Informal_Gray_Economy",
         "Unpaid_Caregiving",
         "Maker_Creative_Crafts",
+        "Digital_Content_Creator_Economy",
         "cross_sector" ] },
     "horizon":            { "type": "string", "enum": ["core","emerging","watch_2030","perennial","peripheral"] },
     "proficiency_levels": {

@@ -2,7 +2,7 @@
 ksa_id: machine_learning_engineering
 label: Machine Learning Engineering
 category: Technical
-sector: ai_data_quantum
+sector: AI_Data_Quantum
 horizon: core
 cluster_tags:
   - "Machine Learning"

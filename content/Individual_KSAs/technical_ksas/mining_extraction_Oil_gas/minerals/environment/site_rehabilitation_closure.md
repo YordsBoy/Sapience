@@ -2,7 +2,7 @@
 ksa_id: site_rehabilitation_closure
 label: Site Rehabilitation & Closure
 category: Technical
-sector: Mining_Extraction_Minerals
+sector: Mining_Extraction
 horizon: core
 cluster_tags:
   - "Closure"

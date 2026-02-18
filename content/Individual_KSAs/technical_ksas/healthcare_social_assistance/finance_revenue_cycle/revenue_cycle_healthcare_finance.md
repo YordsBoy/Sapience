@@ -2,7 +2,7 @@
 ksa_id: revenue_cycle_healthcare_finance
 label: Revenue Cycle & Healthcare Finance
 category: Technical
-sector: healthcare_social_assistance
+sector: Healthcare_Social_Assistance
 horizon: core
 cluster_tags:
   - "Revenue Cycle"

@@ -2,7 +2,7 @@
 ksa_id: mine_planning_design
 label: Mine Planning & Design
 category: Technical
-sector: Mining_Extraction_Minerals
+sector: Mining_Extraction
 horizon: core
 cluster_tags:
   - "Planning"

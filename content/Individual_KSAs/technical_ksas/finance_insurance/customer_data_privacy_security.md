@@ -2,7 +2,7 @@
 ksa_id: customer_data_privacy_security
 label: Customer-Data Privacy & Security
 category: Technical
-sector: finance_insurance
+sector: Finance_Insurance
 horizon: perennial
 cluster_tags: ["GDPR", "GLBA", "CCPA"]
 description: Protects personal and financial data through robust privacy frameworks, encryption, and incident-response protocols, ensuring compliance with global regulations.

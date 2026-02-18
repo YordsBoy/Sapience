@@ -2,7 +2,7 @@
 ksa_id: lifecycle_ghg_accounting_lca
 label: Lifecycle GHG Accounting & Life‑Cycle Assessment (LCA)
 category: Technical
-sector: Environmental_Advanced_Energy
+sector: Env_Energy_Advanced
 horizon: core
 cluster_tags:
   - "Life Cycle Assessment"

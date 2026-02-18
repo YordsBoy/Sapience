@@ -2,7 +2,7 @@
 ksa_id: in_space_propellant_depot_management
 label: In-Space Propellant Depot Management
 category: Technical
-sector: Space_Economy_Aerospace
+sector: Space_Economy
 horizon: emerging
 cluster_tags:
   - "Propellant Depot"

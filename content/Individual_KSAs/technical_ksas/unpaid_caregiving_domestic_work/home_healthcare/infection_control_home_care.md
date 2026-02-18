@@ -2,7 +2,7 @@
 ksa_id: infection_control_home_care
 label: Infection-Control in Home-Care Settings
 category: Technical
-sector: Unpaid_Caregiving_Domestic_Work
+sector: Unpaid_Caregiving
 horizon: core
 cluster_tags:
   - "Infection Control"

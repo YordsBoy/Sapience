@@ -3,7 +3,7 @@ ksa_id: network_digital_twin_planning
 label: Network Digital-Twin Planning
 category: Technical
 sector: Telecommunications
-horizon: future
+horizon: watch_2030
 cluster_tags:
   - "Digital Twin"
   - "Planning"

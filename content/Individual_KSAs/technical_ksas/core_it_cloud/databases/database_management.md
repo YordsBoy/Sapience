@@ -2,7 +2,7 @@
 ksa_id: database_management
 label: Database Administration & Optimization
 category: Technical
-sector: core_it_cloud
+sector: Core_IT_Cloud
 horizon: core
 cluster_tags:
   - "SQL"

@@ -2,7 +2,7 @@
 ksa_id: haptics_interface_design_xr
 label: Haptics-Interface Design for XR
 category: Technical
-sector: Immersive_Media_AR_VR_Metaverse
+sector: Immersive_Media_ARVR
 horizon: emerging
 cluster_tags:
   - "Haptics"

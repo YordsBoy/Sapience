@@ -2,7 +2,7 @@
 ksa_id: remote_monitoring_telecare
 label: Remote Monitoring & Tele‑Care
 category: Technical
-sector: Unpaid_Caregiving_Domestic_Work
+sector: Unpaid_Caregiving
 horizon: emerging
 cluster_tags:
   - "Telehealth"

@@ -23,4 +23,4 @@ proficiency_levels:
     indicator: Integrates cross-channel attribution; automates creative rotation; lifts reach efficiency ≥ 10 %.
   - level: Expert
     indicator: Directs franchise launch; mentors growth teams; publishes case studies.
-    ---
+---

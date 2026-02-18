@@ -2,7 +2,7 @@
 ksa_id: interactive_media_development
 label: Interactive Media Development
 category: Technical
-sector: media_arts_entertainment
+sector: Media_Arts_Entertainment
 horizon: emerging
 cluster_tags:
   - "Interactive"

@@ -3,7 +3,7 @@ ksa_id: sustainable_aquaculture
 label: Sustainable Aquaculture Practices
 category: Technical
 sector: Agriculture_Natural_Resources
-horizon: core_2025
+horizon: core
 cluster_tags: 
   - "Aquaculture"
   - "Sustainability"

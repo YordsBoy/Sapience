@@ -2,7 +2,8 @@
 ksa_id: ar_cloud_geospatial
 label: AR Cloud & Geospatial Anchoring
 category: Technical
-sector: immersive_media_ARVR
+sector: Immersive_Media_ARVR
+horizon: emerging
 cluster_tags:
   - "AR Cloud"
   - "Geospatial Anchoring"

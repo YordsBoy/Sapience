@@ -2,7 +2,7 @@
 ksa_id: lifecycle_assessment_sustainable_product
 label: Life-Cycle Assessment for Sustainable Products
 category: Technical
-sector: Maker_Economy_Creative_Crafts
+sector: Maker_Creative_Crafts
 horizon: emerging
 cluster_tags:
   - "LCA"

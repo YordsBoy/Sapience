@@ -2,7 +2,7 @@
 ksa_id: participatory_budgeting_civic_engagement
 label: Participatory Budgeting & Civic Engagement
 category: Technical
-sector: Government_Public_Administration
+sector: Government_Public_Admin
 horizon: emerging
 cluster_tags:
   - "Participation"

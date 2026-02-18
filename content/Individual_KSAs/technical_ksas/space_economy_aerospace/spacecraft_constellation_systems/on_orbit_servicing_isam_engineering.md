@@ -2,7 +2,7 @@
 ksa_id: on_orbit_servicing_isam_engineering
 label: On-Orbit Servicing, Assembly & Manufacturing (ISAM) Engineering
 category: Technical
-sector: Space_Economy_Aerospace
+sector: Space_Economy
 horizon: emerging
 cluster_tags:
   - "ISAM"

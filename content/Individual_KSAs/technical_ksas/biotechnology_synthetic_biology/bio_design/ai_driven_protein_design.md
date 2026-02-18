@@ -2,7 +2,7 @@
 ksa_id: ai_driven_protein_design
 label: AI‑Driven Protein Design & Engineering
 category: Technical
-sector: Biotechnology_Synthetic_Biology
+sector: Biotechnology_SynBio
 horizon: emerging
 cluster_tags:
   - "Bioinformatics"

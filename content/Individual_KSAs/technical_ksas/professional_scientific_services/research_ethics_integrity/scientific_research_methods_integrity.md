@@ -11,8 +11,9 @@ description: Designing and conducting rigorous scientific studies while upholdin
 source_frameworks:
   - "CONSORT 2010 Statement"
   - "FAIR Data Principles (GO FAIR)"
-  - "OECD Frascati Manual 2015","COPE Core Practices"
-  - "National Academies Research Integrity Report 2023"]
+  - "OECD Frascati Manual 2015"
+  - "COPE Core Practices"
+  - "National Academies Research Integrity Report 2023"
 proficiency_levels:
   - level: Awareness
     indicator: Formulates testable hypotheses; ; identifies bias types; distinguishes qualitative vs. quantitative methods; cites sources properly.

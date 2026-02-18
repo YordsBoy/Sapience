@@ -2,7 +2,7 @@
 ksa_id: dementia_engagement_communication
 label: Dementia Engagement & Communication
 category: Technical
-sector: Unpaid_Caregiving_Domestic_Work
+sector: Unpaid_Caregiving
 horizon: core
 cluster_tags:
   - "Dementia"

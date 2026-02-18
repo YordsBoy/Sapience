@@ -2,7 +2,7 @@
 ksa_id: renewable_hydrogen_supply_chain_management
 label: Renewable‑Hydrogen Supply‑Chain Management
 category: Technical
-sector: Environmental_Advanced_Energy
+sector: Env_Energy_Advanced
 horizon: emerging
 cluster_tags:
   - "Hydrogen"

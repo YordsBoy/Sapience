@@ -2,7 +2,7 @@
 ksa_id: volunteer_coordination
 label: Volunteer Coordination
 category: Technical
-sector: Nonprofit_NGOs
+sector: Nonprofit_NGO
 horizon: core
 cluster_tags:
   - "Volunteer"
@@ -24,4 +24,4 @@ proficiency_levels:
     indicator: Implements incentive program; maintains retention ≥ 80 %.
   - level: Expert
     indicator: Advises sector; publishes coordination toolkit; mentors coordinators.
-  ---
+---

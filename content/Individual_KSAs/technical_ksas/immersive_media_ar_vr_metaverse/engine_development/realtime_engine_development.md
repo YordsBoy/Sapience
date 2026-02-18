@@ -2,7 +2,7 @@
 ksa_id: realtime_engine_development
 label: Real-Time Engine Development (Unity/Unreal)
 category: Technical
-sector: immersive_media_ARVR
+sector: Immersive_Media_ARVR
 horizon: core
 cluster_tags:
   - "Realtime Engine"

@@ -2,7 +2,7 @@
 ksa_id: xr_storytelling
 label: XR Storytelling & Narrative Design
 category: Technical
-sector: immersive_media_ARVR
+sector: Immersive_Media_ARVR
 horizon: core
 cluster_tags:
   - "Storytelling"

@@ -17,7 +17,7 @@ source_frameworks:
 proficiency_levels:  
   - level: Awareness  
     indicator: Understands the concept of evidence-based policy and knows that data (surveys, statistics) can guide decisions; explains open-data licences; recognises Personally Identifiable Information (PII) safeguards.
-   - level: Basic  
+  - level: Basic
     indicator: Cleans CSV files; generates summary tables; retrieves basic datasets or reports (e.g., census data, budget figures) and uses them to create simple charts or summaries for a policy proposal.  
   - level: Intermediate  
     indicator: Builds regression or clustering models; maps policy indicators; shares dashboards securely; performs analysis on public datasets (e.g., trends in traffic data for transit policy); uses tools like Excel or basic GIS to support arguments; contributes to open data releases.  

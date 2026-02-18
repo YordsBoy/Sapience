@@ -11,7 +11,7 @@ description: Collecting and analysing 5G network data via Network Data Analytics
 source_frameworks:
   - "3GPP TS 29.520"
   - "3GPP TS 29.521"
-  ["3GPP TS 23.288 NWDAF Architecture"
+  - "3GPP TS 23.288 NWDAF Architecture"
   - "TM Forum AI‑Ops Framework"
   - "ETSI ZSM Analytics WG"
 proficiency_levels:

@@ -12,7 +12,7 @@ source_frameworks:
   - "Upwork Freelance Success Guide"    
   - "Upwork Talent Toolbox"
   - "Fiverr Level System Overview" 
-  - "Freelancers Union Best Practices Guide"]
+  - "Freelancers Union Best Practices Guide"
 proficiency_levels:
   - level: Awareness
     indicator: Monitors rating dashboards; responds politely to client messages; meets basic service‑level expectations.

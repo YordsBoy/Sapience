@@ -2,7 +2,7 @@
 ksa_id: microenterprise_bootstrapping
 label: Micro-Enterprise Bootstrapping
 category: Technical
-sector: informal_gray_economy
+sector: Informal_Gray_Economy
 horizon: core
 cluster_tags:
   - "Bootstrapping"

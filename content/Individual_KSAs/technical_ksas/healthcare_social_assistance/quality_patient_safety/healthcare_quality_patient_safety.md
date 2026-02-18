@@ -2,7 +2,7 @@
 ksa_id: healthcare_quality_patient_safety
 label: Healthcare Quality & Patient Safety
 category: Technical
-sector: healthcare_social_assistance
+sector: Healthcare_Social_Assistance
 horizon: core
 cluster_tags:
   - "Quality Improvement"

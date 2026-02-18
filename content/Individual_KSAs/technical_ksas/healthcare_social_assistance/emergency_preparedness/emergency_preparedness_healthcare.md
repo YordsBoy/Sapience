@@ -2,7 +2,7 @@
 ksa_id: emergency_preparedness_healthcare
 label: Emergency Preparedness in Healthcare
 category: Technical
-sector: healthcare_social_assistance
+sector: Healthcare_Social_Assistance
 horizon: core
 cluster_tags:
   - "Emergency Preparedness"

@@ -2,7 +2,7 @@
 ksa_id: devops_tooling
 label: DevOps Tooling & CI/CD
 category: Technical
-sector: core_it_cloud
+sector: Core_IT_Cloud
 horizon: core
 cluster_tags:
   - "DevOps"

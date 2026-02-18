@@ -2,7 +2,7 @@
 ksa_id: fintech_digital_payments_innovation
 label: FinTech & Digital-Payments Innovation
 category: Technical
-sector: finance_insurance
+sector: Finance_Insurance
 horizon: watch_2030
 cluster_tags: ["Open-Banking", "CBDC", "APIs"]
 description: Designs, evaluates, and implements emerging digital-payment technologies, open-banking APIs, and central-bank digital-currency (CBDC) use cases.

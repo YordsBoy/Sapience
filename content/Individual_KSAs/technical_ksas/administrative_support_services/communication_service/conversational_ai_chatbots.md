@@ -2,7 +2,7 @@
 ksa_id: conversational_ai_chatbots
 label: Conversational-AI Chatbots for Customer Interaction
 category: Technical
-sector: Administrative_Support_Services
+sector: Administrative_Support
 horizon: emerging
 cluster_tags:
   - "Chatbots"

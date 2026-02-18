@@ -21,8 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Validates lane; conducts route‑risk assessments; calibrates sensors; performs corrective‑action reports; aligns SOPs.
   - level: Advanced
-    indicator: Designs lane qualification protocols; implements real‑time monitoring; runs CAPA; 
-    manages regulatory audits.
+    indicator: Designs lane qualification protocols; implements real‑time monitoring; runs CAPA; manages regulatory audits.
   - level: Expert
     indicator: Leads global cold‑chain networks; shapes GDP guidelines; publishes cold‑chain reliability research.
 ---

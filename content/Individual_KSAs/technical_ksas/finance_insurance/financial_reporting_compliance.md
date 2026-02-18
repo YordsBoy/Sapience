@@ -2,7 +2,7 @@
 ksa_id: financial_reporting_compliance
 label: Financial-Reporting Compliance
 category: Technical
-sector: finance_insurance
+sector: Finance_Insurance
 horizon: core
 cluster_tags: ["GAAP", "IFRS", "Statutory"]
 description: Prepares and reviews financial statements in alignment with GAAP, IFRS, and statutory-insurance accounting rules; ensures transparent, accurate, and timely disclosures.

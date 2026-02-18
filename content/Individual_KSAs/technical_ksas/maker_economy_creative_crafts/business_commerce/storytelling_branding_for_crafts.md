@@ -2,7 +2,7 @@
 ksa_id: storytelling_branding_for_crafts
 label: Storytelling & Branding for Crafts
 category: Technical
-sector: Maker_Economy_Creative_Crafts
+sector: Maker_Creative_Crafts
 horizon: core
 cluster_tags:
   - "Branding"

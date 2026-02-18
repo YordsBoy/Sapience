@@ -2,15 +2,17 @@
 ksa_id: renewable_energy_systems_design
 label: Renewable Energy Systems Design
 category: Technical
-sector: Environmental_Advanced_Energy
+sector: Env_Energy_Advanced
 horizon: core
-luster_tags:
+cluster_tags:
   - "Renewable Energy"
   - "Design"
 description: >
   Performs resource assessment, sizing, and electrical design for solar PV, wind, and hybrid plants; uses tools (PV*SOL, WindPRO) and codes (IEC 62548).
 source_frameworks:
-  - "IEC 62548 PV Array Design""IEC 61724 PV Performance Monitoring","IEC 61400 Wind Turbine Standards"]
+  - "IEC 62548 PV Array Design"
+  - "IEC 61724 PV Performance Monitoring"
+  - "IEC 61400 Wind Turbine Standards"
 proficiency_levels:
   - level: Awareness
     indicator: Reads solar irradiance maps; identifies wind‑class zones; understands basic components.

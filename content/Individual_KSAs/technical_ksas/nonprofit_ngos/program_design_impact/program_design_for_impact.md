@@ -2,7 +2,7 @@
 ksa_id: program_design_for_impact
 label: Program Design for Impact
 category: Technical
-sector: nonprofit_ngos
+sector: Nonprofit_NGO
 horizon: core
 cluster_tags:
   - "Program Design"

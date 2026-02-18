@@ -13,7 +13,7 @@ source_frameworks:
   - "NASP PREPaRE Framework"
   - "USSS NTAC Threat Assessment Model"
   - "ALICE Training Protocols"
-  - "CPTED for Schools"]
+  - "CPTED for Schools"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises warning behaviours; reports concerns; drills lockdown procedures.

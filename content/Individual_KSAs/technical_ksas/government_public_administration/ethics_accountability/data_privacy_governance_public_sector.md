@@ -2,7 +2,7 @@
 ksa_id: data_privacy_governance_public_sector
 label: Data-Privacy Governance in the Public Sector
 category: Technical
-sector: Government_Public_Administration
+sector: Government_Public_Admin
 horizon: emerging
 cluster_tags:
   - "Privacy"

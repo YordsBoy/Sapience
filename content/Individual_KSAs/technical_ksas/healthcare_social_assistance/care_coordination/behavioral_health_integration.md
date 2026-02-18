@@ -2,7 +2,7 @@
 ksa_id: behavioral_health_integration
 label: Behavioral Health Integration
 category: Technical
-sector: healthcare_social_assistance
+sector: Healthcare_Social_Assistance
 horizon: core
 cluster_tags:
   - "Behavioral Health"

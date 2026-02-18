@@ -10,9 +10,10 @@ cluster_tags:
 description: Planning and executing preventive maintenance, capital‑expenditure projects, and sustainability retrofits—HVAC upgrades, LED lighting, water conservation—to enhance asset value and ESG performance.
 source_frameworks:
   - "LEED v4.1 O+M Guide"
-  - "ASHRAE 90.1-2019
+  - "ASHRAE 90.1-2019"
   - "ASHRAE Standard 100 Energy Efficiency"
-  - "BREEAM In‑Use","LEED O+M"
+  - "BREEAM In-Use"
+  - "LEED O+M"
 proficiency_levels:
   - level: Awareness
     indicator: Tracks work orders; replaces filters; identifies energy‑saving opportunities; lists retrofit incentives.

@@ -2,7 +2,7 @@
 ksa_id: appointment_scheduling_management
 label: Appointment Scheduling & Workflow Management
 category: Technical
-sector: personal_other_services
+sector: Personal_Other_Services
 horizon: core
 cluster_tags:
   - "Scheduling"

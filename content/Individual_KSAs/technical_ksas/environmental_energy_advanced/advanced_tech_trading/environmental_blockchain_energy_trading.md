@@ -2,7 +2,7 @@
 ksa_id: environmental_blockchain_energy_trading
 label: Environmental-Blockchain Energy Trading
 category: Technical
-sector: Environmental_Energy_Advanced
+sector: Env_Energy_Advanced
 horizon: emerging
 cluster_tags:
   - "Blockchain"

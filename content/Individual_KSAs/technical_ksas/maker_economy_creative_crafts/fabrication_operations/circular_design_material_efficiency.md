@@ -2,7 +2,7 @@
 ksa_id: circular_design_material_efficiency
 label: Circular-Design & Material Efficiency
 category: Technical
-sector: Maker_Economy_Creative_Crafts
+sector: Maker_Creative_Crafts
 horizon: emerging
 cluster_tags:
   - "Circular Design"

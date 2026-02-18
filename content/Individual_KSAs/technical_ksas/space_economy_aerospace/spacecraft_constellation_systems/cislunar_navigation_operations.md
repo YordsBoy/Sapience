@@ -2,7 +2,7 @@
 ksa_id: cislunar_navigation_operations
 label: Cislunar Navigation & Operations
 category: Technical
-sector: Space_Economy_Aerospace
+sector: Space_Economy
 horizon: emerging
 cluster_tags:
   - "Cislunar"

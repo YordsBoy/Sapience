@@ -11,7 +11,7 @@ description: Optimizing appointment scheduling, route planning, and real‑time 
 source_frameworks:
   - "CFA Route Optimisation Standards"
   - "Field Service Management Association (FSMA) Best Practices"
-  - "Project Management Institute (PMI) Service Scheduling Guide"]
+  - "Project Management Institute (PMI) Service Scheduling Guide"
 proficiency_levels:
   - level: Awareness
     indicator: Lists job types; assigns priority codes; enters appointments; confirms customer addresses; tracks technician status.

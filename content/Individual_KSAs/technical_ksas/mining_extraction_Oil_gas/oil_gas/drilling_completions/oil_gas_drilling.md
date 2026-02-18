@@ -3,7 +3,7 @@ ksa_id: oil_gas_drilling
 label: Oil & Gas Drilling Operations
 category: Technical
 sector: Mining_Extraction
-horizon: core_2025
+horizon: core
 cluster_tags: 
   - "Oil & Gas"
   - "Drilling"

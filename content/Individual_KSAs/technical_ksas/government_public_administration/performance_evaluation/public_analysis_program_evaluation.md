@@ -2,7 +2,7 @@
 ksa_id: policy_analysis_program_evaluation
 label: Policy Analysis & Program Evaluation
 category: Technical
-sector: government_public_admin
+sector: Government_Public_Admin
 horizon: core
 cluster_tags:
   - "Evaluation"
@@ -11,7 +11,7 @@ description: Conducts rigorous policy research, impact assessments, and program 
 source_frameworks:
   - "GAO Program Evaluation Guide"
   - "Campbell Collaboration Methodology"
-  -"oecd:PolicyToolkit"
+  - "OECD Policy Toolkit"
   - "gaop:BlueBook"
 proficiency_levels:
   - level: Awareness

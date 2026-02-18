@@ -2,7 +2,7 @@
 ksa_id: sanitation_health_compliance
 label: Sanitation & Health Compliance
 category: Technical
-sector: personal_other_services
+sector: Personal_Other_Services
 horizon: core
 cluster_tags:
   - "Sanitation"
@@ -11,7 +11,8 @@ description: Maintains hygienic workspaces, adheres to health regulations, and d
 source_frameworks:
   - "ISO 9001:2015 Quality Management"
   - "Local Health-Dept Salon Code"
-  - "osha:1910", "cdc:InfectionControl"
+  - "OSHA 29 CFR 1910 (General Industry)"
+  - "CDC Infection Control Guidelines"
 proficiency_levels:
   - level: Awareness
     indicator: States daily/weekly cleaning tasks; lists inspection items; follows basic cleaning checklists and uses PPE.

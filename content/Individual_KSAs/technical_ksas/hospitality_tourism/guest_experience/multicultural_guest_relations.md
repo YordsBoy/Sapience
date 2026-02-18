@@ -2,7 +2,7 @@
 ksa_id: multicultural_guest_relations
 label: Multicultural Guest Relations
 category: Technical
-sector: hospitality_tourism
+sector: Hospitality_Tourism
 horizon: core
 cluster_tags:
   - "Multicultural"

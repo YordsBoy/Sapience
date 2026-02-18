@@ -8,7 +8,7 @@ cluster_tags:
   - "Voice of Customer"
   - "Analytics"
 description: Collecting, integrating, and analysing multi‑channel Voice‑of‑Customer data—surveys, social listening, support transcripts—to generate actionable insights and drive continuous CX improvements.
-source_frameworks: source_frameworks:
+source_frameworks:
   - "Medallia VoC Program Guide"
   - "Qualtrics XM Institute Best Practices"
   - "Customer Experience Professionals Association (CXPA) CCXP Exam Blueprint"

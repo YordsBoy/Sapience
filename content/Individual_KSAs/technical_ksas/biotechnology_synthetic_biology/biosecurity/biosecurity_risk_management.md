@@ -2,7 +2,7 @@
 ksa_id: biosecurity_risk_management
 label: Biosecurity & Risk Management
 category: Technical
-sector: Biotechnology_Synthetic_Biology
+sector: Biotechnology_SynBio
 horizon: emerging
 cluster_tags:
   - "Biosecurity"

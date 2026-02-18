@@ -2,7 +2,7 @@
 ksa_id: underground_mining_methods
 label: Underground Mining Methods
 category: Technical
-sector: Mining_Extraction_Minerals
+sector: Mining_Extraction
 horizon: core
 cluster_tags:
   - "Operations"

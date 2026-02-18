@@ -2,7 +2,7 @@
 ksa_id: clinical_care_coordination
 label: Clinical Care Coordination
 category: Technical
-sector: healthcare_social_assistance
+sector: Healthcare_Social_Assistance
 horizon: core
 cluster_tags:
   - "Clinical Coordination"

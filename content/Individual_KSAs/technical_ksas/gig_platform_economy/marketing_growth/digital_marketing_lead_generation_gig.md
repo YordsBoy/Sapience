@@ -23,4 +23,4 @@ proficiency_levels:
     indicator: Implements content calendars; leverages referrals and testimonials; calculates lifetime-value (LTV).
   - level: Expert
     indicator: Automates omnichannel funnels; scales agency model; teaches marketing workshops to freelancers.
-    ---
+---

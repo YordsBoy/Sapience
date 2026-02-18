@@ -2,7 +2,7 @@
 ksa_id: biological_data_science
 label: Biological Data Science & Bioinformatics
 category: Technical
-sector: Biotechnology_Synthetic_Biology
+sector: Biotechnology_SynBio
 horizon: core
 cluster_tags:
   - "Bioinformatics"

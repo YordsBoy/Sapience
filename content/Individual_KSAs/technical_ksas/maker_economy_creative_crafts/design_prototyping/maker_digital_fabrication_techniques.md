@@ -2,7 +2,7 @@
 ksa_id: maker_digital_fabrication_techniques  
 label: Maker Digital Fabrication Techniques  
 category: Technical  
-sector: Maker_Economy_Creative_Crafts 
+sector: Maker_Creative_Crafts 
 horizon: emerging  
 cluster_tags: 
     - "DIY Tech"

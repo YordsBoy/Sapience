@@ -2,7 +2,7 @@
 ksa_id: respite_care_coordination
 label: Respite Care Coordination
 category: Technical
-sector: Unpaid_Caregiving_Domestic_Work
+sector: Unpaid_Caregiving
 horizon: emerging
 cluster_tags:
   - "Respite"

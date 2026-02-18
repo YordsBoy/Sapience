@@ -12,7 +12,7 @@ description: >
   Electronic Product Code (EPC)-enabled RFID tags for end-to-end item
   visibility per GS1 Sunrise 2027 roadmap.
 source_frameworks:
-  - "GS1 Barcodes & Sunrise 2027 Initiative"  :contentReference[oaicite:7]{index=7}
+  - "GS1 Barcodes & Sunrise 2027 Initiative"
 proficiency_levels:
   - level: Awareness
     indicator: Differentiates EAN-13 vs. UPC-A; scans barcodes at POS.

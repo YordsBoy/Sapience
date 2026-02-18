@@ -2,7 +2,7 @@
 ksa_id: storytelling_fundamentals
 label: Storytelling Fundamentals
 category: Technical
-sector: media_arts_entertainment
+sector: Media_Arts_Entertainment
 horizon: core
 cluster_tags:
   - "Storytelling"

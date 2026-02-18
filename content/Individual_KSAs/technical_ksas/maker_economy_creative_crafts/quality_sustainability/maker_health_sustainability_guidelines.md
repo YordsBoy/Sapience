@@ -2,7 +2,7 @@
 ksa_id: maker_health_safety_guidelines
 label: Maker-Space Health & Safety Guidelines
 category: Technical
-sector: Maker_Economy_Creative_Crafts
+sector: Maker_Creative_Crafts
 horizon: core
 cluster_tags:
   - "Health & Safety"

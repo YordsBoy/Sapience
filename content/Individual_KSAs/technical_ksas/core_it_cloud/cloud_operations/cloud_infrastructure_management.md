@@ -2,7 +2,7 @@
 ksa_id: cloud_infrastructure
 label: Cloud Infrastructure Management
 category: Technical
-sector: core_it_cloud
+sector: Core_IT_Cloud
 horizon: core
 cluster_tags:
   - "Cloud Operations"

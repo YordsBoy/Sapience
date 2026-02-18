@@ -2,7 +2,7 @@
 ksa_id: advocacy_campaign_management
 label: Advocacy & Campaign Management
 category: Technical
-sector: nonprofit_ngos
+sector: Nonprofit_NGO
 horizon: core
 cluster_tags:
   - "Advocacy"

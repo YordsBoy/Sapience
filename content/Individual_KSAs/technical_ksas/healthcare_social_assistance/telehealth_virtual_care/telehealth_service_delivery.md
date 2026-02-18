@@ -2,7 +2,7 @@
 ksa_id: telehealth_service_delivery
 label: Telehealth Service Delivery
 category: Technical
-sector: healthcare_social_assistance
+sector: Healthcare_Social_Assistance
 horizon: core
 cluster_tags:
   - "Telehealth"

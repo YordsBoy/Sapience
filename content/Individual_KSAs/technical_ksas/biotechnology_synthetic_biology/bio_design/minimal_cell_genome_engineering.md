@@ -2,7 +2,7 @@
 ksa_id: minimal_cell_genome_engineering
 label: Whole-Genome Engineering & Minimal Cells
 category: Technical
-sector: Biotechnology_Synthetic_Biology
+sector: Biotechnology_SynBio
 horizon: emerging
 cluster_tags:
   - "Minimal Cell"

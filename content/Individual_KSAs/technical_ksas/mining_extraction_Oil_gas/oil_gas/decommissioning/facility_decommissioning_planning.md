@@ -2,7 +2,7 @@
 ksa_id: facility_decommissioning_planning
 label: Facility Decommissioning Planning
 category: Technical
-sector: Mining_Extraction_OilGas
+sector: Mining_Extraction
 horizon: core
 cluster_tags:
   - "Decommissioning"

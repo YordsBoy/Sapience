@@ -2,7 +2,7 @@
 ksa_id: mining_equipment_maintenance
 label: Mining Equipment Maintenance
 category: Technical
-sector: Mining_Extraction_Minerals
+sector: Mining_Extraction
 horizon: core
 cluster_tags:
   - "Maintenance"

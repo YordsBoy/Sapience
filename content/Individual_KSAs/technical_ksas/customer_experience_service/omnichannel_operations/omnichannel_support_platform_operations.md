@@ -2,11 +2,14 @@
 ksa_id: omnichannel_support_platform_operations
 label: Omnichannel Support Platform Operations
 category: Technical
+sector: Customer_Experience_Service
 horizon: core
 cluster_tags:
   - "Platform Ops"
   - "ITIL"
-cluster_tags: ["Omnichannel","Support Technology","Contact Centre"]
+  - "Omnichannel"
+  - "Support Technology"
+  - "Contact Centre"
 description: Configuring, optimising, and maintaining omnichannel support platforms—voice, chat, messaging, social, and self‑service—to deliver seamless customer experiences and real‑time context hand‑offs.
 source_frameworks:
   - "ITIL 4 Incident Management"

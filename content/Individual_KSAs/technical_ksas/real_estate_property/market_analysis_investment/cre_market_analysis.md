@@ -3,6 +3,7 @@ ksa_id: cre_market_analysis
 label: Commercial Real‑Estate Market Analysis
 category: Technical
 sector: Real_Estate_Property
+horizon: core
 cluster_tags:
   - "Market Analysis"
   - "Commercial Real Estate"

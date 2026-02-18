@@ -2,7 +2,7 @@
 ksa_id: space_sector_finance_investment
 label: Space-Sector Finance & Investment
 category: Technical
-sector: Space_Economy_Aerospace
+sector: Space_Economy
 horizon: emerging
 cluster_tags:
   - "Finance"

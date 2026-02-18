@@ -2,7 +2,7 @@
 ksa_id: microfluidic_single_cell_analysis
 label: Microfluidic Single-Cell Analysis
 category: Technical
-sector: Biotechnology_Synthetic_Biology
+sector: Biotechnology_SynBio
 horizon: emerging
 cluster_tags:
   - "Single-Cell"

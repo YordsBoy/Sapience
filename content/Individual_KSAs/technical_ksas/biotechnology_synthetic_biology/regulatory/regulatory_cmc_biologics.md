@@ -2,7 +2,7 @@
 ksa_id: regulatory_cmc_biologics
 label: Regulatory Compliance (Biologics CMC)
 category: Technical
-sector: Biotechnology_Synthetic_Biology
+sector: Biotechnology_SynBio
 horizon: core
 cluster_tags:
   - "Regulatory"

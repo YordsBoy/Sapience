@@ -2,7 +2,7 @@
 ksa_id: grid_interactive_buildings_smart_microgrids
 label: Grid-Interactive Buildings & Smart Microgrids
 category: Technical
-sector: Environmental_Energy_Advanced
+sector: Env_Energy_Advanced
 horizon: emerging
 cluster_tags:
   - "Smart Grid"

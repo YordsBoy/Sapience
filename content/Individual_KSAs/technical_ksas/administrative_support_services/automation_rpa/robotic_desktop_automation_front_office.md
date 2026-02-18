@@ -2,7 +2,7 @@
 ksa_id: robotic_desktop_automation_front_office
 label: Robotic Desktop Automation for Front-Office Tasks
 category: Technical
-sector: Administrative_Support_Services
+sector: Administrative_Support
 horizon: core
 cluster_tags:
   - "RPA"

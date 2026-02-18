@@ -2,7 +2,7 @@
 ksa_id: maker_electronics_iot_prototyping
 label: Maker Electronics & IoT Prototyping
 category: Technical
-sector: Maker_Economy_Creative_Crafts
+sector: Maker_Creative_Crafts
 horizon: emerging
 cluster_tags:
   - "Electronics"

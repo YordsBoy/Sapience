@@ -12,7 +12,7 @@ source_frameworks:
   - "Qualtrics NPS Guide"                     # :contentReference[oaicite:11]{index=11}
   - "CXPA Measurement Standards"
   - "American Customer Satisfaction Index (ACSI) Methodology"
-  - "Lean Service Excellence Playbook"]
+  - "Lean Service Excellence Playbook"
 proficiency_levels:
   - level: Awareness
     indicator: Calculates NPS; knows promoter vs detractor; Collects post‑service feedback; calculates basic CSAT scores; identifies common complaints.

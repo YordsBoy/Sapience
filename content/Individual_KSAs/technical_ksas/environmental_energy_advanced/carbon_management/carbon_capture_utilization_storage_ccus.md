@@ -2,12 +2,13 @@
 ksa_id: carbon_capture_utilization_storage_ccus
 label: Carbon Capture, Utilisation & Storage (CCUS)
 category: Technical
-sector: Environmental_Advanced_Energy
+sector: Env_Energy_Advanced
 horizon: emerging
-cluster_tags: ["Climate Engineering","CCUS","Process Engineering"]
 cluster_tags:
   - "CCUS"
   - "Carbon Management"
+  - "Climate Engineering"
+  - "Process Engineering"
 description: >
   Designs post-combustion, pre-combustion, and direct-contact CO₂ capture
   processes; evaluates transport, utilisation, saline and EOR storage options;

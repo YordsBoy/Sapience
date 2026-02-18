@@ -9,8 +9,7 @@ cluster_tags:
   - "DC Operations"
 description: >
   Manages inbound, storage, picking, packing, and outbound processes in a
-  distribution center (DC) using Warehouse Management System (WMS) and material
- -handling automation.
+  distribution center (DC) using Warehouse Management System (WMS) and material-handling automation.
 source_frameworks:
   - "ASCM Warehouse Management Guide"
 proficiency_levels:

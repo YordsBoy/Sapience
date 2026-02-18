@@ -2,7 +2,7 @@
 ksa_id: cross_sector_partnership_building
 label: Cross-Sector Partnership Building
 category: Technical
-sector: nonprofit_ngos
+sector: Nonprofit_NGO
 horizon: core
 cluster_tags:
   - "Partnership"

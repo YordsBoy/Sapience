@@ -2,7 +2,7 @@
 ksa_id: public_private_partnership_management
 label: Public-Private Partnership Management
 category: Technical
-sector: Government_Public_Administration
+sector: Government_Public_Admin
 horizon: emerging
 cluster_tags:
   - "PPP"

@@ -2,7 +2,7 @@
 ksa_id: open_source_hardware_compliance
 label: Open-Source Hardware Compliance
 category: Technical
-sector: Maker_Economy_Creative_Crafts
+sector: Maker_Creative_Crafts
 horizon: emerging
 cluster_tags:
   - "Open Hardware"

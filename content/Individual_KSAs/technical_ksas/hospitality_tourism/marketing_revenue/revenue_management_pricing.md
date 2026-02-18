@@ -2,7 +2,7 @@
 ksa_id: revenue_management_pricing
 label: Revenue Management & Pricing
 category: Technical
-sector: hospitality_tourism
+sector: Hospitality_Tourism
 horizon: core
 cluster_tags:
   - "Revenue Management"

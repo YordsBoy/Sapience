@@ -13,7 +13,7 @@ source_frameworks:
   - "Esri ArcGIS Crime Analysis Standard"
   - "NIEM 5.0 Public-Safety Domain"
   - "NIJ CrimeStat IV"
-  - "CompStat Methodology"]
+  - "CompStat Methodology"
 proficiency_levels:
   - level: Awareness
     indicator: Plots incidents on maps; interprets heatmaps; exports shapefiles; defines coordinate system.

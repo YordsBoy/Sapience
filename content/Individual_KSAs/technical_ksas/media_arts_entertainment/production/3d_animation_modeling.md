@@ -2,7 +2,7 @@
 ksa_id: 3d_animation_modeling
 label: 3D Modeling & Animation
 category: Technical
-sector: media_arts_entertainment
+sector: Media_Arts_Entertainment
 horizon: core
 cluster_tags:
   - "3-D"

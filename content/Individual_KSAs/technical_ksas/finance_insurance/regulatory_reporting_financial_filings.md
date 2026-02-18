@@ -2,7 +2,7 @@
 ksa_id: regulatory_reporting_financial_filings
 label: Regulatory Reporting & Financial Filings
 category: Technical
-sector: finance_insurance
+sector: Finance_Insurance
 horizon: core
 cluster_tags: ["SEC", "NAIC", "IFRS17"]
 description: Prepares and files mandated regulatory reports (e.g., NAIC Blank, 10-K/Q, Solvency II QRTs) ensuring accuracy, timeliness, and compliance with evolving rules.

@@ -9,8 +9,8 @@ cluster_tags:
   - "Framing"
 description: >
   Understands fundamental structural principles (loads, forces, material strength) and can read structural plans to ensure construction projects meet engineering requirements for stability and safety.
-source_frameworks: >
-  - "References NCCER curriculum & ONET civil engineer tech competencies (public domain)"
+source_frameworks:
+  - "NCCER Curriculum & O*NET Civil Engineer Tech Competencies"
   - "AISC Steel Manual & Wood Design Standards"
 proficiency_levels:
   - level: Awareness
