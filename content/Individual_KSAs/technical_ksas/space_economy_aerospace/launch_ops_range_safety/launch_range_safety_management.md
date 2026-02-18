@@ -2,7 +2,7 @@
 ksa_id: launch_range_safety_management
 label: Launch & Range Safety Management
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: core
 cluster_tags:
   - "Range Safety"

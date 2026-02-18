@@ -2,7 +2,7 @@
 ksa_id: industry_4_0_smart_manufacturing
 label: Industry 4.0 & Smart Manufacturing
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: emerging
 cluster_tags:
   - "Industry 4.0"

@@ -2,7 +2,7 @@
 ksa_id: content_strategy_distribution
 label: Content Strategy & Distribution
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: core
 cluster_tags:
   - "Content Strategy"

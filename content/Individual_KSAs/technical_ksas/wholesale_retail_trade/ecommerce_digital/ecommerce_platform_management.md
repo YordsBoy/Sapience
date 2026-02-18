@@ -2,7 +2,7 @@
 ksa_id: ecommerce_platform_management
 label: E-Commerce Platform Management
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "E-Commerce"

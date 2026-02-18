@@ -2,7 +2,7 @@
 ksa_id: scor_based_supply_chain_strategy
 label: SCOR‑Based Supply‑Chain Strategy
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: core
 cluster_tags:
   - "SCOR"

@@ -2,7 +2,7 @@
 ksa_id: dao_governance_compliance
 label: DAO Governance & Compliance
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "DAO"

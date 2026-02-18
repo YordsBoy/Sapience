@@ -2,7 +2,7 @@
 ksa_id: sustainable_transport_emissions_management
 label: Sustainable Transport Emissions Management
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: emerging
 cluster_tags:
   - "Sustainability"

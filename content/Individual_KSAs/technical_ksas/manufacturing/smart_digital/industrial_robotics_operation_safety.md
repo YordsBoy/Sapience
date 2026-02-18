@@ -2,7 +2,7 @@
 ksa_id: industrial_robotics_operation_safety
 label: Industrial Robotics Operation & Safety
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Robotics"

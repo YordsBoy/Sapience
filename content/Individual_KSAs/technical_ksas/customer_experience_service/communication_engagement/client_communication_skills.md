@@ -2,7 +2,7 @@
 ksa_id: client_communication_skills
 label: Client Communication Skills
 category: Technical
-sector: Customer_Experience_Service
+sector: customer_experience_service
 horizon: core
 cluster_tags:
   - "Communication"

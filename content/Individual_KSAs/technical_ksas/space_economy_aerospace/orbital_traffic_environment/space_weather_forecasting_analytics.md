@@ -2,7 +2,7 @@
 ksa_id: space_weather_forecasting_analytics
 label: Space-Weather Forecasting & Analytics
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: emerging
 cluster_tags:
   - "Space Weather"

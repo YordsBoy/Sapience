@@ -2,7 +2,7 @@
 ksa_id: collaborative_robotics_operations  
 label: Collaborative Robotics Operations  
 category: Technical  
-sector: Manufacturing  
+sector: manufacturing
 horizon: emerging  
 cluster_tags: 
     - "Cobotics"

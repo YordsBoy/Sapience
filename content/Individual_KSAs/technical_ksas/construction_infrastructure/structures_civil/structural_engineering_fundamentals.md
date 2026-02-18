@@ -2,7 +2,7 @@
 ksa_id: structural_engineering_fundamentals
 label: Structural Engineering Fundamentals & Framing
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Structural"

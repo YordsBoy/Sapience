@@ -2,7 +2,7 @@
 ksa_id: lease_negotiation_tenant_relations
 label: Lease Negotiation & Tenant Relations
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: core
 cluster_tags:
   - "Leasing"

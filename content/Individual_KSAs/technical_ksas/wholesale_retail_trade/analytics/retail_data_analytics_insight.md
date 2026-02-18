@@ -2,7 +2,7 @@
 ksa_id: retail_data_analytics_insight
 label: Retail Data Analytics & Insight
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Analytics"

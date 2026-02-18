@@ -2,7 +2,7 @@
 ksa_id: dynamic_pricing_optimization
 label: Dynamic Pricing & Surge Optimization
 category: Technical
-sector: Gig_Platform_Economy
+sector: gig_platform_economy
 horizon: emerging
 cluster_tags:
   - "Pricing"

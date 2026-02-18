@@ -2,7 +2,7 @@
 ksa_id: population_health_management
 label: Population Health Management
 category: Technical
-sector: Healthcare_Social_Assistance
+sector: healthcare_social_assistance
 horizon: core
 cluster_tags:
   - "Population Health"

@@ -2,7 +2,7 @@
 ksa_id: formalization_basics  
 label: Transition to Formal Economy Basics  
 category: Technical  
-sector: Informal_Gray_Economy  
+sector: informal_gray_economy
 horizon: core
 cluster_tags:
   - "Formalization"

@@ -2,7 +2,7 @@
 ksa_id: additive_manufacturing_construction
 label: Additive-Manufacturing (3-D Printing) for Construction
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: emerging
 cluster_tags:
   - "Additive Manufacturing"

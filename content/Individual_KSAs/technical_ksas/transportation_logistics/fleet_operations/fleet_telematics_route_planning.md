@@ -2,7 +2,7 @@
 ksa_id: fleet_telematics_route_planning  
 label: Fleet Telematics and Route Planning  
 category: Technical  
-sector: Transportation_Logistics  
+sector: transportation_logistics
 horizon: core
 cluster_tags:  
   - "Telematics"  

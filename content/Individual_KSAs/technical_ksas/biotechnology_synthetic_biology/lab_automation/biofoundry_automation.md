@@ -2,7 +2,7 @@
 ksa_id: biofoundry_automation
 label: Biofoundry Automation & High‑Throughput Workflows
 category: Technical
-sector: Biotechnology_SynBio
+sector: biotechnology_synbio
 horizon: emerging
 cluster_tags:
   - "Lab Automation"

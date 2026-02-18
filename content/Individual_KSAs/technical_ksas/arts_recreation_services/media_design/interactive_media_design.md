@@ -2,7 +2,7 @@
 ksa_id: interactive_media_design
 label: Interactive Media Design
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: emerging
 cluster_tags:
   - "Media"

@@ -2,7 +2,7 @@
 ksa_id: digital_fabrication_basics
 label: Digital Fabrication Basics
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: core
 cluster_tags:
   - "Digital Fabrication"

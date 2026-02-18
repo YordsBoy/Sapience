@@ -2,7 +2,7 @@
 ksa_id: public_sector_project_management
 label: Public-Sector Project Management
 category: Technical
-sector: Government_Public_Admin
+sector: government_public_admin
 horizon: core
 cluster_tags:
   - "Project Management"

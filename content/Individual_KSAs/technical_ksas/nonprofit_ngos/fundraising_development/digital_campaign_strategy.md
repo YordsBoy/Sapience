@@ -2,7 +2,7 @@
 ksa_id: digital_campaign_strategy
 label: Digital Campaign Strategy
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: core
 cluster_tags:
   - "Digital Campaign"

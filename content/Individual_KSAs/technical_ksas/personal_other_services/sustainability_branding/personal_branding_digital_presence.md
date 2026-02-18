@@ -2,7 +2,7 @@
 ksa_id: personal_branding_digital_presence
 label: Personal Branding & Digital Presence
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: emerging
 cluster_tags:
   - "Personal Branding"

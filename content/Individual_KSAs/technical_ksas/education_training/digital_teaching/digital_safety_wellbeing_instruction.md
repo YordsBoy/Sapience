@@ -2,7 +2,7 @@
 ksa_id: digital_safety_wellbeing_instruction
 label: Digital Safety & Well-Being Instruction
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: emerging
 cluster_tags:
   - "Digital Citizenship"

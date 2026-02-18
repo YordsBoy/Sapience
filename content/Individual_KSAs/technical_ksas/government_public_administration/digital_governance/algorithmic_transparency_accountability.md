@@ -2,7 +2,7 @@
 ksa_id: algorithmic_transparency_accountability
 label: Algorithmic Transparency & Accountability
 category: Technical
-sector: Government_Public_Admin
+sector: government_public_admin
 horizon: emerging
 cluster_tags:
   - "AI Governance"

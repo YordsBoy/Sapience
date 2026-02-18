@@ -2,7 +2,7 @@
 ksa_id: green_cloud_optimisation
 label: Green-Cloud Optimisation
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "Green Cloud"

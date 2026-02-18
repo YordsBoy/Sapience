@@ -2,7 +2,7 @@
 ksa_id: impact_reporting_communications
 label: Impact Reporting & Communications
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: core
 cluster_tags:
   - "Impact Reporting"

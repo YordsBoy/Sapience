@@ -2,7 +2,7 @@
 ksa_id: service_recovery_conflict  
 label: Service Recovery and Conflict Resolution  
 category: Technical  
-sector: Customer_Experience_Service  
+sector: customer_experience_service
 horizon: perennial
 cluster_tags:
   - "Recovery"

@@ -2,7 +2,7 @@
 ksa_id: synthetic_biology_techniques  
 label: Synthetic Biology Core Techniques
 category: Technical
-sector: Biotechnology_SynBio
+sector: biotechnology_synbio
 horizon: core
 cluster_tags:
   - "Lab Techniques"

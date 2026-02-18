@@ -2,7 +2,7 @@
 ksa_id: mine_automation
 label: Mine Automation
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: emerging
 cluster_tags:
   - "Automation"

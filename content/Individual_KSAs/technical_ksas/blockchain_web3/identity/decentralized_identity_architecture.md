@@ -2,7 +2,7 @@
 ksa_id: decentralized_identity_architecture
 label: Decentralized-Identity Architecture
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "DID"

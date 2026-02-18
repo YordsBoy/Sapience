@@ -2,7 +2,7 @@
 ksa_id: digital_fundraising_crm_management
 label: Digital Fundraising & CRM Management
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: emerging
 cluster_tags:
   - "Fundraising"

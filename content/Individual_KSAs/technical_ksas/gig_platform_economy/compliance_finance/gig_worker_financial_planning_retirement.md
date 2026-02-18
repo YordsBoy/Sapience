@@ -2,7 +2,7 @@
 ksa_id: gig_worker_financial_planning_retirement
 label: Gig-Worker Financial Planning & Retirement
 category: Technical
-sector: Gig_Platform_Economy
+sector: gig_platform_economy
 horizon: core
 cluster_tags:
   - "Finance"

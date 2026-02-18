@@ -2,7 +2,7 @@
 ksa_id: transmission_distribution_operations
 label: Transmission & Distribution Grid Operations
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Grid Operations"

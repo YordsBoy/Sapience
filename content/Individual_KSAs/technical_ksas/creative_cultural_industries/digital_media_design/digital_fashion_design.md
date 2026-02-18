@@ -2,7 +2,7 @@
 ksa_id: digital_fashion_design
 label: Digital Fashion Design
 category: Technical
-sector: Creative_Cultural_Industries
+sector: creative_cultural_industries
 horizon: emerging
 cluster_tags: 
   - "Fashion Tech"

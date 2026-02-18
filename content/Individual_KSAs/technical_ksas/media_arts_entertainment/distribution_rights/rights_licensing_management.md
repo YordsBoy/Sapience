@@ -2,7 +2,7 @@
 ksa_id: rights_licensing_management
 label: Rights & Licensing Management
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: core
 cluster_tags:
   - "Licensing"

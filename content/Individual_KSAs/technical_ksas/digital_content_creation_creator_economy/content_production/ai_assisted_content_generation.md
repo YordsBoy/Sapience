@@ -2,7 +2,7 @@
 ksa_id: ai_assisted_content_generation
 label: AI-Assisted Content Generation & Prompting
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: emerging
 cluster_tags:
   - "Generative AI"

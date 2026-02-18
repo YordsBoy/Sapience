@@ -2,7 +2,7 @@
 ksa_id: virtual_event_management
 label: Virtual Event Management
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: emerging
 cluster_tags:
   - "Events"

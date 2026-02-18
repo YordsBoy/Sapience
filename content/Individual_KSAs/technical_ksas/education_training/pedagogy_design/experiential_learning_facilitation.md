@@ -2,7 +2,7 @@
 ksa_id: experiential_learning_facilitation
 label: Experiential Learning Facilitation
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: core
 cluster_tags:
   - "Experiential"

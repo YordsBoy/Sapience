@@ -2,7 +2,7 @@
 ksa_id: intellectual_property_strategy
 label: Intellectual Property (IP) Strategy
 category: Technical
-sector: Professional_Scientific_Services
+sector: professional_scientific_services
 horizon: core
 cluster_tags:
   - "IP Strategy"

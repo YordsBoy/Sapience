@@ -2,7 +2,7 @@
 ksa_id: personal_care_licensing_infection_control
 label: Personal‑Care Licensing & Infection Control
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "Licensing"

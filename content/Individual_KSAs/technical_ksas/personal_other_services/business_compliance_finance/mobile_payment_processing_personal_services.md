@@ -2,7 +2,7 @@
 ksa_id: mobile_payment_processing_personal_services
 label: Mobile Payment Processing (Personal Services)
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: emerging
 cluster_tags:
   - "Mobile Payment"

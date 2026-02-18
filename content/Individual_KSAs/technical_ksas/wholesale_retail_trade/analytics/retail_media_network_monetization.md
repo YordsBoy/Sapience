@@ -2,7 +2,7 @@
 ksa_id: retail_media_network_monetization
 label: Retail Media Network Monetization
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: emerging
 cluster_tags:
   - "Retail Media"

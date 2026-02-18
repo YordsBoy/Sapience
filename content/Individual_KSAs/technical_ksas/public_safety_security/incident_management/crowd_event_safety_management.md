@@ -2,7 +2,7 @@
 ksa_id: crowd_event_safety_management
 label: Crowd & Event Safety Management
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: core
 cluster_tags:
   - "Crowd Safety"

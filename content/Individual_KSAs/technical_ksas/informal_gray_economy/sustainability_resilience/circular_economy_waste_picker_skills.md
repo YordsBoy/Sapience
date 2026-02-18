@@ -2,7 +2,7 @@
 ksa_id: circular_economy_waste_picker_skills
 label: Circular-Economy Waste-Picker Skills
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Circular Economy"

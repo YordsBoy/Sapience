@@ -2,7 +2,7 @@
 ksa_id: pipefitting_techniques
 label: Pipefitting Techniques
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Piping"

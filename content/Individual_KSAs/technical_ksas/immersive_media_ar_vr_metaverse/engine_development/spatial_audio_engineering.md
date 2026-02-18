@@ -2,7 +2,7 @@
 ksa_id: spatial_audio_engineering
 label: Spatial Audio Engineering
 category: Technical
-sector: Immersive_Media_ARVR
+sector: immersive_media_arvr
 horizon: core
 cluster_tags:
   - "Spatial Audio"

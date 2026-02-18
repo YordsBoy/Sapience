@@ -2,7 +2,7 @@
 ksa_id: behavioural_threat_assessment_public_venues
 label: Behavioural-Threat Assessment (Public Venues)
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: emerging
 cluster_tags:
   - "Threat Assessment"

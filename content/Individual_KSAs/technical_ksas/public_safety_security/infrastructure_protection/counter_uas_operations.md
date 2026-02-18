@@ -2,7 +2,7 @@
 ksa_id: counter_uas_operations
 label: Counter‑UAS Operations & Policy
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: emerging
 cluster_tags:
   - "CUAS"

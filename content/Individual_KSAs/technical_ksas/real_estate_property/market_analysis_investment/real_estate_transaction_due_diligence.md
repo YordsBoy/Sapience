@@ -2,7 +2,7 @@
 ksa_id: real_estate_transaction_due_diligence
 label: Real-Estate Transaction Due-Diligence
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: core
 cluster_tags:
   - "Due Diligence"

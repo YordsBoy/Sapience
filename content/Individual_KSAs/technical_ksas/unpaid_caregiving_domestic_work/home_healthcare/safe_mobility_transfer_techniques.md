@@ -2,7 +2,7 @@
 ksa_id: safe_mobility_transfer_techniques
 label: Safe Mobility & Transfer Techniques
 category: Technical
-sector: Unpaid_Caregiving
+sector: unpaid_caregiving_domestic_work
 horizon: core
 cluster_tags:
   - "Mobility"

@@ -2,7 +2,7 @@
 ksa_id: esports_team_operations_coaching
 label: eSports Team Operations & Coaching
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: emerging
 cluster_tags:
   - "Esports"

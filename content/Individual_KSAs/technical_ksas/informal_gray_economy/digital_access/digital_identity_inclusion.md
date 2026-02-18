@@ -2,7 +2,7 @@
 ksa_id: digital_identity_inclusion
 label: Digital Identity Inclusion for Informal Workers
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Digital ID"

@@ -2,7 +2,7 @@
 ksa_id: upselling_personal_services
 label: Upselling Techniques (Personal Services)
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "Upselling"

@@ -2,7 +2,7 @@
 ksa_id: renewable_plant_operations
 label: Wind & Solar Plant Operations
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Power Generation"

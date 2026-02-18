@@ -2,7 +2,7 @@
 ksa_id: financial_risk_management  
 label: Financial Risk Management  
 category: Technical  
-sector: Finance_Insurance  
+sector: finance_insurance
 horizon: perennial  
 cluster_tags: ["Finance", "Risk Analysis", "Compliance"]  
 description: Identifies, assesses, and mitigates financial risks (market, credit, operational, etc.) to protect assets, ensure stability, and maintain compliance with financial regulations.  

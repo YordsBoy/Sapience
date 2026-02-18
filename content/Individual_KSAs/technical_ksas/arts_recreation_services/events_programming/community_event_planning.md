@@ -2,7 +2,7 @@
 ksa_id: community_event_planning
 label: Community Event Planning
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: core
 cluster_tags:
   - "Events"

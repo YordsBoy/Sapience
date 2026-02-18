@@ -2,7 +2,7 @@
 ksa_id: cbdc_interoperability_frameworks
 label: CBDC Interoperability Frameworks
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "CBDC"

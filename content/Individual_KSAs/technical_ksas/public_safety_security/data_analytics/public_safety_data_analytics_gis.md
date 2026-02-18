@@ -2,7 +2,7 @@
 ksa_id: public_safety_data_analytics_gis
 label: Public Safety Data Analytics & GIS
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: emerging
 cluster_tags:
   - "Data Analytics"

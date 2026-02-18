@@ -2,7 +2,7 @@
 ksa_id: language_inclusive_pedagogy
 label: Language-Inclusive Pedagogy
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: core
 cluster_tags:
   - "Multilingual"

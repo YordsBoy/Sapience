@@ -2,7 +2,7 @@
 ksa_id: algorithmic_management_literacy
 label: Algorithmic-Management Literacy
 category: Technical
-sector: Gig_Platform_Economy
+sector: gig_platform_economy
 horizon: emerging
 cluster_tags:
   - "Algorithmic Management"

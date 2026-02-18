@@ -2,7 +2,7 @@
 ksa_id: ai_ops_autonomous_remediation
 label: AIOps – Predictive Scaling & Autonomous Remediation
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "AIOps"

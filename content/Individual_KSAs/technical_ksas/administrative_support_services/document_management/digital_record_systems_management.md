@@ -2,7 +2,7 @@
 ksa_id: digital_record_systems_management
 label: Digital Record Systems Management
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Records Management"

@@ -2,7 +2,7 @@
 ksa_id: lean_manufacturing_methods
 label: Lean Manufacturing Methods
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Lean"

@@ -2,7 +2,7 @@
 ksa_id: procurement_supplies_management
 label: Procurement Administration Processes
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Procurement"

@@ -2,7 +2,7 @@
 ksa_id: digital_insurance_product_management  
 label: Digital Insurance Product Management  
 category: Technical  
-sector: Finance_Insurance  
+sector: finance_insurance
 horizon: core  
 cluster_tags: 
     - "InsurTech"

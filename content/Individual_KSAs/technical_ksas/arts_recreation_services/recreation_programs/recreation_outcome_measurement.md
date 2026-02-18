@@ -2,7 +2,7 @@
 ksa_id: recreation_outcome_measurement
 label: Recreation Outcome Measurement
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: core
 cluster_tags:
   - "Recreation"

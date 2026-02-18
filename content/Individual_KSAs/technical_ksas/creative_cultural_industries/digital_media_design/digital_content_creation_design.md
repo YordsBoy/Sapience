@@ -2,7 +2,7 @@
 ksa_id: digital_content_creation_design  
 label: Digital Content Creation and Design  
 category: Technical  
-sector: Creative_Cultural_Industries  
+sector: creative_cultural_industries
 horizon: perennial  
 cluster_tags: ["Digital Media", "Design", "Creativity"]  
 description: Creates engaging user-centered digital content across various media (graphics, video, text), combining creative design principles with technology (Adobe Creative Cloud, generative artificial intelligence (AI), and Web Content Accessibility Guidelines (WCAG) 2.2) to reach and resonate with audiences.  

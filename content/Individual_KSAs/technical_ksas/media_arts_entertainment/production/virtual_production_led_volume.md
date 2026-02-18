@@ -2,7 +2,7 @@
 ksa_id: virtual_production_led_volume
 label: Virtual Production & LED Volume Workflow
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: emerging
 cluster_tags:
   - "Virtual Production"

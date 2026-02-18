@@ -2,7 +2,7 @@
 ksa_id: serverless_architecture
 label: Serverless Architecture
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "Serverless"

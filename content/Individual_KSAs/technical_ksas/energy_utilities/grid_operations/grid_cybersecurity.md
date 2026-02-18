@@ -2,7 +2,7 @@
 ksa_id: energy_cybersecurity_resilience  
 label: Energy Infrastructure Cybersecurity  
 category: Technical  
-sector: Energy_Utilities  
+sector: energy_utilities
 horizon: emerging
 cluster_tags:
   - "Cybersecurity"

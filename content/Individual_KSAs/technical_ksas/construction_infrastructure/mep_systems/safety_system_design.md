@@ -2,7 +2,7 @@
 ksa_id: safety_system_design
 label: Fire & Life-Safety System Design
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Life Safety"

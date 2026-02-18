@@ -2,7 +2,7 @@
 ksa_id: school_safety_threat_assessment
 label: School Safety Planning & Threat Assessment
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: core
 cluster_tags:
   - "School Safety"

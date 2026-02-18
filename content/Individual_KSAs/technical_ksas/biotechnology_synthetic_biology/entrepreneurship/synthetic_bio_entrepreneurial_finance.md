@@ -2,7 +2,7 @@
 ksa_id: synthetic_bio_entrepreneurial_finance
 label: Synthetic-Bio Entrepreneurship & Finance
 category: Technical
-sector: Biotechnology_SynBio
+sector: biotechnology_synbio
 horizon: emerging
 cluster_tags:
   - "Entrepreneurship"

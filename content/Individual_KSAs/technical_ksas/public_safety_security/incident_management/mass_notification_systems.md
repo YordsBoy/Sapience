@@ -2,7 +2,7 @@
 ksa_id: mass_notification_systems
 label: Mass-Notification Systems & Alerts
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: emerging
 cluster_tags:
   - "Emergency Alerts"

@@ -2,7 +2,7 @@
 ksa_id: wellness_tourism_experience_design
 label: Wellness-Tourism Experience Design
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: emerging
 cluster_tags:
   - "Wellness"

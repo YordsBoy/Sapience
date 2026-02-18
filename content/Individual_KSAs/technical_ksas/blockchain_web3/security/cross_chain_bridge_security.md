@@ -2,7 +2,7 @@
 ksa_id: cross_chain_bridge_security
 label: Cross-Chain Bridge Security
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "Bridge"

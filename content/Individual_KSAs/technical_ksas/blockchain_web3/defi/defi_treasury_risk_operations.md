@@ -2,7 +2,7 @@
 ksa_id: defi_treasury_risk_operations
 label: DeFi Treasury & Risk Operations
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "DeFi"

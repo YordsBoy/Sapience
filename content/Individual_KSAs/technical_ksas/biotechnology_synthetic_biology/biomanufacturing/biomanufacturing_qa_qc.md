@@ -2,7 +2,7 @@
 ksa_id: biomanufacturing_qa_qc
 label: Biomanufacturing Quality Assurance & Control
 category: Technical
-sector: Biotechnology_SynBio
+sector: biotechnology_synbio
 horizon: core
 cluster_tags:
   - "Quality Assurance"

@@ -2,7 +2,7 @@
 ksa_id: utility_regulatory_compliance
 label: Utility Regulatory Compliance
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Regulatory"

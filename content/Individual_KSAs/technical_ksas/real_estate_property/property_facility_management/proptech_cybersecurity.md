@@ -2,7 +2,7 @@
 ksa_id: proptech_cybersecurity
 label: PropTech Cyber-Security
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: emerging
 cluster_tags:
   - "Cyber Security"

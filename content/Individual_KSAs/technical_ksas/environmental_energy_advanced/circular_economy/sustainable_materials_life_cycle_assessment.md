@@ -2,7 +2,7 @@
 ksa_id: sustainable_materials_life_cycle_assessment
 label: Sustainable Materials & Life‑Cycle Assessment (LCA)
 category: Technical
-sector: Env_Energy_Advanced
+sector: env_energy_advanced
 horizon: core
 cluster_tags:
   - "Sustainable Materials"

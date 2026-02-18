@@ -2,7 +2,7 @@
 ksa_id: tool_equipment_maintenance
 label: Tool & Equipment Maintenance
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "Maintenance"

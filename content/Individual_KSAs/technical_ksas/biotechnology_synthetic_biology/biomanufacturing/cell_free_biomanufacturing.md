@@ -2,7 +2,7 @@
 ksa_id: cell_free_biomanufacturing
 label: Cell-Free Biomanufacturing
 category: Technical
-sector: Biotechnology_SynBio
+sector: biotechnology_synbio
 horizon: emerging
 cluster_tags:
   - "Cell-Free Systems"

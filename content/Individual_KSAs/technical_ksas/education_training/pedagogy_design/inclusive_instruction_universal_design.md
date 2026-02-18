@@ -2,7 +2,7 @@
 ksa_id: inclusive_instruction_universal_design
 label: Inclusive Instruction & Universal Design
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: core
 cluster_tags:
   - "Inclusion"

@@ -2,7 +2,7 @@
 ksa_id: hydrogen_production_operations
 label: Low-Carbon Hydrogen Production Operations
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: emerging
 cluster_tags:
   - "Hydrogen"

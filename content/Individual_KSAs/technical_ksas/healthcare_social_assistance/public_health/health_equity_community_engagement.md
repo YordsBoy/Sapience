@@ -2,7 +2,7 @@
 ksa_id: health_equity_community_engagement
 label: Health Equity & Community Engagement
 category: Technical
-sector: Healthcare_Social_Assistance
+sector: healthcare_social_assistance
 horizon: core
 cluster_tags:
   - "Health Equity"

@@ -2,7 +2,7 @@
 ksa_id: cross_cultural_collaboration_practices
 label: Cross-Cultural Collaboration Practices
 category: Technical
-sector: Creative_Cultural_Industries
+sector: creative_cultural_industries
 horizon: core
 cluster_tags:
   - "Collaboration"

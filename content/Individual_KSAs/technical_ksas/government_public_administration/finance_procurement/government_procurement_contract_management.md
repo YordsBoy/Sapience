@@ -2,7 +2,7 @@
 ksa_id: government_procurement_contract_management
 label: Government Procurement & Contract Management
 category: Technical
-sector: Government_Public_Admin
+sector: government_public_admin
 horizon: core
 cluster_tags:
   - "Procurement"

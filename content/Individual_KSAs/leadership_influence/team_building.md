@@ -17,7 +17,7 @@ proficiency_levels:
   - level: Basic  
     indicator: Organizes team meetings and encourages participation; addresses minor conflicts with supervision.
   - level: Intermediate  
-    indicator: Builds cohesive project teams, defining roles and goals; boosts team morale through recognition and inclusive decision-making:contentReference.
+    indicator: Builds cohesive project teams, defining roles and goals; boosts team morale through recognition and inclusive decision-making.
   - level: Advanced  
     indicator: Leads high-performing teams on complex initiatives; coaches others in collaborative problem-solving and conflict resolution.
   - level: Expert  

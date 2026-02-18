@@ -2,7 +2,7 @@
 ksa_id: circular_economy_design_engineering
 label: Circular Economy Design Engineering
 category: Technical
-sector: Env_Energy_Advanced
+sector: env_energy_advanced
 horizon: emerging
 cluster_tags:
   - "Circular Economy"

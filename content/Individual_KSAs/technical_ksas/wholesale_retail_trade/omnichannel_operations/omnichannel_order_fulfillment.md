@@ -2,7 +2,7 @@
 ksa_id: omnichannel_order_fulfillment
 label: Omnichannel Order Fulfillment & OMS Orchestration
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Omnichannel"

@@ -2,7 +2,7 @@
 ksa_id: multi_platform_income_strategy
 label: Multi-Platform Income Strategy
 category: Technical
-sector: Gig_Platform_Economy
+sector: gig_platform_economy
 horizon: core
 cluster_tags:
   - "Diversification"
@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Maximises income and reduces downtime by orchestrating work across multiple gig apps, balancing acceptance criteria, location geometry, and cross-app rule conflicts.
 source_frameworks:
-  - "Platform Papers – Diversification Study 2024"      # :contentReference[oaicite:14]{index=14}
+  - "Platform Papers – Diversification Study 2024"
 proficiency_levels:
   - level: Awareness
     indicator: Lists pros/cons of app stacking vs single-platform focus.

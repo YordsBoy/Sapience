@@ -2,7 +2,7 @@
 ksa_id: machine_learning_model_development
 label: Machine Learning Model Development
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: core
 cluster_tags:
   - "Machine Learning"

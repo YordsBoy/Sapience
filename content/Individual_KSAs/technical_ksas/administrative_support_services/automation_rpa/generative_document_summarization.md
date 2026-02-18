@@ -2,7 +2,7 @@
 ksa_id: generative_document_summarization
 label: Generative Document Summarization Assistants
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: emerging
 cluster_tags:
   - "Generative AI"

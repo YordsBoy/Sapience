@@ -2,7 +2,7 @@
 ksa_id: financial_inclusion_product_design
 label: Financial Inclusion Product Design
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: emerging
 cluster_tags: ["Financial Inclusion","Product Development","Inclusive Finance"]
 description: Designing affordable, accessible financial products—micro‑savings, micro‑insurance, digital wallets—for underserved populations, incorporating human‑centred design, behavioural insights, and regulatory safeguards.

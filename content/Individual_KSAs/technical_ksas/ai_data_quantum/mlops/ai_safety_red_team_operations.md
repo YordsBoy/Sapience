@@ -2,7 +2,7 @@
 ksa_id: ai_safety_red_team_operations
 label: AI Safety & Red-Team Operations
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: emerging
 cluster_tags:
   - "AI Safety"

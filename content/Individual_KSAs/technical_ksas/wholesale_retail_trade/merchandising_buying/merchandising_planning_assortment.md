@@ -2,7 +2,7 @@
 ksa_id: merchandising_planning_assortment
 label: Merchandising Planning & Assortment
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Merchandising"

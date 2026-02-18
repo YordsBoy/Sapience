@@ -2,7 +2,7 @@
 ksa_id: digital_twin_asset_management
 label: Digital-Twin Asset Management
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: emerging
 cluster_tags:
   - "Digital Twin"

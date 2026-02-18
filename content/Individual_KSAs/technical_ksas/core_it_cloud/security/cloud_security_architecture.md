@@ -2,7 +2,7 @@
 ksa_id: cloud_security_architecture
 label: Cloud Security Architecture
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "Cloud Security"

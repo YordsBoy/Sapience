@@ -2,7 +2,7 @@
 ksa_id: well_integrity_lifecycle_assurance
 label: Well-Integrity Lifecycle Assurance
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags:
   - "Integrity"

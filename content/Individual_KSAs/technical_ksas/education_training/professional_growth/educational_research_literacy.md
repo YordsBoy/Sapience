@@ -2,7 +2,7 @@
 ksa_id: educational_research_literacy
 label: Educational Research Literacy
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: core
 cluster_tags:
   - "Research"

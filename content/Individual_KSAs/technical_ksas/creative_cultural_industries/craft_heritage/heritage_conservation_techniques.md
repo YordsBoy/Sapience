@@ -2,7 +2,7 @@
 ksa_id: heritage_conservation_techniques
 label: Heritage Conservation Techniques
 category: Technical
-sector: Creative_Cultural_Industries
+sector: creative_cultural_industries
 horizon: core
 cluster_tags: 
   - "Conservation"

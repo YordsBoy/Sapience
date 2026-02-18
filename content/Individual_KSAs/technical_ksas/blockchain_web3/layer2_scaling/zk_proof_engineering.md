@@ -2,7 +2,7 @@
 ksa_id: zk_proof_engineering
 label: Zero-Knowledge Proof Engineering
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "ZKP"

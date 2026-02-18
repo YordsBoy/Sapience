@@ -2,7 +2,7 @@
 ksa_id: cloud_observability_monitoring
 label: Cloud Observability & Monitoring
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: core
 cluster_tags:
   - "Observability"

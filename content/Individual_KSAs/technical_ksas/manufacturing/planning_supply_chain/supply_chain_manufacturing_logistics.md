@@ -2,7 +2,7 @@
 ksa_id: supply_chain_manufacturing_logistics
 label: Supply Chain & Manufacturing Logistics
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Supply Chain"

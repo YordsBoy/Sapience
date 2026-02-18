@@ -2,7 +2,7 @@
 ksa_id: hospitality_marketing_digital_distribution
 label: Hospitality Marketing & Digital Distribution
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: core
 cluster_tags:
   - "Marketing"

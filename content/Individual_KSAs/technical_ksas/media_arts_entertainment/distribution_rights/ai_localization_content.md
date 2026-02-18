@@ -2,7 +2,7 @@
 ksa_id: ai_localization_content
 label: AI-Assisted Content Localisation
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: emerging
 cluster_tags:
   - "Localisation"

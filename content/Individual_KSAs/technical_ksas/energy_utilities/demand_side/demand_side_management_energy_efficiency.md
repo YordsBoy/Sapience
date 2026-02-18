@@ -2,7 +2,7 @@
 ksa_id: demand_side_management_energy_efficiency
 label: Demand-Side Management & Energy Efficiency
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "DSM"

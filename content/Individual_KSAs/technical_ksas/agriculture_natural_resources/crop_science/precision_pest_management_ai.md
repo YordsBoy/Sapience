@@ -2,7 +2,7 @@
 ksa_id: precision_pest_management_ai
 label: Precision Pest-Management with Drone & AI Vision
 category: Technical
-sector: Agriculture_Natural_Resources
+sector: agriculture_natural_resources
 horizon: emerging
 cluster_tags:
   - "Drone Scouting"

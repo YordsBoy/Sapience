@@ -2,7 +2,7 @@
 ksa_id: caregiver_wellbeing_management  
 label: Caregiver Well-Being & Support Utilization  
 category: Technical  
-sector: Unpaid_Caregiving  
+sector: unpaid_caregiving_domestic_work
 horizon: core  
 cluster_tags:
   - "Caregiver Health"

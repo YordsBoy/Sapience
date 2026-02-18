@@ -2,7 +2,7 @@
 ksa_id: microcredential_design_assessment
 label: Micro-credential Design & Assessment
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: emerging
 cluster_tags:
   - "Micro-credential"

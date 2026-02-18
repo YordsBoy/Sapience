@@ -2,7 +2,7 @@
 ksa_id: smart_contract_development  
 label: Smart Contract Development  
 category: Technical  
-sector: Blockchain_Web3  
+sector: blockchain_web3
 horizon: core
 cluster_tags:
   - "Solidity"

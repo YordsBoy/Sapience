@@ -2,7 +2,7 @@
 ksa_id: platform_rights_advocacy_microtask
 label: Platform Rights & Advocacy (Micro-Task)
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Platform Work"

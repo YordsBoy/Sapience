@@ -2,7 +2,7 @@
 ksa_id: facilities_maintenance_esg_retrofits
 label: Facilities Maintenance & ESG Retrofits
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: emerging
 cluster_tags:
   - "Maintenance"

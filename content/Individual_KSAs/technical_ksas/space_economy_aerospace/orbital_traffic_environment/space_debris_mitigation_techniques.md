@@ -2,7 +2,7 @@
 ksa_id: space_debris_mitigation_techniques
 label: Space Debris‑Mitigation Techniques
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: core
 cluster_tags:
   - "Orbital Debris"

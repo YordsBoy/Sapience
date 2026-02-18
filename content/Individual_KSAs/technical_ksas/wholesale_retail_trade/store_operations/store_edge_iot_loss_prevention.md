@@ -2,7 +2,7 @@
 ksa_id: store_edge_iot_loss_prevention
 label: Store Edge IoT & Computer-Vision Loss Prevention
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: emerging
 cluster_tags:
   - "Edge IoT"

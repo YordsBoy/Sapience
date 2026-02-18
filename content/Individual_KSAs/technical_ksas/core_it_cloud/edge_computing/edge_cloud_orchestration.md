@@ -2,7 +2,7 @@
 ksa_id: edge_cloud_orchestration
 label: Edge‑Cloud Orchestration
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "Edge Computing"

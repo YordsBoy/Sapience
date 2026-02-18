@@ -2,7 +2,7 @@
 ksa_id: cyber_incident_management  
 label: Cyber Incident Management for Public Safety  
 category: Technical  
-sector: Public_Safety_Security  
+sector: public_safety_security
 horizon: emerging  
 cluster_tags: 
     - "Cybersecurity"

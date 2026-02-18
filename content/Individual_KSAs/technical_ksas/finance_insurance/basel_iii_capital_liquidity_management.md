@@ -2,7 +2,7 @@
 ksa_id: basel_iii_capital_liquidity_management
 label: Basel III Capital & Liquidity Management
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: core
 cluster_tags: ["Basel III","Capital Adequacy","Liquidity Risk"]
 description: Calculating and optimising risk‑weighted assets (RWA), capital buffers, and liquidity ratios under the Basel III regulatory framework to ensure banking‑sector resilience.

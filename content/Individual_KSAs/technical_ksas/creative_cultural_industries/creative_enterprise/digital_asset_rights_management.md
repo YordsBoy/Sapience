@@ -2,7 +2,7 @@
 ksa_id: digital_asset_rights_management
 label: Digital Asset Rights Management
 category: Technical
-sector: Creative_Cultural_Industries
+sector: creative_cultural_industries
 horizon: emerging
 cluster_tags:
   - "IP"

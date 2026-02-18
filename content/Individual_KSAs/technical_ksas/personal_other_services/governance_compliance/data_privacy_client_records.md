@@ -2,7 +2,7 @@
 ksa_id: data_privacy_client_records
 label: Data Privacy for Client Records
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: emerging
 cluster_tags:
   - "Data Privacy"
@@ -11,7 +11,7 @@ description: >
   Protects client personal and health data under GDPR, HIPAA (where aesthetic
   services collect medical info), and implements ISO 27001 controls.
 source_frameworks:
-  - "GDPR Compliance Guide"                   # :contentReference[oaicite:23]{index=23}
+  - "GDPR Compliance Guide"
   - "ISO/IEC 27001 Information Security"
 proficiency_levels:
   - level: Awareness

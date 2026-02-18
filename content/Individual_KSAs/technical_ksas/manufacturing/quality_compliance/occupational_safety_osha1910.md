@@ -2,7 +2,7 @@
 ksa_id: occupational_safety_osha1910
 label: Occupational Safety & Health – OSHA 29 CFR 1910
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Safety"

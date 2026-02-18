@@ -2,7 +2,7 @@
 ksa_id: farm_safety_regulatory_compliance
 label: Farm Safety & Regulatory Compliance
 category: Technical
-sector: Agriculture_Natural_Resources
+sector: agriculture_natural_resources
 horizon: core
 cluster_tags:
   - "Safety"

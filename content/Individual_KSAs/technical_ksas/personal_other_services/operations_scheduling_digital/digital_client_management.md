@@ -2,7 +2,7 @@
 ksa_id: digital_client_management  
 label: Digital Client Scheduling & Management  
 category: Technical  
-sector: Personal_Other_Services  
+sector: personal_other_services
 horizon: core  
 cluster_tags:
   - "CRM"

@@ -2,7 +2,7 @@
 ksa_id: spacecraft_systems_engineering_fundamentals
 label: Spacecraft Systems Engineering Fundamentals
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: core
 cluster_tags:
   - "Systems Engineering"

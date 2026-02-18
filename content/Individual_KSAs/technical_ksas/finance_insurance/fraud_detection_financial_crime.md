@@ -2,7 +2,7 @@
 ksa_id: fraud_detection_financial_crime
 label: Fraud Detection & Financial Crime Mitigation
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: core
 cluster_tags: ["AML", "KYC", "Insurance-Fraud"]
 description: Detects, investigates, and prevents fraudulent activities and financial crimes, ensuring compliance with anti-money-laundering (AML) and know-your-customer (KYC) regulations.

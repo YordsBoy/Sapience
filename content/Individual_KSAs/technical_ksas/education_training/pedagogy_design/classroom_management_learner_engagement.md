@@ -2,7 +2,7 @@
 ksa_id: classroom_management_learner_engagement
 label: Classroom Management & Learner Engagement
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: perennial
 cluster_tags:
   - "Classroom"

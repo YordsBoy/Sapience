@@ -2,7 +2,7 @@
 ksa_id: system_admin
 label: Operating System & System Administration
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: core
 cluster_tags:
   - "SysAdmin"

@@ -2,7 +2,7 @@
 ksa_id: cloud_infrastructure_architecture  
 label: Cloud Infrastructure Architecture  
 category: Technical  
-sector: Core_IT_Cloud  
+sector: core_it_cloud
 horizon: core  
 cluster_tags:
   - "Cloud Architecture"

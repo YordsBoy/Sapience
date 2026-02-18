@@ -2,7 +2,7 @@
 ksa_id: omnichannel_service_management  
 label: Omnichannel Service Management  
 category: Technical  
-sector: Customer_Experience_Service  
+sector: customer_experience_service
 horizon: core 
 cluster_tags: 
     - "Service Design"

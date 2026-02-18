@@ -2,7 +2,7 @@
 ksa_id: hospitality_esg_reporting
 label: Hospitality ESG Reporting & Compliance
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: emerging
 cluster_tags:
   - "ESG"

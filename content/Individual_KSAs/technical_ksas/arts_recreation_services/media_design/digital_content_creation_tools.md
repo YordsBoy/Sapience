@@ -2,7 +2,7 @@
 ksa_id: digital_content_creation_tools
 label: Digital Content-Creation Tools
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: core
 cluster_tags:
   - "Media"

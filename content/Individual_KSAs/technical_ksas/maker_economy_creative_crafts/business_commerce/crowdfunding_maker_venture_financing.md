@@ -2,7 +2,7 @@
 ksa_id: crowdfunding_maker_venture_financing
 label: Crowdfunding & Maker-Venture Financing
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: emerging
 cluster_tags:
   - "Crowdfunding"

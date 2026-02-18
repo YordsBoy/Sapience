@@ -2,7 +2,7 @@
 ksa_id: greenhouse_gas_reporting_compliance
 label: Greenhouse-Gas Reporting & Compliance
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Environment"

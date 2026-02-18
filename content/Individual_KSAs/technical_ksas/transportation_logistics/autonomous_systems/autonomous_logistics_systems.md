@@ -2,7 +2,7 @@
 ksa_id: autonomous_logistics_systems  
 label: Autonomous Logistics Systems  
 category: Technical  
-sector: Transportation_Logistics  
+sector: transportation_logistics
 horizon: emerging  
 cluster_tags:
   - "Autonomous"

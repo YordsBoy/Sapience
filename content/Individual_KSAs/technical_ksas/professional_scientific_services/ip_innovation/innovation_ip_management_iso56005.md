@@ -2,7 +2,7 @@
 ksa_id: innovation_ip_management_iso56005
 label: Innovation & IP Management (ISO 56005)
 category: Technical
-sector: Professional_Scientific_Services
+sector: professional_scientific_services
 horizon: emerging
 cluster_tags:
   - "Innovation Management"

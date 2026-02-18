@@ -2,7 +2,7 @@
 ksa_id: autonomous_vehicle_fleet_operations_safety
 label: Autonomous‑Vehicle Fleet Operations & Safety
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: emerging
 cluster_tags:
   - "Autonomous Fleet"

@@ -2,7 +2,7 @@
 ksa_id: project_scheduling_control
 label: Project Scheduling & Control (CPM / PMBOK Extension)
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Project Controls"

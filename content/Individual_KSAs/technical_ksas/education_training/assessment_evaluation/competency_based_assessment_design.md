@@ -2,7 +2,7 @@
 ksa_id: competency_based_assessment_design
 label: Competency‑Based Assessment Design
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: core
 cluster_tags: ["Assessment","Competency‑Based Learning","Rubrics"]
 description: Designing valid and reliable assessments—performance tasks, portfolios, rubrics—that measure mastery of defined competencies rather than seat‑time or rote knowledge.

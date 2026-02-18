@@ -2,7 +2,7 @@
 ksa_id: xr_hardware_prototyping
 label: XR Hardware Integration & Prototyping
 category: Technical
-sector: Immersive_Media_ARVR
+sector: immersive_media_arvr
 horizon: emerging
 cluster_tags:
   - "Hardware"

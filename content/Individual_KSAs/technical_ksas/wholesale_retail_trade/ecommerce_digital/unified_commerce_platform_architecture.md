@@ -2,7 +2,7 @@
 ksa_id: unified_commerce_platform_architecture
 label: Unified Commerce Platform Architecture
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: emerging
 cluster_tags:
   - "Unified Commerce"

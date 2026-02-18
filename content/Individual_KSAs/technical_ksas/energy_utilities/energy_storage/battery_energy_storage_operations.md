@@ -2,7 +2,7 @@
 ksa_id: battery_energy_storage_operations
 label: Battery Energy-Storage Operations
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Energy Storage"

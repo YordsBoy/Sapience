@@ -2,7 +2,7 @@
 ksa_id: property_management_operations_esg
 label: Property Management Operations & ESG
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: core
 cluster_tags:
   - "Property Management"

@@ -2,7 +2,7 @@
 ksa_id: volumetric_capture_pipeline
 label: Volumetric-Capture Pipeline
 category: Technical
-sector: Immersive_Media_ARVR
+sector: immersive_media_arvr
 horizon: emerging
 cluster_tags:
   - "Volumetric Capture"

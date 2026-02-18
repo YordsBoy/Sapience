@@ -2,7 +2,7 @@
 ksa_id: climate_risk_modeling_scenario_analysis
 label: Climate Risk Modelling & Scenario Analysis
 category: Technical
-sector: Env_Energy_Advanced
+sector: env_energy_advanced
 horizon: emerging
 cluster_tags:
   - "Climate Risk"

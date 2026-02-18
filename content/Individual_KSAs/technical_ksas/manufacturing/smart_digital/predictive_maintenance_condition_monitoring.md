@@ -2,7 +2,7 @@
 ksa_id: predictive_maintenance_condition_monitoring
 label: Predictive Maintenance & Condition Monitoring
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Maintenance"

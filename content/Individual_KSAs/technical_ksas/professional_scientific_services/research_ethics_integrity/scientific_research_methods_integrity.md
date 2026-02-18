@@ -2,7 +2,7 @@
 ksa_id: scientific_research_methods_integrity
 label: Scientific Research Methods & Integrity
 category: Technical
-sector: Professional_Scientific_Services
+sector: professional_scientific_services
 horizon: core
 cluster_tags:
   - "Research Methods"

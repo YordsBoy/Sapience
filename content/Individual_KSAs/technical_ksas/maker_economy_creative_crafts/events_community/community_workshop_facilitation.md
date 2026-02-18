@@ -2,7 +2,7 @@
 ksa_id: community_workshop_facilitation
 label: Community Workshop Facilitation
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: core
 cluster_tags:
   - "Workshop"

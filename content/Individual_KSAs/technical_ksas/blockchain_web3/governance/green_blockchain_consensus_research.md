@@ -2,7 +2,7 @@
 ksa_id: green_blockchain_consensus_research
 label: Sustainability & Green Consensus R&D
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "Green Consensus"

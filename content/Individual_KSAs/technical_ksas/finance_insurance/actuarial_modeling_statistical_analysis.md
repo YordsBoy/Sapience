@@ -2,7 +2,7 @@
 ksa_id: actuarial_modeling_statistical_analysis
 label: Actuarial Modeling & Statistical Analysis
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: core
 cluster_tags: ["Pricing", "Reserving", "Predictive-Analytics"]
 description: Builds and validates actuarial models for pricing, reserving, and forecasting; applies advanced statistical and machine-learning techniques to improve loss-ratio performance.

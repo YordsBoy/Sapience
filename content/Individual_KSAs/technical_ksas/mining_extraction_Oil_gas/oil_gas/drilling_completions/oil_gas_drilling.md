@@ -2,7 +2,7 @@
 ksa_id: oil_gas_drilling
 label: Oil & Gas Drilling Operations
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags: 
   - "Oil & Gas"
@@ -11,7 +11,7 @@ description: >
   Operates drilling equipment and manages well operations for oil and natural gas extraction;  
   sets up rotary drills, monitors drilling parameters, and implements techniques to safely reach and produce hydrocarbon reservoirs.
 source_frameworks:
-  - "O*NET Rotary Drill Operators (Oil & Gas) – set up and operate drills to extract underground oil and gas:contentReference[oaicite:21]{index=21}"
+  - "O*NET Rotary Drill Operators (Oil & Gas) – set up and operate drills to extract underground oil and gas"
 proficiency_levels:
   - level: Awareness  
     indicator: Knows basic terminology (rig, well, reservoir) and the purpose of drilling equipment; aware of safety hazards (blowouts, gas leaks).

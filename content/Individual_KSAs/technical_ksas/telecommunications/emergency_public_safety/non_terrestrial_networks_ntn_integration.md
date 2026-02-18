@@ -2,7 +2,7 @@
 ksa_id: non_terrestrial_networks_ntn_integration
 label: Non‑Terrestrial Network (NTN) Integration
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: emerging
 cluster_tags:
   - "NTN"

@@ -2,7 +2,7 @@
 ksa_id: nonprofit_program_pmo_management
 label: Nonprofit Program & PMO Management
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: emerging
 cluster_tags:
   - "PMO"

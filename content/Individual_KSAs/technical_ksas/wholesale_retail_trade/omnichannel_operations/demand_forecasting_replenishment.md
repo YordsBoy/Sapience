@@ -2,7 +2,7 @@
 ksa_id: demand_forecasting_replenishment
 label: Demand Forecasting & Replenishment
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Forecasting"

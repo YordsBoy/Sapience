@@ -2,7 +2,7 @@
 ksa_id: records_knowledge_management
 label: Records & Knowledge Management
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Knowledge Management"

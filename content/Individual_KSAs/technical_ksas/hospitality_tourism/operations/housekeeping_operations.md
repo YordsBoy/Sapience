@@ -2,7 +2,7 @@
 ksa_id: housekeeping_operations
 label: Housekeeping Operations
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: core
 cluster_tags:
   - "Housekeeping"

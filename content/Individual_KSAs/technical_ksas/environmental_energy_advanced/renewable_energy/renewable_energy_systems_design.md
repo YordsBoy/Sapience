@@ -2,7 +2,7 @@
 ksa_id: renewable_energy_systems_design
 label: Renewable Energy Systems Design
 category: Technical
-sector: Env_Energy_Advanced
+sector: env_energy_advanced
 horizon: core
 cluster_tags:
   - "Renewable Energy"

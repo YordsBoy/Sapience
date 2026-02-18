@@ -2,7 +2,7 @@
 ksa_id: edge_mec_content_delivery
 label: Edge MEC & Content Delivery
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: emerging
 cluster_tags:
   - "MEC"

@@ -2,7 +2,7 @@
 ksa_id: climate_resilient_supply_chain_makers
 label: Climate-Resilient Supply-Chain Planning for Makers
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: emerging
 cluster_tags:
   - "Climate Resilience"

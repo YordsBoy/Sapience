@@ -2,7 +2,7 @@
 ksa_id: social_multiplayer_xr
 label: Social & Multiplayer XR Networking
 category: Technical
-sector: Immersive_Media_ARVR
+sector: immersive_media_arvr
 horizon: emerging
 cluster_tags:
   - "Social XR"

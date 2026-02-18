@@ -2,7 +2,7 @@
 ksa_id: craft_fair_event_management
 label: Craft-Fair & Pop-Up Event Management
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: core
 cluster_tags:
   - "Event Management"

@@ -2,7 +2,7 @@
 ksa_id: program_monitoring_evaluation  
 label: Program Monitoring & Evaluation (M&E)  
 category: Technical  
-sector: Nonprofit_NGO  
+sector: nonprofit_ngos
 horizon: core  
 cluster_tags:
   - "Program M&E"

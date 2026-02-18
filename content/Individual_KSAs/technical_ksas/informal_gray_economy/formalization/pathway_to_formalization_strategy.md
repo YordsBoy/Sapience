@@ -2,7 +2,7 @@
 ksa_id: pathway_to_formalization_strategy
 label: Pathway-to-Formalization Strategy
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Strategy"

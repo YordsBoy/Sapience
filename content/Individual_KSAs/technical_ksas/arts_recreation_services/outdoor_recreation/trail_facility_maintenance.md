@@ -2,7 +2,7 @@
 ksa_id: trail_facility_maintenance
 label: Trail & Facility Maintenance
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: core
 cluster_tags:
   - "Outdoor"

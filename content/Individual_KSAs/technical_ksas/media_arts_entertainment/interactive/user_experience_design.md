@@ -2,7 +2,7 @@
 ksa_id: user_experience_design
 label: User-Experience (UX) Design for Media
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: core
 cluster_tags:
   - "UX"

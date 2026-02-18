@@ -2,7 +2,7 @@
 ksa_id: food_beverage_service_management
 label: Food & Beverage Service Management
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: core
 cluster_tags:
   - "Food & Beverage"

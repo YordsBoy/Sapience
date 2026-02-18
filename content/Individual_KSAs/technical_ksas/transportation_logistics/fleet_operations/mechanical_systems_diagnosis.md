@@ -2,7 +2,7 @@
 ksa_id: mechanical_systems_diagnosis
 label: Mechanical Systems Diagnosis
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: core
 cluster_tags:
   - "Diagnostics"

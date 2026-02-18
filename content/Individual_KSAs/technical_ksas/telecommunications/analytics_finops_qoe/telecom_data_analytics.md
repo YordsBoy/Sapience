@@ -2,7 +2,7 @@
 ksa_id: telecom_data_analytics  
 label: Telecom Network Data Analytics  
 category: Technical  
-sector: Telecommunications  
+sector: telecommunications
 horizon: core  
 cluster_tags:
   - "Analytics"

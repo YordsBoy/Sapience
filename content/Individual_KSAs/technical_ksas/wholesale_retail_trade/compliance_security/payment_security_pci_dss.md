@@ -2,7 +2,7 @@
 ksa_id: payment_security_pci_dss
 label: Payment Security – PCI DSS 4.0
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Security"

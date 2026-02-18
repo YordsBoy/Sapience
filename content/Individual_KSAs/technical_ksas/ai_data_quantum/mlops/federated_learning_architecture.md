@@ -2,7 +2,7 @@
 ksa_id: federated_learning_architecture
 label: Federated Learning Architecture
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: emerging
 cluster_tags:
   - "Federated Learning"

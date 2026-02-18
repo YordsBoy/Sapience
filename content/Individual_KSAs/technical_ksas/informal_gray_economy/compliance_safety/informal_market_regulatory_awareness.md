@@ -2,7 +2,7 @@
 ksa_id: informal_market_regulatory_awareness
 label: Informal-Market Regulatory Awareness
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: core
 cluster_tags:
   - "Regulatory"

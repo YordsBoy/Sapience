@@ -2,7 +2,7 @@
 ksa_id: affordable_housing_finance_programs
 label: Affordable-Housing Finance Programs
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: emerging
 cluster_tags:
   - "Affordable Housing"

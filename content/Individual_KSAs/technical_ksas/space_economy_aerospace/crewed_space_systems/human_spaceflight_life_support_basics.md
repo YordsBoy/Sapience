@@ -2,7 +2,7 @@
 ksa_id: human_spaceflight_life_support_basics
 label: Human‑Spaceflight Life‑Support Basics
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: core
 cluster_tags:
   - "Life Support"

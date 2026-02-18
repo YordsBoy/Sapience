@@ -2,7 +2,7 @@
 ksa_id: digital_government_services  
 label: Digital Government Services Delivery  
 category: Technical  
-sector: Government_Public_Admin
+sector: government_public_admin
 horizon: core
 cluster_tags:
   - "Digital Services"

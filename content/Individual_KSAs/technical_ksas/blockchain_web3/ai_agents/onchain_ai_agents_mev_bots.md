@@ -2,7 +2,7 @@
 ksa_id: onchain_ai_agents_mev_bots
 label: On-Chain AI Agents & MEV-Aware Bots
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "AI Agents"

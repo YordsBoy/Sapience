@@ -2,7 +2,7 @@
 ksa_id: occupational_safety_retail_osha1910
 label: Occupational Safety – Retail (OSHA 1910)
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Safety"

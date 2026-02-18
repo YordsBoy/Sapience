@@ -2,7 +2,7 @@
 ksa_id: document_preparation_editing
 label: Document Preparation & Editing
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Document Production"

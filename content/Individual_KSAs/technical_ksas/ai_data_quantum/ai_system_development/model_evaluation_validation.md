@@ -2,7 +2,7 @@
 ksa_id: model_evaluation_validation
 label: Model Evaluation & Validation
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: core
 cluster_tags:
   - "Quality Assurance"

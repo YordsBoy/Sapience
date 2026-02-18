@@ -2,7 +2,7 @@
 ksa_id: formalisation_social_protection_navigation
 label: Pathways to Formalisation & Social‑Protection Navigation
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: core
 cluster_tags:
   - "Formalization"

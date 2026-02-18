@@ -2,7 +2,7 @@
 ksa_id: public_health_surveillance_epidemiology
 label: Public Health Surveillance & Epidemiology
 category: Technical
-sector: Healthcare_Social_Assistance
+sector: healthcare_social_assistance
 horizon: core
 cluster_tags:
   - "Surveillance"

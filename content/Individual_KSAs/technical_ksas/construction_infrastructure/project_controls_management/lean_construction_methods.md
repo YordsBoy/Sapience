@@ -2,7 +2,7 @@
 ksa_id: lean_construction_methods
 label: Lean Construction & Continuous Improvement
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Lean"

@@ -2,7 +2,7 @@
 ksa_id: additive_manufacturing_technologies
 label: Additive Manufacturing Technologies
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Additive Manufacturing"

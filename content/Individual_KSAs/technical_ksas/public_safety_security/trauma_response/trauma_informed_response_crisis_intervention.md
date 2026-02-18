@@ -2,7 +2,7 @@
 ksa_id: trauma_informed_response_crisis_intervention
 label: Trauma‑Informed Response & Crisis Intervention
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: core
 cluster_tags:
   - "Trauma Informed"

@@ -2,7 +2,7 @@
 ksa_id: retail_data_driven_decisionmaking  
 label: Retail Data-Driven Decision Making  
 category: Technical  
-sector: Wholesale_Retail_Trade  
+sector: wholesale_retail_trade
 horizon: core  
 cluster_tags: 
     - "Retail Analytics"

@@ -2,7 +2,7 @@
 ksa_id: stakeholder_science_communication
 label: Stakeholder Science Communication
 category: Technical
-sector: Professional_Scientific_Services
+sector: professional_scientific_services
 horizon: emerging
 cluster_tags:
   - "Science Communication"

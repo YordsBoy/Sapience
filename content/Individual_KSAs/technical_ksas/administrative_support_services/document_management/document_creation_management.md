@@ -2,7 +2,7 @@
 ksa_id: document_creation_management
 label: Office Document Creation & Management
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags: 
     - "Document Production"

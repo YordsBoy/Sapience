@@ -2,7 +2,7 @@
 ksa_id: digital_twin_operations_built_assets
 label: Digital Twin Operations for Built Assets
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: emerging
 cluster_tags:
   - "Digital Twin"

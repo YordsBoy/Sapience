@@ -2,7 +2,7 @@
 ksa_id: real_estate_valuation_appraisal_practice
 label: Real‑Estate Valuation & Appraisal Practice
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: core
 cluster_tags:
   - "Valuation"

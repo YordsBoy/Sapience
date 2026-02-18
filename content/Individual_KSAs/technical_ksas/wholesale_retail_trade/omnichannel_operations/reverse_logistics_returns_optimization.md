@@ -2,7 +2,7 @@
 ksa_id: reverse_logistics_returns_optimization
 label: Reverse Logistics & Returns Optimization
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Reverse Logistics"

@@ -2,7 +2,7 @@
 ksa_id: workflow_process_improvement_admin
 label: Workflow & Process Improvement (Admin)
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Process Improvement"

@@ -2,7 +2,7 @@
 ksa_id: assistive_technology_use_home
 label: Assistive Technology Use in the Home
 category: Technical
-sector: Unpaid_Caregiving
+sector: unpaid_caregiving_domestic_work
 horizon: core
 cluster_tags:
   - "Assistive Tech"

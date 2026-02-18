@@ -2,7 +2,7 @@
 ksa_id: sustainability_advisory_services  
 label: Sustainability Advisory Services  
 category: Technical  
-sector: Professional_Scientific_Services  
+sector: professional_scientific_services
 horizon: emerging
 cluster_tags:
   - "Sustainability"

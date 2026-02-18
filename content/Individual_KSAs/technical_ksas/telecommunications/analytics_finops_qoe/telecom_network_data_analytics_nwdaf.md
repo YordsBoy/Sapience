@@ -2,7 +2,7 @@
 ksa_id: telecom_network_data_analytics_nwdaf
 label: Telecom Network Data Analytics & NWDAF
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: emerging
 cluster_tags:
   - "NWDAF"

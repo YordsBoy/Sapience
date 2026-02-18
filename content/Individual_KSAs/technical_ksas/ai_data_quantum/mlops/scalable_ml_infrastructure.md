@@ -2,7 +2,7 @@
 ksa_id: scalable_ml_infrastructure
 label: Scalable ML Infrastructure
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: emerging
 cluster_tags:
   - "MLOps"

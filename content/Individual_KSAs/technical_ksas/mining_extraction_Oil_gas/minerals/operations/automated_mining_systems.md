@@ -2,7 +2,7 @@
 ksa_id: automated_mining_systems  
 label: Automated & Remote Mining Systems  
 category: Technical  
-sector: Mining_Extraction  
+sector: mining_extraction
 horizon: emerging  
 cluster_tags: 
     - "Mining Automation"

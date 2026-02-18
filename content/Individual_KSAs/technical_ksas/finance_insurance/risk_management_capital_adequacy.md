@@ -2,7 +2,7 @@
 ksa_id: risk_management_capital_adequacy
 label: Risk Management & Capital Adequacy
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: core
 cluster_tags: ["Basel III", "ORSA", "ERM"]
 description: Identifies, quantifies, and mitigates credit, market, liquidity, and operational risks while ensuring capital levels meet Basel III, NAIC, and Own-Risk & Solvency Assessment (ORSA) requirements.

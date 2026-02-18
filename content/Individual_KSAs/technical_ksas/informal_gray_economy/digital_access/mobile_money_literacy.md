@@ -2,7 +2,7 @@
 ksa_id: mobile_money_literacy
 label: Mobile-Money & e-Wallet Literacy
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: core
 cluster_tags:
   - "Mobile Money"

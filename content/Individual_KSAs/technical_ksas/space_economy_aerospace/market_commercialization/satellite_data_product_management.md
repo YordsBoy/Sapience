@@ -2,7 +2,7 @@
 ksa_id: satellite_data_product_management
 label: Satellite-Data Product Management
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: core
 cluster_tags:
   - "Product Management"

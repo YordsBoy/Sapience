@@ -2,7 +2,7 @@
 ksa_id: livestock_husbandry_management
 label: Livestock Husbandry & Management
 category: Technical
-sector: Agriculture_Natural_Resources
+sector: agriculture_natural_resources
 horizon: core
 cluster_tags:
   - "Livestock"

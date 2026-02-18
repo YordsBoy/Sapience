@@ -2,7 +2,7 @@
 ksa_id: webxr_frontend_development
 label: WebXR Frontend Development
 category: Technical
-sector: Immersive_Media_ARVR
+sector: immersive_media_arvr
 horizon: emerging
 cluster_tags:
   - "WebXR"

@@ -2,7 +2,7 @@
 ksa_id: cybersecurity_fundamentals
 label: Cybersecurity Fundamentals
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: perennial
 cluster_tags:
   - "Security"

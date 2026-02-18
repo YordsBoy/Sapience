@@ -2,7 +2,7 @@
 ksa_id: automated_ai_policy_compliance
 label: Automated AI Policy Compliance Monitoring
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: emerging
 cluster_tags:
   - "AI Compliance"

@@ -2,7 +2,7 @@
 ksa_id: satellite_mission_operations_ground_systems
 label: Satellite Mission Operations & Ground Systems
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: core
 cluster_tags:
   - "Mission Operations"

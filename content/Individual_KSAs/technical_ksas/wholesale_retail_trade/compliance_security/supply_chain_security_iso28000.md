@@ -2,7 +2,7 @@
 ksa_id: supply_chain_security_iso28000
 label: Supply-Chain Security – ISO 28000
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Security"

@@ -2,7 +2,7 @@
 ksa_id: immersive_experience_production
 label: Immersive Experience Production
 category: Technical
-sector: Creative_Cultural_Industries
+sector: creative_cultural_industries
 horizon: emerging
 cluster_tags:
   - "XR"

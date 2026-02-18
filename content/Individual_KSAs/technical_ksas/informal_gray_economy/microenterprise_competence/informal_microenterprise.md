@@ -2,7 +2,7 @@
 ksa_id: informal_microenterprise  
 label: Informal Microenterprise Management  
 category: Technical  
-sector: Informal_Gray_Economy  
+sector: informal_gray_economy
 horizon: core  
 cluster_tags:
   - "Microenterprise"

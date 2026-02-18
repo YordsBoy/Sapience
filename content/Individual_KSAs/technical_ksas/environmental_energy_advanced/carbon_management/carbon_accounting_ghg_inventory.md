@@ -2,7 +2,7 @@
 ksa_id: carbon_accounting_ghg_inventory
 label: Carbon Accounting & GHG Inventory
 category: Technical
-sector: Env_Energy_Advanced
+sector: env_energy_advanced
 horizon: core
 cluster_tags:
   - "GHG Inventory"

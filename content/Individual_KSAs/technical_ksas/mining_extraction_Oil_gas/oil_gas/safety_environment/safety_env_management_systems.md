@@ -2,7 +2,7 @@
 ksa_id: safety_env_management_systems
 label: Safety & Environmental Management Systems (SEMS)
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags:
   - "SEMS"

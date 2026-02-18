@@ -2,7 +2,7 @@
 ksa_id: voice_driven_document_capture
 label: Voice-Driven Document Creation & Meeting-Minute Capture
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: emerging
 cluster_tags:
   - "Voice Input"

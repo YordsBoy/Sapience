@@ -2,7 +2,7 @@
 ksa_id: nonprofit_governance_compliance
 label: Nonprofit Governance & Compliance
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: core
 cluster_tags:
   - "Compliance"

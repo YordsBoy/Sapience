@@ -2,7 +2,7 @@
 ksa_id: ai_customer_service_automation
 label: AI Customer-Service Automation
 category: Technical
-sector: Customer_Experience_Service
+sector: customer_experience_service
 horizon: emerging
 cluster_tags:
   - "AI"

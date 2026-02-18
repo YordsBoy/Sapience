@@ -2,7 +2,7 @@
 ksa_id: private_5g_enterprise_deployment
 label: Private 5G Enterprise Deployment
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: emerging
 cluster_tags:
   - "Private 5G"

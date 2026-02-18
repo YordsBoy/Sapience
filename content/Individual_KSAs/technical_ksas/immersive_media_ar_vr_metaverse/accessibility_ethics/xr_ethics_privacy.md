@@ -2,7 +2,7 @@
 ksa_id: xr_ethics_privacy
 label: XR Ethics & Privacy Governance
 category: Technical
-sector: Immersive_Media_ARVR
+sector: immersive_media_arvr
 horizon: emerging
 cluster_tags:
   - "Ethics"

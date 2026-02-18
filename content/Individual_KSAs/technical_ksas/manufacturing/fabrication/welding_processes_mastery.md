@@ -2,7 +2,7 @@
 ksa_id: welding_processes_mastery
 label: Welding Processes Mastery
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Welding"

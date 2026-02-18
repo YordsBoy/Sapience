@@ -2,7 +2,7 @@
 ksa_id: risk_management_framework_consulting
 label: Risk-Management Framework Consulting
 category: Technical
-sector: Professional_Scientific_Services
+sector: professional_scientific_services
 horizon: emerging
 cluster_tags:
   - "Risk Management"

@@ -2,7 +2,7 @@
 ksa_id: construction_3d_printing_basics
 label: Construction 3-D Printing Basics
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: emerging
 cluster_tags:
   - "Additive Manufacturing"
@@ -16,13 +16,13 @@ source_frameworks:
   - "ISO/ASTM 52939-2023 Additive Construction QA"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains gantry vs. robotic arm platforms; identifies printable mix constituents (cement, admixtures, fibres).  :contentReference[oaicite:26]{index=26}
+    indicator: Explains gantry vs. robotic arm platforms; identifies printable mix constituents (cement, admixtures, fibres).
   - level: Basic
-    indicator: Calibrates nozzle diameter; sets layer height; monitors extrusion temperature and slump flow.  :contentReference[oaicite:27]{index=27}
+    indicator: Calibrates nozzle diameter; sets layer height; monitors extrusion temperature and slump flow.
   - level: Intermediate
-    indicator: Adjusts tool-path for overhangs; validates interlayer adhesion by ultrasonic test; records dimensional deviations ≤ ±5 mm.  :contentReference[oaicite:28]{index=28}
+    indicator: Adjusts tool-path for overhangs; validates interlayer adhesion by ultrasonic test; records dimensional deviations ≤ ±5 mm.
   - level: Advanced
-    indicator: Integrates BIM-to-print workflows; applies closed-loop feedback using lidar scans; manages curing environment to meet strength class C25/30.  :contentReference[oaicite:29]{index=29}
+    indicator: Integrates BIM-to-print workflows; applies closed-loop feedback using lidar scans; manages curing environment to meet strength class C25/30.
   - level: Expert
-    indicator: Leads multi-storey additive-construction projects; mentors engineers; contributes to ISO/ASTM 52930 material-specification working groups.  :contentReference[oaicite:30]{index=30}
+    indicator: Leads multi-storey additive-construction projects; mentors engineers; contributes to ISO/ASTM 52930 material-specification working groups.
 ---

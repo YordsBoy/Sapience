@@ -2,7 +2,7 @@
 ksa_id: platform_algorithm_engagement_optimization
 label: Platform Algorithm & Engagement Optimisation
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: core
 cluster_tags:
   - "Algorithm Strategy"

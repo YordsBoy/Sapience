@@ -2,7 +2,7 @@
 ksa_id: seismic_acquisition_quality_control
 label: Seismic Data-Acquisition Quality Control
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags:
   - "Exploration"

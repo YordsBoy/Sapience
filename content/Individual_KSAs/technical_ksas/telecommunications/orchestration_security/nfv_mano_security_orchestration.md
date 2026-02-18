@@ -2,7 +2,7 @@
 ksa_id: nfv_mano_security_orchestration
 label: NFV/MANO Security & Orchestration
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: emerging
 cluster_tags:
   - "NFV"

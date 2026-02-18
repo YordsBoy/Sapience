@@ -2,7 +2,7 @@
 ksa_id: vehicle_diagnostics
 label: Vehicle Diagnostics (OBD-II & Heavy-Duty)
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: core
 cluster_tags:
   - "OBD"

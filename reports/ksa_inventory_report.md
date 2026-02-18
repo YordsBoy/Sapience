@@ -1,6 +1,6 @@
 # KSA Inventory Report
 
-**Generated:** Wed, 18 Feb 2026 02:30:06 GMT
+**Generated:** Wed, 18 Feb 2026 19:25:48 GMT
 **Repository:** Sapience
 
 ---
@@ -34,41 +34,41 @@
 | Sector                                        | Count |
 | --------------------------------------------- | ----- |
 | cross_sector                                  |    45 |
-| Mining_Extraction                             |    26 |
-| Maker_Creative_Crafts                         |    25 |
-| Wholesale_Retail_Trade                        |    24 |
-| Nonprofit_NGO                                 |    24 |
-| Construction_Infrastructure                   |    24 |
-| Administrative_Support                        |    24 |
-| Personal_Other_Services                       |    23 |
-| Hospitality_Tourism                           |    23 |
-| Core_IT_Cloud                                 |    23 |
-| Government_Public_Admin                       |    22 |
-| Media_Arts_Entertainment                      |    21 |
-| AI_Data_Quantum                               |    21 |
-| Informal_Gray_Economy                         |    20 |
-| Manufacturing                                 |    19 |
-| Env_Energy_Advanced                           |    19 |
-| Energy_Utilities                              |    19 |
-| Immersive_Media_ARVR                          |    18 |
-| Finance_Insurance                             |    18 |
-| Transportation_Logistics                      |    17 |
-| Space_Economy                                 |    17 |
-| Healthcare_Social_Assistance                  |    17 |
-| Education_Training                            |    17 |
-| Agriculture_Natural_Resources                 |    17 |
-| Telecommunications                            |    16 |
-| Public_Safety_Security                        |    15 |
-| Professional_Scientific_Services              |    15 |
-| Arts_Recreation                               |    15 |
-| Biotechnology_SynBio                          |    14 |
-| Real_Estate_Property                          |    13 |
-| Digital_Content_Creator_Economy               |    13 |
-| Blockchain_Web3                               |    13 |
-| Unpaid_Caregiving                             |    12 |
-| Gig_Platform_Economy                          |    11 |
-| Customer_Experience_Service                   |    11 |
-| Creative_Cultural_Industries                  |    11 |
+| mining_extraction                             |    26 |
+| maker_economy_creative_crafts                 |    25 |
+| wholesale_retail_trade                        |    24 |
+| nonprofit_ngos                                |    24 |
+| construction_infrastructure                   |    24 |
+| administrative_support_services               |    24 |
+| personal_other_services                       |    23 |
+| hospitality_tourism                           |    23 |
+| core_it_cloud                                 |    23 |
+| government_public_admin                       |    22 |
+| media_arts_entertainment                      |    21 |
+| ai_data_quantum                               |    21 |
+| informal_gray_economy                         |    20 |
+| manufacturing                                 |    19 |
+| env_energy_advanced                           |    19 |
+| energy_utilities                              |    19 |
+| immersive_media_arvr                          |    18 |
+| finance_insurance                             |    18 |
+| transportation_logistics                      |    17 |
+| space_economy_aerospace                       |    17 |
+| healthcare_social_assistance                  |    17 |
+| education_training                            |    17 |
+| agriculture_natural_resources                 |    17 |
+| telecommunications                            |    16 |
+| public_safety_security                        |    15 |
+| professional_scientific_services              |    15 |
+| arts_recreation_services                      |    15 |
+| biotechnology_synbio                          |    14 |
+| real_estate_property                          |    13 |
+| digital_content_creator_economy               |    13 |
+| blockchain_web3                               |    13 |
+| unpaid_caregiving_domestic_work               |    12 |
+| gig_platform_economy                          |    11 |
+| customer_experience_service                   |    11 |
+| creative_cultural_industries                  |    11 |
 
 ---
 

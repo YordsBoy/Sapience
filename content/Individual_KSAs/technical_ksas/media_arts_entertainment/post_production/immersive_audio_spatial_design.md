@@ -2,7 +2,7 @@
 ksa_id: immersive_audio_spatial_design
 label: Immersive Audio Spatial Design
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: emerging
 cluster_tags:
   - "Immersive Audio"

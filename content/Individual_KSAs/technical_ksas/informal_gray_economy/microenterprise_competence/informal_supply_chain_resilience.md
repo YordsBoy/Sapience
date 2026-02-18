@@ -2,7 +2,7 @@
 ksa_id: informal_supply_chain_resilience
 label: Informal Supply-Chain Resilience
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Supply Chain"

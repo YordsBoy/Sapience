@@ -2,7 +2,7 @@
 ksa_id: material_properties_knowledge
 label: Material Properties & Selection
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Materials Science"

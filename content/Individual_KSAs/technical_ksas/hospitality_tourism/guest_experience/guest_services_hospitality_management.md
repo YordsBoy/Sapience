@@ -2,7 +2,7 @@
 ksa_id: guest_services_hospitality_management  
 label: Guest Services and Hospitality Management  
 category: Technical  
-sector: Hospitality_Tourism  
+sector: hospitality_tourism
 horizon: core
 cluster_tags:
   - "Guest Services"

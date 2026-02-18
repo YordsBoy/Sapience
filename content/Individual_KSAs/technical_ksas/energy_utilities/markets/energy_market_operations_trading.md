@@ -2,7 +2,7 @@
 ksa_id: energy_market_operations_trading
 label: Energy-Market Operations & Trading
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Markets"

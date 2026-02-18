@@ -2,7 +2,7 @@
 ksa_id: agricultural_robotics_maintenance
 label: Agricultural Robotics Maintenance
 category: Technical
-sector: Agriculture_Natural_Resources
+sector: agriculture_natural_resources
 horizon: emerging
 cluster_tags:
   - "Automation"

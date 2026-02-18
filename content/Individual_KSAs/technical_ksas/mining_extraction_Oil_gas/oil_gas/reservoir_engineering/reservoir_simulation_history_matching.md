@@ -2,7 +2,7 @@
 ksa_id: reservoir_simulation_history_matching
 label: Reservoir Simulation & History Matching
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags:
   - "Reservoir Engineering"

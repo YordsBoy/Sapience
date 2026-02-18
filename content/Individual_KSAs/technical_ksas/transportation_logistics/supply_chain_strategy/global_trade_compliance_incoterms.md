@@ -2,7 +2,7 @@
 ksa_id: global_trade_compliance_incoterms
 label: Global Trade Compliance & Incoterms
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: core
 cluster_tags:
   - "Trade Compliance"

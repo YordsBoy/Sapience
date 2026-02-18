@@ -2,7 +2,7 @@
 ksa_id: ev_systems_basics
 label: Electric Vehicle Systems Basics
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: emerging
 cluster_tags:
   - "EV"

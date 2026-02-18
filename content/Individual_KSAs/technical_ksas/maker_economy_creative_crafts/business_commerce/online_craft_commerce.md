@@ -2,7 +2,7 @@
 ksa_id: online_craft_commerce  
 label: Online Craft Commerce  
 category: Technical  
-sector: Maker_Creative_Crafts 
+sector: maker_economy_creative_crafts
 horizon: core  
 cluster_tags: 
     - "E-commerce"

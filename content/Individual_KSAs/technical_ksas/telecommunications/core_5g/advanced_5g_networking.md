@@ -2,7 +2,7 @@
 ksa_id: advanced_5g_networking  
 label: Advanced 5G Networking (5g-Advanced)  
 category: Technical  
-sector: Telecommunications  
+sector: telecommunications
 horizon: emerging  
 cluster_tags:
   - "5G-Advanced"

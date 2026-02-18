@@ -2,7 +2,7 @@
 ksa_id: nonprofit_financial_management
 label: Nonprofit Financial Management
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: core
 cluster_tags:
   - "Finance"

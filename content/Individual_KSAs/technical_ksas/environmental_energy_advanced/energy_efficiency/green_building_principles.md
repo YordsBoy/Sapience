@@ -2,7 +2,7 @@
 ksa_id: green_building_principles
 label: Green Building Principles
 category: Technical
-sector: Env_Energy_Advanced
+sector: env_energy_advanced
 horizon: core
 cluster_tags:
   - "Green Building"

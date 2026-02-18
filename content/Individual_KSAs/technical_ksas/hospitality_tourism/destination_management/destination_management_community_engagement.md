@@ -2,7 +2,7 @@
 ksa_id: destination_management_community_engagement
 label: Destination Management & Community Engagement
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: emerging
 cluster_tags:
   - "Destination"

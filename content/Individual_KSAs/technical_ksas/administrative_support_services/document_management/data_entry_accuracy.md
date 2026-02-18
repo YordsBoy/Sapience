@@ -2,7 +2,7 @@
 ksa_id: data_entry_accuracy
 label: Data Entry Accuracy & Quality Assurance
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags: 
     - "Data Entry"

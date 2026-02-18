@@ -2,7 +2,7 @@
 ksa_id: hvac_system_fundamentals_troubleshooting
 label: HVAC Fundamentals & Troubleshooting
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "HVAC"

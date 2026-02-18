@@ -2,7 +2,7 @@
 ksa_id: sanitation_health_compliance
 label: Sanitation & Health Compliance
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "Sanitation"

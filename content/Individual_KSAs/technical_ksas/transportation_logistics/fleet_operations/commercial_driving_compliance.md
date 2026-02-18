@@ -2,7 +2,7 @@
 ksa_id: commercial_driving_compliance  
 label: Commercial Driving Safety and Compliance  
 category: Technical  
-sector: Transportation_Logistics  
+sector: transportation_logistics
 horizon: core
 cluster_tags:
   - "CDL Compliance"

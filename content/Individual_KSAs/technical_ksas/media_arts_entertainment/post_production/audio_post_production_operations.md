@@ -2,7 +2,7 @@
 ksa_id: audio_post_production_operations
 label: Professional Audio Post‑production Operations
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: core
 cluster_tags:
   - "Audio"

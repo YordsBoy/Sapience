@@ -2,7 +2,7 @@
 ksa_id: warehousing_distribution_operations
 label: Warehousing & Distribution Operations
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Warehouse"

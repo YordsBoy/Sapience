@@ -2,7 +2,7 @@
 ksa_id: work_based_learning_coordination
 label: Work-Based Learning Coordination
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: emerging
 cluster_tags:
   - "Work-Based Learning"

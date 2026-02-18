@@ -2,7 +2,7 @@
 ksa_id: meeting_event_logistics
 label: Meeting & Event Logistics
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Event Planning"

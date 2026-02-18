@@ -2,7 +2,7 @@
 ksa_id: blasting_techniques
 label: Blasting Techniques
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags:
   - "Operations"

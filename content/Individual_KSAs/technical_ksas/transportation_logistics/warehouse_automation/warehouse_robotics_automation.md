@@ -2,7 +2,7 @@
 ksa_id: warehouse_robotics_automation
 label: Warehouse Robotics Automation
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: emerging
 cluster_tags:
   - "Warehouse Robotics"

@@ -2,7 +2,7 @@
 ksa_id: emergency_management_continuity_operations
 label: Emergency Management & Continuity Operations
 category: Technical
-sector: Government_Public_Admin
+sector: government_public_admin
 horizon: core
 cluster_tags:
   - "Continuity"

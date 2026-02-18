@@ -2,7 +2,7 @@
 ksa_id: ai_clinical_decision_support
 label: AI-Enabled Clinical Decision Support
 category: Technical
-sector: Healthcare_Social_Assistance
+sector: healthcare_social_assistance
 horizon: emerging
 cluster_tags:
   - "Artificial Intelligence"

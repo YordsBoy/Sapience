@@ -2,7 +2,7 @@
 ksa_id: digital_transformation_consulting
 label: Digital-Transformation Consulting
 category: Technical
-sector: Professional_Scientific_Services
+sector: professional_scientific_services
 horizon: emerging
 cluster_tags:
   - "Digital Transformation"

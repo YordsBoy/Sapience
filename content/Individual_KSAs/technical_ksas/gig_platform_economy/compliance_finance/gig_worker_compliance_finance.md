@@ -2,7 +2,7 @@
 ksa_id: gig_worker_compliance_finance  
 label: Gig Worker Compliance & Personal Finance  
 category: Technical  
-sector: Gig_Platform_Economy  
+sector: gig_platform_economy
 horizon: core  
 cluster_tags:
   - "Compliance"

@@ -2,7 +2,7 @@
 ksa_id: water_conservation_systems
 label: Water Conservation Systems
 category: Technical
-sector: Env_Energy_Advanced
+sector: env_energy_advanced
 horizon: core
 cluster_tags:
   - "Water Conservation"

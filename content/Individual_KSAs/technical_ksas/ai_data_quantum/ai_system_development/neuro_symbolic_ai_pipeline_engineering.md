@@ -2,7 +2,7 @@
 ksa_id: neuro_symbolic_ai_pipeline_engineering
 label: Neuro-Symbolic AI Pipeline Engineering
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: emerging
 cluster_tags:
   - "Neuro-Symbolic AI"

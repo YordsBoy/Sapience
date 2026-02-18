@@ -2,7 +2,7 @@
 ksa_id: craft_quality_control
 label: Craft Quality Control
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: core
 cluster_tags:
   - "Quality Control"

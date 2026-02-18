@@ -2,7 +2,7 @@
 ksa_id: offsite_modular_construction_management
 label: Off-Site Modular Construction Management
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: emerging
 cluster_tags:
   - "Modular"

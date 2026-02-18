@@ -2,7 +2,7 @@
 ksa_id: local_micro_manufacturing_networks
 label: Local Micro-Manufacturing Networks
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: emerging
 cluster_tags:
   - "Micro Manufacturing"

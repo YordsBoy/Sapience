@@ -2,7 +2,7 @@
 ksa_id: digital_marketing_lead_generation_gig
 label: Digital Marketing & Lead Generation for Gig Workers
 category: Technical
-sector: Gig_Platform_Economy
+sector: gig_platform_economy
 horizon: core
 cluster_tags:
   - "Marketing"

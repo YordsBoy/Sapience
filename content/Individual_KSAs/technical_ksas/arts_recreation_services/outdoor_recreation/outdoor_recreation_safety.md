@@ -2,7 +2,7 @@
 ksa_id: outdoor_recreation_safety
 label: Outdoor Recreation Safety
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: core
 cluster_tags:
   - "Outdoor"

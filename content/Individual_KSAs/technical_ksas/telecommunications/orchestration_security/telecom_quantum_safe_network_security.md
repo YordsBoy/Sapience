@@ -2,7 +2,7 @@
 ksa_id: telecom_quantum_safe_network_security
 label: Telecom Quantum-Safe Network Security
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: watch_2030
 cluster_tags:
   - "Quantum-Safe"

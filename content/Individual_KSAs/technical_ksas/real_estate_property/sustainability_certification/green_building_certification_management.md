@@ -2,7 +2,7 @@
 ksa_id: green_building_certification_management
 label: Green-Building Certification Management
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: emerging
 cluster_tags:
   - "Green Building"

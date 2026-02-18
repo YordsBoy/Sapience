@@ -2,7 +2,7 @@
 ksa_id: real_estate_data_analytics  
 label: Real Estate Market Data Analytics  
 category: Technical  
-sector: Real_Estate_Property  
+sector: real_estate_property
 horizon: emerging
 cluster_tags:
   - "Data Analytics"

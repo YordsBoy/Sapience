@@ -2,7 +2,7 @@
 ksa_id: platform_worker_safety_protocols
 label: Platform Worker Safety Protocols
 category: Technical
-sector: Gig_Platform_Economy
+sector: gig_platform_economy
 horizon: core
 cluster_tags:
   - "Safety"

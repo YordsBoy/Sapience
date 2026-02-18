@@ -2,7 +2,7 @@
 ksa_id: esports_anti_cheat_compliance
 label: eSports Anti‑Cheat Compliance
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: emerging
 cluster_tags:
   - "Esports"

@@ -2,7 +2,7 @@
 ksa_id: cloud_data_governance_residency
 label: Cloud Data Governance & Residency
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "Data Governance"

@@ -2,7 +2,7 @@
 ksa_id: ng911_emergency_service_communications
 label: NG911 Emergency‑Services Communications
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: core
 cluster_tags:
   - "NG911"

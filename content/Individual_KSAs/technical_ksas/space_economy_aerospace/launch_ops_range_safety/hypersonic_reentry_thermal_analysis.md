@@ -2,7 +2,7 @@
 ksa_id: hypersonic_reentry_thermal_analysis
 label: Hypersonic Re-Entry Thermal Analysis
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: emerging
 cluster_tags:
   - "Hypersonic"

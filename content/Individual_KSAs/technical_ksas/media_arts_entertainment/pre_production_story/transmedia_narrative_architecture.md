@@ -2,7 +2,7 @@
 ksa_id: transmedia_narrative_architecture
 label: Transmedia Narrative Architecture
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: emerging
 cluster_tags:
   - "Transmedia"

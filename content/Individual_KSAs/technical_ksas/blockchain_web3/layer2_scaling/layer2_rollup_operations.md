@@ -2,7 +2,7 @@
 ksa_id: layer2_rollup_operations
 label: Layer‑2 Rollup Operations
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: emerging
 cluster_tags:
   - "Layer2"

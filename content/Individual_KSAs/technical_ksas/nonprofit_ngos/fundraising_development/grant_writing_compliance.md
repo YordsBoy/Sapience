@@ -2,7 +2,7 @@
 ksa_id: grant_writing_compliance
 label: Grant‑Writing & Compliance
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: core
 cluster_tags:
   - "Grant Compliance"

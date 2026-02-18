@@ -2,7 +2,7 @@
 ksa_id: basic_home_healthcare  
 label: Basic Home Healthcare Techniques  
 category: Technical  
-sector: Unpaid_Caregiving  
+sector: unpaid_caregiving_domestic_work
 horizon: core  
 cluster_tags:
   - "Home Health"

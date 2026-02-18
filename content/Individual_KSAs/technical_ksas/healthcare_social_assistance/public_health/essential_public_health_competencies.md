@@ -2,7 +2,7 @@
 ksa_id: essential_public_health_competencies
 label: Essential Public-Health Competencies
 category: Technical
-sector: Healthcare_Social_Assistance
+sector: healthcare_social_assistance
 horizon: perennial
 cluster_tags:
   - "Public Health"

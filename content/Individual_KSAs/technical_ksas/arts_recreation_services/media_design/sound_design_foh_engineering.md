@@ -2,7 +2,7 @@
 ksa_id: sound_design_foh_engineering
 label: Sound Design & FOH Engineering
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: core
 cluster_tags:
   - "Production"

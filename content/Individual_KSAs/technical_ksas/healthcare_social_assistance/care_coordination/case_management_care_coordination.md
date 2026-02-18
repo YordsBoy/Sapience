@@ -2,7 +2,7 @@
 ksa_id: case_management_care_coordination  
 label: Case Management and Care Coordination  
 category: Technical  
-sector: Healthcare_Social_Assistance  
+sector: healthcare_social_assistance
 horizon: core
 cluster_tags:
   - "Case Management"

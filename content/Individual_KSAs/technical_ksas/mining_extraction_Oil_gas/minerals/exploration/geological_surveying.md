@@ -2,7 +2,7 @@
 ksa_id: geological_surveying
 label: Geological Surveying
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags:
   - "Exploration"

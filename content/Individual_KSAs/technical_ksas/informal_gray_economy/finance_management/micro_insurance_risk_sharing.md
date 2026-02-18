@@ -2,7 +2,7 @@
 ksa_id: micro_insurance_risk_sharing
 label: Micro-Insurance & Risk Sharing
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Micro-Insurance"

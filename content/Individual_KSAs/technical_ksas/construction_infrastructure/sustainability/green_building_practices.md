@@ -2,7 +2,7 @@
 ksa_id: green_building_practices
 label: Green Building & Sustainable Construction
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Sustainability"

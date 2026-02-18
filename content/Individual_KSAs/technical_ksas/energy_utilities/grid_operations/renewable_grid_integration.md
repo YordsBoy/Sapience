@@ -2,7 +2,7 @@
 ksa_id: renewable_grid_integration
 label: Renewable Integration in Grid
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Grid Operations"

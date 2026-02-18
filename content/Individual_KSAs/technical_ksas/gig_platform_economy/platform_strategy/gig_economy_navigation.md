@@ -2,7 +2,7 @@
 ksa_id: gig_economy_navigation  
 label: Gig Economy Navigation  
 category: Technical  
-sector: Gig_Platform_Economy  
+sector: gig_platform_economy
 horizon: core  
 cluster_tags:
   - "Platform Selection"

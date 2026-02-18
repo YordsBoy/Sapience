@@ -2,7 +2,7 @@
 ksa_id: calendar_email_coordination
 label: Calendar & Email Coordination
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Scheduling"

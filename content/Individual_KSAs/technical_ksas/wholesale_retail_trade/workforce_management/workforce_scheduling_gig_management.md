@@ -2,7 +2,7 @@
 ksa_id: workforce_scheduling_gig_management
 label: Workforce Scheduling & Gig Retail Management
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Workforce"

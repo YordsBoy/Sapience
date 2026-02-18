@@ -2,7 +2,7 @@
 ksa_id: programming_fundamentals
 label: Programming Fundamentals
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: core
 cluster_tags:
   - "Software Development"

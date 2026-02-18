@@ -2,7 +2,7 @@
 ksa_id: client_empathy_skills
 label: Client Empathy & Emotional Attunement
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "Empathy"

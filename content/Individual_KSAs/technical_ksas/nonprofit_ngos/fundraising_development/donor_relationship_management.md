@@ -2,7 +2,7 @@
 ksa_id: donor_relationship_management
 label: Donor Relationship Management
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: core
 cluster_tags:
   - "Donor"

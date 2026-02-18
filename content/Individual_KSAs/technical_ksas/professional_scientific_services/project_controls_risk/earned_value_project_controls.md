@@ -2,7 +2,7 @@
 ksa_id: earned_value_project_controls
 label: Earned‑Value Project Controls
 category: Technical
-sector: Professional_Scientific_Services
+sector: professional_scientific_services
 horizon: core
 cluster_tags:
   - "Earned Value"

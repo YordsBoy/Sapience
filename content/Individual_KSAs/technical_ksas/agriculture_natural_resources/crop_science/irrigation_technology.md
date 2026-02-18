@@ -2,7 +2,7 @@
 ksa_id: irrigation_technology
 label: Smart Irrigation Technology
 category: Technical
-sector: Agriculture_Natural_Resources
+sector: agriculture_natural_resources
 horizon: core
 cluster_tags:
   - "Water Management"

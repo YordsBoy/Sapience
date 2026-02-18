@@ -2,7 +2,7 @@
 ksa_id: brand_partnership_negotiation
 label: Brand Partnership Negotiation
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: core
 cluster_tags:
   - "Brand Partnerships"

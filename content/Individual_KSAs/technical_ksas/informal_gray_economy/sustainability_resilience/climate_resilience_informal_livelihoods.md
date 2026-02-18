@@ -2,7 +2,7 @@
 ksa_id: climate_resilience_informal_livelihoods
 label: Climate Resilience for Informal Livelihoods
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Climate Resilience"

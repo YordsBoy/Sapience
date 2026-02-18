@@ -2,7 +2,7 @@
 ksa_id: multimodal_transport_planning
 label: Multimodal Transport Planning
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: emerging
 cluster_tags:
   - "Multimodal"

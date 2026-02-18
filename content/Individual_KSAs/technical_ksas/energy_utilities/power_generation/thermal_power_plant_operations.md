@@ -2,7 +2,7 @@
 ksa_id: thermal_power_plant_operations
 label: Thermal Power-Plant Operations
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Power Generation"

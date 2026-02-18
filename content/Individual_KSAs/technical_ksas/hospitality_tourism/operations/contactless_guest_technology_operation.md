@@ -2,7 +2,7 @@
 ksa_id: contactless_guest_technology_operations
 label: Contactless Guest-Technology Operations
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: emerging
 cluster_tags:
   - "Contactless"

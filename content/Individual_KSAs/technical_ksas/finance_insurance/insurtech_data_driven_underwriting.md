@@ -2,7 +2,7 @@
 ksa_id: insurtech_data_driven_underwriting
 label: InsurTech Data‑Driven Underwriting
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: emerging
 cluster_tags: ["InsurTech","Underwriting","Data Analytics"]
 description: Leveraging big‑data sources—telematics, IoT sensors, social media—and machine‑learning models to refine risk assessment, pricing, and product customisation in insurance underwriting.

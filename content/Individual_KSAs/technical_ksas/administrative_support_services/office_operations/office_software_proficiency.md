@@ -2,7 +2,7 @@
 ksa_id: office_software_proficiency
 label: Office Software Proficiency
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags:
   - "Digital Skills"

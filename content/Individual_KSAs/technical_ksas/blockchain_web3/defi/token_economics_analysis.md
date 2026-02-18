@@ -2,7 +2,7 @@
 ksa_id: token_economics_analysis
 label: Token Economics Analysis
 category: Technical
-sector: Blockchain_Web3
+sector: blockchain_web3
 horizon: core
 cluster_tags:
   - "Tokenomics"

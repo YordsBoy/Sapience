@@ -2,7 +2,7 @@
 ksa_id: edge_ai_tinyml_deployment
 label: Edge-AI & TinyML Deployment
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: core
 cluster_tags:
   - "Edge AI"

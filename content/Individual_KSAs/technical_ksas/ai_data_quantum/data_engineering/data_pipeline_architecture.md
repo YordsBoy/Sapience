@@ -2,7 +2,7 @@
 ksa_id: data_pipeline_architecture
 label: Data Pipeline Architecture
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: core
 cluster_tags:
   - "Data Engineering"

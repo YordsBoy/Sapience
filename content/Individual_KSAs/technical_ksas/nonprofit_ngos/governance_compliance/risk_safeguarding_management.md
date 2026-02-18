@@ -2,7 +2,7 @@
 ksa_id: risk_safeguarding_management
 label: Risk & Safeguarding Management
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: core
 cluster_tags:
   - "Safeguarding"

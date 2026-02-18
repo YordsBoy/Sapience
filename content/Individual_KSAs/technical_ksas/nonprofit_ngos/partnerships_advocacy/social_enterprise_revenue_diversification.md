@@ -2,7 +2,7 @@
 ksa_id: social_enterprise_revenue_diversification
 label: Social-Enterprise Revenue Diversification
 category: Technical
-sector: Nonprofit_NGO
+sector: nonprofit_ngos
 horizon: emerging
 cluster_tags:
   - "Social Enterprise"

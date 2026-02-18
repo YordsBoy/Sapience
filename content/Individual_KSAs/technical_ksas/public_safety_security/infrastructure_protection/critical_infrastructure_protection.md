@@ -2,7 +2,7 @@
 ksa_id: critical_infrastructure_protection
 label: Critical Infrastructure Protection (CIP)
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: core
 cluster_tags:
   - "CIP"

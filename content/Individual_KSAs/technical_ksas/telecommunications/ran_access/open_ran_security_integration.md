@@ -2,7 +2,7 @@
 ksa_id: open_ran_security_integration
 label: Open‑RAN Security & Integration
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: emerging
 cluster_tags:
   - "O-RAN"

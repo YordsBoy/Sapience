@@ -2,7 +2,7 @@
 ksa_id: confidential_computing_services
 label: Confidential-Computing Services
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "Confidential Computing"
@@ -12,7 +12,7 @@ description: >
 source_frameworks:
   - "Confidential Computing Consortium specs (2024)"
   - "NIST SP 800-207A draft – Zero-Trust & Confidential-Compute patterns (2023)"
-  - "Azure Confidential VMs portfolio update 2025 :contentReference[oaicite:5]{index=5}"
+  - "Azure Confidential VMs portfolio update 2025"
 proficiency_levels:
   - level: Awareness
     indicator: Defines TEE, attestation, and why data-in-use matters.

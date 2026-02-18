@@ -2,7 +2,7 @@
 ksa_id: medical_device_regulatory_compliance
 label: Medical Device Regulatory Compliance
 category: Technical
-sector: Healthcare_Social_Assistance
+sector: healthcare_social_assistance
 horizon: core
 cluster_tags:
   - "FDA"

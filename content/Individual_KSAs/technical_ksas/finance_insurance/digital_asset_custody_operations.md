@@ -2,7 +2,7 @@
 ksa_id: digital_asset_custody_operations
 label: Digital‑Asset Custody Operations
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: emerging
 cluster_tags: ["Digital Assets","Custody","Security"]
 description: Safeguarding cryptocurrencies, tokens, and other digital assets through secure key‑management, multi‑party computation (MPC), cold‑storage procedures, and regulatory‑compliant controls for institutional clients.

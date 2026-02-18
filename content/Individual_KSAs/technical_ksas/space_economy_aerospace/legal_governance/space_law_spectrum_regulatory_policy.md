@@ -2,7 +2,7 @@
 ksa_id: space_law_spectrum_regulatory_policy
 label: Space Law, Spectrum & Regulatory Policy
 category: Technical
-sector: Space_Economy
+sector: space_economy_aerospace
 horizon: core
 cluster_tags:
   - "Space Law"

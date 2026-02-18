@@ -2,7 +2,7 @@
 ksa_id: smart_home_integration
 label: Smart-Home Integration
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: emerging
 cluster_tags:
   - "Smart Home"

@@ -2,7 +2,7 @@
 ksa_id: creative_concept_prototyping
 label: Creative Concept Prototyping
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: core
 cluster_tags:
   - "Ideation"

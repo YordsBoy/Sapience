@@ -2,7 +2,7 @@
 ksa_id: microtask_productivity_quality_skills
 label: Micro‑task Productivity & Quality Skills
 category: Technical
-sector: Informal_Gray_Economy
+sector: informal_gray_economy
 horizon: emerging
 cluster_tags:
   - "Microtask"

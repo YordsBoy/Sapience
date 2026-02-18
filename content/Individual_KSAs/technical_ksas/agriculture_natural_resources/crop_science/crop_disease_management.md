@@ -2,7 +2,7 @@
 ksa_id: crop_disease_management
 label: Crop Disease Management
 category: Technical
-sector: Agriculture_Natural_Resources
+sector: agriculture_natural_resources
 horizon: core
 cluster_tags:
   - "Crop Science"

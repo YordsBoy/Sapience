@@ -2,7 +2,7 @@
 ksa_id: chemical_service_safety
 label: Chemical-Service Safety
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "Chemical Safety"

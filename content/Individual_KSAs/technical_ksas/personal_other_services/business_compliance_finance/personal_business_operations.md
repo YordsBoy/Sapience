@@ -2,7 +2,7 @@
 ksa_id: personal_business_operations  
 label: Personal Service Business Operations  
 category: Technical  
-sector: Personal_Other_Services  
+sector: personal_other_services
 horizon: core  
 cluster_tags: 
     - "Small Business"

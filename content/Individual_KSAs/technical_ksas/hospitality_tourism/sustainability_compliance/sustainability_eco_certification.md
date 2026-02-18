@@ -2,7 +2,7 @@
 ksa_id: sustainability_eco_certification
 label: Sustainability & Eco-Certification
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: emerging
 cluster_tags:
   - "Sustainability"

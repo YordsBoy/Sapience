@@ -2,7 +2,7 @@
 ksa_id: field_service_tools  
 label: Field Service Management Tools  
 category: Technical  
-sector: Customer_Experience_Service  
+sector: customer_experience_service
 horizon: emerging  
 cluster_tags:
   - "Field Service"

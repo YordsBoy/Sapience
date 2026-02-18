@@ -2,7 +2,7 @@
 ksa_id: cbrne_response_operations
 label: CBRNE Response Operations
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: emerging
 cluster_tags:
   - "CBRNE"

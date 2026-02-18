@@ -2,7 +2,7 @@
 ksa_id: cloud_finops_cost_optimization
 label: Cloud FinOps Cost Optimization
 category: Technical
-sector: Core_IT_Cloud
+sector: core_it_cloud
 horizon: emerging
 cluster_tags:
   - "FinOps"

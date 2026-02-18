@@ -2,7 +2,7 @@
 ksa_id: maker_digital_fabrication_advanced
 label: Maker Digital Fabrication (Advanced)
 category: Technical
-sector: Maker_Creative_Crafts
+sector: maker_economy_creative_crafts
 horizon: emerging
 cluster_tags:
   - "Advanced Fab"

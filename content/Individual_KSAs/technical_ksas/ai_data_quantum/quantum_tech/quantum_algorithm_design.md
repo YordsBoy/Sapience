@@ -2,7 +2,7 @@
 ksa_id: quantum_algorithm_design
 label: Quantum Algorithm Design & Programming
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: watch_2030
 cluster_tags:
   - "Quantum Computing"

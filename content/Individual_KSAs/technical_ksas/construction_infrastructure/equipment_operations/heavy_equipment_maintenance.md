@@ -2,7 +2,7 @@
 ksa_id: heavy_equipment_maintenance
 label: Heavy Equipment Maintenance
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: perennial
 cluster_tags:
   - "Equipment"

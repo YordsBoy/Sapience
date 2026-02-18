@@ -2,7 +2,7 @@
 ksa_id: drainage_system_design
 label: Drainage System Design
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Civil"

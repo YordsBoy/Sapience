@@ -2,7 +2,7 @@
 ksa_id: masonry_concrete_construction
 label: Masonry & Concrete Construction Techniques
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Structural"

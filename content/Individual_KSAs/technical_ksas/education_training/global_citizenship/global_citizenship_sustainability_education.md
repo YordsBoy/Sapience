@@ -2,7 +2,7 @@
 ksa_id: global_citizenship_sustainability_education
 label: Global Citizenship & Sustainability Education
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: emerging
 cluster_tags:
   - "Global Citizenship"

@@ -2,7 +2,7 @@
 ksa_id: immersive_interaction_ux_design
 label: Immersive Interaction & UX Design
 category: Technical
-sector: Immersive_Media_ARVR
+sector: immersive_media_arvr
 horizon: core
 cluster_tags:
   - "UX Design"

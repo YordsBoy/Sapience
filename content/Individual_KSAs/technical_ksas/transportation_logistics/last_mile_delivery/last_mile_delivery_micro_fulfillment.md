@@ -2,7 +2,7 @@
 ksa_id: last_mile_delivery_micro_fulfillment
 label: Last‑Mile Delivery & Micro‑Fulfilment
 category: Technical
-sector: Transportation_Logistics
+sector: transportation_logistics
 horizon: emerging
 cluster_tags:
   - "Last Mile"

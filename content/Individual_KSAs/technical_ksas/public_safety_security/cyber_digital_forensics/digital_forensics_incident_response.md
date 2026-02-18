@@ -2,7 +2,7 @@
 ksa_id: digital_forensics_incident_response
 label: Digital Forensics & Incident Response (DFIR)
 category: Technical
-sector: Public_Safety_Security
+sector: public_safety_security
 horizon: core
 cluster_tags:
   - "DFIR"

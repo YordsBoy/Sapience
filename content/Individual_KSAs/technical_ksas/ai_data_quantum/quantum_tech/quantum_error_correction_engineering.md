@@ -2,7 +2,7 @@
 ksa_id: quantum_error_correction_engineering
 label: Quantum Error-Correction Engineering
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: watch_2030
 cluster_tags:
   - "Quantum Error Correction"

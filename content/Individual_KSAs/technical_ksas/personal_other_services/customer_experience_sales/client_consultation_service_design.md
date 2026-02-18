@@ -2,7 +2,7 @@
 ksa_id: client_consultation_service_design
 label: Client Consultation & Service Design
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "Consultation"

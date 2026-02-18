@@ -2,7 +2,7 @@
 ksa_id: quality_assurance_precision_measurement
 label: Quality Assurance & Precision Measurement
 category: Technical
-sector: Manufacturing
+sector: manufacturing
 horizon: core
 cluster_tags:
   - "Metrology"
@@ -15,13 +15,13 @@ source_frameworks:
   - "ASME Y14.5 GD&T Standard"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads feature-control frames; identifies datum symbols on prints.  :contentReference[oaicite:39]{index=39}
+    indicator: Reads feature-control frames; identifies datum symbols on prints.
   - level: Basic
-    indicator: Measures dimensional features within ±0.01 mm using callipers and micrometres; records results on inspection sheets.  :contentReference[oaicite:40]{index=40}
+    indicator: Measures dimensional features within ±0.01 mm using callipers and micrometres; records results on inspection sheets.
   - level: Intermediate
-    indicator: Programs CMM for positional tolerance; calculates C_pk ≥ 1.33; applies measurement-system analysis (GR&R).  :contentReference[oaicite:41]{index=41}
+    indicator: Programs CMM for positional tolerance; calculates C_pk ≥ 1.33; applies measurement-system analysis (GR&R).
   - level: Advanced
-    indicator: Uses optical/CT scanning for complex surfaces; establishes gauge R&R < 10 %; mentors inspectors on uncertainty budgets.  :contentReference[oaicite:42]{index=42}
+    indicator: Uses optical/CT scanning for complex surfaces; establishes gauge R&R < 10 %; mentors inspectors on uncertainty budgets.
   - level: Expert
-    indicator: Leads corporate metrology strategy; aligns measurement data with digital twins; serves on ASME GDTP certification panels.  :contentReference[oaicite:43]{index=43}
+    indicator: Leads corporate metrology strategy; aligns measurement data with digital twins; serves on ASME GDTP certification panels.
 ---

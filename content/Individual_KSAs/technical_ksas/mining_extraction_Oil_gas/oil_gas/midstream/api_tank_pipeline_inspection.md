@@ -2,7 +2,7 @@
 ksa_id: api_tank_pipeline_inspection
 label: API Tank & Pipeline Inspection Compliance
 category: Technical
-sector: Mining_Extraction
+sector: mining_extraction
 horizon: core
 cluster_tags:
   - "Midstream"

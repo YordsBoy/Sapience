@@ -2,7 +2,7 @@
 ksa_id: office_process_automation_rpa
 label: Robotic Process Automation (Admin)  
 category: Technical  
-sector: Administrative_Support  
+sector: administrative_support_services
 horizon: emerging  
 cluster_tags: 
     - "Automation"

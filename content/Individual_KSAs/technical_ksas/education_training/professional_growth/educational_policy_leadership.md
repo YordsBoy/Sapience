@@ -2,7 +2,7 @@
 ksa_id: educational_policy_leadership
 label: Educational Policy & Leadership
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: core
 cluster_tags:
   - "Leadership"

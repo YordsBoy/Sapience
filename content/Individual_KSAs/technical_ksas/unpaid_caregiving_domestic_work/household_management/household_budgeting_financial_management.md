@@ -2,7 +2,7 @@
 ksa_id: household_budgeting_financial_management
 label: Household Budgeting & Financial Management
 category: Technical
-sector: Unpaid_Caregiving
+sector: unpaid_caregiving_domestic_work
 horizon: core
 cluster_tags:
   - "Budgeting"

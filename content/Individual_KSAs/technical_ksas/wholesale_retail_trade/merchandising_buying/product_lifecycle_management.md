@@ -2,7 +2,7 @@
 ksa_id: product_lifecycle_management
 label: Product Lifecycle Management (PLM)
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "PLM"

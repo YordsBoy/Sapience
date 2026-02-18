@@ -2,7 +2,7 @@
 ksa_id: audience_analytics_community_management
 label: Audience Analytics & Community Management
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: core
 cluster_tags:
   - "Audience Analytics"

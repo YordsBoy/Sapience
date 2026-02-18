@@ -2,7 +2,7 @@
 ksa_id: wholesale_negotiation_vendor_management
 label: Wholesale Negotiation & Vendor Management
 category: Technical
-sector: Wholesale_Retail_Trade
+sector: wholesale_retail_trade
 horizon: core
 cluster_tags:
   - "Buying"

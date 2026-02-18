@@ -2,7 +2,7 @@
 ksa_id: learning_analytics_data_informed_instruction
 label: Learning Analytics & Data‑Informed Instruction
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: core
 cluster_tags:
   - "Analytics"

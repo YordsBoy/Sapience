@@ -2,7 +2,7 @@
 ksa_id: logistics_data_optimization  
 label: Logistics Data Analysis & Optimization  
 category: Technical  
-sector: Transportation_Logistics  
+sector: transportation_logistics
 horizon: emerging
 cluster_tags:
   - "Data Optimisation"

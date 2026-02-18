@@ -2,7 +2,7 @@
 ksa_id: cell_based_meat_regulatory_compliance
 label: Cell-Based Meat Production & Regulatory Compliance
 category: Technical
-sector: Agriculture_Natural_Resources
+sector: agriculture_natural_resources
 horizon: emerging
 cluster_tags:
   - "Cell-Based Meat"

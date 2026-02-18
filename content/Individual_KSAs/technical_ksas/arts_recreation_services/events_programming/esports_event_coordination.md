@@ -2,7 +2,7 @@
 ksa_id: esports_event_coordination
 label: Esports Event Coordination
 category: Technical
-sector: Arts_Recreation
+sector: arts_recreation_services
 horizon: emerging
 cluster_tags:
   - "Events"

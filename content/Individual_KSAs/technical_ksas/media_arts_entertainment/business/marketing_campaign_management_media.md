@@ -2,7 +2,7 @@
 ksa_id: marketing_campaign_management_media
 label: Marketing Campaign Management for Media
 category: Technical
-sector: Media_Arts_Entertainment
+sector: media_arts_entertainment
 horizon: emerging
 cluster_tags:
   - "Marketing"

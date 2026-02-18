@@ -1,6 +1,6 @@
 # 💳 Finance & Insurance
 
-Fintech, open‑banking, and climate‑risk modelling reshape core banking & insurance skills. PwC flags five imperatives for insurers in 2025 :contentReference[oaicite:10]{index=10}.
+Fintech, open‑banking, and climate‑risk modelling reshape core banking & insurance skills. PwC flags five imperatives for insurers in 2025.
 
 ## Sub‑domains
 | Digital_Banking 
@@ -14,7 +14,7 @@ Fintech, open‑banking, and climate‑risk modelling reshape core banking & ins
 | Sustainable_Finance | Green Bond Structuring, TCFD Disclosure |
 
 ## References
-  - PwC Insurance 2025** :contentReference[oaicite:11]{index=11}  
+  - PwC Insurance 2025**  
   - Basel III & IFRS 17 standards 
   - FATF AML skills guides
   - BLS Employment Situation April 2025 

@@ -2,7 +2,7 @@
 ksa_id: fiber_outside_plant_construction_safety
 label: Fiber Outside‑Plant Construction Safety
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: core
 cluster_tags:
   - "Fiber"

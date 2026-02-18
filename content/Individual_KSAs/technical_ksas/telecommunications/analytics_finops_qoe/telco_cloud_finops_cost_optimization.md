@@ -2,7 +2,7 @@
 ksa_id: telco_cloud_finops_cost_optimization
 label: Telco‑Cloud FinOps & Cost Optimisation
 category: Technical
-sector: Telecommunications
+sector: telecommunications
 horizon: emerging
 cluster_tags:
   - "FinOps"

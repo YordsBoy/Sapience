@@ -2,7 +2,7 @@
 ksa_id: platform_dispute_resolution_advocacy
 label: Platform Dispute Resolution & Advocacy
 category: Technical
-sector: Gig_Platform_Economy
+sector: gig_platform_economy
 horizon: emerging
 cluster_tags:
   - "Dispute Resolution"

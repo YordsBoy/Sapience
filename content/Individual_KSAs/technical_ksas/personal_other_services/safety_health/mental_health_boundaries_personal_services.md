@@ -2,7 +2,7 @@
 ksa_id: mental_health_boundaries_personal_services
 label: Mental-Health Boundaries & Self-Care
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: emerging
 cluster_tags:
   - "Mental Health"

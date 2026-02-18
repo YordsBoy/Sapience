@@ -2,7 +2,7 @@
 ksa_id: real_estate_brokerage_law_ethics
 label: Real‑Estate Brokerage Law & Ethics
 category: Technical
-sector: Real_Estate_Property
+sector: real_estate_property
 horizon: core
 cluster_tags:
   - "Brokerage"

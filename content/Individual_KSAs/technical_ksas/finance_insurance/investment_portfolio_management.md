@@ -2,7 +2,7 @@
 ksa_id: investment_portfolio_management
 label: Investment Portfolio Management
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: core
 cluster_tags: ["ALM", "Fixed-Income", "ESG"]
 description: Constructs and manages multi-asset portfolios for insurers and financial institutions, balancing yield, duration, liquidity, and regulatory capital considerations.

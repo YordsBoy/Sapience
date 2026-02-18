@@ -2,14 +2,14 @@
 ksa_id: customer_experience_metrics_personal_services
 label: Customer‑Experience Metrics (Personal Services)
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: core
 cluster_tags:
   - "CX Metrics"
   - "Analytics"
 description: Measuring service quality via Net Promoter Score (NPS), Customer Satisfaction (CSAT), and sentiment analysis; applying Lean continuous‑improvement cycles to enhance personal‑service experiences.
 source_frameworks:
-  - "Qualtrics NPS Guide"                     # :contentReference[oaicite:11]{index=11}
+  - "Qualtrics NPS Guide"
   - "CXPA Measurement Standards"
   - "American Customer Satisfaction Index (ACSI) Methodology"
   - "Lean Service Excellence Playbook"

@@ -2,7 +2,7 @@
 ksa_id: customer_service_support
 label: Customer Service Support
 category: Technical
-sector: Administrative_Support
+sector: administrative_support_services
 horizon: core
 cluster_tags: 
     - "Customer Service"

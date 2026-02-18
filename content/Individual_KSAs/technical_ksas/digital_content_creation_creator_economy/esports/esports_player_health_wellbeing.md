@@ -2,7 +2,7 @@
 ksa_id: esports_player_health_wellbeing
 label: eSports Player Health & Well‑Being
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: core
 cluster_tags:
   - "Esports"

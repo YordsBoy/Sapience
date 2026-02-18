@@ -2,7 +2,7 @@
 ksa_id: open_banking_api_integration  
 label: Open Banking API Integration  
 category: Technical  
-sector: Finance_Insurance  
+sector: finance_insurance
 horizon: emerging  
 cluster_tags: 
     - "FinTech"

@@ -2,7 +2,7 @@
 ksa_id: building_information_modeling
 label: Building Information Modeling (BIM)
 category: Technical
-sector: Construction_Infrastructure
+sector: construction_infrastructure
 horizon: core
 cluster_tags:
   - "Digital Delivery"

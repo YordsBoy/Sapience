@@ -2,7 +2,7 @@
 ksa_id: smart_city_governance_iot_cybersecurity
 label: Smart-City Governance & IoT Cybersecurity
 category: Technical
-sector: Government_Public_Admin
+sector: government_public_admin
 horizon: emerging
 cluster_tags:
   - "Smart City"

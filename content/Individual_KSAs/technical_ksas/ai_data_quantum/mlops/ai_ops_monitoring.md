@@ -2,7 +2,7 @@
 ksa_id: ai_ops_monitoring
 label: AIOps & Model Monitoring
 category: Technical
-sector: AI_Data_Quantum
+sector: ai_data_quantum
 horizon: emerging
 cluster_tags:
   - "MLOps"

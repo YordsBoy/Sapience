@@ -2,7 +2,7 @@
 ksa_id: revenue_yield_management
 label: Hospitality Revenue & Yield Management
 category: Technical
-sector: Hospitality_Tourism
+sector: hospitality_tourism
 horizon: emerging
 cluster_tags:
   - "Yield Management"

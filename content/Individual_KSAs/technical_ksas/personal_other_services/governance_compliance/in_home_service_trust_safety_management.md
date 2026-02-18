@@ -2,7 +2,7 @@
 ksa_id: in_home_service_trust_safety_management
 label: In‑Home Service Trust & Safety Management
 category: Technical
-sector: Personal_Other_Services
+sector: personal_other_services
 horizon: emerging
 cluster_tags:
   - "In-Home Services"

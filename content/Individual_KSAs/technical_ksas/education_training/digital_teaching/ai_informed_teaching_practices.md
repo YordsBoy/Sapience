@@ -2,7 +2,7 @@
 ksa_id: ai_informed_teaching_practices
 label: AI-Informed Teaching Practices
 category: Technical
-sector: Education_Training
+sector: education_training
 horizon: emerging
 cluster_tags:
   - "Artificial Intelligence"

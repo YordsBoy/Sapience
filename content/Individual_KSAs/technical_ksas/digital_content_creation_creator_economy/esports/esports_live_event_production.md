@@ -2,7 +2,7 @@
 ksa_id: esports_live_event_production
 label: eSports Live‑Event Production
 category: Technical
-sector: Digital_Content_Creator_Economy
+sector: digital_content_creator_economy
 horizon: core
 cluster_tags:
   - "Esports"

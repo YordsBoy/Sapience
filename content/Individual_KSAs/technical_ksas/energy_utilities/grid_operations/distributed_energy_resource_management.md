@@ -2,7 +2,7 @@
 ksa_id: distributed_energy_resource_management
 label: Distributed Energy-Resource (DER) Management
 category: Technical
-sector: Energy_Utilities
+sector: energy_utilities
 horizon: core
 cluster_tags:
   - "Grid Operations"

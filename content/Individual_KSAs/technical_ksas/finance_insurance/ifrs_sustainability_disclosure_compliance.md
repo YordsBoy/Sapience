@@ -2,7 +2,7 @@
 ksa_id: ifrs_sustainability_disclosure_compliance
 label: IFRS S1/S2 Sustainability Disclosure Compliance
 category: Technical
-sector: Finance_Insurance
+sector: finance_insurance
 horizon: core
 cluster_tags: ["Sustainable Finance","ESG Reporting","IFRS"]
 description: Preparing, assuring, and filing sustainability disclosures in alignment with International Financial Reporting Standards (IFRS) S1 (General Requirements) and S2 (Climate‑Related Disclosures), integrating data from finance, risk, and operations.
