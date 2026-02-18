@@ -10,7 +10,8 @@ cluster_tags:
 description: >
   Leads organizational change by communicating purpose, engaging stakeholders, and sustaining momentum through transition.
 source_frameworks:
-  - "Inspired by Kotter’s change model and OPM Leading Change (public domain concepts)"
+  - "Informed by Prosci ADKAR Model principles (conceptual alignment)"
+  - "Aligned with Kotter's 8-Step Change Model (public domain concepts)"
 proficiency_levels:
   - level: Awareness
     indicator: Supports change initiatives when directed; adapts personal work habits accordingly.

@@ -1,6 +1,6 @@
 ---
-ksa_id: behavioural_threat_assessment_public_venues
-label: Behavioural-Threat Assessment (Public Venues)
+ksa_id: behavioral_threat_assessment_public_venues
+label: Behavioral-Threat Assessment (Public Venues)
 category: Technical
 sector: public_safety_security
 horizon: emerging
@@ -14,7 +14,7 @@ source_frameworks:
   - "NABITA Threat Assessment Standards"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognises concerning behaviors; documents observations.
+    indicator: Recognizes concerning behaviors; documents observations.
   - level: Basic
     indicator: Applies static/dynamic factors; triages cases; maintains records.
   - level: Intermediate

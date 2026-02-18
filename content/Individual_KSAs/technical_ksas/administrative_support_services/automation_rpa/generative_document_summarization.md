@@ -17,7 +17,7 @@ proficiency_levels:
   - level: Basic
     indicator: Generates summaries for internal memos; reviews output for hallucinations and tone.
   - level: Intermediate
-    indicator: Builds prompt templates with role/context instructions; integrates summariser into document-management workflow.
+    indicator: Builds prompt templates with role/context instructions; integrates summarizer into document-management workflow.
   - level: Advanced
     indicator: Tunes organization-specific retrieval-augmented generation (RAG) pipelines; enforces privacy filters and citation checks.
   - level: Expert

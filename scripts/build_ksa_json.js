@@ -17,9 +17,10 @@ async function build() {
   // 1) Ensure output dir exists (Node ≥10.12)
   fs.mkdirSync(OUT_DIR, { recursive: true });
 
-  // 2) Find all markdown files
-  const files = glob.sync(SRC_GLOB);
-  console.log(`📄  Found ${files.length} file(s):`, files);
+  // 2) Find all markdown files, excluding README.md files
+  const allFiles = glob.sync(SRC_GLOB);
+  const files = allFiles.filter(f => path.basename(f).toLowerCase() !== "readme.md");
+  console.log(`📄  Found ${files.length} KSA file(s) (${allFiles.length - files.length} READMEs excluded)`);
 
   if (!files.length) {
     console.error(`❌  No Markdown found under ${SRC_GLOB}`);

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T19:52:19.856Z",
+  "generated_at": "2026-02-18T20:01:46.140Z",
   "total_ksa_files": 682,
   "total_valid": 682,
   "total_invalid": 0,
@@ -1592,9 +1592,9 @@
       "schema_valid": true
     },
     {
-      "file": "content/Individual_KSAs/technical_ksas/public_safety_security/community_prevention/behavioural_threat_assessment_public_venues.md",
-      "ksa_id": "behavioural_threat_assessment_public_venues",
-      "label": "Behavioural-Threat Assessment (Public Venues)",
+      "file": "content/Individual_KSAs/technical_ksas/public_safety_security/community_prevention/behavioral_threat_assessment_public_venues.md",
+      "ksa_id": "behavioral_threat_assessment_public_venues",
+      "label": "Behavioral-Threat Assessment (Public Venues)",
       "category": "Technical",
       "sector": "public_safety_security",
       "horizon": "emerging",

@@ -10,7 +10,8 @@ cluster_tags:
 description: >
   Addresses and resolves disagreements constructively, fostering collaboration and maintaining positive relationships.
 source_frameworks:
-  - "Conceptual alignment with Thomas-Kilmann and OPM Influencing/Negotiating (public domain)"
+  - "Informed by Thomas-Kilmann Conflict Mode Instrument concepts (public domain)"
+  - "Aligned with interest-based relational approach principles"
 proficiency_levels:
   - level: Awareness
     indicator: Recognizes signs of conflict; avoids escalating tension.

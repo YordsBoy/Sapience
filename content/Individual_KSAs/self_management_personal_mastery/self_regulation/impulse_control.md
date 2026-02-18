@@ -10,6 +10,7 @@ description: >
   Manages impulses and emotions, delaying gratification to pursue long-term goals and maintain constructive behavior under pressure.
 source_frameworks:
   - "Informed by neuroscience-based self-discipline exercises (publicly available)"
+  - "Aligned with Baumeister ego-depletion research concepts"
 proficiency_levels:
   - level: Awareness
     indicator: Pauses briefly before reacting when reminded.

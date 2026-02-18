@@ -10,7 +10,8 @@ cluster_tags:
 description: >
   Builds alliances and collaborative networks among diverse stakeholders to achieve shared objectives.
 source_frameworks:
-  - "Derived from OPM Partnering/Political Savvy competencies (public domain)"
+  - "Based on stakeholder-analysis frameworks (public domain)"
+  - "Aligned with PMI stakeholder-engagement practices"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies key stakeholders; communicates project goals to them when directed.

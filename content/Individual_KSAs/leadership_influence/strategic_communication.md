@@ -11,7 +11,7 @@ description: >
   Delivers clear, persuasive messages tailored to diverse stakeholders to build understanding, alignment, and commitment.
   See also `remote_hybrid_team_leadership` for asynchronous-communication norms that apply in virtual contexts.
 source_frameworks:
-  - "Inspired by U.S. OPM Oral/Written Communication and public strategic-comms models (public domain)"
+  - "Based on OPM ECQ Leading Change communication competencies (public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Conveys basic information accurately; follows communication protocols.
