@@ -1,6 +1,6 @@
 # KSA Inventory Report
 
-**Generated:** Wed, 18 Feb 2026 02:09:13 GMT
+**Generated:** Wed, 18 Feb 2026 02:30:06 GMT
 **Repository:** Sapience
 
 ---
@@ -22,10 +22,10 @@
 
 | Category                                      | Count |
 | --------------------------------------------- | ----- |
-| Technical                                     |   639 |
+| Technical                                     |   637 |
 | Universal Professional                        |    15 |
 | Self Management                               |    15 |
-| Leadership                                    |    13 |
+| Leadership                                    |    15 |
 
 ---
 

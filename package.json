@@ -14,7 +14,9 @@
     "clean": "rimraf .next",
     "build:ksas": "node scripts/build_ksa_json.js",
     "validate:ksas": "npm run build:ksas && node scripts/validate_ksas.js",
-    "inventory:ksas": "node scripts/inventory_ksas.js"
+    "inventory:ksas": "node scripts/inventory_ksas.js",
+    "audit:horizons": "node scripts/audit_horizons.js",
+    "fix:horizons": "node scripts/audit_horizons.js --fix"
   },
   "keywords": [
     "growth",

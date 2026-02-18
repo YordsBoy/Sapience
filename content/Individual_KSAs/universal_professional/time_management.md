@@ -6,19 +6,20 @@ sector: cross_sector
 horizon: perennial
 cluster_tags:
   - "Productivity"
+  - "Organization"
 description: >
-  Prioritizes tasks, allocates time efficiently, and meets deadlines consistently.
+  Prioritizes tasks, allocates time efficiently, and meets deadlines consistently while balancing competing demands.
 source_frameworks:
-  - "Conceptual alignment with O*NET 'Time Management' knowledge area (public domain)"
+  - "Adapted from O*NET Work Style 'Time Management' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Completes tasks by assigned deadlines when schedules are provided.
+    indicator: Follows assigned schedules and meets basic deadlines with supervision.
   - level: Basic
-    indicator: Uses simple tools (to-do lists, calendars) to track and prioritize daily tasks.
+    indicator: Creates simple to-do lists; prioritizes routine tasks; arrives on time.
   - level: Intermediate
-    indicator: Estimates task duration accurately; balances multiple projects; buffers for contingencies.
+    indicator: Uses time-blocking or calendar management; balances multiple projects; adjusts priorities as circumstances change.
   - level: Advanced
-    indicator: Optimizes team schedules; delegates tasks to balance workload; employs techniques (e.g., Pomodoro, time-boxing).
+    indicator: Optimizes team schedules; delegates effectively; builds buffer time for contingencies; models time discipline.
   - level: Expert
-    indicator: Designs organization-wide time-management systems; coaches others on advanced prioritization and throughput optimization.
+    indicator: Designs organizational time-management systems; mentors others; aligns time allocation with strategic priorities.
 ---

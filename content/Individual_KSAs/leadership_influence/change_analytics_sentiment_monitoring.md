@@ -1,7 +1,7 @@
 ---
 ksa_id: change_analytics_sentiment_monitoring
 label: Change Analytics & Sentiment Monitoring
-category: Technical
+category: Leadership
 sector: cross_sector
 horizon: emerging
 cluster_tags:

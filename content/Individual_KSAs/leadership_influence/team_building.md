@@ -1,7 +1,7 @@
 ---
 ksa_id: team_building
 label: Team Leadership & Collaboration
-category: Technical
+category: Leadership
 sector: cross_sector
 horizon: core
 cluster_tags: 

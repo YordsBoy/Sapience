@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-18T02:09:13.235Z",
+  "generated_at": "2026-02-18T02:30:06.263Z",
   "total_ksa_files": 682,
   "total_valid": 682,
   "total_invalid": 0,
   "by_category": {
     "Universal Professional": 15,
-    "Technical": 639,
+    "Technical": 637,
     "Self Management": 15,
-    "Leadership": 13
+    "Leadership": 15
   },
   "by_sector": {
     "cross_sector": 45,
@@ -8075,7 +8075,7 @@
       "file": "content/Individual_KSAs/leadership_influence/team_building.md",
       "ksa_id": "team_building",
       "label": "Team Leadership & Collaboration",
-      "category": "Technical",
+      "category": "Leadership",
       "sector": "cross_sector",
       "horizon": "core",
       "has_cluster_tags": true,
@@ -8231,7 +8231,7 @@
       "file": "content/Individual_KSAs/leadership_influence/change_analytics_sentiment_monitoring.md",
       "ksa_id": "change_analytics_sentiment_monitoring",
       "label": "Change Analytics & Sentiment Monitoring",
-      "category": "Technical",
+      "category": "Leadership",
       "sector": "cross_sector",
       "horizon": "emerging",
       "has_cluster_tags": true,
