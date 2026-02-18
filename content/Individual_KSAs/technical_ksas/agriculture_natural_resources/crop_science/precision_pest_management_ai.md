@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Flies automated scout mission; uploads imagery to cloud model; verifies pest heat-map overlay.
   - level: Intermediate
-    indicator: Trains a local YOLO model on labelled pest images; adjusts flight altitude and overlap for 3 cm/px resolution.
+    indicator: Trains a local YOLO model on labeled pest images; adjusts flight altitude and overlap for 3 cm/px resolution.
   - level: Advanced
     indicator: Integrates AI alerts with variable-rate sprayer; validates reduction in pesticide per hectare; complies with aviation & crop-protection regs.
   - level: Expert

@@ -21,6 +21,6 @@ proficiency_levels:
   - level: Advanced
     indicator: Performs thermal-vac analysis; manages rideshare contract.
   - level: Expert
-    indicator: Leads multi-sat constellation architecture; optimises cost vs
+    indicator: Leads multi-sat constellation architecture; optimizes cost vs
       performance.
 ---

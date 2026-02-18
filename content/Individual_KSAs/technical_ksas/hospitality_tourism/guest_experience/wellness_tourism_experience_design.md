@@ -14,7 +14,7 @@ source_frameworks:
   - "ISPA Spa Standards"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines wellness pillars; recognises contraindications.
+    indicator: Defines wellness pillars; recognizes contraindications.
   - level: Basic
     indicator: Schedules treatments; coordinates healthy menus; tracks guest feedback.
   - level: Intermediate

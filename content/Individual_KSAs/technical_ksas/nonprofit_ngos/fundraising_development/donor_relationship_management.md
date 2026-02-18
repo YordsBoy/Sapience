@@ -14,7 +14,7 @@ source_frameworks:
   - "afp:FundraisingPrinciples"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines LYBUNT, SYBUNT; captures gift data; sends acknowledgement letters within required timelines.
+    indicator: Defines LYBUNT, SYBUNT; captures gift data; sends acknowledgment letters within required timelines.
   - level: Basic
     indicator: Maintains donor records, tracks interactions, and updates preferences in CRM.
   - level: Intermediate

@@ -15,7 +15,7 @@ source_frameworks:
   - "ASQ Six Sigma Body of Knowledge"
 proficiency_levels:
   - level: Awareness
-    indicator: States the five DMAIC phases; recognises normal vs. special-cause variation on a run chart.
+    indicator: States the five DMAIC phases; recognizes normal vs. special-cause variation on a run chart.
   - level: Basic
     indicator: Collects baseline data; plots control charts; calculates Sigma level.
   - level: Intermediate

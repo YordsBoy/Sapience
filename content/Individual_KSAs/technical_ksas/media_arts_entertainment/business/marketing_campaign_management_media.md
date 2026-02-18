@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Builds sprint backlog; sets KPIs; launches A/B ad tests.
   - level: Intermediate
-    indicator: Runs agile stand-ups; optimises ROAS; personalises assets per segment.
+    indicator: Runs agile stand-ups; optimizes ROAS; personalises assets per segment.
   - level: Advanced
     indicator: Integrates cross-channel attribution; automates creative rotation; lifts reach efficiency ≥ 10 %.
   - level: Expert

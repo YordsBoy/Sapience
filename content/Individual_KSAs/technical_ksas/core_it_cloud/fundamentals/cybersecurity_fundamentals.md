@@ -8,7 +8,7 @@ cluster_tags:
   - "Security"
   - "Risk Management"
 description: |
-  Applies core security principles to safeguard confidentiality, integrity, and availability; recognises threats, enforces least-privilege, patches systems, and participates in incident-response processes.
+  Applies core security principles to safeguard confidentiality, integrity, and availability; recognizes threats, enforces least-privilege, patches systems, and participates in incident-response processes.
 source_frameworks:
   - "SFIA v8 — SCTY"
   - "NIST NICE Framework (Protect PR)"
@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Designs layered security architectures, incident-response playbooks, and compliance controls.
   - level: Expert
-    indicator: Leads enterprise security strategy, threat-modelling, and continuous risk-management programmes.
+    indicator: Leads enterprise security strategy, threat-modeling, and continuous risk-management programs.
 ---

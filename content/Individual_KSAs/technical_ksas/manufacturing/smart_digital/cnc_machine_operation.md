@@ -9,7 +9,7 @@ cluster_tags:
   - "Machining"
 description: >
   Sets up, programs, and operates Computer Numerical Control (CNC) lathes,
-  mills, or multi-axis machining centres in accordance with ISO 230 test codes
+  mills, or multi-axis machining centers in accordance with ISO 230 test codes
   and National Institute for Metalworking Skills (NIMS) credential standards.
   Acronyms such as G-code (geometry code) and M-code (machine code) are defined
   at first mention.

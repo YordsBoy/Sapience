@@ -8,7 +8,7 @@ cluster_tags:
   - "Volunteer"
   - "Coordination"
 description: >
-  Assigns tasks, supervises performance, and recognises volunteers using VMS,
+  Assigns tasks, supervises performance, and recognizes volunteers using VMS,
   Slack, and micro-learning modules.
 source_frameworks:
   - "Volunteer Canada Coordination Guide"

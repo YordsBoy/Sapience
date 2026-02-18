@@ -1,9 +1,9 @@
 Non-profit & NGOs
 =================
 
-Civil-society organisations manage **USD 2.3 trillion** in annual revenue and serve billions.  
+Civil-society organizations manage **USD 2.3 trillion** in annual revenue and serve billions.  
 Key standards guide their work: IRS §501(c)(3) governance and Form 990 filing; FASB ASC 958 for finance reporting; OECD-DAC evaluation criteria for evidence‐based programming; Sphere Handbook safeguarding norms; PMD/Project DPro for delivery; and GDPR/CCPA rules for donor data.  
-These **24 KSAs** incorporate that guidance so organisations can govern ethically, raise funds effectively, measure impact rigorously, and protect stakeholders.
+These **24 KSAs** incorporate that guidance so organizations can govern ethically, raise funds effectively, measure impact rigorously, and protect stakeholders.
 
 ## Sub-domain folders
 

@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Performs prior-art search; files provisional; sets docket.
   - level: Intermediate
-    indicator: Conducts FTO; values portfolio; drafts licence term sheet.
+    indicator: Conducts FTO; values portfolio; drafts license term sheet.
   - level: Advanced
     indicator: Integrates IP into R&D gate; mitigates infringement risk; leverages tax incentives.
   - level: Expert

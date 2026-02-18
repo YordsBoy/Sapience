@@ -15,7 +15,7 @@ source_frameworks:
   - "Matterport Digital-Twin Asset-Management Guide (2024)"
 proficiency_levels:
   - level: Awareness
-    indicator: Describes what a digital twin is and how it differs from BIM; recognises basic data flows (IoT → twin dashboard).
+    indicator: Describes what a digital twin is and how it differs from BIM; recognizes basic data flows (IoT → twin dashboard).
   - level: Basic
     indicator: Links sensor streams (temperature, vibration) to a 3-D model; views KPIs (runtime hours, energy use) on a dashboard.
   - level: Intermediate
@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Integrates ISO 55000 lifecycle-cost analysis; deploys twin across multiple facilities with common data environment (CDE) governance.
   - level: Expert
-    indicator: Leads enterprise digital-twin programme; sets data standards and cybersecurity controls; quantifies ROI and carbon-reduction benefits for board reporting.
+    indicator: Leads enterprise digital-twin program; sets data standards and cybersecurity controls; quantifies ROI and carbon-reduction benefits for board reporting.
 ---

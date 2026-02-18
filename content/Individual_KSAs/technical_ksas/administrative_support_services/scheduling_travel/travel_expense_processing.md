@@ -8,7 +8,7 @@ cluster_tags:
   - "Travel"
   - "Expense Management"
 description: >
-  Arranges domestic and international travel, optimising cost and compliance
+  Arranges domestic and international travel, optimizing cost and compliance
   with corporate policies; reconciles expenses using digital expense-reporting
   systems and supports visa or insurance processes.
 source_frameworks:

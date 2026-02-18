@@ -16,7 +16,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Defines ICS roles; identifies common terminology; completes IS‑100 training; describes chain of command.
   - level: Basic
-    indicator: Establishes Incident Command; builds organisation charts; tracks resource status; fills unit-leader role on Type 5 incident; completes 214 log.
+    indicator: Establishes Incident Command; builds organization charts; tracks resource status; fills unit-leader role on Type 5 incident; completes 214 log.
   - level: Intermediate
     indicator: Establishes ICP; develops Incident Action Plans (IAPs) and maintains IAP cycle; chairs briefings; deploys mutual aid.
   - level: Advanced

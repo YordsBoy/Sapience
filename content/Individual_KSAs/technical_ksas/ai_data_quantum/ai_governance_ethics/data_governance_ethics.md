@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Leads governance programs, aligns with international regulations, and embeds ethical checkpoints in AI workflows.
   - level: Expert
-    indicator: Chairs data-ethics boards, sets organisational policy, and influences external standards bodies.
+    indicator: Chairs data-ethics boards, sets organizational policy, and influences external standards bodies.
 ---

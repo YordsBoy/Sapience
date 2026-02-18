@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Conducts site assessments; designs electrical layouts, protections, and grounding; models wake effects; develops single‑line diagrams.
   - level: Advanced
-    indicator: Integrates battery storage; performs grid‑impact studies; optimises levelized cost of energy (LCOE); secures permits.
+    indicator: Integrates battery storage; performs grid‑impact studies; optimizes levelized cost of energy (LCOE); secures permits.
   - level: Expert
     indicator: Leads utility‑scale project design; secures interconnection approvals; publishes renewable‑design research.
 ---

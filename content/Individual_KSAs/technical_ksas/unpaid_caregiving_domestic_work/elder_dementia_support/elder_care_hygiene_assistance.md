@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Preps supplies; uses gloves; assists with sponge baths; checks water temperature; applies barrier creams.
   - level: Intermediate
-    indicator: Adapts techniques for limited mobility; uses gait belts; recognises skin‑breakdown risks; prevents pressure sores; supports toileting schedule; documents changes.
+    indicator: Adapts techniques for limited mobility; uses gait belts; recognizes skin‑breakdown risks; prevents pressure sores; supports toileting schedule; documents changes.
   - level: Advanced
     indicator: Implements individualized care plans; trains family members; Adapts bathroom with grab bars; consults OT; monitors infection indicators; reduces UTI incidence.
   - level: Expert

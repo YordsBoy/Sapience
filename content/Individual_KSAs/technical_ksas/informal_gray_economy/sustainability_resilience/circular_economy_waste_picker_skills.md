@@ -14,7 +14,7 @@ source_frameworks:
   - "World Bank Waste-to-Worth Toolkit"
 proficiency_levels:
   - level: Awareness
-    indicator: Classifies plastic codes; recognises safety gear.
+    indicator: Classifies plastic codes; recognizes safety gear.
   - level: Basic
     indicator: Uses clean-bags; weighs materials; sells to aggregator.
   - level: Intermediate

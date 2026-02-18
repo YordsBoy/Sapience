@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Integrates real-time IoT data for dynamic rescheduling; aligns S&OP with Lean takt.
   - level: Expert
-    indicator: Designs end-to-end supply network optimisation; mentors planners; aligns digital-twin what-if scenarios.
+    indicator: Designs end-to-end supply network optimization; mentors planners; aligns digital-twin what-if scenarios.
 ---

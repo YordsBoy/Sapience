@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced  
     indicator: Coordinates the rollout of new open banking features; implements updates to API platforms for compliance or new services; handles incident responses for API outages or breaches.  
   - level: Expert  
-    indicator: Architects the bank’s open API ecosystem strategy; ensures full regulatory compliance and influences industry standards; optimises partnership opportunities via open banking while safeguarding data (in line with PSD2 best practices).  
+    indicator: Architects the bank’s open API ecosystem strategy; ensures full regulatory compliance and influences industry standards; optimizes partnership opportunities via open banking while safeguarding data (in line with PSD2 best practices).  
 ---  

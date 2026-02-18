@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Builds hybrid pipelines with ontologies (OWL/RDF) and deep embeddings; debugs symbol grounding errors; measures accuracy vs. logic coverage.
   - level: Advanced
-    indicator: Implements neuro-symbolic training loops that learn and revise rules from data; optimises reasoning latency in PyTorch-based graphs; documents assurance cases per DARPA ANSR guidelines.
+    indicator: Implements neuro-symbolic training loops that learn and revise rules from data; optimizes reasoning latency in PyTorch-based graphs; documents assurance cases per DARPA ANSR guidelines.
   - level: Expert
     indicator: Publishes new neuro-symbolic architectures; leads enterprise adoption for safety-critical domains; influences standards for explainable hybrid AI systems.
 ---

@@ -14,7 +14,7 @@ source_frameworks:
   - "Federal CIO Council Digital Services Playbook"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines each ECQ; recognises agile terminology; understands executive‑order mandates for digital services.
+    indicator: Defines each ECQ; recognizes agile terminology; understands executive‑order mandates for digital services.
   - level: Basic
     indicator: Leads small cross‑functional digital projects; applies human‑centred design; communicates change vision.
   - level: Intermediate

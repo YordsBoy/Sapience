@@ -15,7 +15,7 @@ source_frameworks:
   - "Design Thinking for Services (DT4S)"
 proficiency_levels:
   - level: Awareness
-    indicator: Greets client; lists open‑ended questions; records basic preferences; summarises agreed services.
+    indicator: Greets client; lists open‑ended questions; records basic preferences; summarizes agreed services.
   - level: Basic
     indicator: Utilises consultation forms; performs patch test; explains options & service outcomes; confirms price sets; gains informed consent for treatments.
   - level: Intermediate

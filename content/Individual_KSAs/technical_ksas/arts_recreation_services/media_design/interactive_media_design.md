@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Basic
     indicator: Builds simple interactive scenes; applies navigation controls.
   - level: Intermediate
-    indicator: Integrates spatial audio, haptics; runs user testing; optimises performance.
+    indicator: Integrates spatial audio, haptics; runs user testing; optimizes performance.
   - level: Advanced
     indicator: Leads cross-disciplinary teams; implements multi-user networking; ensures accessibility.
   - level: Expert

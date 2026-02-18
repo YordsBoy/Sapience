@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Employs visual cues; uses reality-orientation cues; maintains eye contactvalidates emotions; leads simple reminiscence.
   - level: Intermediate
-    indicator: Designs Montessori tasks; redirects challenging behaviours; tracks mood changes; employs validation phrases; manages sundowning behaviors.
+    indicator: Designs Montessori tasks; redirects challenging behaviors; tracks mood changes; employs validation phrases; manages sundowning behaviors.
   - level: Advanced
     indicator: Crafts personalised engagement plans; designs meaningful activities; tracks agitation triggers; coaches co‑caregivers; collaborates with clinicians; updates care plan.
   - level: Expert

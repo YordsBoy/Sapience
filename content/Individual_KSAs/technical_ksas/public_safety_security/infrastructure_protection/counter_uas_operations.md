@@ -16,7 +16,7 @@ source_frameworks:
   - "ASTM F3325‑20 UAS Detection Standard"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies UAS threats; recognises detection technologies; observes legal constraints.
+    indicator: Identifies UAS threats; recognizes detection technologies; observes legal constraints.
   - level: Basic
     indicator: Deploys RF scanners; maps geo‑fencing zones; logs drone sightings; classifies drone; escalates alert.
   - level: Intermediate
@@ -24,5 +24,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Implements mitigation (jamming, net guns) where authorised; conducts red‑team testing; logs evidence; tests SOP; briefs stakeholders.
   - level: Expert
-    indicator: Develops counter‑UAS policy; leads national programmes; publishes threat assessments.
+    indicator: Develops counter‑UAS policy; leads national programs; publishes threat assessments.
 ---

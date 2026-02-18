@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Coordinates responses across several channels; uses omnichannel platform features (ticket merging, channel switching) to manage customer issues.  
   - level: Advanced  
-    indicator: Sets up and optimises omnichannel workflows; integrates a new channel (e.g. social or chatbot) into support operations; monitors KPI across channels for consistency.  
+    indicator: Sets up and optimizes omnichannel workflows; integrates a new channel (e.g. social or chatbot) into support operations; monitors KPI across channels for consistency.  
   - level: Expert  
     indicator: Develops the company’s omnichannel customer service strategy; implements cutting-edge solutions (AI-driven chat, unified customer profiles) in line with best-practice guidelines (e.g. ITU standards); trains team for seamless multi-channel support.  
 ---  

@@ -13,7 +13,7 @@ source_frameworks:
   - "USDA Natural Resources Conservation Service smart-irrigation notes (public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Monitors basic drip or sprinkler timers; recognises signs of water stress.
+    indicator: Monitors basic drip or sprinkler timers; recognizes signs of water stress.
   - level: Basic
     indicator: Reads soil-moisture sensors; adjusts schedules manually; checks emitters for clogs.
   - level: Intermediate

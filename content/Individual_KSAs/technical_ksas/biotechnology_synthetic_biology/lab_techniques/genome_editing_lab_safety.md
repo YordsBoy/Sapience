@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Designs gRNAs; executes off‑target analysis (TIDE); applies personal protective equipment (PPE); maintains Electronic Lab Notebooks (ELN); secures IBC approval.
   - level: Advanced
-    indicator: Leads multi-guide or multiplex editing; optimises CRISPR efficiency via ribonucleoprotein (RNP) delivery; conducts risk assessments; oversees IBC submissions.
+    indicator: Leads multi-guide or multiplex editing; optimizes CRISPR efficiency via ribonucleoprotein (RNP) delivery; conducts risk assessments; oversees IBC submissions.
   - level: Expert
     indicator: Leads multi‐gene editing programs; shapes genome‐editing biosafety policy; publishes high‑impact protocols; guides clinical translation.
 ---

@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Utilises batch‑minting; manages on‑chain metadata updates; executes cross‑chain bridge transfers.
   - level: Advanced
-    indicator: Automates royalty splits via smart contracts; audits metadata per ERC‑4907; integrates dynamic NFTs (dNFTs); batch-mint gas-optimisation.
+    indicator: Automates royalty splits via smart contracts; audits metadata per ERC‑4907; integrates dynamic NFTs (dNFTs); batch-mint gas-optimization.
   - level: Expert
     indicator: Designs DAO‑governed curation protocols and on-chain licensing frameworks; coordinates large‑scale NFT migrations; advises on copyright and tax for digital collectibles.
 ---

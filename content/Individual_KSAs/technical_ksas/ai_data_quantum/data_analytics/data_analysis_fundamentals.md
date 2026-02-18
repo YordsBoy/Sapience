@@ -24,5 +24,5 @@ proficiency_levels:
       stakeholders.
   - level: Expert
     indicator: Designs complex analytical studies, mentors others in statistical reasoning, and
-      governs analytical best practices organisation-wide.
+      governs analytical best practices organization-wide.
 ---

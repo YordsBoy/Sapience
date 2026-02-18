@@ -8,7 +8,7 @@ cluster_tags:
   - "Livestock"
   - "IoT"
 description: >
-  Applies sensors, computer vision, and automation to monitor animal health, welfare, and productivity, optimising feed, environment, and early disease detection.
+  Applies sensors, computer vision, and automation to monitor animal health, welfare, and productivity, optimizing feed, environment, and early disease detection.
 source_frameworks:
   - "USDA livestock-monitoring research (public domain)"
 proficiency_levels:

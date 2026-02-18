@@ -15,7 +15,7 @@ source_frameworks:
   - "SafeService Alliance Trust & Safety Framework"
 proficiency_levels:
   - level: Awareness
-    indicator: Verifies identity; lists risks; enables location-sharing; follows check‑in/out procedures; recognises red‑flag behaviours.
+    indicator: Verifies identity; lists risks; enables location-sharing; follows check‑in/out procedures; recognizes red‑flag behaviors.
   - level: Basic
     indicator: Verifies client ID; sets check-in calls; stores emergency contacts; conducts background checks; provides safety briefings; documents incidents.
   - level: Intermediate

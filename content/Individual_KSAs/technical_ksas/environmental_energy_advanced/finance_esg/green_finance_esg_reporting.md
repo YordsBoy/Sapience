@@ -15,7 +15,7 @@ source_frameworks:
   - "GRI Standards 2024"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines green‑finance instruments; lists ESG metrics; recognises investor expectations.
+    indicator: Defines green‑finance instruments; lists ESG metrics; recognizes investor expectations.
   - level: Basic
     indicator: Compiles ESG data; calculates KPI baselines; drafts TCFD-aligned climate disclosures; tracks KPIs.
   - level: Intermediate

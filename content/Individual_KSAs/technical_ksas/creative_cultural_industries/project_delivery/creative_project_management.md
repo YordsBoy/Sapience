@@ -16,7 +16,7 @@ source_frameworks:
   - "Agile Manifesto & Scrum Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines scope, schedule, and milestone; recognises Agile vs. waterfall. Creates task lists; maintains project calendars; tracks simple budgets.
+    indicator: Defines scope, schedule, and milestone; recognizes Agile vs. waterfall. Creates task lists; maintains project calendars; tracks simple budgets.
   - level: Basic
     indicator: Builds task board; tracks burndown; records change-requests;Facilitates stand‑up meetings; manages Kanban boards; identifies project risks.
   - level: Intermediate
@@ -24,5 +24,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Leads multi‑disciplinary teams; applies critical‑chain project management; measures Earned Value.
   - level: Expert
-    indicator: Establishes program‑management offices for creative organisations; advises on innovation funding; publishes creative‑PM frameworks; mentors producers and project owners.
+    indicator: Establishes program‑management offices for creative organizations; advises on innovation funding; publishes creative‑PM frameworks; mentors producers and project owners.
 ---

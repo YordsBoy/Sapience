@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Aligns patent-roadmap to roadmap; manages trade secrets; tracks KPIs.
   - level: Advanced
-    indicator: Integrates IP into portfolio dashboard; conducts periodic audits; monetises licences.
+    indicator: Integrates IP into portfolio dashboard; conducts periodic audits; monetises licenses.
   - level: Expert
     indicator: Leads ISO 56005 certification; mentors innovation PMO; influences policy debates.
 ---

@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Digital Campaign"
   - "Strategy"
-description: Planning, executing, and optimising multi‑channel digital campaigns—email, social media, peer‑to‑peer—to raise awareness, drive advocacy, and convert supporters, using data analytics and A/B testing.
+description: Planning, executing, and optimizing multi‑channel digital campaigns—email, social media, peer‑to‑peer—to raise awareness, drive advocacy, and convert supporters, using data analytics and A/B testing.
 source_frameworks:
   - "Google Ad Grants Policy Guide"
   - "Google Ad Grants Online Marketing Guide"
@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Basic
     indicator: Segments mailing lists; sets up landing pages; runs A/B tests on subject lines; sets up UTM tracking; launches ad set; measures reach..
   - level: Intermediate
-    indicator: Utilises pixel tracking; tests creative; optimises conversion funnels; employs influencer outreach.
+    indicator: Utilises pixel tracking; tests creative; optimizes conversion funnels; employs influencer outreach.
   - level: Advanced
     indicator: Integrates analytics; deploys marketing automation; applies predictive lead‑scoring; aligns digital KPIs with fundraising goals.
   - level: Expert

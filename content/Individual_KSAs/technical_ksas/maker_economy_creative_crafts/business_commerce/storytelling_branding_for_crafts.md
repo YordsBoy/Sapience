@@ -15,7 +15,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Defines brand values; identifies target persona.
   - level: Basic
-    indicator:  Writes origin story; selects colour palette; applies logo consistently.
+    indicator:  Writes origin story; selects color palette; applies logo consistently.
   - level: Intermediate
     indicator: Produces photo & video storytelling; schedules social content; engages followers; aligns packaging, booth, and online visuals with brand story.
   - level: Advanced

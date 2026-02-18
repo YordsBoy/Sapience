@@ -14,20 +14,20 @@
 
 ## KSA Inventory
 
-- **adaptability** – *Adaptability* (perennial) – Adjusts effectively to changing environments and priorities.
-- **critical_thinking** – *Critical Thinking* (perennial) – Uses reasoning to analyze facts and solve problems.
-- **emotional_intelligence** – *Emotional Intelligence* (perennial) – Manages one’s own emotions and understands others’ emotions.
-- **resilience** – *Resilience* (perennial) – Recovers from setbacks and remains effective under pressure.
-- **collaboration** – *Collaboration* (perennial) – Works cooperatively with others to achieve shared goals.
-- **self_motivation** – *Self-Motivation* (perennial) – Proactively initiates action and sustains effort toward goals.
-- **learning_agility** – *Learning Agility* (perennial) – Rapidly acquires and applies new knowledge in evolving contexts.
 - **accountability** – *Accountability* (perennial) – Takes responsibility for actions and upholds ethical standards.
+- **adaptability** – *Adaptability* (perennial) – Adjusts effectively to changing environments and priorities.
 - **attention_detail** – *Attention to Detail* (perennial) – Ensures accuracy and thoroughness in work.
-- **initiative** – *Initiative* (perennial) – Takes proactive action to improve outcomes without prompting.
+- **collaboration** – *Collaboration* (perennial) – Works cooperatively with others to achieve shared goals.
+- **creative_thinking** – *Creative Thinking* (perennial) – Develops innovative ideas and solutions.
+- **critical_thinking** – *Critical Thinking* (perennial) – Uses reasoning to analyze facts and solve problems.
 - **digital_literacy** – *Digital Literacy* (perennial) – Uses and evaluates digital tools for productivity and problem-solving.
+- **effective_communication** – *Effective Communication* (perennial) – Conveys information clearly and listens actively.
+- **emotional_intelligence** – *Emotional Intelligence* (perennial) – Manages one's own emotions and understands others' emotions.
+- **initiative** – *Initiative* (perennial) – Takes proactive action to improve outcomes without prompting.
+- **learning_agility** – *Learning Agility* (perennial) – Rapidly acquires and applies new knowledge in evolving contexts.
 - **professionalism** – *Professionalism* (perennial) – Demonstrates integrity, reliability, and respectful conduct.
-- **creative_thinking** – *Creative Thinking* (perennial) – Develops innovative ideas and solutions. 
-- **effective_communication** – *Effective Communication* (perennial) – Conveys information clearly and listens actively. 
+- **resilience** – *Resilience* (perennial) – Recovers from setbacks and remains effective under pressure.
+- **self_motivation** – *Self-Motivation* (perennial) – Proactively initiates action and sustains effort toward goals.
 - **time_management** – *Time Management* (perennial) – Prioritizes tasks, allocates time efficiently, and meets deadlines consistently.
 
 ## Referenced Frameworks & Sources

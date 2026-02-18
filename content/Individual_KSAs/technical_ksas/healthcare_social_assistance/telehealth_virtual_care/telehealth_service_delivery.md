@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Integrates remote patient monitoring (RPM) devices, monitors data alerts, and complies with licensure/payment policies.
   - level: Advanced
-    indicator: Leads telehealth program expansion; optimises virtual-first models; evaluates clinical outcomes; standardizes workflows; manages licensure compacts.
+    indicator: Leads telehealth program expansion; optimizes virtual-first models; evaluates clinical outcomes; standardizes workflows; manages licensure compacts.
   - level: Expert
     indicator: Develops enterprise telehealth strategy; secures interstate partnerships, and pioneers hybrid-care models.
 ---

@@ -14,7 +14,7 @@ source_frameworks:
   - "osha:MachineGuarding"
 proficiency_levels:
   - level: Awareness
-    indicator: Performs basic cleaning after tool use; recognises wear parts; logs run-hours.
+    indicator: Performs basic cleaning after tool use; recognizes wear parts; logs run-hours.
   - level: Basic
     indicator: Cleans machines; changes consumables; updates checklist; follows checklists for blade/bit replacement and lubing.
   - level: Intermediate

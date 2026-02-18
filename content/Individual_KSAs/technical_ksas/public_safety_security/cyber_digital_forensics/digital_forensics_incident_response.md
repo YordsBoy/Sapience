@@ -7,13 +7,13 @@ horizon: core
 cluster_tags:
   - "DFIR"
   - "Forensics"
-description: Collecting, preserving, and analysing digital evidence, conducting incident response, and testifying in court, aligning with NIST SP 800‑86 and SWGDE best practices.
+description: Collecting, preserving, and analyzing digital evidence, conducting incident response, and testifying in court, aligning with NIST SP 800‑86 and SWGDE best practices.
 source_frameworks:
   - "NIST SP 800-101"
   - "SWGDE Digital Forensics Guidelines"
 proficiency_levels:
   - level: Awareness
-    indicator: Uses write blockers; documents chain‑of‑custody; captures volatile data; recognises hash functions.
+    indicator: Uses write blockers; documents chain‑of‑custody; captures volatile data; recognizes hash functions.
   - level: Basic
     indicator: Acquires disk images; parses logs; identifies indicators of compromise (IOCs); calculates SHA-256; documents seizure.
   - level: Intermediate

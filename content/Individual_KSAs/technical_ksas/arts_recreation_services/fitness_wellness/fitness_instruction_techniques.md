@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Integrates tech wearables; coaches motivational interviewing; mitigates injury risks.
   - level: Expert
-    indicator: Designs organisation-wide training curricula; researches emerging modalities.
+    indicator: Designs organization-wide training curricula; researches emerging modalities.
 ---

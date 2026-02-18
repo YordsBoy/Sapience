@@ -21,5 +21,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Leads security-incident response; integrates vulnerability testing; audits logs and DLP tools; trains workforce.
   - level: Expert
-    indicator: Leads organisation-wide HIPAA compliance and OCR investigations; aligns with international standards; influences policy.
+    indicator: Leads organization-wide HIPAA compliance and OCR investigations; aligns with international standards; influences policy.
 ---

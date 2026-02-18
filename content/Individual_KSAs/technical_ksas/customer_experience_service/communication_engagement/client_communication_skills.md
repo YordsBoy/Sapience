@@ -16,7 +16,7 @@ source_frameworks:
   - "Customer Experience Professionals Association (CXPA) Competency Framework"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines tone-of-voice guidelines; recognises data-privacy rules.
+    indicator: Defines tone-of-voice guidelines; recognizes data-privacy rules.
   - level: Basic
     indicator: Uses active-listening prompts; captures call notes accurately; follows call-closing protocol.
   - level: Intermediate

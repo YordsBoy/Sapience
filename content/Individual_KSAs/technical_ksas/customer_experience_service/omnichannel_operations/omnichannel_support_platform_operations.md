@@ -10,13 +10,13 @@ cluster_tags:
   - "Omnichannel"
   - "Support Technology"
   - "Contact Centre"
-description: Configuring, optimising, and maintaining omnichannel support platforms—voice, chat, messaging, social, and self‑service—to deliver seamless customer experiences and real‑time context hand‑offs.
+description: Configuring, optimizing, and maintaining omnichannel support platforms—voice, chat, messaging, social, and self‑service—to deliver seamless customer experiences and real‑time context hand‑offs.
 source_frameworks:
   - "ITIL 4 Incident Management"
   - "COPC CX Standard – Technology Management"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies supported channels; navigates agent desktop; recognises customer‑identity pop‑ups.
+    indicator: Identifies supported channels; navigates agent desktop; recognizes customer‑identity pop‑ups.
   - level: Basic
     indicator: Configures routing rules; updates knowledge‑base articles; monitors basic service‑level objectives (SLOs).
   - level: Intermediate

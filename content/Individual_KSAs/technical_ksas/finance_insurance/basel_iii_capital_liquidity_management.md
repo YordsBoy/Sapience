@@ -5,7 +5,7 @@ category: Technical
 sector: finance_insurance
 horizon: core
 cluster_tags: ["Basel III","Capital Adequacy","Liquidity Risk"]
-description: Calculating and optimising risk‑weighted assets (RWA), capital buffers, and liquidity ratios under the Basel III regulatory framework to ensure banking‑sector resilience.
+description: Calculating and optimizing risk‑weighted assets (RWA), capital buffers, and liquidity ratios under the Basel III regulatory framework to ensure banking‑sector resilience.
 source_frameworks: ["Bank for International Settlements (BIS) Basel III Framework"]
 proficiency_levels:
   - level: Awareness
@@ -17,5 +17,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Optimises balance‑sheet structure; manages Basel capital deductions; aligns interest‑rate‑risk in banking book (IRRBB) metrics.
   - level: Expert
-    indicator: Leads Basel regulatory‑change programmes; interfaces with supervisory authorities; publishes capital‑planning methodologies.
+    indicator: Leads Basel regulatory‑change programs; interfaces with supervisory authorities; publishes capital‑planning methodologies.
 ---

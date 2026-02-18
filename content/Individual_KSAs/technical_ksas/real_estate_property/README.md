@@ -1,13 +1,13 @@
 Real Estate & Property
 ======================
 
-Commercial real-estate professionals increasingly juggle **data-driven market analysis, ESG retrofits, prop-tech cyber-security, and complex financing**. The RICS Red Book remains the cornerstone for valuation integrity. BOMA 2021 floor-measurement standards underpin area calculations critical to leases and cash-flows. LEED v4.1 and ISO 41001 anchor sustainability and facility-management systems, while CCIM’s market-analysis framework and Site To Do Business toolkit fuel investment decisions. ASTM E1527-21 guides environmental due-diligence, and IREM’s CPM® programme sets operational excellence benchmarks. The new KSAs add green-building certification management, affordable-housing finance, prop-tech cyber-security, and transaction due-diligence to keep skills future-ready.
+Commercial real-estate professionals increasingly juggle **data-driven market analysis, ESG retrofits, prop-tech cyber-security, and complex financing**. The RICS Red Book remains the cornerstone for valuation integrity. BOMA 2021 floor-measurement standards underpin area calculations critical to leases and cash-flows. LEED v4.1 and ISO 41001 anchor sustainability and facility-management systems, while CCIM’s market-analysis framework and Site To Do Business toolkit fuel investment decisions. ASTM E1527-21 guides environmental due-diligence, and IREM’s CPM® program sets operational excellence benchmarks. The new KSAs add green-building certification management, affordable-housing finance, prop-tech cyber-security, and transaction due-diligence to keep skills future-ready.
 
 ## Folder overview
 
 | Folder | Focus |
 |--------|-------|
-| **market_analysis_investment/** | Market, analytics, modelling, diligence, affordable-housing |
+| **market_analysis_investment/** | Market, analytics, modeling, diligence, affordable-housing |
 | **valuation_appraisal/** | RICS/USPAP valuation practice |
 | **brokerage_lease/** | Brokerage law, ethics, lease negotiation |
 | **property_facility_management/** | Operations, maintenance, smart-building, cyber-security |

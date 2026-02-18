@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Integrates WMS via API; creates traffic-control rules; tracks OEE.
   - level: Advanced
-    indicator: Runs swarm optimisation; reduces pick time 25 %; trains staff.
+    indicator: Runs swarm optimization; reduces pick time 25 %; trains staff.
   - level: Expert
     indicator: Leads multi-site automation; mentors engineers; wins MHI award.
 ---

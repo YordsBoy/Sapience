@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Implements multiview, hand-tracking, and secure-context checks.
   - level: Advanced
-    indicator: Integrates service-workers for offline assets; optimises shaders
+    indicator: Integrates service-workers for offline assets; optimizes shaders
       with WebGPU.
   - level: Expert
     indicator: Leads cross-platform WebXR PWA strategy; contributes to WebXR spec.

@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Manages daily e-commerce operations alongside the store (monitors online sales, adjusts in-store staffing for pickup rush hours); coordinates with warehouse or suppliers to keep both store and online stock replenished; handles basic customer inquiries that move between channels (like return an online purchase in store).  
   - level: Advanced  
-    indicator: Implements new omnichannel services (curbside pickup, ship-from-store); utilises analytics from each channel to optimize product placement and marketing; ensures the technology platforms (POS, e-commerce site, inventory system) are integrated and data is consistent; follows NRF best practices for unified commerce.  
+    indicator: Implements new omnichannel services (curbside pickup, ship-from-store); utilizes analytics from each channel to optimize product placement and marketing; ensures the technology platforms (POS, e-commerce site, inventory system) are integrated and data is consistent; follows NRF best practices for unified commerce.  
   - level: Expert  
     indicator: Develops omnichannel strategy at a regional or company level; leads digital transformation projects for a retail chain; ensures a single view of inventory and customer for the organization; stays at the forefront of retail tech innovations and possibly contributes to industry playbooks or case studies on successful omnichannel integration.  
 ---  

@@ -20,6 +20,6 @@ proficiency_levels:
   - level: Intermediate
     indicator: Uses telematics/fuel cards; allocates per shipment; validates GLEC.
   - level: Advanced
-    indicator: Models modal shift; optimises routes; achieves 15 % CO₂ cut.
+    indicator: Models modal shift; optimizes routes; achieves 15 % CO₂ cut.
   - level: Expert
     indicator: Leads net-zero roadmap; mentors sustainability team; publishes CSR report.

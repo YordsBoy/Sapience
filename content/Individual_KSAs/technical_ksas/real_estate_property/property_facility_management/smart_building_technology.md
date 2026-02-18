@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic  
     indicator: Assists in using a property management app or dashboard (e.g., checking sensor readings, adjusting settings per instructions); can explain features of a smart home/building to tenants (like how to use a smart thermostat); adds sensor; configures trend log; sets alerts.
   - level: Intermediate  
-    indicator: Configures and maintains building IoT systems (sets schedules for smart HVAC, monitors security camera feeds remotely); uses data from PropTech platforms to identify issues (unusually high energy use, etc.) and suggests improvements; applies rule-based optimisation; tracks KPI.  
+    indicator: Configures and maintains building IoT systems (sets schedules for smart HVAC, monitors security camera feeds remotely); uses data from PropTech platforms to identify issues (unusually high energy use, etc.) and suggests improvements; applies rule-based optimization; tracks KPI.  
   - level: Advanced  
     indicator: Integrates multiple smart systems into a unified platform; optimizes building operations through tech (e.g., automates energy savings measures); liaises with PropTech vendors to implement upgrades and ensures building meets WiredScore or similar smart building standards; implements predictive maintenance; integrates BIM twin; verifies ROI.  
   - level: Expert  

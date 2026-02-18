@@ -16,7 +16,7 @@ source_frameworks:
   - "ITU‑T M.2120 Radio Performance KPIs"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads key RAN KPIs (RSRP, SINR); identifies neighbour cells; recognises SON functions.
+    indicator: Reads key RAN KPIs (RSRP, SINR); identifies neighbour cells; recognizes SON functions.
   - level: Basic
     indicator: Conducts drive‑test analysis; adjusts handover thresholds; runs automatic‑neighbour‑relation (ANR) scripts; triggers coverage/capacity optimization.
   - level: Intermediate

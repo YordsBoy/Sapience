@@ -21,5 +21,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Coaches peers on strategy selection; measures learning return on investment (ROI) for projects.
   - level: Expert
-    indicator: Embeds metacognitive routines in organisational learning systems; innovates new reflection frameworks for complex problem-solving.
+    indicator: Embeds metacognitive routines in organizational learning systems; innovates new reflection frameworks for complex problem-solving.
 ---

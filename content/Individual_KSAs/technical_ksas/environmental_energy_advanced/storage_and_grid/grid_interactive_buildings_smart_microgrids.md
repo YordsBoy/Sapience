@@ -8,7 +8,7 @@ cluster_tags:
   - "Smart Grid"
   - "Buildings"
 description: >
-  Deploys demand-flexibility technologies (BEMS, V2G, thermal storage) that interact with markets and microgrids; uses transactive controls to optimise cost, carbon, and resilience.
+  Deploys demand-flexibility technologies (BEMS, V2G, thermal storage) that interact with markets and microgrids; uses transactive controls to optimize cost, carbon, and resilience.
 source_frameworks:
   - "DOE Grid-Interactive Efficient Buildings"
 proficiency_levels:

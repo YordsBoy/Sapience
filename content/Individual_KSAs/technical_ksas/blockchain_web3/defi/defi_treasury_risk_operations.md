@@ -14,7 +14,7 @@ source_frameworks:
   - "Chainalysis DeFi Risk Report 2024"
 proficiency_levels:
   - level: Awareness
-    indicator: Tracks TVL and basic APY metrics on dashboards; tracks liquidity‑pool (LP) token balances; recognises basic impermanent‑loss concepts.
+    indicator: Tracks TVL and basic APY metrics on dashboards; tracks liquidity‑pool (LP) token balances; recognizes basic impermanent‑loss concepts.
   - level: Basic
     indicator: Executes liquidity-rebalancing; diversifies treasury across stablecoins and blue‑chip assets; employs multi‑sig wallets; monitors on‑chain price oracles.
   - level: Intermediate

@@ -15,9 +15,9 @@ source_frameworks:
   - "World Intellectual Property Organization (WIPO) IP Monetisation Toolkit"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Lists basic revenue models; differentiates CC licence types; recognizes basic ways creatives earn income (sales, commissions, licensing, crowdfunding).  
+    indicator: Lists basic revenue models; differentiates CC license types; recognizes basic ways creatives earn income (sales, commissions, licensing, crowdfunding).  
   - level: Basic  
-    indicator: Prices products; sets up an online portfolio or shop; selects an appropriate CC or proprietary licence; uses social media to share work and engage a small audience.  
+    indicator: Prices products; sets up an online portfolio or shop; selects an appropriate CC or proprietary license; uses social media to share work and engage a small audience.  
   - level: Intermediate  
     indicator: Implements multiple monetization streams (e.g. Patreon subscriptions, merchandise, licensing deals); understands IP basics to protect work; calculates break-even; negotiates platform fees; launches a successful crowdfunding or NFT drop.  
   - level: Advanced  

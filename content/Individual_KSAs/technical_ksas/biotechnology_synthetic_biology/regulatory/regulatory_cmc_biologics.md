@@ -17,7 +17,7 @@ proficiency_levels:
   - level: Basic
     indicator: Drafts process descriptions; compiles raw‑material specs; tracks deviations.
   - level: Intermediate
-    indicator: Authors CMC subsections; validates analytical methods; performs comparability studies; coordinates stability programmes.
+    indicator: Authors CMC subsections; validates analytical methods; performs comparability studies; coordinates stability programs.
   - level: Advanced
     indicator: Manages full CMC packages; authors Module 3 CTD; interfaces with regulators; manages change control.
   - level: Expert

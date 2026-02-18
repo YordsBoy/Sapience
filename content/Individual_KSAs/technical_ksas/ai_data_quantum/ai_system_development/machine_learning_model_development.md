@@ -8,7 +8,7 @@ cluster_tags:
   - "Machine Learning"
   - "Modeling"
 description: >
-  Builds, trains, and tunes ML models (regression, classification, clustering, deep learning) using appropriate algorithms and frameworks; iterates to optimise performance and
+  Builds, trains, and tunes ML models (regression, classification, clustering, deep learning) using appropriate algorithms and frameworks; iterates to optimize performance and
   generalisation.
 source_frameworks:
   - "Coursera ML Foundations Syllabus"

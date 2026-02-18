@@ -15,11 +15,11 @@ source_frameworks:
   - "ITU‑R S.2460 Propagation Models"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines NTN types; recognises propagation delays; lists use cases.
+    indicator: Defines NTN types; recognizes propagation delays; lists use cases.
   - level: Basic
     indicator: Configures satellite backhaul; simulates link budgets; tests attach; measures SNR;tracks Doppler shifts.
   - level: Intermediate
-    indicator: Implements hybrid‑handovers; tunes HARQ process; compensates Doppler; aligns RRC timers; optimises QoS mapping; tests NB‑IoT NTN waveforms.
+    indicator: Implements hybrid‑handovers; tunes HARQ process; compensates Doppler; aligns RRC timers; optimizes QoS mapping; tests NB‑IoT NTN waveforms.
   - level: Advanced
     indicator: Designs multi‑orbit architectures; manages spectrum coordination; iImplements slice continuity ground-space; verifies roaming; meets QoS class; analyzes capacity trade‑offs.
   - level: Expert

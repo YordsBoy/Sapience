@@ -16,7 +16,7 @@ source_frameworks:
   - "SAE AVSC000012 Fleet Operations"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains autonomy levels; monitors tele‑operation dashboards; recognises fail‑safe states; describes CSMS; logs ODD.
+    indicator: Explains autonomy levels; monitors tele‑operation dashboards; recognizes fail‑safe states; describes CSMS; logs ODD.
   - level: Basic
     indicator: Executes vehicle mission planning; tracks remote operator ratio; collects disengagement data; performs pre‑trip safety checks.
   - level: Intermediate

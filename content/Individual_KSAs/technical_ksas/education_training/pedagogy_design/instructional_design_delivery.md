@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced  
     indicator: Aligns with accreditation standards; runs usability and accessibility audits; implements assessment techniques and continuously improves programs based on feedback and learning outcomes.  
   - level: Expert  
-    indicator: Leads organizational learning strategy and design, develops advanced training programs, publishes design researc, and mentors other instructors or trainers in best practices.  
+    indicator: Leads organizational learning strategy and design, develops advanced training programs, publishes design research, and mentors other instructors or trainers in best practices.  
 ---  

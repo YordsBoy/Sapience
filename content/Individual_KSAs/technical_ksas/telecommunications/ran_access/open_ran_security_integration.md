@@ -11,7 +11,7 @@ description: Integrating multi‑vendor Open‑RAN components (RU, DU, CU) and s
 source_frameworks: ["O‑RAN Security WG10 Specification","NIST IR 8402 5G Security","3GPP SA3 Security Architecture"]
 proficiency_levels:
   - level: Awareness
-    indicator: Lists open‑RAN elements; identifies eCPRI links; recognises security‑threat vectors.
+    indicator: Lists open‑RAN elements; identifies eCPRI links; recognizes security‑threat vectors.
   - level: Basic
     indicator: Configures IPSec on fronthaul; deploys OSC; validates certificate chains; applies mutual TLS.
   - level: Intermediate

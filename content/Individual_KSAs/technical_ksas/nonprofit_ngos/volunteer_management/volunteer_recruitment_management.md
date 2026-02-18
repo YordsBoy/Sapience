@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Volunteer"
   - "Recruitment"
-description: Sourcing, onboarding, supervising, and recognising volunteers to maximise mission impact and retention, following Council for Certification in Volunteer Administration (CCVA) competencies.
+description: Sourcing, onboarding, supervising, and recognizing volunteers to maximise mission impact and retention, following Council for Certification in Volunteer Administration (CCVA) competencies.
 source_frameworks:
   - "Points of Light Service Enterprise"
   - "VolunteerPro Screening Checklist"

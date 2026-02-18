@@ -15,7 +15,7 @@ source_frameworks:
   - "IAEA Conduct of Operations Safety Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains defence-in-depth; reads reactor status indicators.
+    indicator: Explains defense-in-depth; reads reactor status indicators.
   - level: Basic
     indicator: Performs normal operations and surveillance tests; follows ALARA principles.
   - level: Intermediate

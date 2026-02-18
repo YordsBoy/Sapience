@@ -9,7 +9,7 @@ cluster_tags:
   - "Game Theory"
 description: |
   Models token supply, incentive mechanisms, staking and burn schedules; analyses
-  user-behaviour data and DAO voting to forecast network health and protocol revenue.
+  user-behavior data and DAO voting to forecast network health and protocol revenue.
 source_frameworks:
   - "Token Taxonomy Framework v2.0"
   - "Electric Capital Developer Report (token metrics)"
@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Performs discounted‑cash‑flow (DCF) for fee‑burn models; analyses on‑chain metrics like velocity and staking ratio; runs agent-based simulations to test parameter changes.
   - level: Advanced
-    indicator: Simulates game‑theoretic behaviours; executes Monte Carlo stress tests; advises projects on regulatory token classifications; designs dynamic emission curves tied to KPIs.
+    indicator: Simulates game‑theoretic behaviors; executes Monte Carlo stress tests; advises projects on regulatory token classifications; designs dynamic emission curves tied to KPIs.
   - level: Expert
     indicator: Publishes peer‑reviewed token‑economic frameworks; leads multi‑chain token redesigns; consults central‑bank digital‑currency (CBDC) research teams.
 ---

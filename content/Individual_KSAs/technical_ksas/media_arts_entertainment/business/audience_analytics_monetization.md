@@ -8,7 +8,7 @@ cluster_tags:
   - "Audience Analytics"
   - "Monetization"
 description: >
-  Collects and interprets cross-platform audience data (Google Analytics 4, Nielsen ONE, IAB attention metrics) to optimise revenue streams—AVOD, SVOD, TVOD, FAST—and advertiser value.
+  Collects and interprets cross-platform audience data (Google Analytics 4, Nielsen ONE, IAB attention metrics) to optimize revenue streams—AVOD, SVOD, TVOD, FAST—and advertiser value.
 source_frameworks:
   - "Google Analytics 4 Audiences Guide"
   - "IAB Cross-Channel Measurement Playbook"

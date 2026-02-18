@@ -14,7 +14,7 @@ source_frameworks:
   - "gsma:MobileMoneyManual"
 proficiency_levels:
   - level: Awareness
-    indicator: Describes PIN safety; recognises fee schedule; installs wallet app and performs test transfer.
+    indicator: Describes PIN safety; recognizes fee schedule; installs wallet app and performs test transfer.
   - level: Basic
     indicator: Accepts customer e-payments; secures SIM and PIN; checks balance.
   - level: Intermediate

@@ -1,7 +1,7 @@
 # Administrative Support Services
 
 ## Sector Overview  
-Administrative professionals sit at the heart of every organisation, ensuring workflows, communications, records, events, and travel all run smoothly. Automation (RPA and desktop bots), AI-driven document tools, and data-centric record-keeping are reshaping day-to-day tasks, while classic skills like professional communication and meeting logistics remain essential. This sector equips talent to master both the enduring fundamentals and the fast-moving digital enablers.
+Administrative professionals sit at the heart of every organization, ensuring workflows, communications, records, events, and travel all run smoothly. Automation (RPA and desktop bots), AI-driven document tools, and data-centric record-keeping are reshaping day-to-day tasks, while classic skills like professional communication and meeting logistics remain essential. This sector equips talent to master both the enduring fundamentals and the fast-moving digital enablers.
 
 ## Sub-Domains & Representative KSAs
 | Code | Sub-Domain                              | Example KSAs                                                   |
@@ -17,7 +17,7 @@ Administrative professionals sit at the heart of every organisation, ensuring wo
 ## Horizon Key
 | Horizon | Meaning                                          |
 |---------|--------------------------------------------------|
-| **core** | Widely adopted capability (≥ 40 % organisations) |
+| **core** | Widely adopted capability (≥ 40 % organizations) |
 | **emerging** | Fast-growth skill still maturing              |
 
 ## KSA Inventory
@@ -58,7 +58,7 @@ Administrative professionals sit at the heart of every organisation, ensuring wo
 
 ## Referenced Frameworks & Standards
 
-- **IAAP Certified Administrative Professional (CAP) Body of Knowledge:** Domains on organisational communication, records, and event logistics informed Business Communication, Customer-Service, and Meeting & Event Logistics KSAs.  
+- **IAAP Certified Administrative Professional (CAP) Body of Knowledge:** Domains on organizational communication, records, and event logistics informed Business Communication, Customer-Service, and Meeting & Event Logistics KSAs.  
 - **ISO 15489 Records Management:** Core principles (metadata, retention, access-control) underpin Digital Record Systems Management and Records/Knowledge Management KSAs.  
 - **ARMA International Best Practices:** File-plan and information-governance guidance shapes Records & Knowledge Management and Procurement Documentation processes.  
 - **ISO 30401 Knowledge-Management Systems:** Criteria for the Records & Knowledge-Management taxonomy and continuous-improvement measures.  
@@ -71,7 +71,7 @@ Administrative professionals sit at the heart of every organisation, ensuring wo
 - **Cleveland Fed 2025 Commentary on Clerical Tech Adoption:** Context for augmentation over replacement in admin roles.  
 - **Virtual-Assistant Adoption Survey (Market.us 2025):** Market data that sets the horizon timing for generative-AI assistants.
 - **Microsoft Style Guide – Chatbots & Virtual Agents (2022):** Dialogue, tone, and accessibility guidelines underpin Conversational-AI Chatbots KSA.  
-- **NIST AI Risk-Management Framework 1.0 (2023):** Trustworthy-AI controls referenced in chatbot guardrails and generative summarisation.  
+- **NIST AI Risk-Management Framework 1.0 (2023):** Trustworthy-AI controls referenced in chatbot guardrails and generative summarization.  
 - **W3C Web Speech API (2014):** Technical baseline for speech-recognition workflows in Voice-Driven Document Capture.  
 - **ISO 9241-110 Dialogue Principles (2020):** Usability criteria (self-descriptiveness, error tolerance) applied to voice and chatbot interfaces.  
 - **WCAG 2.2 Accessibility Guidelines (2023):** Ensures captioning and keyboard alternatives for voice and chat solutions.  
@@ -79,10 +79,10 @@ Administrative professionals sit at the heart of every organisation, ensuring wo
 ## Future-Expansion  
 | Area | Why it matters |
 |------|----------------|
-| **Generative-AI “Executive Assistant” Orchestration** | Multi-agent large-language-model (LLM) workflows that schedule, summarise, and draft across apps—requires new delegation, audit, and liability models. |
+| **Generative-AI “Executive Assistant” Orchestration** | Multi-agent large-language-model (LLM) workflows that schedule, summarize, and draft across apps—requires new delegation, audit, and liability models. |
 | **Behavioral-Biometric Authentication in Admin Workflows** | Continuous authentication via keystroke or voice biometrics to secure high-trust clerical actions without user friction. |
 | **Augmented-Reality (AR) Desk Dashboards** | Hands-free overlays for document triage and live bot co-pilots, boosting multitasking in hybrid offices. |
-| **Green-Ops Metrics for Knowledge Work** | Real-time carbon- and energy-use dashboards tied to document storage, printing, and meeting travel—administrators will need to track and optimise office-footprint data. |
+| **Green-Ops Metrics for Knowledge Work** | Real-time carbon- and energy-use dashboards tied to document storage, printing, and meeting travel—administrators will need to track and optimize office-footprint data. |
 
 > *All sources cited for conceptual alignment. No proprietary text copied.*
 

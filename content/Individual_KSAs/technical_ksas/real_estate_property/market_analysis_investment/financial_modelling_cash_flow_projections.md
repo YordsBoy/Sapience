@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Links market drivers; Monte-Carlo simulation; prepares IC memo; integrates tax considerations; structures waterfall returns; stress‑tests exit strategies.
   - level: Expert
-    indicator: Audits complex portfolios; mentors modellers; sets firm standards; leads institutional investment models; validates assumptions; publishes financial‑modelling methodologies.
+    indicator: Audits complex portfolios; mentors modellers; sets firm standards; leads institutional investment models; validates assumptions; publishes financial‑modeling methodologies.
 ---

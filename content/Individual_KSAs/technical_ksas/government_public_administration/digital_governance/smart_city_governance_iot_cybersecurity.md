@@ -16,7 +16,7 @@ source_frameworks:
   - "NIST 800-213 IoT-Device Cybersecurity"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies smart-city subsystems; recognises basic threats (DDoS, spoofing).
+    indicator: Identifies smart-city subsystems; recognizes basic threats (DDoS, spoofing).
   - level: Basic
     indicator: Documents asset inventory; enforces default-password change; applies patch policy.
   - level: Intermediate

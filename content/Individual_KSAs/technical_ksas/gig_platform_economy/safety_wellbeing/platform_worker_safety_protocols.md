@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Conducts pre‑shift vehicle/equipment checks; applies ergonomic workstation setups; confirms drop-off PIN codes; enables two-factor authentication; logs incidents in platform portal.
   - level: Intermediate
-    indicator: Implements route‑risk assessments; utilises personal‑safety devices; reports unsafe clients; appeals unjust deactivations; engages in peer‑safety forums.
+    indicator: Implements route‑risk assessments; utilizes personal‑safety devices; reports unsafe clients; appeals unjust deactivations; engages in peer‑safety forums.
   - level: Advanced
     indicator: Designs safety‑training modules; ; installs dashcams; analyses incident data for patterns; educates peers; collaborates with platform on hazard mitigation.
   - level: Expert

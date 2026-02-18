@@ -9,7 +9,7 @@ cluster_tags:
   - "Lighting"
 description: >
   Develops and programs performance-lighting plots using DMX/Art-Net consoles
-  following IES RP-41-20 recommended practice; ensures colour rendering,
+  following IES RP-41-20 recommended practice; ensures color rendering,
   sightline safety, and power distribution.
 source_frameworks:
   - "IES RP-41-20 (Performance Lighting)"
@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Creates cue stacks, chases; syncs lighting to audio/video time-code.
   - level: Advanced
-    indicator: Designs networked control systems; manages colour science; integrates moving-head automation.
+    indicator: Designs networked control systems; manages color science; integrates moving-head automation.
   - level: Expert
     indicator: Leads touring-show lighting design; collaborates with broadcast HDR requirements; mentors programmers.
 ---

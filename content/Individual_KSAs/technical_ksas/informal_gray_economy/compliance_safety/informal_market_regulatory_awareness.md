@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Joins vendor association; negotiates space allocation; maintains complaint log; completes basic registrations or cooperatives to access services.
   - level: Advanced
-    indicator: Participates in policy dialogue; uses SMS alerts for rule changes; advises peers; negotiates group licensing or market charters.
+    indicator: Participates in policy dialog; uses SMS alerts for rule changes; advises peers; negotiates group licensing or market charters.
   - level: Expert
     indicator: Chairs vendor committee; drafts improved regulations; partners with NGOs/government on inclusive regulatory reform.
 ---

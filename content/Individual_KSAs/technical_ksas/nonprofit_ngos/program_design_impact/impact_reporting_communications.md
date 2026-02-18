@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Integrates interactive dashboards and ESG alignment; aligns to GRI; integrates video stories; measures engagement analytics.
   - level: Expert
-    indicator: Sets organisation reporting standard; sets sector benchmarks; and trains peers in impact storytelling.
+    indicator: Sets organization reporting standard; sets sector benchmarks; and trains peers in impact storytelling.
 ---

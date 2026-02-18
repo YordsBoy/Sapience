@@ -9,7 +9,7 @@ cluster_tags:
   - "Channel Management"
 description: >  
   Manages presence on online travel agencies (OTAs) and review sites (e.g. Expedia, Airbnb, TripAdvisor);  
-  optimises listings, responds to customer reviews, adjusts pricing and promotions based on platform analytics to maximize visibility and bookings.  
+  optimizes listings, responds to customer reviews, adjusts pricing and promotions based on platform analytics to maximize visibility and bookings.  
 source_frameworks:
   - "Airbnb Host Quality Standards"
   - "Booking.com Partner Hub Guidelines" 

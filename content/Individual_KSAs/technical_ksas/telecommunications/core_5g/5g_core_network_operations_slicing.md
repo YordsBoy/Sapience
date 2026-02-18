@@ -16,7 +16,7 @@ source_frameworks:
   - "Linux Foundation Anuket Reference Model"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies 5G core functions; monitors basic KPIs (registration success rate); follows slice‑template catalogues.
+    indicator: Identifies 5G core functions; monitors basic KPIs (registration success rate); follows slice‑template catalogs.
   - level: Basic
     indicator: Monitors NF status via NRF deploys cloud‑native network functions (CNFs); updates helm charts; validates slice profiles; deploys default data-network slice; captures KPIs (PDU session success).
   - level: Intermediate

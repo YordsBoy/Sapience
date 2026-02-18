@@ -15,7 +15,7 @@ source_frameworks:
   - "OECD Public-Sector Ethics Toolkit"
 proficiency_levels:
   - level: Awareness
-    indicator: Recites core values; recognises conflict-of-interest scenarios.
+    indicator: Recites core values; recognizes conflict-of-interest scenarios.
   - level: Basic
     indicator: Files asset disclosures; completes ethics training; follows gift rules.
   - level: Intermediate

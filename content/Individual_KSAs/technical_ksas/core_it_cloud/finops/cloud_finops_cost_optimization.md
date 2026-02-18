@@ -8,7 +8,7 @@ cluster_tags:
   - "FinOps"
   - "Cost Management"
 description: >
-  Tracks, allocates, and optimises cloud spend; sets KPIs (unit economics), rightsizes workloads, negotiates committed-use discounts, and drives culture change per FinOps Framework.
+  Tracks, allocates, and optimizes cloud spend; sets KPIs (unit economics), rightsizes workloads, negotiates committed-use discounts, and drives culture change per FinOps Framework.
 source_frameworks:
   - "FinOps Foundation – State of FinOps 2025"
   - "FinOps Foundation Practitioner Certification Guide"
@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Automates anomaly detection using Application Programming Interface (API) feeds; forecasts spend allocates show-back/charge-back; integrates cost KPIs into Continuous Integration pipelines.
   - level: Expert
-    indicator: Leads organisation‑wide FinOps program; drives cloud‑service provider contract optimisations; mentors cross‑functional FinOps teams; influences vendor pricing.
+    indicator: Leads organization‑wide FinOps program; drives cloud‑service provider contract optimisations; mentors cross‑functional FinOps teams; influences vendor pricing.
 ---

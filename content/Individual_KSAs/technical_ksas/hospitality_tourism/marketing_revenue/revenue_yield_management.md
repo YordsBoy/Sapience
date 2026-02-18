@@ -7,7 +7,7 @@ horizon: emerging
 cluster_tags:
   - "Yield Management"
   - "Optimization"
-description: Applying dynamic pricing, demand forecasting, and distribution‑channel optimisation to maximise RevPAR (Revenue per Available Room) and GOPPAR (Gross Operating Profit per Available Room) in hotels and events.
+description: Applying dynamic pricing, demand forecasting, and distribution‑channel optimization to maximise RevPAR (Revenue per Available Room) and GOPPAR (Gross Operating Profit per Available Room) in hotels and events.
 source_frameworks:
   - "HSMAI Revenue Optimization Framework"
   - "Cornell School of Hotel Administration Revenue Management Framework"
@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Updates rate codes; manages inventory blocks; analyses booking‑pace reports.
   - level: Intermediate
-    indicator: Builds demand‑forecast models; applies length‑of‑stay controls; optimises OTA (Online Travel Agency) mix.
+    indicator: Builds demand‑forecast models; applies length‑of‑stay controls; optimizes OTA (Online Travel Agency) mix.
   - level: Advanced
     indicator: Implements dynamic pricing algorithms; integrates events revenue into total‑revenue management (TRM); negotiates distribution contracts.
   - level: Expert

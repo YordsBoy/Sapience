@@ -8,7 +8,7 @@ cluster_tags:
   - "Change Analytics"
   - "Sentiment Monitoring"
 description: >
-  Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programmes; integrates dashboards with Prosci Change Scorecard metrics and AI-driven stakeholder insights.
+  Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programs; integrates dashboards with Prosci Change Scorecard metrics and AI-driven stakeholder insights.
 source_frameworks:
   - "Prosci Change Scorecard metrics & AI Change-Management guidance"
   - "MIT Sloan 'How to Make Data Work Meaningful' & engagement analytics research (2025)"

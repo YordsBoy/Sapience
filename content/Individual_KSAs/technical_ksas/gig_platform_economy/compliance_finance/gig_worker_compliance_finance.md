@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Uses tools or apps to track detailed income/expense; sets aside funds for taxes; navigates health or vehicle insurance options as a self-employed individual.  
   - level: Advanced  
-    indicator: Calculates quarterly estimated taxes (Form 1040-ES); segregates business account; optimises tax deductions; budgets effectively through income fluctuations; ensures compliance with local regulations (like insurance, permits) for multiple gig jobs.  
+    indicator: Calculates quarterly estimated taxes (Form 1040-ES); segregates business account; optimizes tax deductions; budgets effectively through income fluctuations; ensures compliance with local regulations (like insurance, permits) for multiple gig jobs.  
   - level: Expert  
     indicator: Educates others on gig worker rights and obligations; influences platform policies toward better worker support; evaluates incorporation vs sole-prop; could consult on gig economy regulations or contribute to IRS guidance refinement.  
 ---  

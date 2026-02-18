@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Separates business and personal finances; uses basic accounting software or spreadsheets for tracking; develops a simple marketing plan (flyers, Facebook/Instagram page); consistently meets customer expectations and handles complaints or refunds politely; negotiates supplier terms; reviews insurance; sets KPIs.  
   - level: Advanced  
-    indicator: Ensures full compliance with all regulations (tax ID, insurance if needed); optimises costs and pricing for profitability; expands marketing to new channels (online ads, partnerships); builds customer loyalty programs or referral incentives; reduces overhead.  
+    indicator: Ensures full compliance with all regulations (tax ID, insurance if needed); optimizes costs and pricing for profitability; expands marketing to new channels (online ads, partnerships); builds customer loyalty programs or referral incentives; reduces overhead.  
   - level: Expert  
     indicator: Grows the personal business significantly or opens additional locations; perhaps hires assistants; engages with small business associations or SBA programs; exemplifies best practices in operations, influencing other micro-business owners by sharing knowledge or mentorship.  
 ---  

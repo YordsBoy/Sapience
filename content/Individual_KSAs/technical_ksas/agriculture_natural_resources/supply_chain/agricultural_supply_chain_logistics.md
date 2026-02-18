@@ -14,7 +14,7 @@ source_frameworks:
   - "UF IFAS post-harvest handling guide (public)"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies stages of crop flow from field to market; recognises cold-chain importance.
+    indicator: Identifies stages of crop flow from field to market; recognizes cold-chain importance.
   - level: Basic
     indicator: Schedules local transport; checks packaging and temperature controls.
   - level: Intermediate

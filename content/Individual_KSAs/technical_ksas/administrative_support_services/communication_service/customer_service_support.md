@@ -23,6 +23,6 @@ proficiency_levels:
   - level: Advanced
     indicator: Analyses service metrics; drafts knowledge-base articles; coaches peers on de-escalation.
   - level: Expert
-    indicator: Leads service-quality programs; integrates chatbots and FAQ flows; aligns KPIs with organisation strategy.
+    indicator: Leads service-quality programs; integrates chatbots and FAQ flows; aligns KPIs with organization strategy.
 
 ---

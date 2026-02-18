@@ -15,11 +15,11 @@ source_frameworks:
   - "Ethereum Improvement Proposal (EIP)‑1559 Audit Guidelines"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads simple Solidity functions; recognises common re‑entrancy patterns.
+    indicator: Reads simple Solidity functions; recognizes common re‑entrancy patterns.
   - level: Basic
     indicator: Uses static‑analysis tools such as Slither/MythX; documents integer‑overflow checks; reports simple issues.
   - level: Intermediate
-    indicator: Performs manual logic‑flow review; writes unit tests in Hardhat; traces call-graphs; verifies gas‑optimisation changes; validates fixes.
+    indicator: Performs manual logic‑flow review; writes unit tests in Hardhat; traces call-graphs; verifies gas‑optimization changes; validates fixes.
   - level: Advanced
     indicator: Conducts formal specs in Scribble/Foundry; conducts formal verification with Coq or Certora Prover; produces public audit reports; recommends upgrade‑safe patterns; models economic exploits.
   - level: Expert

@@ -8,7 +8,7 @@ cluster_tags:
   - "Marketing"
   - "Lead Generation"
 description: >
-  Attracts direct clients via social media, search-engine optimisation (SEO), and email funnels to reduce reliance on intermediary platforms and capture higher margins.
+  Attracts direct clients via social media, search-engine optimization (SEO), and email funnels to reduce reliance on intermediary platforms and capture higher margins.
 source_frameworks:
   - "HubSpot Freelance Lead-Gen Playbook"
   - "Google Search Essentials 2024"
@@ -16,7 +16,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Defines customer avatar; sets up portfolio site; registers on Google Business.
   - level: Basic
-    indicator: Publishes SEO-optimised blog post; collects emails with lead magnet; posts case studies.
+    indicator: Publishes SEO-optimized blog post; collects emails with lead magnet; posts case studies.
   - level: Intermediate
     indicator: Runs pay-per-click (PPC) ads; tracks conversion metrics; nurtures drip campaigns.
   - level: Advanced

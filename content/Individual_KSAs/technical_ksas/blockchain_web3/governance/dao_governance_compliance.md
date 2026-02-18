@@ -7,7 +7,7 @@ horizon: emerging
 cluster_tags:
   - "DAO"
   - "Regulation"
-description: Structuring decentralized autonomous organisation (DAO) governance processes, proposal workflows, and legal wrappers to ensure transparent decision‑making and compliance with evolving regulations.
+description: Structuring decentralized autonomous organization (DAO) governance processes, proposal workflows, and legal wrappers to ensure transparent decision‑making and compliance with evolving regulations.
 source_frameworks:
   - "EU Regulation 2023/1114 (MiCA)"
   - "DAO Star Governance Framework v0.4"

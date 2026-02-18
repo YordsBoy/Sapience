@@ -16,7 +16,7 @@ source_frameworks:
   - "APICS SCOR Model"
 proficiency_levels:
   - level: Awareness
-    indicator: Tracks inventory turns; recognises Incoterms.
+    indicator: Tracks inventory turns; recognizes Incoterms.
   - level: Basic
     indicator: Schedules inbound shipments; records ASN (Advance Shipping Notice).
   - level: Intermediate

@@ -9,7 +9,7 @@ cluster_tags:
   - "Office Software"
 description: >
   Efficiently uses office productivity suites (word processing, spreadsheets,
-  presentations, databases) and collaboration tools to create, analyse, and
+  presentations, databases) and collaboration tools to create, analyze, and
   share information while adhering to accessibility and security best practices.
 source_frameworks:
   - "EU DigComp 2.1 Framework"

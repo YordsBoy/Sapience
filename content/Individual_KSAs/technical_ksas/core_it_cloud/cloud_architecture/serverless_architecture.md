@@ -8,7 +8,7 @@ cluster_tags:
   - "Serverless"
   - "Event-Driven"
 description: |
-  Designs and operates event-driven applications using FaaS (Lambda, Cloud Functions) and managed services; optimises cold starts, observability, and cost.
+  Designs and operates event-driven applications using FaaS (Lambda, Cloud Functions) and managed services; optimizes cold starts, observability, and cost.
 source_frameworks:
   - "AWS Serverless Lens Well-Architected 2023"
 proficiency_levels:

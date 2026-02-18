@@ -8,7 +8,7 @@ cluster_tags:
   - "Power Generation"
   - "Process Control"
 description: >
-  Operates and optimises steam-cycle or combined-cycle power units, controlling
+  Operates and optimizes steam-cycle or combined-cycle power units, controlling
   boilers, turbines, heat-recovery steam generators (HRSG), and emissions
   systems to meet load while complying with NERC and EPA requirements.  See
   also `utility_regulatory_compliance`.
@@ -24,5 +24,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Runs model-based predictive control; integrates carbon-capture skid performance.
   - level: Expert
-    indicator: Leads multi-unit optimisation; mentors operators; interfaces with grid operators on real-time reliability concerns.
+    indicator: Leads multi-unit optimization; mentors operators; interfaces with grid operators on real-time reliability concerns.
 ---

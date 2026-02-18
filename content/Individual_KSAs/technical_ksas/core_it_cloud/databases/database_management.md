@@ -8,7 +8,7 @@ cluster_tags:
   - "SQL"
   - "NoSQL"
 description: |
-  Designs schemas, writes optimised queries, manages backup/restore, replication, and performance tuning for relational (PostgreSQL, MySQL) and NoSQL stores (MongoDB, DynamoDB).
+  Designs schemas, writes optimized queries, manages backup/restore, replication, and performance tuning for relational (PostgreSQL, MySQL) and NoSQL stores (MongoDB, DynamoDB).
 source_frameworks:
   - "AWS Database Freedom Program"
   - "onet:15-1242.00"

@@ -14,7 +14,7 @@ source_frameworks:
   - "icc:ConflictManagement"
 proficiency_levels:
   - level: Awareness
-    indicator: Listens actively; recognises emotional cues; avoids defensive language; and apologizes sincerely.
+    indicator: Listens actively; recognizes emotional cues; avoids defensive language; and apologizes sincerely.
   - level: Basic
     indicator: Offers quick fixes or compensatory gestures; documents incident.
   - level: Intermediate

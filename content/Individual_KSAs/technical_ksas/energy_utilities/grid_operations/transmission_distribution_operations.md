@@ -15,7 +15,7 @@ source_frameworks:
   - "NERC Reliability Standards"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads one-line diagrams; recognises alarm priorities.
+    indicator: Reads one-line diagrams; recognizes alarm priorities.
   - level: Basic
     indicator: Executes routine switching under supervision; updates SCADA logs.
   - level: Intermediate

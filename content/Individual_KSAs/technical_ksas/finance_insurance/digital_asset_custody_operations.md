@@ -9,7 +9,7 @@ description: Safeguarding cryptocurrencies, tokens, and other digital assets thr
 source_frameworks: ["Financial Action Task Force (FATF) Virtual‑Asset Service Provider Guidance"]
 proficiency_levels:
   - level: Awareness
-    indicator: Explains public‑private key pairs; differentiates hot vs. cold storage; recognises mnemonic phrases.
+    indicator: Explains public‑private key pairs; differentiates hot vs. cold storage; recognizes mnemonic phrases.
   - level: Basic
     indicator: Operates hardware‑security modules (HSMs); implements multi‑signature wallets; maintains transaction logs.
   - level: Intermediate

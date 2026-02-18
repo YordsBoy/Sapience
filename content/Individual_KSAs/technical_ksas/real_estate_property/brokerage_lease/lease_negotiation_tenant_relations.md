@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Calculates tenant improvement (TI) allowances; manages renewal pipelines; mediates minor disputes; conducts lease audit; negotiates exclusivity, TI cap-ex; tracks IFRS 16 impact.
   - level: Advanced
-    indicator: Structures percentage‑rent agreements; negotiates complex riders; optimises lease mix; models blended rent; resolves disputes; enforces lease compliance.
+    indicator: Structures percentage‑rent agreements; negotiates complex riders; optimizes lease mix; models blended rent; resolves disputes; enforces lease compliance.
   - level: Expert
     indicator: Optimises tenant‑mix strategies; leads arbitration; mentors leasing managers; publishes leasing best practices.
 ---

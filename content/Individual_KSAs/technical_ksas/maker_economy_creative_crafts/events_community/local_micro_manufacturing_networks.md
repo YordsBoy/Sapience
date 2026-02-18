@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Standardises file formats; defines quality criteria; schedules batch jobs.
   - level: Intermediate
-    indicator: Implements cloud CAM; shares real-time inventory; fulfils local orders in <48 h.
+    indicator: Implements cloud CAM; shares real-time inventory; fulfills local orders in <48 h.
   - level: Advanced
     indicator: Optimises routing; aggregates material buying; calculates network OEE (Overall Equipment Effectiveness).
   - level: Expert

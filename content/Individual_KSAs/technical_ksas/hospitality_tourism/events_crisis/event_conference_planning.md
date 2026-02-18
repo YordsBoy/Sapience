@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Secures large group business, leads multi-day conferences, executes crisis comms, and deploys event-tech platforms.
   - level: Expert
-    indicator: Designs destination-wide event strategies, directs convention-centre event strategy, innovates hybrid formats, and measures economic impact.
+    indicator: Designs destination-wide event strategies, directs convention-center event strategy, innovates hybrid formats, and measures economic impact.
 ---

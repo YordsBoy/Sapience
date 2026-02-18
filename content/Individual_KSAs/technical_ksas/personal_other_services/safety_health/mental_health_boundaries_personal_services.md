@@ -8,7 +8,7 @@ cluster_tags:
   - "Mental Health"
   - "Self-Care"
 description: >
-  Sets workload limits, practices mindfulness, and recognises compassion fatigue, following WHO workplace-wellbeing guidelines.
+  Sets workload limits, practices mindfulness, and recognizes compassion fatigue, following WHO workplace-wellbeing guidelines.
 source_frameworks:
   - "WHO Mental Health at Work Guidelines"
   - "National Alliance on Mental Illness Self-Care Toolkit"

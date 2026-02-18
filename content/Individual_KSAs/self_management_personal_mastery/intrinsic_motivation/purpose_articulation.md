@@ -21,5 +21,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Aligns major career or project choices with purpose; inspires others by sharing purpose-linked narratives.
   - level: Expert
-    indicator: Designs organisational roles or ventures anchored in shared purpose; mentors others in articulating and living purpose.
+    indicator: Designs organizational roles or ventures anchored in shared purpose; mentors others in articulating and living purpose.
 ---

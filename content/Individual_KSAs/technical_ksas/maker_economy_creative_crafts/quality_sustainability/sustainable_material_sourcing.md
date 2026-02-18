@@ -8,7 +8,7 @@ cluster_tags:
   - "Sustainable Materials"
   - "Sourcing"
 description: >
-  Procures eco-labelled inputs—FSC wood, GOTS textiles, recycled filaments—while assessing Life-Cycle Thinking (LCT) and supplier ethical audits.
+  Procures eco-labeled inputs—FSC wood, GOTS textiles, recycled filaments—while assessing Life-Cycle Thinking (LCT) and supplier ethical audits.
 source_frameworks:
   - "FSC Chain of Custody Standard"
   - "GOTS 6.0 Criteria"

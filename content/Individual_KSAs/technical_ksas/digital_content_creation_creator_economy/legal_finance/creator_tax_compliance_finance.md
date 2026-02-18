@@ -15,7 +15,7 @@ source_frameworks:
   - "OECD VAT Digital Services Guidelines"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands income vs expense; tracks revenue sources; saves expense receipts; recognises deductible categories.
+    indicator: Understands income vs expense; tracks revenue sources; saves expense receipts; recognizes deductible categories.
   - level: Basic
     indicator: Categorises income streams; calculates basic tax withholding; files Schedule C; pays quarterly taxes; calculates self‑employment tax.
   - level: Intermediate

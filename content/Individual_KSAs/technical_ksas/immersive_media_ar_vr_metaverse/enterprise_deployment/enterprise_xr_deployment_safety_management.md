@@ -8,7 +8,7 @@ cluster_tags:
   - "Enterprise XR"
   - "Safety Management"
 description: >
-  Plans and manages large-scale XR roll-outs—device fleet, user provisioning, IT-security, ergonomics, ISO 9241-960 locomotion safety, OSHA workplace guidelines, training, and design reviews— while ensuring physical safety, cybersecurity, and organisational change‑management.
+  Plans and manages large-scale XR roll-outs—device fleet, user provisioning, IT-security, ergonomics, ISO 9241-960 locomotion safety, OSHA workplace guidelines, training, and design reviews— while ensuring physical safety, cybersecurity, and organizational change‑management.
 source_frameworks:
   - "ISO/IEC 23844:2021 Ergonomics of XR Displays"
   - "ISO 9241-960 Ergonomics of XR Interaction"

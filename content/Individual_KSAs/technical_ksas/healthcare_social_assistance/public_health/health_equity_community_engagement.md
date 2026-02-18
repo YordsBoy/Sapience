@@ -8,7 +8,7 @@ cluster_tags:
   - "Health Equity"
   - "Community Engagement"
 description: >
-  Addresses social determinants of health (SDOH); collaborates with community-based organisations to design culturally tailored interventions and measure equity outcomes.
+  Addresses social determinants of health (SDOH); collaborates with community-based organizations to design culturally tailored interventions and measure equity outcomes.
 source_frameworks:
   - "WHO Health-Equity Framework"
   - "cdc:HI-5"

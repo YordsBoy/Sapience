@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Works with network analytics platforms or big data tools to correlate metrics (e.g., linking cell congestion events with subscriber complaints); builds dashboards or uses ML-based systems that predict equipment faults or churn risk; contributes analysis insights during optimization meetings.  
   - level: Advanced  
-    indicator: Develops and refines analytics models (with data scientist support) to proactively optimise the network (like an AI model to auto-tune parameters or suggest where to add capacity); uses TM Forum guidelines to govern data use and ensure interoperability; drives projects to improve KPI trends (latency, NPS scores) through data-driven actions; integrates real-time pipeline; ensures GDPR pseudonymisation; supports 10 Gbps ingest.  
+    indicator: Develops and refines analytics models (with data scientist support) to proactively optimize the network (like an AI model to auto-tune parameters or suggest where to add capacity); uses TM Forum guidelines to govern data use and ensure interoperability; drives projects to improve KPI trends (latency, NPS scores) through data-driven actions; integrates real-time pipeline; ensures GDPR pseudonymisation; supports 10 Gbps ingest.  
   - level: Expert  
     indicator: Leads a telecom analytics or SOC (service optimization center) team; sets strategy for AI adoption in network ops; works with cross-functional leaders to leverage data for business decisions (like new product planning based on usage trends); possibly contributes to industry standards or publications on telecom analytics best practices.  
 ---  

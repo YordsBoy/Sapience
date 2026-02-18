@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Manages office budgets; implements sustainability initiatives; trains junior staff.
   - level: Expert
-    indicator: Designs office-services strategy; optimises space utilisation; leads cross-site coordination.
+    indicator: Designs office-services strategy; optimizes space utilization; leads cross-site coordination.
 ---

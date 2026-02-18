@@ -16,13 +16,13 @@ source_frameworks:
   - "HubSpot Social Media Benchmarks"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads basic analytics; identifies click‑through rate (CTR); recognises audience‑retention charts.
+    indicator: Reads basic analytics; identifies click‑through rate (CTR); recognizes audience‑retention charts.
   - level: Basic
     indicator: Optimises titles, thumbnails, and hashtags; schedules posts; tracks watch‑time growth.
   - level: Intermediate
-    indicator: Implements data‑driven topic clusters; optimises hook rates; uses real‑time analytics dashboards; uses audience retention curves to iterate formats.
+    indicator: Implements data‑driven topic clusters; optimizes hook rates; uses real‑time analytics dashboards; uses audience retention curves to iterate formats.
   - level: Advanced
-    indicator: A/B tests metadata; adjusts content cadence to algorithm updates; benchmarks competitive channels; balances optimisation with community trust.
+    indicator: A/B tests metadata; adjusts content cadence to algorithm updates; benchmarks competitive channels; balances optimization with community trust.
   - level: Expert
     indicator: Leads multi‑platform algorithm strategies; advises brands on algorithm transparency and creator engagement; publishes algorithm‑insight reports.
 ---

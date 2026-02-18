@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Utilizes budgeting apps; monitors cash flow; plans savings goals; syncs bank feeds; analyses variances; flags anomalies.
   - level: Advanced
-    indicator: Manages debt repayment; builds emergency fund; prepares basic tax records; manages power-of-attorney accounts; optimises cashflow.
+    indicator: Manages debt repayment; builds emergency fund; prepares basic tax records; manages power-of-attorney accounts; optimizes cashflow.
   - level: Expert
     indicator: Coaches other caregivers; advises on benefit programs; publishes household‑finance tips.
 ---

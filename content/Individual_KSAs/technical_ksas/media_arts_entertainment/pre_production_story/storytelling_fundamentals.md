@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Writes short form stories with coherent arcs and feedback integration; outlines beat sheet; writes logline; drafts treatment.
   - level: Intermediate
-    indicator: Adapts narratives for different media (video, interactive, audio) and target audiences; crafts dialogue; builds stakes; mentors table-read.
+    indicator: Adapts narratives for different media (video, interactive, audio) and target audiences; crafts dialog; builds stakes; mentors table-read.
   - level: Advanced
     indicator: Leads multi-channel storytelling campaigns and mentors creators; integrates theme; polishes pacing; applies subtext.
   - level: Expert

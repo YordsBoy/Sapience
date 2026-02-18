@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Integrates interactivity, spatial audio; conducts usability tests.
   - level: Advanced
-    indicator: Coordinates cross-disciplinary crews; optimises performance; ensures accessibility.
+    indicator: Coordinates cross-disciplinary crews; optimizes performance; ensures accessibility.
   - level: Expert
     indicator: Directs large-scale immersive exhibits; secures sponsorship; mentors producers.
 ---

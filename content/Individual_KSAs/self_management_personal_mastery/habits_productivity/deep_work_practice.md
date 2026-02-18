@@ -12,7 +12,7 @@ description: >
   demanding work to maximize learning, creativity, and throughput, and
   deliberately balances these sessions with restorative breaks.
 source_frameworks:
-  - "Cal Newport’s Deep Work framework (publicly summarised)"
+  - "Cal Newport’s Deep Work framework (publicly summarized)"
   - "Sophie Leroy’s attention-residue research (public domain summaries)"
 proficiency_levels:
   - level: Awareness
@@ -24,5 +24,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Designs weekly cadence of deep vs. shallow work; tracks output metrics (e.g., words written, features shipped); mentors peers on setup and rituals.
   - level: Expert
-    indicator: Embeds deep-work norms in team culture (meeting-free mornings, focus hours); measures impact on innovation and delivery KPIs; evangelises organisation-wide practices.
+    indicator: Embeds deep-work norms in team culture (meeting-free mornings, focus hours); measures impact on innovation and delivery KPIs; evangelises organization-wide practices.
 ---

@@ -15,7 +15,7 @@ source_frameworks:
   - "ISO 59010:2023 Circular Economy Guidelines"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines linear vs circular models; identifies waste streams; calculates recyclability; recognises take‑back schemes.
+    indicator: Defines linear vs circular models; identifies waste streams; calculates recyclability; recognizes take‑back schemes.
   - level: Basic
     indicator: Applies design‑for‑disassembly principles; selects recyclable materials; designs for disassembly; analyses end‑of‑life pathways.
   - level: Intermediate

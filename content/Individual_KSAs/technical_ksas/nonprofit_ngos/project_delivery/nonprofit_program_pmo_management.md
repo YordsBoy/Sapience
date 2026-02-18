@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Implements adaptive iteration cycles; aligns key performance indicators (KPIs) to donor agreements; manages resource matrix; facilitates lessons‑learned reviews.
   - level: Advanced
-    indicator: Establishes PMO governance; integrates agile and results‑based management (RBM); optimises resource allocation across programs; optimises portfolio alignment; automates dashboards.
+    indicator: Establishes PMO governance; integrates agile and results‑based management (RBM); optimizes resource allocation across programs; optimizes portfolio alignment; automates dashboards.
   - level: Expert
     indicator: Directs multi‑country program portfolios; shapes sector PM standards; publishes nonprofit PM research.
 ---

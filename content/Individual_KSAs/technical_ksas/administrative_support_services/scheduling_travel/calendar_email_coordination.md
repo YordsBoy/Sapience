@@ -15,7 +15,7 @@ source_frameworks:
   - "IAAP CAP Body of Knowledge"
 proficiency_levels:
   - level: Awareness
-    indicator: Sorts basic email folders; recognises meeting requests.
+    indicator: Sorts basic email folders; recognizes meeting requests.
   - level: Basic
     indicator: Flags priority emails; schedules standard meetings; avoids overlaps.
   - level: Intermediate
@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Automates email triage; integrates task lists; maintains inbox zero for execs.
   - level: Expert
-    indicator: Designs email-management SOPs; deploys shared-inbox tools; mentors team on inbox optimisation.
+    indicator: Designs email-management SOPs; deploys shared-inbox tools; mentors team on inbox optimization.
 ---

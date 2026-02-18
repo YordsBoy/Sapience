@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Conducts structural testing (compressive, flexural) on printed walls; implements QA/QC plan compliant with ISO/ASTM standards; coordinates with local building-code officials.
   - level: Expert
-    indicator: Designs large-scale AM construction workflows (robotic arms or gantry systems); optimises supply-chain (onsite batching, curing); authors guidelines for permitting and safety of AM job sites.
+    indicator: Designs large-scale AM construction workflows (robotic arms or gantry systems); optimizes supply-chain (onsite batching, curing); authors guidelines for permitting and safety of AM job sites.
 ---

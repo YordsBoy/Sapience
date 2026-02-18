@@ -16,7 +16,7 @@ source_frameworks:
   - "UNESCO Cultural Diversity Convention"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies own cultural biases; practises active listening.
+    indicator: Identifies own cultural biases; practices active listening.
   - level: Basic
     indicator: Adapts greetings, time norms, and feedback styles; clarifies roles.
   - level: Intermediate

@@ -14,7 +14,7 @@ source_frameworks:
   - "IEC 62443-3-3"
 proficiency_levels:
   - level: Awareness
-    indicator: Maps attack surface; recognises default credentials risk.
+    indicator: Maps attack surface; recognizes default credentials risk.
   - level: Basic
     indicator: Implements password policy; disables unused ports; patches firmware.
   - level: Intermediate

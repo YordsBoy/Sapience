@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Forecasts covers, engineers menus for margin, and supervises shift teams.
   - level: Advanced
-    indicator: Controls food/labor cost ratios, optimises labour via scheduling analytics, curates beverage programs, and ensures HACCP compliance.
+    indicator: Controls food/labor cost ratios, optimizes labor via scheduling analytics, curates beverage programs, and ensures HACCP compliance.
   - level: Expert
     indicator: Creates multi-outlet F&B strategies, negotiates supplier contracts, and innovates culinary concepts.
 ---

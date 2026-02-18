@@ -9,7 +9,7 @@ cluster_tags:
   - "AI"
 description: >
   Collects, cleans, and analyses SCADA, AMI, and market data to inform asset
-  optimisation and forecasting across generation, grid, and storage assets.
+  optimization and forecasting across generation, grid, and storage assets.
 source_frameworks:
   - "ISO 50001 energy-management guidance"
 proficiency_levels:
@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Trains ML models for predictive maintenance; automates report pipelines.
   - level: Expert
-    indicator: Leads enterprise analytics strategy; mentors data engineers; applies AI for real-time optimisation.
+    indicator: Leads enterprise analytics strategy; mentors data engineers; applies AI for real-time optimization.
 ---

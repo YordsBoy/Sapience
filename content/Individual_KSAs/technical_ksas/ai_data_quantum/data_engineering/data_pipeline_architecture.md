@@ -21,7 +21,7 @@ proficiency_levels:
     indicator: Automates workflows, implements incremental loads, and enforces data-quality
       checks.
   - level: Advanced
-    indicator: Architects distributed pipelines (Spark/Kafka); optimises cost and performance.
+    indicator: Architects distributed pipelines (Spark/Kafka); optimizes cost and performance.
   - level: Expert
     indicator: Defines enterprise data-engineering standards, including real-time streaming and
       governance integration.

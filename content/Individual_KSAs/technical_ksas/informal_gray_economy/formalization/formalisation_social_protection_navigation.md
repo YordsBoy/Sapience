@@ -13,7 +13,7 @@ source_frameworks:
   - "World Bank Social Protection & Jobs Core Diagnostic"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains benefits of formalisation; lists basic registration steps; identifies social‑protection programmes.
+    indicator: Explains benefits of formalisation; lists basic registration steps; identifies social‑protection programs.
   - level: Basic
     indicator: Completes business‑registration forms; opens mobile‑money accounts; submits simplified tax declarations.
   - level: Intermediate

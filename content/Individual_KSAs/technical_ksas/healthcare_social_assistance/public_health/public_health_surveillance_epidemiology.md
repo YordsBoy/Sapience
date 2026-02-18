@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Conducts field investigations; applies statistical tests; ; calculates R₀ and attack rates; communicates findings to stakeholders.
   - level: Advanced
-    indicator: Leads multi-jurisdictional outbreak response; automates ELR, eCR, and ESSENCE feeds; performs modelling evaluates surveillance systems; publishes reports.
+    indicator: Leads multi-jurisdictional outbreak response; automates ELR, eCR, and ESSENCE feeds; performs modeling evaluates surveillance systems; publishes reports.
   - level: Expert
     indicator: Designs national surveillance frameworks; integrates novel data streams (e.g., wastewater, syndromic); mentors epidemiologists; advises WHO/CDC.
 ---

@@ -15,9 +15,9 @@ source_frameworks:
   - "International Spa Association (ISPA) Sanitation Standards"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies licence categories; distinguishes single‑use vs. reusable tools; describes basic sanitation steps; washes hands per CDC guidelines.
+    indicator: Identifies license categories; distinguishes single‑use vs. reusable tools; describes basic sanitation steps; washes hands per CDC guidelines.
   - level: Basic
-    indicator: Disinfects implements with hospital‑grade solutions; maintains logbooks; posts licences visibly.
+    indicator: Disinfects implements with hospital‑grade solutions; maintains logbooks; posts licenses visibly.
   - level: Intermediate
     indicator: Conducts autoclave spore tests; implements blood‑spill procedures; audits workstation hygiene.
   - level: Advanced

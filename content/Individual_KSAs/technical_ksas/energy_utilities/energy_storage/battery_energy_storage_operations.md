@@ -9,7 +9,7 @@ cluster_tags:
   - "BESS"
 description: >
   Operates grid-scale lithium-ion or flow-battery systems per IEC 62933 safety
-  requirements, optimising state-of-charge for arbitrage and grid-services
+  requirements, optimizing state-of-charge for arbitrage and grid-services
   value. See also `distributed_energy_resource_management` for aggregation
   dispatch and `asset_integrity_management` 
   for ISO 55000 asset-management governance .
@@ -23,7 +23,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Applies degradation models; participates in frequency-regulation markets.
   - level: Advanced
-    indicator: Utilises EMS predictive optimisation; conducts thermal-runaway prevention tests.
+    indicator: Utilises EMS predictive optimization; conducts thermal-runaway prevention tests.
   - level: Expert
     indicator: Designs multi-site BESS portfolios; mentors operators; integrates second-life battery modules.
 ---

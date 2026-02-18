@@ -21,5 +21,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Coaches team in digital-minimalism practices; redesigns workflows to reduce digital overload.
   - level: Expert
-    indicator: Shapes organisational tech-use policies to promote focused, healthy digital environments; measures impact on productivity and well-being.
+    indicator: Shapes organizational tech-use policies to promote focused, healthy digital environments; measures impact on productivity and well-being.
 ---

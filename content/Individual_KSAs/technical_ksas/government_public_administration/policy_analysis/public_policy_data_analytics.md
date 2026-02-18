@@ -16,7 +16,7 @@ source_frameworks:
   - "OECD Data-Driven Public Sector Framework"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands the concept of evidence-based policy and knows that data (surveys, statistics) can guide decisions; explains open-data licences; recognises Personally Identifiable Information (PII) safeguards.
+    indicator: Understands the concept of evidence-based policy and knows that data (surveys, statistics) can guide decisions; explains open-data licenses; recognizes Personally Identifiable Information (PII) safeguards.
   - level: Basic
     indicator: Cleans CSV files; generates summary tables; retrieves basic datasets or reports (e.g., census data, budget figures) and uses them to create simple charts or summaries for a policy proposal.  
   - level: Intermediate  

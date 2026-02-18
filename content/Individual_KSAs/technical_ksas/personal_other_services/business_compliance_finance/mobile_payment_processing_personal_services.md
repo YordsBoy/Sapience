@@ -14,7 +14,7 @@ source_frameworks:
   - "Square Contactless Reader Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists payment types; recognises transaction fees.
+    indicator: Lists payment types; recognizes transaction fees.
   - level: Basic
     indicator: Pairs reader; processes sale; emails receipt.
   - level: Intermediate

@@ -1,7 +1,7 @@
 Arts & Recreation Services
 ==========================
 
-Creative technology, hybrid participation models, and outcome-focused funding are rapidly reshaping arts, sports, and recreation programs. Community organisations now blend digital media, esports, and wellness offerings to reach broader, more diverse audiences while meeting rigorous safety and accreditation standards. NRPA data show agencies that track social-impact metrics secure **26 % more grant funding** on average, while virtual-event adoption has grown 35 % YoY since 2021.
+Creative technology, hybrid participation models, and outcome-focused funding are rapidly reshaping arts, sports, and recreation programs. Community organizations now blend digital media, esports, and wellness offerings to reach broader, more diverse audiences while meeting rigorous safety and accreditation standards. NRPA data show agencies that track social-impact metrics secure **26 % more grant funding** on average, while virtual-event adoption has grown 35 % YoY since 2021.
 
 ## Sub-domain structure
 
@@ -40,5 +40,5 @@ Community_Event_Planning · Digital_Content_Creation_Tools · Esports_Event_Coor
 - **Execu-Events Virtual Event Planner Guide (2025) & TechRadar Platform Review:** Defined best practices and tool landscape for Virtual Event Management. 
 - **Esports Event Planning Guides (TicketFairy 2025; BCE 2025):** Established workflows for Esports Event Coordination.  
 
-> *All sources were referenced conceptually; no proprietary text has been copied. Standards cited are public or used under permissible licences.*
+> *All sources were referenced conceptually; no proprietary text has been copied. Standards cited are public or used under permissible licenses.*
 

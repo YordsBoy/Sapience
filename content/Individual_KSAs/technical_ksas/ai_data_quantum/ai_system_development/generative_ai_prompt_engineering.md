@@ -16,7 +16,7 @@ source_frameworks:
   - "NIST Generative-AI RMF Profile (2024)"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains what a prompt is and recognises basic pitfalls (vagueness, broad scope).
+    indicator: Explains what a prompt is and recognizes basic pitfalls (vagueness, broad scope).
   - level: Basic
     indicator: Uses documented patterns (role + task + context) to achieve consistent answers in a
       sandbox; tests prompts for edge-case failures.

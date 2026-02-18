@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Runs statistical correlations (soil vs. yield); builds dashboards.
   - level: Advanced
-    indicator: Applies machine-learning models for yield prediction or input optimisation.
+    indicator: Applies machine-learning models for yield prediction or input optimization.
   - level: Expert
     indicator: Designs enterprise analytics pipelines; integrates economic and sustainability KPIs; mentors data-driven decision-making.
 ---

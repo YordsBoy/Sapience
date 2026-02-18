@@ -17,7 +17,7 @@
 
 | Horizon   | Meaning                                                                   |
 |-----------|---------------------------------------------------------------------------|
-| **core**  | Leadership behaviours and skills universally expected today               |
+| **core**  | Leadership behaviors and skills universally expected today               |
 | **emerging** | Data-driven or AI-enabled practices gaining traction (< 40 % adoption)  |
 
 ## KSA Inventory  
@@ -60,7 +60,7 @@
 |------|----------------|
 | **AI-Generated Micro-Coaching Nudges** | LLMs delivering just-in-time leadership prompts based on meeting transcripts and team mood. |
 | **Metaverse-Based Leadership Simulations** | Immersive VR for crisis-scenario practice and cross-cultural negotiation exercises. |
-| **Digital-Twin Workforce Culture Models** | Simulated organisational networks predicting morale impact from structural changes. |
+| **Digital-Twin Workforce Culture Models** | Simulated organizational networks predicting morale impact from structural changes. |
 | **Quantum-Secure Executive Communication** | Early adoption of post-quantum encrypted messaging for high-stakes leadership comms. |
 
 > *All sources cited for conceptual alignment. No proprietary text copied.*

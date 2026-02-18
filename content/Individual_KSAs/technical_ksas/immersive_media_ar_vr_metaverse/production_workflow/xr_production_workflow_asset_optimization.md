@@ -16,7 +16,7 @@ source_frameworks:
   - "Epic Games Unreal Engine VR Optimization Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Describes stages from concept to release; imports models into game engines; recognises polygon‑count versus performance trade‑offs; understands basic baking.
+    indicator: Describes stages from concept to release; imports models into game engines; recognizes polygon‑count versus performance trade‑offs; understands basic baking.
   - level: Basic
     indicator: Sets up source-control repos; uses naming conventions; applies Level‑of‑Detail (LOD) systems; compresses textures; tests build size against target hardware.
   - level: Intermediate

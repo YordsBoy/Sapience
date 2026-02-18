@@ -15,7 +15,7 @@ source_frameworks:
   - "ISO 14620‑1:2019 Space Systems – Safety Requirements"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists life‑support subsystems; recognises nominal cabin parameters; describes CO₂ scrubbing.
+    indicator: Lists life‑support subsystems; recognizes nominal cabin parameters; describes CO₂ scrubbing.
   - level: Basic
     indicator: Calculates metabolic load; monitors pressure/temperature; supports contingency consumable planning; performs canister swaps, water-quality tests, and leak checks.
   - level: Intermediate

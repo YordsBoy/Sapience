@@ -18,9 +18,9 @@ proficiency_levels:
   - level: Basic
     indicator: Uses FSM apps for route mapping; Uses calendar app; sends ETAs; sends automated reminders; logs travel time; records job completion.
   - level: Intermediate
-    indicator: Applies optimisation algorithms; balances technician skill sets; tracks KPIs; measures on‑time arrival rates.
+    indicator: Applies optimization algorithms; balances technician skill sets; tracks KPIs; measures on‑time arrival rates.
   - level: Advanced
-    indicator: Integrates FSM with CRM and inventory; implements dynamic re‑routing; analyses utilisation metrics; reduces mileage.
+    indicator: Integrates FSM with CRM and inventory; implements dynamic re‑routing; analyses utilization metrics; reduces mileage.
   - level: Expert
-    indicator: Designs scalable enterprise dispatch systems and strategies; negotiates service‑level agreements (SLAs); publishes FSM optimisation studies.
+    indicator: Designs scalable enterprise dispatch systems and strategies; negotiates service‑level agreements (SLAs); publishes FSM optimization studies.
 ---

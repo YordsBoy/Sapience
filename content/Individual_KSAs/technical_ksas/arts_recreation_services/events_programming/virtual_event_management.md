@@ -9,7 +9,7 @@ cluster_tags:
   - "Virtual"
 description: >
   Designs and delivers online conferences or hybrid streams, selecting
-  platforms, configuring engagement tools, and analysing analytics to optimise
+  platforms, configuring engagement tools, and analyzing analytics to optimize
   ROI and inclusivity.
 source_frameworks:
   - "Execu-Events Virtual Event Planner Guide (2025)"

@@ -20,9 +20,9 @@ proficiency_levels:
   - level: Basic  
     indicator: Edits simple videos or live streams and uploads them; follows platform guidelines for formats (e.g., aspect ratio, duration limits on certain social platforms); configures encoder; sets OBS/NDI feed; tests latency.  
   - level: Intermediate  
-    indicator: Produces content with platform algorithms in mind (optimising thumbnails, titles, metadata); manages a consistent release schedule; monitors viewer metrics (watch time, drop-off) to adjust content; produces multi-camera switch; embeds SCTE-35 markers; monitors network jitter.  
+    indicator: Produces content with platform algorithms in mind (optimizing thumbnails, titles, metadata); manages a consistent release schedule; monitors viewer metrics (watch time, drop-off) to adjust content; produces multi-camera switch; embeds SCTE-35 markers; monitors network jitter.  
   - level: Advanced  
-    indicator: Leads a small team to produce high-quality streaming series or live shows; utilises advanced encoding/bitrate tuning for different bandwidths; engages with the audience community for feedback and retention; integrates cloud ingest; automates QC; meets OTT delivery specs.  
+    indicator: Leads a small team to produce high-quality streaming series or live shows; utilizes advanced encoding/bitrate tuning for different bandwidths; engages with the audience community for feedback and retention; integrates cloud ingest; automates QC; meets OTT delivery specs.  
   - level: Expert  
     indicator: Showruns major digital productions tailored to streaming; coordinates multi-platform releases; uses deep analytics and A/B testing for content decisions; aligns production values with Netflix/OTT industry technical standards; architects end-to-end IP facility; mentors crews; drives standards adoption.  
 ---  

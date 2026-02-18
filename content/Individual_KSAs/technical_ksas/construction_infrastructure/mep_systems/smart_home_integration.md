@@ -15,7 +15,7 @@ source_frameworks:
   - "KNX Certified Professional training framework"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains smart-home bus architecture; recognises device types.
+    indicator: Explains smart-home bus architecture; recognizes device types.
   - level: Basic
     indicator: Programs scenes in ETS software; sets IP addressing.
   - level: Intermediate

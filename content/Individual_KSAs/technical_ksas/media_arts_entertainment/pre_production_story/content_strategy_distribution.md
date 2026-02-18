@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Builds editorial calendar; tags SEO keywords; publishes shorts vs long-form; uses analytics dashboards to schedule and A/B test posts.
   - level: Intermediate
-    indicator: A/B tests thumbnails; tracks watch-time; optimises click-through rate; crafts cross-channel campaigns, SEO tactics, and audience segmentation.
+    indicator: A/B tests thumbnails; tracks watch-time; optimizes click-through rate; crafts cross-channel campaigns, SEO tactics, and audience segmentation.
   - level: Advanced
     indicator: Uses data warehouse; runs audience clustering; manages rights windows; manages omni-channel calendars, influencer collaborations, and revenue models.
   - level: Expert

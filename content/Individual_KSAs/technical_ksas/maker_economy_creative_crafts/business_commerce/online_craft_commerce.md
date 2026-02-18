@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic  
     indicator: Writes SEO titles; installs basic analytics;  creates a listing for a craft item with decent photos and description; makes an occasional sale; handles shipping zones; packages and ships items following simple guidelines.  
   - level: Intermediate  
-    indicator: Implements abandoned-cart emails; optimises page speed; manages inventory sync; maintains an online shop with multiple products; uses SEO keywords and promotions; handles customer inquiries and occasional complaints/refunds professionally.  
+    indicator: Implements abandoned-cart emails; optimizes page speed; manages inventory sync; maintains an online shop with multiple products; uses SEO keywords and promotions; handles customer inquiries and occasional complaints/refunds professionally.  
   - level: Advanced  
     indicator: Sets up headless storefront with API; localises for multi-currency; complies with GDPR cookie policy; grows a significant online craft following; regularly updates product line based on trends and analytics; streamlines shipping (bulk purchase materials, perhaps uses fulfillment services) to improve efficiency.  
   - level: Expert  

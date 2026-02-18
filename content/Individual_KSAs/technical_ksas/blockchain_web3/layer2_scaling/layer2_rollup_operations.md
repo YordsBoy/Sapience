@@ -7,7 +7,7 @@ horizon: emerging
 cluster_tags:
   - "Layer2"
   - "Rollups"
-description: Deploying, monitoring, and optimising layer‑2 rollup networks—optimistic or zk‑based—to increase throughput, reduce gas costs, and maintain security through fraud proofs or validity proofs.
+description: Deploying, monitoring, and optimizing layer‑2 rollup networks—optimistic or zk‑based—to increase throughput, reduce gas costs, and maintain security through fraud proofs or validity proofs.
 source_frameworks: ["Ethereum Foundation Rollup Guidelines"]
 proficiency_levels:
   - level: Awareness

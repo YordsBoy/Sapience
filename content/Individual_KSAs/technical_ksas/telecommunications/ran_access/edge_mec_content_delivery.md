@@ -17,7 +17,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Implements traffic‑steering policies; deploys GPU acceleration; analyses QoE at edge; configures traffic rules; aligns SLA ≤ 10 ms.
   - level: Advanced
-    indicator: Optimises micro‑service placement; integrates CI/CD to edge nodes; automates scaling via Kubernetes CRDs; integrates NWDAF feedback; optimises backhaul cost; negotiates MEC federation.
+    indicator: Optimises micro‑service placement; integrates CI/CD to edge nodes; automates scaling via Kubernetes CRDs; integrates NWDAF feedback; optimizes backhaul cost; negotiates MEC federation.
   - level: Expert
     indicator: Leads edge‑MEC architectures; mentors dev-partners; publishes edge‑economics studies; shapes ETSI MEC standards.
 ---

@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Develops unattended bots and custom RPA scripts for common administrative processes; schedules and monitors bot tasks.  
   - level: Advanced  
-    indicator: Implements governance and security; measures ROI; integrates RPA solutions with office IT systems (CRM, ERP); optimises bots to reduce errors and exceptions.  
+    indicator: Implements governance and security; measures ROI; integrates RPA solutions with office IT systems (CRM, ERP); optimizes bots to reduce errors and exceptions.  
   - level: Expert  
     indicator: Leads enterprise RPA adoption; architects enterprise automation roadmap; ensures governance, security and compliance of automated workflows; mentors others in RPA development.  
 ---  

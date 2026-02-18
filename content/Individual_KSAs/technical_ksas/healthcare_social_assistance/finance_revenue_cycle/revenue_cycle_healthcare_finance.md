@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Revenue Cycle"
   - "Billing"
-description: Manages end-to-end revenue-cycle activities—registration, patient access, charge capture, coding (ICD-10-CM/PCS, CPT), claims, denials, and payer contractinto optimize cash flow and ensure regulatory compliance.
+description: Manages end-to-end revenue-cycle activities—registration, patient access, charge capture, coding (ICD-10-CM/PCS, CPT), claims, denials, and payer contracts to optimize cash flow and ensure regulatory compliance.
 source_frameworks:
   - "HFMA Revenue Cycle Map"
   - "cms:UB-04"

@@ -8,7 +8,7 @@ cluster_tags:
   - "Volumetric Capture"
   - "4D Video"
 description: |
-  Captures, reconstructs, and streams dynamic 3-D humans or environments via multi-camera arrays, depth sensors, and neural-radiance-field post-processing; optimises mesh fidelity vs bandwidth.
+  Captures, reconstructs, and streams dynamic 3-D humans or environments via multi-camera arrays, depth sensors, and neural-radiance-field post-processing; optimizes mesh fidelity vs bandwidth.
 source_frameworks:
   - "ISO/IEC 23090-12 MPEG Immersive Video (MIV)"
 proficiency_levels:

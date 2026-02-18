@@ -1,7 +1,7 @@
 # Core IT & Cloud Infrastructure
 
 ## Sector Overview  
-Gartner projects **global public-cloud spend to top $723 billion in 2025** as hybrid and multi-cloud strategies become the enterprise default.  HashiCorp’s *2025 Cloud Complexity Report* finds that **94 % of organisations are multi-cloud** and cite skill gaps and security as top hurdles.  The **AWS Well-Architected Framework** (six pillars) and analogous Azure/GCP guides remain the dominant reference for cloud design.  **FinOps** adoption is surging: 70 % of teams rank cost-optimisation as their #1 cloud priority in the *State of FinOps 2025* survey.  Reliability culture is cemented by Google’s SRE principles, now widely implemented beyond hyperscalers.  
+Gartner projects **global public-cloud spend to top $723 billion in 2025** as hybrid and multi-cloud strategies become the enterprise default.  HashiCorp’s *2025 Cloud Complexity Report* finds that **94 % of organizations are multi-cloud** and cite skill gaps and security as top hurdles.  The **AWS Well-Architected Framework** (six pillars) and analogous Azure/GCP guides remain the dominant reference for cloud design.  **FinOps** adoption is surging: 70 % of teams rank cost-optimization as their #1 cloud priority in the *State of FinOps 2025* survey.  Reliability culture is cemented by Google’s SRE principles, now widely implemented beyond hyperscalers.  
 
 On the technology front, **Kubernetes powers >80 % of new cloud-native workloads** per CNCF research, while **Zero-Trust Architecture (NIST SP 800-207)** guides cloud-security transformations.  ISO/IEC 27017 and sovereign-cloud regulations drive heightened data-residency governance.  Edge-computing spend will exceed **$261 billion by 2025** according to IDC, amplifying the need for orchestration skills across the core–edge continuum.
 
@@ -62,13 +62,13 @@ On the technology front, **Kubernetes powers >80 % of new cloud-native workloads
 - **Azure confidential-VM portfolio update 2025** – market adoption evidence for confidential services.
 - **Green Software Foundation – Carbon-Awareness principles (2024)** – dynamic workload scheduling by grid intensity.
 - **Microsoft & UBS Carbon-Aware Computing white paper 2023** – operational tactics for green-ops pipelines.
-- **EU Energy-Efficiency Directive 2023 (Data-centre clauses)** – mandatory carbon reporting; drives green-cloud KPIs.
+- **EU Energy-Efficiency Directive 2023 (Data-center clauses)** – mandatory carbon reporting; drives green-cloud KPIs.
 - **FinOps Foundation State of FinOps 2025** – carbon + cost metrics in cloud-financial-ops.
-- **Gartner Cloud-Spending Forecast 2025 —** Predicts worldwide public-cloud end-user spending will reach **USD 723 billion in 2025**, with every service segment posting double-digit growth; underpins FinOps cost-optimisation KPIs.
+- **Gartner Cloud-Spending Forecast 2025 —** Predicts worldwide public-cloud end-user spending will reach **USD 723 billion in 2025**, with every service segment posting double-digit growth; underpins FinOps cost-optimization KPIs.
 - **HashiCorp *Cloud Complexity Report* 2025 —** Survey of 1 100 IT leaders: 86 % run multi-cloud, with skills gaps and security cited as top complexity drivers—context for AIOps and Governance KSAs.
-- **AWS Well-Architected Framework (2023) —** Six pillars—operational excellence, security, reliability, performance efficiency, cost optimisation, sustainability—provide design guardrails for Cloud Architecture KSAs. 
+- **AWS Well-Architected Framework (2023) —** Six pillars—operational excellence, security, reliability, performance efficiency, cost optimization, sustainability—provide design guardrails for Cloud Architecture KSAs. 
 - **Google *Site Reliability Engineering* (2023) —** Google’s SRE handbook detailing SLIs/SLOs, error budgets, and toil reduction; forms the foundation of Site-Reliability Engineering Practices.
-- **FinOps Foundation *State of FinOps 2025* —** Benchmarks from 1 200+ practitioners on cloud-cost optimisation and emerging carbon-aware metrics, informing both FinOps and Green-Ops KSAs.  
+- **FinOps Foundation *State of FinOps 2025* —** Benchmarks from 1 200+ practitioners on cloud-cost optimization and emerging carbon-aware metrics, informing both FinOps and Green-Ops KSAs.  
 - **CNCF Kubernetes Adoption Survey 2025 —** Reports over 96 % of large enterprises run Kubernetes in production, with AI/ML workloads the fastest-growing use-case—validates Kubernetes Orchestration KSA maturity.
 - **NIST SP 800-207 *Zero-Trust Architecture* —** Defines abstract ZTA model, deployment use-cases, and implementation guidelines leveraged in Confidential-Computing and Cloud-Security Architecture KSAs.
 - **ISO/IEC 27017 — Cloud Security Controls —** Adds cloud-specific implementation guidance to ISO 27002, covering multi-tenancy, virtualisation, and shared-responsibility—baseline for Cloud-Security Architecture.

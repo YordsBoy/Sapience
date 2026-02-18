@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Defines personal data; locates privacy-policy link on site; explains consumer opt-out right.
   - level: Basic
-    indicator: Maps data flows; tags consent fields; fulfils deletion requests within 45 days.
+    indicator: Maps data flows; tags consent fields; fulfills deletion requests within 45 days.
   - level: Intermediate
     indicator: Implements “Do Not Sell/Share” preference center; maintains records of processing; passes GDPR Article 30 audit.
   - level: Advanced

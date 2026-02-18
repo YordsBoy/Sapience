@@ -15,7 +15,7 @@ source_frameworks:
   - "FDA Digital Health Guidance"
 proficiency_levels:
   - level: Awareness
-    indicator: Selects basic sensors; pairs Bluetooth devices; understands privacy basics; describes remote-patient monitoring (RPM) basics; recognises privacy rules (HIPAA).
+    indicator: Selects basic sensors; pairs Bluetooth devices; understands privacy basics; describes remote-patient monitoring (RPM) basics; recognizes privacy rules (HIPAA).
   - level: Basic
     indicator: Configures dashboards; sets alert thresholds; replaces batteries; pairs BP cuff; syncs data; schedules virtual visit.
   - level: Intermediate

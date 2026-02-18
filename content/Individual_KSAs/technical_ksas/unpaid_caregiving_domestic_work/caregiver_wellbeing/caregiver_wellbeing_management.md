@@ -15,7 +15,7 @@ source_frameworks:
   - "AARP Caregiver Support Guidelines"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Realizes that caregiving can be stressful; has heard that taking breaks or asking for help is important; recognises burnout signs; lists local resources.  
+    indicator: Realizes that caregiving can be stressful; has heard that taking breaks or asking for help is important; recognizes burnout signs; lists local resources.  
   - level: Basic  
     indicator: Takes short breaks when others can watch the care recipient; occasionally talks about challenges with a friend or family member; tries simple stress relief activities (a walk, hobby when possible); practices breathing.  
   - level: Intermediate  

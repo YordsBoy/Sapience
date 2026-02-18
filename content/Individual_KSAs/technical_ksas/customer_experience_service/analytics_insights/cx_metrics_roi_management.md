@@ -13,7 +13,7 @@ source_frameworks:
   - "Forrester CX Index"  
 proficiency_levels:
   - level: Awareness
-    indicator: Calculates basic CSAT averages; recognises key CX metrics definitions.
+    indicator: Calculates basic CSAT averages; recognizes key CX metrics definitions.
   - level: Basic
     indicator: Builds metric scorecards; correlates CSAT with support costs; presents trend lines to stakeholders.
   - level: Intermediate

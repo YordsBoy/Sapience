@@ -14,7 +14,7 @@ source_frameworks:
   - "Grants.gov Community Blog"
 proficiency_levels:
   - level: Awareness
-    indicator: Searches grant databases; defines allowable vs allocable cost; recognises restricted items; summarises eligibility criteria; compiles required attachments.
+    indicator: Searches grant databases; defines allowable vs allocable cost; recognizes restricted items; summarizes eligibility criteria; compiles required attachments.
   - level: Basic
     indicator: Aligns project goals to donor priorities; drafts narratives; prepares line‑item budgets; maps budget to SF-424; logs sub-awards; schedules reports.
   - level: Intermediate

@@ -8,7 +8,7 @@ cluster_tags:
   - "Video Production"
   - "Short-Form"
 description: |
-  Plans, shoots, edits, and distributes <60-second videos optimised for vertical
+  Plans, shoots, edits, and distributes <60-second videos optimized for vertical
   formats (TikTok, Reels, Shorts); integrates captions, effects, and rapid iteration.
 source_frameworks:
   - "Adobe Premiere Rush Workflow Guide"
@@ -20,9 +20,9 @@ proficiency_levels:
   - level: Basic
     indicator: Edits clips; Syncs cuts to beats; adds captions; selects trending audio; uploads with tags.
   - level: Intermediate
-    indicator: Applies motion graphics; colour‑grades footage; batches shoot schedules.
+    indicator: Applies motion graphics; color‑grades footage; batches shoot schedules.
   - level: Advanced
-    indicator: Implements hook formulas; maintains brand style guides; optimises lighting setups; tracks hook rate.
+    indicator: Implements hook formulas; maintains brand style guides; optimizes lighting setups; tracks hook rate.
   - level: Expert
     indicator: Directs cross-channel campaigns; innovates new storytelling formats; directs multi‑cam short‑form shoots; trains editors; publishes editing‑efficiency benchmarks.
 ---

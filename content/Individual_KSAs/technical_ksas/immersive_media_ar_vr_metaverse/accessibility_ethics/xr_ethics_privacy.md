@@ -15,7 +15,7 @@ source_frameworks:
   - "iso:27001"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies sensitive XR data types (eye-tracking, biometrics); recognises consent prompts.
+    indicator: Identifies sensitive XR data types (eye-tracking, biometrics); recognizes consent prompts.
   - level: Basic
     indicator: Implements basic consent dialogs, data-retention notices, and notice & choice UI; encrypts biometric streams in transit
   - level: Intermediate

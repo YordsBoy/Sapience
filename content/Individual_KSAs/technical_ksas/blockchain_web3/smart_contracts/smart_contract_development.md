@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic  
     indicator: Writes simple smart contracts (e.g., for a token or vote); implements access-control, events, and tests them on a test network with guidance.  
   - level: Intermediate  
-    indicator: Develops and audits smart contracts for common use cases, ensuring they function as intended on mainnets; automates deployments, gas-optimises code, and integrates oracles/L2 bridges.  
+    indicator: Develops and audits smart contracts for common use cases, ensuring they function as intended on mainnets; automates deployments, gas-optimizes code, and integrates oracles/L2 bridges.  
   - level: Advanced  
     indicator: Implements complex decentralized application logic; designs upgradeable patterns (UUPS, diamond); sets up CI/CD and canary rollout; follows security best practices to prevent vulnerabilities.  
   - level: Expert  

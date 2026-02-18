@@ -8,7 +8,7 @@ cluster_tags:
   - "Green Building"
   - "Sustainability"
 description: >
-  Applies LEED, BREEAM, and WELL frameworks to optimise energy, water, materials, and indoor-environment quality in buildings.
+  Applies LEED, BREEAM, and WELL frameworks to optimize energy, water, materials, and indoor-environment quality in buildings.
 source_frameworks:
   - "USGBC LEED v4.1"
 proficiency_levels:

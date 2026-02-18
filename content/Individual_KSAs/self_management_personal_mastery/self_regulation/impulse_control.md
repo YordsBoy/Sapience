@@ -20,5 +20,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Sustains self-control during prolonged stress; mentors others in habit-breaking and willpower techniques.
   - level: Expert
-    indicator: Designs programs that enhance behavioural self-regulation at scale; links impulse control to organisational safety and ethics outcomes.
+    indicator: Designs programs that enhance behavioral self-regulation at scale; links impulse control to organizational safety and ethics outcomes.
 ---

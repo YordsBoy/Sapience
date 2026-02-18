@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Leads Management Review; implements risk-based FMEA; aligns supplier-quality requirements with ISO-compliant PPAP.
   - level: Expert
-    indicator: Drives organisation-wide continuous-improvement roadmap; mentors auditors; achieves third-party ISO 9001 recertification with zero non-conformities.
+    indicator: Drives organization-wide continuous-improvement roadmap; mentors auditors; achieves third-party ISO 9001 recertification with zero non-conformities.
 ---

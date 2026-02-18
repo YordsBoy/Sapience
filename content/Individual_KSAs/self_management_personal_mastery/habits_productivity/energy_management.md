@@ -21,5 +21,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Tracks energy metrics (heart-rate variability, fatigue scores) to fine-tune routines; mentors colleagues on energy rituals.
   - level: Expert
-    indicator: Integrates energy-management programs into organisational health strategy; leverages data analytics to link energy patterns to productivity and wellbeing KPIs.
+    indicator: Integrates energy-management programs into organizational health strategy; leverages data analytics to link energy patterns to productivity and wellbeing KPIs.
 ---

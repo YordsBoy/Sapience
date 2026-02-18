@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Uses monitoring tools to track bridge TVL and abnormal flows.
   - level: Intermediate
-    indicator: Implements light-client or ZKP-based verification; runs bounty programmes.
+    indicator: Implements light-client or ZKP-based verification; runs bounty programs.
   - level: Advanced
     indicator: Conducts adversarial testing; designs fail-safe mechanisms.
   - level: Expert

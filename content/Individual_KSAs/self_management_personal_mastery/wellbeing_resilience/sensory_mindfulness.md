@@ -21,5 +21,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Leads mindfulness sessions for teams; integrates mindful pauses into meetings and workflows.
   - level: Expert
-    indicator: Designs organisational mindfulness programs; researches and shares outcomes on stress, focus, and well-being.
+    indicator: Designs organizational mindfulness programs; researches and shares outcomes on stress, focus, and well-being.
 ---

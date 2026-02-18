@@ -15,11 +15,11 @@ source_frameworks:
   - "onet:15-1257.00"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains scene graph; recognises input devices; modifies templates to create basic interactive scenes.
+    indicator: Explains scene graph; recognizes input devices; modifies templates to create basic interactive scenes.
   - level: Basic
     indicator: Imports assets; sets colliders; deploys WebGL build; scripts core mechanics, UI interactions, and deploys to a single platform.
   - level: Intermediate
-    indicator: Implements physics, networked features, and performance profiling; adds gaze interactions; optimises draw calls; supports accessibility per WCAG.
+    indicator: Implements physics, networked features, and performance profiling; adds gaze interactions; optimizes draw calls; supports accessibility per WCAG.
   - level: Advanced
     indicator: Implements networked multiplayer; measures latency; streams assets; oversees cross-platform builds, VR/AR integrations, and live-ops pipelines.
   - level: Expert

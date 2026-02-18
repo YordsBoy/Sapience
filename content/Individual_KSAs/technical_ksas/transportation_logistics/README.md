@@ -11,7 +11,7 @@ Rising e-commerce volumes, automation, and ESG imperatives have transformed logi
 | **autonomous_systems/** | ADS logistics design |
 | **fleet_operations/** | Driver & vehicle ops, telematics, haz-goods |
 | **supply_chain_strategy/** | Trade, SCOR, multimodal, data |
-| **last_mile_delivery/** | Cargo securement & micro-fulfilment |
+| **last_mile_delivery/** | Cargo securement & micro-fulfillment |
 | **cold_chain/** | Quality & compliance |
 | **warehouse_automation/** | Robotics & AMRs |
 | **sustainability_emissions/** | Carbon & sustainability mgmt |

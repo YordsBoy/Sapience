@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Implements advanced control (APC); drives abnormal-situation drills.
   - level: Expert
-    indicator: Oversees multi-unit optimisation; mentors console & field ops; shapes refinery-wide PSM.
+    indicator: Oversees multi-unit optimization; mentors console & field ops; shapes refinery-wide PSM.
 ---

@@ -8,14 +8,14 @@ cluster_tags:
   - "Copyright"
   - "IP Management"
 description: >
-  Protects and monetises creative works; registers copyrights, manages licences, resolves takedowns, and navigates fair-use and DMCA compliance across platforms.
+  Protects and monetises creative works; registers copyrights, manages licenses, resolves takedowns, and navigates fair-use and DMCA compliance across platforms.
 source_frameworks:
   - "World Intellectual Property Organization (WIPO) Guides"
   - "WIPO Copyright Toolkit"
   - "YouTube Content ID Guidelines"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognises copyright symbols and ownership basics; adds copyright notices; files basic DMCA counter‑claims; recognises fair‑use factors.
+    indicator: Recognises copyright symbols and ownership basics; adds copyright notices; files basic DMCA counter‑claims; recognizes fair‑use factors.
   - level: Basic
     indicator: Registers trademarks; negotiates licensing terms; manages contract templates; files simple copyright claims; uses platform CMS to manage assets.
   - level: Intermediate

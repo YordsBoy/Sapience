@@ -8,7 +8,7 @@ cluster_tags:
     - "CRM"
     - "Customer Analytics"
 description: >  
-  Manages and utilises Customer Relationship Management (CRM) software to track interactions and sales funnels;  
+  Manages and utilizes Customer Relationship Management (CRM) software to track interactions and sales funnels;  
   analyses customer data and feedback (using dashboards, KPIs, sentiment analysis) to inform service improvements and personalized outreach.  
 source_frameworks:  
   - "Salesforce Admin Competencies"  

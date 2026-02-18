@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Applies ASHRAE Handbook principles to size, commission, and troubleshoot HVAC
   equipment, including refrigeration cycle diagnostics, airflow balancing, and
-  thermal-system optimisation.
+  thermal-system optimization.
 source_frameworks:
   - "ASHRAE Handbook—HVAC Applications & Refrigeration"
 proficiency_levels:

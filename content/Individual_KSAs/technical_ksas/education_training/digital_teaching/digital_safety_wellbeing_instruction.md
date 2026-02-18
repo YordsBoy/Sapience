@@ -14,7 +14,7 @@ source_frameworks:
   - "APA Digital Device Guidelines for Youth"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists core safety topics; recognises signs of online harassment.
+    indicator: Lists core safety topics; recognizes signs of online harassment.
   - level: Basic
     indicator: Facilitates digital-citizenship lessons; models privacy-setting checks.
   - level: Intermediate

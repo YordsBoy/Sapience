@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Designs cross‑border data‑replication strategies with pseudonymisation; monitors residency‑compliance dashboards.
   - level: Expert
-    indicator: Defines organisational data-governance policy; advises on global data‑protection regulations; architects sovereign‑cloud landing zones; leads third‑party assurance audits.
+    indicator: Defines organizational data-governance policy; advises on global data‑protection regulations; architects sovereign‑cloud landing zones; leads third‑party assurance audits.
 ---

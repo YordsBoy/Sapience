@@ -8,7 +8,7 @@ cluster_tags:
   - "ZKP"
   - "Cryptography"
 description: |
-  Implements zk-SNARK/zk-STARK circuits, optimises constraint systems, and integrates ZKPs into rollups, privacy layers, and identity schemes for scalability and data
+  Implements zk-SNARK/zk-STARK circuits, optimizes constraint systems, and integrates ZKPs into rollups, privacy layers, and identity schemes for scalability and data
   minimisation.
 source_frameworks:
   - "Ethereum zkEVM Roadmap (2025)"

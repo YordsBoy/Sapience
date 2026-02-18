@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Adjusts nDisplay frustum; balances exposure; manages genlock.
   - level: Advanced
-    indicator: Optimises latency (<6 ms); colour-manages ACES; coordinates data wrangling.
+    indicator: Optimises latency (<6 ms); color-manages ACES; coordinates data wrangling.
   - level: Expert
     indicator: Designs multi-volume stage; mentors VP crews; contributes to SMPTE committee.
 ---

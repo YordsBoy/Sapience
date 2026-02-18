@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Oversees global regulatory strategy; drives risk-management files; Leads QMS remediation; manages PMS and vigilance; leads mock inspections.
   - level: Expert
-    indicator: Advises on regulatory-science strategy and policy;integrates real-world evidence; mentors compliance teams.
+    indicator: Advises on regulatory-science strategy and policy; integrates real-world evidence; mentors compliance teams.
 ---

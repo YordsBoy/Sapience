@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Designs syndrome-measurement circuits; benchmarks threshold under realistic noise models.
   - level: Advanced
-    indicator: Integrates real-time decoding hardware; optimises lattice surgery for qubit overhead.
+    indicator: Integrates real-time decoding hardware; optimizes lattice surgery for qubit overhead.
   - level: Expert
     indicator: Contributes to open-source QEC compilers; publishes new code families and threshold analyses.
 ---

@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Sets clear scope and timelines; requests feedback; resolves minor disputes via platform mediation tools.
   - level: Intermediate
-    indicator: Implements systematic client‑success follow‑ups; optimises profile keywords; uses analytics to improve acceptance rates.
+    indicator: Implements systematic client‑success follow‑ups; optimizes profile keywords; uses analytics to improve acceptance rates.
   - level: Advanced
     indicator: Develops brand‑building content; negotiates long‑term contracts; mentors newcomers on reputation strategies.
   - level: Expert

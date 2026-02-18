@@ -16,7 +16,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Identifies target customer personas; calculates cost of goods sold (COGS); sets basic pricing; defines unique value proposition; identifies competitors.
   - level: Basic
-    indicator: Calculates cost of goods sold (COGS); sets retail price; opens online shop; photographs products for online listings; writes search‑optimised descriptions; manages small‑scale inventory.
+    indicator: Calculates cost of goods sold (COGS); sets retail price; opens online shop; photographs products for online listings; writes search‑optimized descriptions; manages small‑scale inventory.
   - level: Intermediate
     indicator: Utilises social‑media marketing; analyses click-through and conversion metrics; iterates product photos; participates in craft fairs.
   - level: Advanced

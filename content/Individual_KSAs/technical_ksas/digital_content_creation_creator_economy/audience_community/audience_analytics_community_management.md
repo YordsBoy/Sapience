@@ -8,7 +8,7 @@ cluster_tags:
   - "Audience Analytics"
   - "Community Management"
 description: >
-  Uses social-platform insights, web metrics, and sentiment analysis to understand audience behaviour; designs engagement strategies, moderates communities, and cultivates loyalty across multiple channels.
+  Uses social-platform insights, web metrics, and sentiment analysis to understand audience behavior; designs engagement strategies, moderates communities, and cultivates loyalty across multiple channels.
 source_frameworks:
   - "Hootsuite Social Marketing Certification"
   - "Discord Community Guidelines"

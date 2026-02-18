@@ -9,7 +9,7 @@ description: Preparing, assuring, and filing sustainability disclosures in align
 source_frameworks: ["IFRS Foundation – ISSB Standards S1 & S2"]
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies mandatory disclosure sections; recognises key ESG terminology; retrieves emission‑factor data.
+    indicator: Identifies mandatory disclosure sections; recognizes key ESG terminology; retrieves emission‑factor data.
   - level: Basic
     indicator: Compiles qualitative and quantitative metrics; maps data sources; drafts narrative sections for governance and risk.
   - level: Intermediate

@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Tunes heterogeneous hardware clusters for throughput/cost and establishes caching strategies.
   - level: Expert
-    indicator: Leads organisation-wide platform strategy for large-scale AI workloads; designs multicloud, multi-tenant ML platforms with dynamic resource orchestration and green-AI targets.
+    indicator: Leads organization-wide platform strategy for large-scale AI workloads; designs multicloud, multi-tenant ML platforms with dynamic resource orchestration and green-AI targets.
 ---

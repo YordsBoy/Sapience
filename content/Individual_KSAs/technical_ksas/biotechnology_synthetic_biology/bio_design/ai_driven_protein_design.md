@@ -8,7 +8,7 @@ cluster_tags:
   - "Bioinformatics"
   - "AI"
 description: >
-  Utilises machine-learning models (e.g., AlphaFold, protein-language models) to predict structure–function relationships and design or optimise novel proteins and enzymes for therapeutics, industrial biocatalysis, or materials science.
+  Utilises machine-learning models (e.g., AlphaFold, protein-language models) to predict structure–function relationships and design or optimize novel proteins and enzymes for therapeutics, industrial biocatalysis, or materials science.
 source_frameworks:
   - "DeepMind AlphaFold Papers (2023-25)"
   - "ONET 19-1029.01 Computational Biologist"
@@ -22,7 +22,7 @@ proficiency_levels:
     indicator: Designs variant libraries; fine-tunes models on lab datasets; prioritises
       candidates for wet-lab testing.
   - level: Advanced
-    indicator: Integrates AI pipelines with directed-evolution experiments; optimises enzymes or
+    indicator: Integrates AI pipelines with directed-evolution experiments; optimizes enzymes or
       antibodies for stability and activity.
   - level: Expert
     indicator: Leads cross-disciplinary teams creating de-novo proteins; develops new

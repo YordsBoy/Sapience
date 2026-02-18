@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Conducts risk-based inspection (RBI); analyses failure data; updates CMMS.
   - level: Advanced
-    indicator: Deploys predictive analytics (vibration, thermography); optimises spare-parts strategy.
+    indicator: Deploys predictive analytics (vibration, thermography); optimizes spare-parts strategy.
   - level: Expert
     indicator: Architectures enterprise ISO 55001 asset-management system; mentors engineers; links integrity KPIs to financial plans.
 ---

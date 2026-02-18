@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Performs conjunction assessments; simulates breakup models; designs drag-sail or propulsion EOL kits; files FCC debris plan; coordinates disposal maneuvers.
   - level: Advanced
-    indicator: Implements active‑debris‑removal concepts; deploys drag‑sail or propulsion kits; analyses long‑term orbital evolution; optimises constellation shell disposals; validates compliance via ESA MASTER.
+    indicator: Implements active‑debris‑removal concepts; deploys drag‑sail or propulsion kits; analyses long‑term orbital evolution; optimizes constellation shell disposals; validates compliance via ESA MASTER.
   - level: Expert
     indicator: Leads international debris‑mitigation working groups; innovates ADR (active debris removal) tech; shapes ISO/IADC updates; publishes debris‑risk analyses.
 ---

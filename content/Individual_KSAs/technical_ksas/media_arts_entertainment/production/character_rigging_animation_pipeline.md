@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Rigging"
   - "Pipeline"
-description: Creating deformation rigs, weight painting, and producing keyframe or motion‑capture animations while optimising assets for real‑time engines and feature‑film rendering pipelines.
+description: Creating deformation rigs, weight painting, and producing keyframe or motion‑capture animations while optimizing assets for real‑time engines and feature‑film rendering pipelines.
 source_frameworks:
   - "Unity Animation Rigging Workflow"       # 
   - "Autodesk Rigging Guide"
@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Scripts autorigger; implements inverse kinematics (IK) switch; integrates blend‑shape facial rigs; cleans motion‑capture data.
   - level: Advanced
-    indicator: Develops modular rigging systems with scripting; integrates USD or Alembic optimises rigs for real‑time engines; conducts animation polish passes.
+    indicator: Develops modular rigging systems with scripting; integrates USD or Alembic optimizes rigs for real‑time engines; conducts animation polish passes.
   - level: Expert
     indicator: Leads studio rigging pipelines; standardises naming conventions; contributes to open‑source rigging tools; publishes rigging‑workflow papers.
 ---

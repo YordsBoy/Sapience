@@ -16,13 +16,13 @@ source_frameworks:
   - "Creative Commons Licences"
 proficiency_levels:
   - level: Awareness
-    indicator: Differentiates CC licence types; recognises basic DRM.
+    indicator: Differentiates CC license types; recognizes basic DRM.
   - level: Basic
-    indicator: Registers works; selects appropriate licence; tracks usage manually.
+    indicator: Registers works; selects appropriate license; tracks usage manually.
   - level: Intermediate
     indicator: Implements smart-contract royalties; negotiates platform terms.
   - level: Advanced
     indicator: Integrates rights-management APIs; audits royalty streams; resolves disputes.
   - level: Expert
-    indicator: Designs organisation-wide digital-rights strategy; mentors creators; influences policy.
+    indicator: Designs organization-wide digital-rights strategy; mentors creators; influences policy.
 ---

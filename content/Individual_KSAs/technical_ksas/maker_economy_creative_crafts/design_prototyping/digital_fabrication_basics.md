@@ -14,7 +14,7 @@ source_frameworks:
   - "fabacademy:FabModules"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies machine axes; recognises material compatibility; Slices basic STL files and runs small prints.
+    indicator: Identifies machine axes; recognizes material compatibility; Slices basic STL files and runs small prints.
   - level: Basic
     indicator: Adjusts machine settings; resolves first-layer failures; imports DXF/SVG files; sets feed/speed presets; performs safe job setup.
   - level: Intermediate

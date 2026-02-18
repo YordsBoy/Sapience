@@ -49,7 +49,7 @@
 - **Academic Research:** General trends like precision ag ROI come from ag extension research (e.g., land-grant university studies). We integrated findings (like the importance of cost-benefit analysis of tech) conceptually without copying text.
 - **ISO/TC 23 – Tractors & Machinery for Agriculture & Forestry:** Key safety and performance standards integrated into Advanced Machinery Operation and Agricultural Robotics Maintenance KSAs.
 - **FAO/WHO “Food-Safety Aspects of Cell-Based Food” report (2023)** – safety and HACCP guidance for cultivated-meat production.  
-- **US FDA & USDA-FSIS Joint Framework for Cell-Cultured Meat (2024)** – pre-market consultation and labelling rules.  
+- **US FDA & USDA-FSIS Joint Framework for Cell-Cultured Meat (2024)** – pre-market consultation and labeling rules.  
 - **ISO 18466:2024 – UAV Application in Agriculture** – performance and safety guidelines for drone crop treatments.  
 - **AgWeb “Farming Drones & AI Advances” Brief (2025)** – state-of-practice reference for AI pest scouting.  
 

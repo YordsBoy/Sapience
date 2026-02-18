@@ -15,7 +15,7 @@ source_frameworks:
   - "FDA SaMD AI/ML Action Plan 2024"
 proficiency_levels:
   - level: Awareness
-    indicator: Describes AI vs traditional CDS; recognises potential bias.
+    indicator: Describes AI vs traditional CDS; recognizes potential bias.
   - level: Basic
     indicator: Validates vendor model performance on local data; monitors drift.
   - level: Intermediate

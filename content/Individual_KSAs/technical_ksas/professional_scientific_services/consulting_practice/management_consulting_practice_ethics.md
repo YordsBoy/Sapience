@@ -15,7 +15,7 @@ source_frameworks:
   - "ICMCI CMC Competency Framework"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains consultant–client confidentiality; recognises scope creep; drafts basic proposals.
+    indicator: Explains consultant–client confidentiality; recognizes scope creep; drafts basic proposals.
   - level: Basic
     indicator: Conducts stakeholder interviews; drafts engagement letter; obtains client sign-off; keeps work-papers; applies root‑cause analysis; adheres to disclosure requirements.
   - level: Intermediate

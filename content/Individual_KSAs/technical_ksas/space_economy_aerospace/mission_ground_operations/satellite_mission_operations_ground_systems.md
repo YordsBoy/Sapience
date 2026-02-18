@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Conducts orbit determination; coordinates station‑keeping burns; implements contingency procedures.
   - level: Advanced
-    indicator: Optimises ground‑network utilisation; leads mission‑readiness reviews (MRRs); integrates automation scripts and ground-station as-a-service.
+    indicator: Optimises ground‑network utilization; leads mission‑readiness reviews (MRRs); integrates automation scripts and ground-station as-a-service.
   - level: Expert
     indicator: Oversees multi‑satellite constellations; defines anomaly-response playbooks; develops mission‑ops standards; publishes operations‑efficiency research.
 ---

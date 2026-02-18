@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Tunes relative-permeability and aquifer models; performs assisted history matching.
   - level: Advanced
-    indicator: Couples geo-mechanics; runs uncertainty ensembles; optimises infill wells.
+    indicator: Couples geo-mechanics; runs uncertainty ensembles; optimizes infill wells.
   - level: Expert
     indicator: Leads multi-field integrated models; mentors engineers; embeds AI-assisted calibration workflows.
 ---

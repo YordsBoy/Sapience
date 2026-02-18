@@ -8,13 +8,13 @@ cluster_tags:
   - "Open Hardware"
   - "Compliance"
 description: >
-  Publishes design files, documentation, and licences to achieve OSHWA certification and Creative Commons compliance, enabling community remix and derivative production.
+  Publishes design files, documentation, and licenses to achieve OSHWA certification and Creative Commons compliance, enabling community remix and derivative production.
 source_frameworks:
   - "OSHWA Certification Checklist"
   - "Creative Commons BY-SA 4.0 Licence"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines documentation completeness; distinguishes permissive vs copyleft licences.
+    indicator: Defines documentation completeness; distinguishes permissive vs copyleft licenses.
   - level: Basic
     indicator: Releases Gerbers/STLs; provides bill of materials (BOM); uses CC iconography.
   - level: Intermediate

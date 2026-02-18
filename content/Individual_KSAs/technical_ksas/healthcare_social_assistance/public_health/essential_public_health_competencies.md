@@ -16,7 +16,7 @@ source_frameworks:
   - "Council on Linkages Core Competencies for Public Health Professionals"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines the Essential Public Health Functions (EPHFs); recognises social determinants of health; follows basic epidemiological terminology.
+    indicator: Defines the Essential Public Health Functions (EPHFs); recognizes social determinants of health; follows basic epidemiological terminology.
   - level: Basic
     indicator: Collects routine surveillance data; supports risk communication; participates in vaccination campaigns; communicates health messages to the public.
   - level: Intermediate

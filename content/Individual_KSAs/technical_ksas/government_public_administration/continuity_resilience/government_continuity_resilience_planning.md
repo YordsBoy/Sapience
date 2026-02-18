@@ -14,7 +14,7 @@ source_frameworks:
   - "ISO 22301:2019 Business Continuity Management"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists essential functions; identifies alternate facilities; recognises alert and notification systems.
+    indicator: Lists essential functions; identifies alternate facilities; recognizes alert and notification systems.
   - level: Basic
     indicator: Drafts line‑of‑succession charts; maintains continuity binders; conducts annual tabletop exercises.
   - level: Intermediate

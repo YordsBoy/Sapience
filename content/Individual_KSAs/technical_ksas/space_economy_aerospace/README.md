@@ -1,7 +1,7 @@
 # Space Economy & Aerospace
 
 ## Sector Overview  
-Commercial space momentum persists—small-sat constellations, lunar logistics, and hypersonic testbeds all scaling in parallel. New frontiers now include **cislunar navigation services and in-space cryogenic-propellant depots**, both prioritised in NASA’s 2025 Moon-to-Mars objectives. Meanwhile, **NOAA’s Space-Weather Next (SWx-NEXT) programme and ESA’s Lagrange L5 mission** signal elevated focus on operational space-weather forecasting, driving demand for data-science talent capable of radiation-storm now-casting.
+Commercial space momentum persists—small-sat constellations, lunar logistics, and hypersonic testbeds all scaling in parallel. New frontiers now include **cislunar navigation services and in-space cryogenic-propellant depots**, both prioritised in NASA’s 2025 Moon-to-Mars objectives. Meanwhile, **NOAA’s Space-Weather Next (SWx-NEXT) program and ESA’s Lagrange L5 mission** signal elevated focus on operational space-weather forecasting, driving demand for data-science talent capable of radiation-storm now-casting.
 
 ## Sub-Domains & Representative KSAs
 | Code | Sub-Domain                 | Example KSAs                                          |

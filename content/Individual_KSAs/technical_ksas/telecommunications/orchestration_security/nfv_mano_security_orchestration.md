@@ -16,7 +16,7 @@ source_frameworks:
   - "CNCF Kubernetes Security Best Practices"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies NFV‑MANO components; recognises image‑signing basics; lists attack vectors; applies security patches.
+    indicator: Identifies NFV‑MANO components; recognizes image‑signing basics; lists attack vectors; applies security patches.
   - level: Basic
     indicator: Enables API authentication; configures role‑based access control (RBAC); uses TLS certificates; scans container images; applies CIS hardening.
   - level: Intermediate

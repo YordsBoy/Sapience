@@ -14,7 +14,7 @@ source_frameworks:
   - "NABITA Threat Assessment Standards"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognises concerning behaviours; documents observations.
+    indicator: Recognises concerning behaviors; documents observations.
   - level: Basic
     indicator: Applies static/dynamic factors; triages cases; maintains records.
   - level: Intermediate

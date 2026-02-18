@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Coordinates distribution to multiple channels (e.g., streaming service, international markets); ensures proper metadata and licensing info accompany content; monitors for unauthorized re-uploads or copyright infringements; automates key rotation; manages geoblocking; tracks rights usage.  
   - level: Advanced  
-    indicator: Implements formal DRM solutions (encryption, secure key exchanges as per W3C EME) with technical teams; negotiates contracts for OTT platforms or broadcasters; manages release windows and regional rights strategically; integrates subscription billing; audits licence leaks; aligns with GDPR.  
+    indicator: Implements formal DRM solutions (encryption, secure key exchanges as per W3C EME) with technical teams; negotiates contracts for OTT platforms or broadcasters; manages release windows and regional rights strategically; integrates subscription billing; audits license leaks; aligns with GDPR.  
   - level: Expert  
     indicator: Develops and oversees the digital distribution strategy for a major studio or network; negotiates rights deals; shapes policy on anti-piracy, works with industry groups to improve DRM standards; maximizes global monetization while balancing user accessibility.  
 ---  

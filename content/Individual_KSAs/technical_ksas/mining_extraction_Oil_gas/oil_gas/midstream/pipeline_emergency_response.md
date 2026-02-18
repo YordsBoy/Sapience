@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Coordinates ICS; deploys containment & fire-suppression.
   - level: Advanced
-    indicator: Leads drill exercises; integrates GIS plume modelling.
+    indicator: Leads drill exercises; integrates GIS plume modeling.
   - level: Expert
     indicator: Designs corporate ERP; liaises with emergency agencies; mentors responders.
 ---

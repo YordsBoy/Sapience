@@ -20,7 +20,7 @@ proficiency_levels:
     indicator: Models genetic logic gates; uses pathway flux analysis; collaborates via cloud CAD; applies in-silico validation of codon usage and
       metabolic burden.
   - level: Advanced
-    indicator: Creates modular part libraries; integrates CAD with lab automation; validates part compatibility; links omics data for predictive modelling.
+    indicator: Creates modular part libraries; integrates CAD with lab automation; validates part compatibility; links omics data for predictive modeling.
   - level: Expert
     indicator: Develops novel CAD plugins; contributes to SBOL standards; publishes biodesign methodologies.
 ---

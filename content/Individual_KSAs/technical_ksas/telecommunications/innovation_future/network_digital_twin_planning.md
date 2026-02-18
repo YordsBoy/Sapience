@@ -8,7 +8,7 @@ cluster_tags:
   - "Digital Twin"
   - "Planning"
 description: >
-  Builds multi-layer digital twins (RAN, transport, core) with AI/ML simulators to optimise capacity and energy, referencing GSMA Telco Digital Twin Architecture and ITU-T Y.3200.
+  Builds multi-layer digital twins (RAN, transport, core) with AI/ML simulators to optimize capacity and energy, referencing GSMA Telco Digital Twin Architecture and ITU-T Y.3200.
 source_frameworks:
   - "GSMA Telco Digital Twin Blueprint"
   - "ITU-T Y.3200 Digital Twin Framework"

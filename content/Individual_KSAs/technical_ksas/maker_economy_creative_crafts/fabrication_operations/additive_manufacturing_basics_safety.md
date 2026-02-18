@@ -15,7 +15,7 @@ source_frameworks:
   - "UL Blue Card Additive Manufacturing Safety"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies printer types; recognises filament/resin hazards; follows basic PPE usage.
+    indicator: Identifies printer types; recognizes filament/resin hazards; follows basic PPE usage.
   - level: Basic
     indicator: Slices models with correct layer height; loads material; monitors first‑layer adhesion; performs post‑processing safely.
   - level: Intermediate

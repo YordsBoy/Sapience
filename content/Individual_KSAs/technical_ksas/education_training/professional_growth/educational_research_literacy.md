@@ -16,7 +16,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Defines quantitative vs qualitative study; locates abstract and findings.
   - level: Basic
-    indicator: Evaluates sample size, validity, and reliability; summarises implications.
+    indicator: Evaluates sample size, validity, and reliability; summarizes implications.
   - level: Intermediate
     indicator: Conducts literature review; calculates effect size; applies findings to course revision.
   - level: Advanced

@@ -7,14 +7,14 @@ horizon: core
 cluster_tags:
   - "Trauma Informed"
   - "Crisis Intervention"
-description: Providing trauma‑informed, culturally competent crisis intervention and de‑escalation, utilising CIT (Crisis Intervention Team) and Psychological First Aid (PFA) principles.
+description: Providing trauma‑informed, culturally competent crisis intervention and de‑escalation, utilizing CIT (Crisis Intervention Team) and Psychological First Aid (PFA) principles.
 source_frameworks:
   - "SAMHSA Trauma-Informed Care Framework"
   - "CIT International Core Elements"
   - "WHO Psychological First Aid Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognises trauma signs; recognises triggers; uses person-centred language; uses calming voice; maintains safe distance.
+    indicator: Recognises trauma signs; recognizes triggers; uses person-centred language; uses calming voice; maintains safe distance.
   - level: Basic
     indicator: Applies PFA steps; employs de‑escalation techniques; refers to services.
   - level: Intermediate

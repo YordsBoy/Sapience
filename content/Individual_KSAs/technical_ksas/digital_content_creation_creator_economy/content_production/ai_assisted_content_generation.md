@@ -13,7 +13,7 @@ source_frameworks:
   - "OpenAI Prompt Engineering Guide (2024)"
 proficiency_levels:
   - level: Awareness
-    indicator: Generates basic text or images with default prompts; recognises AI content disclosure rules.
+    indicator: Generates basic text or images with default prompts; recognizes AI content disclosure rules.
   - level: Basic
     indicator: Iterates prompts for tone, style, and length; checks plagiarism and bias.
   - level: Intermediate
@@ -22,5 +22,5 @@ proficiency_levels:
     indicator: Builds prompt libraries, automates batch generation, and applies model fine-tuning for brand voice.
   - level: Expert
     indicator: Leads AI-creative pipelines; defines governance for responsible AI
-     use within creator organisations.
+     use within creator organizations.
 ---

@@ -11,7 +11,7 @@ This sector’s **11 KSAs** empower platform workers to master reputation, compl
 |--------|-------|
 | **client_success/** | Ratings, reviews, and customer success |
 | **compliance_finance/** | Tax, finance, and retirement planning |
-| **platform_strategy/** | Navigation, diversification, surge optimisation |
+| **platform_strategy/** | Navigation, diversification, surge optimization |
 | **platform_governance/** | Algorithmic transparency and dispute resolution |
 | **safety_wellbeing/** | Physical & digital safety protocols |
 | **marketing_growth/** | Direct-client marketing & lead generation |

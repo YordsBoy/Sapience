@@ -15,7 +15,7 @@ source_frameworks:
   - "FCC Part 25 Licensing Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies major space treaties; recognises frequency bands; notes licensing timelines.
+    indicator: Identifies major space treaties; recognizes frequency bands; notes licensing timelines.
   - level: Basic
     indicator: Prepares ITU advance publication information (API); submits orbital‑slot filings; drafts part 25 license applications; identifies ECC/NTIA coordination steps.
   - level: Intermediate

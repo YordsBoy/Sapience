@@ -7,7 +7,7 @@ horizon: emerging
 cluster_tags:
   - "Microtask"
   - "Quality"
-description: Enhancing accuracy, speed, and consistency when performing online micro‑tasks—data labeling, image tagging, content moderation—through workflow optimisation, quality‑control techniques, and platform analytics.
+description: Enhancing accuracy, speed, and consistency when performing online micro‑tasks—data labeling, image tagging, content moderation—through workflow optimization, quality‑control techniques, and platform analytics.
 source_frameworks:
   - "IFC Digital Economy Crowd-Work Study"
   - "ISO 9241-210 Human-Centered Design"

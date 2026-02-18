@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Manages schedule in proposal tool; conducts red-team review; finalises pricing sheet.
   - level: Advanced
-    indicator: Implements colour-team process org-wide; wins ≥ 50 % pursuits.
+    indicator: Implements color-team process org-wide; wins ≥ 50 % pursuits.
   - level: Expert
     indicator: Chairs capture governance board; mentors proposal managers; earns APMP-PP certification.
 ---

@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Deploys continuous monitors; verifies repair efficacy.
   - level: Advanced
-    indicator: Integrates LDAR data into ESG dashboards; optimises repair crew routes.
+    indicator: Integrates LDAR data into ESG dashboards; optimizes repair crew routes.
   - level: Expert
     indicator: Designs basin-wide methane-reduction strategy; mentors teams; engages regulators & investors.
 ---

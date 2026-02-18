@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Basic  
     indicator: Writes simple estimates for small jobs using templates or past experience; keeps receipts and notes in a notebook; generates invoice; stores contract; checks export-control lists; schedules appointments in a basic calendar; communicates with clients by phone about work timing and cost in a courteous manner.  
   - level: Intermediate  
-    indicator: Uses software or apps for estimates and invoices; calculates costs (materials, labor) with reasonable accuracy for bids; keeps track of expenses and revenue for each project; monitors utilisation; forecasts pipeline; manages key-person risk; maintains necessary licenses and insurance and pulls permits when required; coordinates a few jobs at once without missing deadlines.  
+    indicator: Uses software or apps for estimates and invoices; calculates costs (materials, labor) with reasonable accuracy for bids; keeps track of expenses and revenue for each project; monitors utilization; forecasts pipeline; manages key-person risk; maintains necessary licenses and insurance and pulls permits when required; coordinates a few jobs at once without missing deadlines.  
   - level: Advanced  
     indicator: Optimizes business operations for profitability (bulk ordering materials, adjusting pricing strategies); manages a small team or subcontractors if needed; employs a CRM or job management software to handle client relationships and scheduling; ensures full compliance with building codes and business regulations; markets the business via word-of-mouth and online presence.  
   - level: Expert  

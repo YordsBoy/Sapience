@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Voice of Customer"
   - "Analytics"
-description: Collecting, integrating, and analysing multi‑channel Voice‑of‑Customer data—surveys, social listening, support transcripts—to generate actionable insights and drive continuous CX improvements.
+description: Collecting, integrating, and analyzing multi‑channel Voice‑of‑Customer data—surveys, social listening, support transcripts—to generate actionable insights and drive continuous CX improvements.
 source_frameworks:
   - "Medallia VoC Program Guide"
   - "Qualtrics XM Institute Best Practices"

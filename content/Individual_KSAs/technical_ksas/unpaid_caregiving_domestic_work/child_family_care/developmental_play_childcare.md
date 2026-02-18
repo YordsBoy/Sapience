@@ -15,7 +15,7 @@ source_frameworks:
   - "UNICEF Early Childhood Development Toolkit"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies milestones; recognises play types; selects safe toys; follows safe‑sleep practices.
+    indicator: Identifies milestones; recognizes play types; selects safe toys; follows safe‑sleep practices.
   - level: Basic
     indicator: Plans sensory play; establishes routines; sets safe play area; engages in parallel play; narrates actions; applies positive reinforcement.
   - level: Intermediate

@@ -11,7 +11,7 @@ cluster_tags:
   - "Process Engineering"
 description: >
   Designs post-combustion, pre-combustion, and direct-contact CO₂ capture
-  processes; evaluates transport, utilisation, saline and EOR storage options;
+  processes; evaluates transport, utilization, saline and EOR storage options;
   navigates permitting and MRV (monitoring, reporting, verification).
 source_frameworks:
   - "IEA CCUS Project Guidelines"
@@ -19,7 +19,7 @@ source_frameworks:
   - "ISO 27914:2017 Geological Storage"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains capture pathways; lists sorbent types; recognises storage reservoirs.
+    indicator: Explains capture pathways; lists sorbent types; recognizes storage reservoirs.
   - level: Basic
     indicator: Calculates mass balance; models amine absorption; estimates energy penalties; assesses injectivity.
   - level: Intermediate

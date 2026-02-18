@@ -16,11 +16,11 @@ source_frameworks:
   - "SME Mine Planning Handbook (public summaries)"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads pit or drift layouts; recognises design parameters.
+    indicator: Reads pit or drift layouts; recognizes design parameters.
   - level: Basic
     indicator: Uses mine-planning software for simple block models; calculates stripping ratio.
   - level: Intermediate
-    indicator: Generates pit optimisation shells; schedules equipment and manpower.
+    indicator: Generates pit optimization shells; schedules equipment and manpower.
   - level: Advanced
     indicator: Performs sensitivity/risk analysis; integrates ESG and closure costs.
   - level: Expert

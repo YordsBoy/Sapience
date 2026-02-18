@@ -17,7 +17,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Defines open-by-default; lists standard schemas (CKAN, DCAT).
   - level: Basic
-    indicator: Publishes machine-readable datasets; adds metadata; applies CC-BY licence.
+    indicator: Publishes machine-readable datasets; adds metadata; applies CC-BY license.
   - level: Intermediate
     indicator: Implements API endpoints; tracks usage analytics; engages civic-tech hackathons.
   - level: Advanced

@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Blocks buffers; confirms via SMS; tracks no-show rate; uses scheduling software to send reminders and minimize no-shows.
   - level: Intermediate
-    indicator: Balances walk-ins vs bookings; implements online booking; analyses utilisation; optimises staff shifts.
+    indicator: Balances walk-ins vs bookings; implements online booking; analyses utilization; optimizes staff shifts.
   - level: Advanced
     indicator: Analyzes utilization metrics; implements dynamic pricing; integrates wait-list AI; reduces no-show %; upsells open slots.
   - level: Expert

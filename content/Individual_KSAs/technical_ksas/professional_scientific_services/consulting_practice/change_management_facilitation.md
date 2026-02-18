@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Change Management"
   - "Facilitation"
-description: Guiding organisations through transition using Prosci ADKAR, Kotter 8‑Step, and Association of Change Management Professionals (ACMP) Standard to build stakeholder buy‑in and sustain adoption.
+description: Guiding organizations through transition using Prosci ADKAR, Kotter 8‑Step, and Association of Change Management Professionals (ACMP) Standard to build stakeholder buy‑in and sustain adoption.
 source_frameworks:
   - "PMI Managing Change in Organizations"
   - "Prosci ADKAR Model"
@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Develops change roadmaps; aligns change with project plans; measures adoption KPIs; mitigates risks.
   - level: Advanced
-    indicator: Integrates change portfolios; aligns with portfolio governance; sustains gains; coaches change agents; analyses organisational network impacts.
+    indicator: Integrates change portfolios; aligns with portfolio governance; sustains gains; coaches change agents; analyses organizational network impacts.
   - level: Expert
     indicator: Leads enterprise change offices; certifies practitioners; publishes change‑management research.
 ---

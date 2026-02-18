@@ -16,7 +16,7 @@ proficiency_levels:
   - level: Awareness
     indicator: States the three UDL principles and basic accessibility laws (e.g., Americans with Disabilities Act).
   - level: Basic
-    indicator: Provides alternative text, captions, and varied response options; checks colour-contrast ratios.
+    indicator: Provides alternative text, captions, and varied response options; checks color-contrast ratios.
   - level: Intermediate
     indicator: Aligns learning objectives with UDL checkpoints; co-designs supports with learners; uses assistive-tech tools.
   - level: Advanced

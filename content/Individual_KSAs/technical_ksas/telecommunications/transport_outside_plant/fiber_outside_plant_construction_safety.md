@@ -15,7 +15,7 @@ source_frameworks:
   - "Fiber Broadband Association OSP Handbook"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies OSP topologies; recognises common hazards; conducts job‑site briefings; dons Personal Protective Equipment (PPE); identifies underground‑utility marks.
+    indicator: Identifies OSP topologies; recognizes common hazards; conducts job‑site briefings; dons Personal Protective Equipment (PPE); identifies underground‑utility marks.
   - level: Basic
     indicator: Marks utilities (811); sets up traffic control; implements lockout/tagout on aerial networks; uses fall‑arrest gear; maintains splice enclosures.
   - level: Intermediate

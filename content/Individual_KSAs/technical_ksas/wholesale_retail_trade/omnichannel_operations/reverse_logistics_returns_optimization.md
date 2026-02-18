@@ -12,11 +12,11 @@ description: >
   drop-off—using disposition algorithms (resell, refurbish, recycle) to cut
   cost-to-return and environmental impact.
 source_frameworks:
-  - "E-commerce reverse-logistics optimisation study 2024"
+  - "E-commerce reverse-logistics optimization study 2024"
   - "Acta Technologia 2024 paper on reverse logistics"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains RMA (Return Merchandise Authorization) flow; recognises serial/lot controls.
+    indicator: Explains RMA (Return Merchandise Authorization) flow; recognizes serial/lot controls.
   - level: Basic
     indicator: Processes returns in POS/OMS; prints prepaid labels; meets refund SLA < 48 h.
   - level: Intermediate

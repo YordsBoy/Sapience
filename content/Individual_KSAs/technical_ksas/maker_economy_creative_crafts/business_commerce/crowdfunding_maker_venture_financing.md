@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Produces campaign video; crafts reward tiers; launches pre-marketing.
   - level: Intermediate
-    indicator: Manages updates; tracks burn-down; fulfils rewards on schedule.
+    indicator: Manages updates; tracks burn-down; fulfills rewards on schedule.
   - level: Advanced
     indicator: Adds stretch goals; negotiates manufacturing quotes; keeps margin ≥20 %.
   - level: Expert

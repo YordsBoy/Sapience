@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Physical Security"
   - "Systems Integration"
-description: Designing and integrating access‑control, CCTV, intrusion‑detection, and perimeter‑defence systems in accordance with ASIS Physical Asset Protection standards, ONVIF profiles, and UL 294.
+description: Designing and integrating access‑control, CCTV, intrusion‑detection, and perimeter‑defense systems in accordance with ASIS Physical Asset Protection standards, ONVIF profiles, and UL 294.
 source_frameworks:
   - "UL 294 Access Control Standard"
   - "ONVIF Profile S/G"

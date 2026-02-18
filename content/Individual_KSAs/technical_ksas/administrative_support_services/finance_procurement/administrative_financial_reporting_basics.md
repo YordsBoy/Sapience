@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Crafts clear, audience-appropriate emails, memos, and reports; applies grammar,
   tone, and style guidelines; adheres to email, chat, and video-meeting etiquette
-  to represent the organisation professionally.
+  to represent the organization professionally.
 source_frameworks:
   - "IAAP CAP Body of Knowledge"
 proficiency_levels:
@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Writes concise emails; follows templates; proofreads for errors.
   - level: Intermediate
-    indicator: Tailors messages for stakeholders; summarises complex info clearly.
+    indicator: Tailors messages for stakeholders; summarizes complex info clearly.
   - level: Advanced
     indicator: Edits high-stakes documents; coaches peers; delivers persuasive presentations.
   - level: Expert

@@ -15,7 +15,7 @@ source_frameworks:
   - "GHG Protocol Product Standard"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines functional unit and system boundary terms; identifies scope 1, 2, 3 emissions; gathers activity data; utilises emission‑factor databases.
+    indicator: Defines functional unit and system boundary terms; identifies scope 1, 2, 3 emissions; gathers activity data; utilizes emission‑factor databases.
   - level: Basic
     indicator: Builds simple process‑flow diagrams; selects secondary data; calculates cradle‑to‑gate emissions; reports midpoint impacts; documents data quality.
   - level: Intermediate

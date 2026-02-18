@@ -14,7 +14,7 @@ source_frameworks:
   - "WIDA English Language Development Standards"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies levels of language proficiency; recognises additive vs subtractive approaches.
+    indicator: Identifies levels of language proficiency; recognizes additive vs subtractive approaches.
   - level: Basic
     indicator: Uses visuals, sentence frames, and first-language (L1) supports; checks comprehension.
   - level: Intermediate

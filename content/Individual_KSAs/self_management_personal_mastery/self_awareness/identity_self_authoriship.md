@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Defines and lives by an internally generated sense of values, purpose, and identity—rather than external scripts—guiding consistent, authentic actions.
 source_frameworks:
-  - "Kegan’s self-authorship theory (publicly summarised) and leadership-identity research"
+  - "Kegan’s self-authorship theory (publicly summarized) and leadership-identity research"
 proficiency_levels:
   - level: Awareness
     indicator: Articulates personal values when asked.

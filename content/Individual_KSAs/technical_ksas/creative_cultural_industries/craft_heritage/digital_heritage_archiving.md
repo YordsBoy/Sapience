@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Independently performs 3D scans or creates digital replicas of artifacts; manages digital archive software and ensures metadata accuracy.  
   - level: Advanced  
-    indicator: Leads a digitization project (e.g. a museum collection); optimises data formats and storage for long-term preservation; ensures alignment with UNESCO guidelines; performs risk assessments; aligns repository with ISO 16363 controls..  
+    indicator: Leads a digitization project (e.g. a museum collection); optimizes data formats and storage for long-term preservation; ensures alignment with UNESCO guidelines; performs risk assessments; aligns repository with ISO 16363 controls..  
   - level: Expert  
     indicator: Develops new methods or standards for cultural heritage digitization; consults on national or international digital archive initiatives; secures funding; trains archivists globally..  
 ---  

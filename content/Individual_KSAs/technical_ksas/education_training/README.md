@@ -34,7 +34,7 @@ Classroom_Management_Learner_Engagement · Competency_Based_Assessment_Design ·
 - **ISTE Standards for Educators** – technology-integration & coaching roles.   
 - **UNESCO AI Competency Framework for Teachers** – ethical AI integration.   
 - **SoLAR LAK24** – cutting-edge learning-analytics research agenda.   
-- **PBIS Classroom Practices Guide** – trauma-informed behaviour supports.   
+- **PBIS Classroom Practices Guide** – trauma-informed behavior supports.   
 - **Common Sense Digital-Citizenship Curriculum (2024 refresh)** – digital safety & well-being.   
 - **UNESCO SDG 4.7 Roadmap** – global-citizenship & sustainability learning goals.   
 - **U.S. DoL Apprenticeship Toolkit** – work-based-learning compliance & quality.   

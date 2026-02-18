@@ -22,5 +22,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Conducts counterfactual analysis; performs SROI calculations; integrates impact data into strategy.
   - level: Expert
-    indicator: Leads organisation‑wide impact frameworks; influences sector impact‑measurement standards; publishes peer‑reviewed evaluations.
+    indicator: Leads organization‑wide impact frameworks; influences sector impact‑measurement standards; publishes peer‑reviewed evaluations.
 ---

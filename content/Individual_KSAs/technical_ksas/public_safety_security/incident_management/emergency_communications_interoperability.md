@@ -15,7 +15,7 @@ source_frameworks:
   - "FirstNet Authority Roadmap"
 proficiency_levels:
   - level: Awareness
-    indicator: Operates portable radios; recognises talk‑groups; recognises interoperability tiers; follows plain language.
+    indicator: Operates portable radios; recognizes talk‑groups; recognizes interoperability tiers; follows plain language.
   - level: Basic
     indicator: Programs common channel plan; tests interoperability patches; maintains radio caches; uses NIMS plain language.
   - level: Intermediate

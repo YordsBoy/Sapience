@@ -7,13 +7,13 @@ horizon: core
 cluster_tags:
   - "Analytics"
   - "Data-Driven"
-description: Collecting, analysing, and interpreting learner‑interaction data to personalise instruction, predict at‑risk students, and improve pedagogical decisions at classroom and institutional levels.
+description: Collecting, analyzing, and interpreting learner‑interaction data to personalise instruction, predict at‑risk students, and improve pedagogical decisions at classroom and institutional levels.
 source_frameworks:
   - "Society for Learning Analytics Research (SoLAR) Practitioners Guide"
   - "Ed-Fi Learning-Analytics Suite"
 proficiency_levels:
   - level: Awareness
-    indicator: Accesses LMS gradebook; identifies basic engagement metrics; recognises privacy considerations.
+    indicator: Accesses LMS gradebook; identifies basic engagement metrics; recognizes privacy considerations.
   - level: Basic
     indicator: Generates learning‑analytics dashboards; flags low‑participation patterns; implements simple interventions.
   - level: Intermediate

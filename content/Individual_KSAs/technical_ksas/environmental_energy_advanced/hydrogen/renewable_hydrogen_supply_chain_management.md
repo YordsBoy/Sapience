@@ -8,7 +8,7 @@ cluster_tags:
   - "Hydrogen"
   - "Supply Chain"
 description: >
-  Planning, coordinating, and optimising the production, storage, transport, and distribution of renewable‑based hydrogen—from electrolyser siting to end‑use delivery—ensuring cost efficiency, safety, and carbon‑intensity targets.
+  Planning, coordinating, and optimizing the production, storage, transport, and distribution of renewable‑based hydrogen—from electrolyser siting to end‑use delivery—ensuring cost efficiency, safety, and carbon‑intensity targets.
 source_frameworks:
   - "International Renewable Energy Agency (IRENA) Green Hydrogen Supply Chain Report 2025"
   - "IRENA Green Hydrogen Policies"

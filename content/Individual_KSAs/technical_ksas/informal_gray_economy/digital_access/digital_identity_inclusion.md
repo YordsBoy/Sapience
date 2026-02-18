@@ -14,7 +14,7 @@ source_frameworks:
   - "GSMA Digital Identity for the Unregistered"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains benefits of digital ID; lists enrolment options.
+    indicator: Explains benefits of digital ID; lists enrollment options.
   - level: Basic
     indicator: Submits biometric data; secures One-Time Password (OTP); stores credentials safely.
   - level: Intermediate

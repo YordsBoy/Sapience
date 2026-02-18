@@ -8,7 +8,7 @@ cluster_tags:
   - "Street Vendor"
   - "Operations"
 description: >
-  Manages product display, hygiene, and customer flow using Food and Agriculture Organization (FAO) street-food centre guidelines and local vendor association codes.
+  Manages product display, hygiene, and customer flow using Food and Agriculture Organization (FAO) street-food center guidelines and local vendor association codes.
 source_frameworks:
   - "FAO Street-Food Vendor Guidelines"
   - "UN Women Safe Markets Hygiene Checklist"

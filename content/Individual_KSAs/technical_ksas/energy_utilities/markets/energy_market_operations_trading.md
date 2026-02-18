@@ -12,7 +12,7 @@ description: >
   bids; manages risk and settlement in ISO/RTO markets such as ERCOT, PJM,
   and CAISO.
 source_frameworks:
-  - "ERCOT Wholesale Markets training catalogue" 
+  - "ERCOT Wholesale Markets training catalog" 
 proficiency_levels:
   - level: Awareness
     indicator: Reads LMP dashboards; understands offer curves.

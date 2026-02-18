@@ -16,7 +16,7 @@ source_frameworks:
   - "Systematic Review of Voice-Assistant Usability (2022) – ISO usability lens"
 proficiency_levels:
   - level: Awareness
-    indicator: Describes speech-to-text pipeline; recognises common accuracy and privacy concerns.
+    indicator: Describes speech-to-text pipeline; recognizes common accuracy and privacy concerns.
   - level: Basic
     indicator: Uses off-the-shelf transcription to create draft notes; edits output for clarity; stores audio securely.
   - level: Intermediate

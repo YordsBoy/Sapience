@@ -8,7 +8,7 @@ cluster_tags:
   - "Knowledge Management"
   - "Taxonomy"
 description: >
-  Curates organisational knowledge bases; designs taxonomies, tags documents,
+  Curates organizational knowledge bases; designs taxonomies, tags documents,
   and facilitates knowledge-sharing platforms (wikis, intranets) to reduce
   information silos and speed onboarding.
 source_frameworks:

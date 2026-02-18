@@ -17,7 +17,7 @@ source_frameworks:
   - "O*NET Exec Admin Tasks 43-6011.00"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies basic calendar functions; recognises meeting requests.
+    indicator: Identifies basic calendar functions; recognizes meeting requests.
   - level: Basic
     indicator: Creates single-time-zone meetings; sends confirmations; avoids obvious overlaps.
   - level: Intermediate

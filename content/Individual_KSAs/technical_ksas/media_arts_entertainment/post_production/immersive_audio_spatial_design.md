@@ -16,7 +16,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Explains bed vs dynamic object; lists speaker layouts (7.1.4).
   - level: Basic
-    indicator: Positions dialogue bed; assigns ambience objects; renders binaural.
+    indicator: Positions dialog bed; assigns ambience objects; renders binaural.
   - level: Intermediate
     indicator: Automates object trajectories; manages downmix compatibility; validates loudness.
   - level: Advanced

@@ -8,7 +8,7 @@ cluster_tags:
   - "Product Management"
   - "Earth Observation"
 description: >
-  Defines value propositions, personas, and road-maps for Earth-observation (EO) and communications data services; balances latency, resolution, revisit, and price to meet defence, agriculture, climate-risk and insurance markets.
+  Defines value propositions, personas, and road-maps for Earth-observation (EO) and communications data services; balances latency, resolution, revisit, and price to meet defense, agriculture, climate-risk and insurance markets.
 source_frameworks:
   - "Space Foundation Space Economy Report 2025"
   - "MIT CISR Data-Monetisation Framework"

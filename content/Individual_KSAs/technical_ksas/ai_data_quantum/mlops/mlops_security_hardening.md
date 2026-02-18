@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Automates model signing, watermarking, and runtime attestation; conducts red‑team simulations of machine‑learning pipelines.
   - level: Expert
-    indicator: Leads organisation‑wide Machine‑Learning Security Operations (MLSecOps) program integrating threat intelligence, governance, and continuous compliance across multi‑cloud Machine Learning (ML) stacks.
+    indicator: Leads organization‑wide Machine‑Learning Security Operations (MLSecOps) program integrating threat intelligence, governance, and continuous compliance across multi‑cloud Machine Learning (ML) stacks.
 ---

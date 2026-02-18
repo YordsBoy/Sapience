@@ -8,7 +8,7 @@ cluster_tags:
   - "Cloud Security"
   - "Zero Trust"
 description: >
-  Designs defence-in-depth cloud security aligned with NIST SP 800-207 Zero-Trust principles; integrates IAM, WAF, SIEM/SOAR, and CSPM across multi-cloud estates.
+  Designs defense-in-depth cloud security aligned with NIST SP 800-207 Zero-Trust principles; integrates IAM, WAF, SIEM/SOAR, and CSPM across multi-cloud estates.
 source_frameworks:
   - "NIST SP 800-207 Zero Trust Architecture"
   - "ISO/IEC 27017 Cloud Security Controls"

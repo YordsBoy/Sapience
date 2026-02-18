@@ -7,7 +7,7 @@ horizon: core
 cluster_tags:
   - "Property Management"
   - "ESG"
-description: Operating commercial and residential properties, optimising budgets, maintenance, tenant services, and environmental‑social‑governance (ESG) performance in line with Institute of Real Estate Management (IREM) Certified Property Manager (CPM) competencies.
+description: Operating commercial and residential properties, optimizing budgets, maintenance, tenant services, and environmental‑social‑governance (ESG) performance in line with Institute of Real Estate Management (IREM) Certified Property Manager (CPM) competencies.
 source_frameworks:
   - "IREM CPM Handbook"
   - "GRESB Real Asset Assessment"

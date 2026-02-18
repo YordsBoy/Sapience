@@ -15,7 +15,7 @@ source_frameworks:
   - "Public Utility Financial-Management textbooks"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads rate-case dockets; recognises revenue requisites.
+    indicator: Reads rate-case dockets; recognizes revenue requisites.
   - level: Basic
     indicator: Calculates rate base and depreciation; prepares data requests.
   - level: Intermediate

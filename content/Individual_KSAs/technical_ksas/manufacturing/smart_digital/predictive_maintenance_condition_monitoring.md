@@ -15,7 +15,7 @@ source_frameworks:
   - "ISO 17359 Condition-Monitoring Standard"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands P-F curve; recognises basic fault spectra (imbalance, misalignment).
+    indicator: Understands P-F curve; recognizes basic fault spectra (imbalance, misalignment).
   - level: Basic
     indicator: Collects vibration baselines using accelerometers; logs data in CMMS.
   - level: Intermediate

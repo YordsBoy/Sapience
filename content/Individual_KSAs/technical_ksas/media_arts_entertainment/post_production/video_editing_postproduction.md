@@ -14,7 +14,7 @@ source_frameworks:
   - "onet:27-4032.00"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands sequence settings; recognises codec types; cuts clips; adds transitions within NLE software.
+    indicator: Understands sequence settings; recognizes codec types; cuts clips; adds transitions within NLE software.
   - level: Basic
     indicator: Syncs audio; applies basic color correction; cuts interview A-roll; adds b-roll; exports to common codecs.
   - level: Intermediate

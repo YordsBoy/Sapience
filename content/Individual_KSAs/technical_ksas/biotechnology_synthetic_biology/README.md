@@ -50,7 +50,7 @@ Synthetic-biology revenue is projected to reach **USD 18.9 billion by 2025** wit
 - **ISO 13485:2016 Medical-Device Quality-Management Standard —** Sets QMS requirements applied to cell-therapy manufacturing and diagnostic-device KSAs. 
 - **ISO 20387:2018 Biobanking Standard —** Defines competence and quality-control criteria for biological-specimen repositories, referenced in Biobanking & Data-Governance KSAs. 
 - **FDA Cellular & Gene-Therapy Guidances (updated 2025) —** Latest draft on innovative trial designs for small-population CGT products, shaping regulatory-compliance indicators.
-- **NIH Bioinformatics Core-Competencies Framework —** Establishes skill domains (data management, analysis, pipelines) utilised in Biological Data-Science KSAs.
+- **NIH Bioinformatics Core-Competencies Framework —** Establishes skill domains (data management, analysis, pipelines) utilized in Biological Data-Science KSAs.
 - **Le Monde Base-Editing Breakthrough Case Report (2025) —** Documents first personalized base-editing therapy, evidencing clinical momentum for RNA & DNA base-editing KSAs.
 - **OECD “Synthetic-Biology in Focus” (2025)** – industrial cell-free use-cases and policy implications.  
 - **NIH Rapid Cell-Free Protein-Synthesis Protocols (2024)** – benchmarking yields and lysate prep.  

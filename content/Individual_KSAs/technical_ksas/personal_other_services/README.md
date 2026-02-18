@@ -36,9 +36,9 @@ Appointment_Scheduling_Management · Chemical_Service_Safety · Client_Consultat
 
 - **OSHA Hair-Salon Chemical Hazard Alert** – exposure limits.  
 - **CDC Infection-Control Guidance** – sanitation baseline.
-- **State Cosmetology Sanitary Standards** – licence rules. 
+- **State Cosmetology Sanitary Standards** – license rules. 
 - **AMA Wave Scheduling** – no-show reduction.
-- **ASAPorg Scheduling Best Practices** – capacity optimise.
+- **ASAPorg Scheduling Best Practices** – capacity optimize.
 - **Qualtrics NPS Guide** – CX measurement.
 - **Hairdresser Ergonomic Study** – MSD prevention. 
 - **Small Business Compliance Checklist** – legal guardrails. 

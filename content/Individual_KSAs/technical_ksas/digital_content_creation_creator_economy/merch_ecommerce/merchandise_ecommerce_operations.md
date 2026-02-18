@@ -8,7 +8,7 @@ cluster_tags:
   - "Merchandising"
   - "E-Commerce"
 description: >
-  Designs, sources, and fulfils creator merchandise; manages storefronts, inventory,
+  Designs, sources, and fulfills creator merchandise; manages storefronts, inventory,
   shipping logistics, and customer support; analyses sales metrics.
 source_frameworks:
   - "Shopify Plus Partner Playbook"
@@ -20,9 +20,9 @@ proficiency_levels:
   - level: Basic
     indicator: Launches a storefront; implements POD integrations; tracks order status and returns; handles customer support.
   - level: Intermediate
-    indicator: Manages inventory forecasting; negotiates supplier terms; ; integrates fulfilment APIs and CRM; oversees quality control.
+    indicator: Manages inventory forecasting; negotiates supplier terms; ; integrates fulfillment APIs and CRM; oversees quality control.
   - level: Advanced
-    indicator: Negotiates supplier contracts; executes global shipping strategies; optimises return workflows; analyses profit margins.
+    indicator: Negotiates supplier contracts; executes global shipping strategies; optimizes return workflows; analyses profit margins.
   - level: Expert
-    indicator: Leads multi‑brand merch lines; optimises omnichannel conversion; ensures ethical sourcing compliance; publishes merch‑operations playbooks.
+    indicator: Leads multi‑brand merch lines; optimizes omnichannel conversion; ensures ethical sourcing compliance; publishes merch‑operations playbooks.
 ---

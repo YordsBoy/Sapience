@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Performs sensitivity analysis; evaluates biogenic carbon; compares material options.
   - level: Advanced
-    indicator: Integrates LCA into BIM workflows; specifies bio-based or recycled materials at scale; publishes material passports; optimises circularity.
+    indicator: Integrates LCA into BIM workflows; specifies bio-based or recycled materials at scale; publishes material passports; optimizes circularity.
   - level: Expert
     indicator: Develops material-circularity targets;; leads corporate LCA programs; shapes product‑category rules; publishes LCA methodology advancements.
 ---

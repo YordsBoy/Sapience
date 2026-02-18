@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Integrates spectator overlays; manages anti-cheat; delivers basic broadcast.
   - level: Advanced
-    indicator: Runs multi-title events; negotiates publisher licences; manages player logistics and health protocols.
+    indicator: Runs multi-title events; negotiates publisher licenses; manages player logistics and health protocols.
   - level: Expert
     indicator: Directs international esports festivals; innovates hybrid fan zones; mentors coordinators.
 ---

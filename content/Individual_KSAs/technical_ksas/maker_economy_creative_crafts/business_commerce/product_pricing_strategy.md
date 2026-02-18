@@ -14,7 +14,7 @@ source_frameworks:
   - "sba:CostingBasics"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists COGS components; recognises perceived-value drivers; tallies direct material costs.
+    indicator: Lists COGS components; recognizes perceived-value drivers; tallies direct material costs.
   - level: Basic
     indicator: Calculates cost-plus markup; compares competitor prices; adds labor and overhead; applies simple markup.
   - level: Intermediate

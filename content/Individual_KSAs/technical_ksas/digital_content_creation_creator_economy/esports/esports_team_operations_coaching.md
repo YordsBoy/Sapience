@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Develops strategic playbooks; conducts performance analytics; coordinates travel logistics.
   - level: Advanced
-    indicator: Negotiates contracts, visas, and travel; manages staff hierarchy; manages roster contracts; implements sport‑psychology programs; optimises sponsor obligations.
+    indicator: Negotiates contracts, visas, and travel; manages staff hierarchy; manages roster contracts; implements sport‑psychology programs; optimizes sponsor obligations.
   - level: Expert
     indicator: Builds franchise-level ops pipelines; mentors multi-region coaching staff; leads championship‑level teams; shapes coaching standards; publishes eSports performance research.
 ---

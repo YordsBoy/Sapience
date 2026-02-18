@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Balances vapor-handling systems; performs ESD tests.
   - level: Advanced
-    indicator: Leads ship-shore interface (SSI) agreements; optimises ramp rates.
+    indicator: Leads ship-shore interface (SSI) agreements; optimizes ramp rates.
   - level: Expert
     indicator: Sets terminal-wide cargo procedures; mentors operators; oversees SIMOPS with bunkering.
 ---

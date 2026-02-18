@@ -1,7 +1,7 @@
 Maker Economy & Creative Crafts
 ===============================
 
-Independent makers now power a **$100 B+ global market**, propelled by low-cost digital fabrication, e-commerce, and community workshops. ASTM F2792 provides standard terms for additive manufacturing, while the Fab Lab Charter defines the ethos of open access to tools and knowledge. Open Source Hardware Association (OSHWA) certification ensures transparent design files and licensing. Etsy’s Seller Handbook remains the go-to guide for pricing handmade goods. The Global Organic Textile Standard (GOTS) sets environmental and social criteria for sustainable craft materials. These KSAs weave such frameworks into practical competencies—covering concept generation, digital fabrication safety, marketplace optimisation, circular design, and climate-resilient supply chains—so makers can innovate responsibly and profitably.
+Independent makers now power a **$100 B+ global market**, propelled by low-cost digital fabrication, e-commerce, and community workshops. ASTM F2792 provides standard terms for additive manufacturing, while the Fab Lab Charter defines the ethos of open access to tools and knowledge. Open Source Hardware Association (OSHWA) certification ensures transparent design files and licensing. Etsy’s Seller Handbook remains the go-to guide for pricing handmade goods. The Global Organic Textile Standard (GOTS) sets environmental and social criteria for sustainable craft materials. These KSAs weave such frameworks into practical competencies—covering concept generation, digital fabrication safety, marketplace optimization, circular design, and climate-resilient supply chains—so makers can innovate responsibly and profitably.
 
 ## Folder structure & focus
 | Folder | Scope |

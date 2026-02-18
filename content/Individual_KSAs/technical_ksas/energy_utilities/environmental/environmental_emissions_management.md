@@ -18,7 +18,7 @@ proficiency_levels:
   - level: Basic
     indicator: Operates CEMS; logs deviations; submits quarterly reports.
   - level: Intermediate
-    indicator: Performs emissions calculations; optimises SCR / scrubber operation.
+    indicator: Performs emissions calculations; optimizes SCR / scrubber operation.
   - level: Advanced
     indicator: Leads multi-pollutant compliance strategy; evaluates offsets & CCS.
   - level: Expert

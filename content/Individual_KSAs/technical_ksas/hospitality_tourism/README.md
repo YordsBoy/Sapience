@@ -9,7 +9,7 @@ Travel demand rebounded to **96 % of 2019 levels** in 2024, yet guests now expec
 |--------|-------|
 | **guest_experience/** | Service design, recovery, multicultural & wellness |
 | **operations/** | Front office, housekeeping, F&B, contact-free tech |
-| **marketing_revenue/** | Digital marketing, OTA strategy, revenue optimisation |
+| **marketing_revenue/** | Digital marketing, OTA strategy, revenue optimization |
 | **sustainability_compliance/** | Eco-tourism, ESG, safety & certification |
 | **events_crisis/** | Meetings, health-safety, crisis management |
 | **destination_management/** | Community engagement & destination stewardship |

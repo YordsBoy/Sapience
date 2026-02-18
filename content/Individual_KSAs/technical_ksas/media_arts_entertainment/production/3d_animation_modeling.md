@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Sculpt-retopo workflow; matches studio scale; exports FBX with correct naming; animates complex rigs, utilizes PBR materials, and performs lighting setups.
   - level: Advanced
-    indicator: Implements ACEScg color management; optimises draw-call count; collaborates via Git-LFS; directs animation sequences, simulates physics, and optimizes for performance constraints.
+    indicator: Implements ACEScg color management; optimizes draw-call count; collaborates via Git-LFS; directs animation sequences, simulates physics, and optimizes for performance constraints.
   - level: Expert
     indicator: Leads 3D art direction, procedural asset pipelines, and cross-platform asset delivery standards; publishes asset-creation bible; mentors junior artists.
 ---

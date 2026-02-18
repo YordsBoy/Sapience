@@ -8,7 +8,7 @@ cluster_tags:
   - "Quantum Cloud"
   - "Hybrid Orchestration"
 description: >
-  Develops schedulers and orchestration layers that partition and route hybrid quantum-classical jobs across heterogeneous quantum-processing units (QPUs) and high-performance-computing (HPC) clusters; manages latency, queueing, error budgets, and cost optimisation for multi-vendor quantum clouds.
+  Develops schedulers and orchestration layers that partition and route hybrid quantum-classical jobs across heterogeneous quantum-processing units (QPUs) and high-performance-computing (HPC) clusters; manages latency, queueing, error budgets, and cost optimization for multi-vendor quantum clouds.
 source_frameworks:
   - "Qonductor – Cloud orchestrator for hybrid quantum-classical apps (arXiv 2408.04312)"
   - "Qoro Quantum + CESGA distributed circuit-simulation pilot 2025"

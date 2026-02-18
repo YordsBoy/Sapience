@@ -16,7 +16,7 @@ source_frameworks:
   - "NRPA Special Event Risk Management Checklist"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists basic event types; recognises permit requirements.
+    indicator: Lists basic event types; recognizes permit requirements.
   - level: Basic
     indicator: Prepares task timelines; coordinates volunteers; follows safety plans.
   - level: Intermediate

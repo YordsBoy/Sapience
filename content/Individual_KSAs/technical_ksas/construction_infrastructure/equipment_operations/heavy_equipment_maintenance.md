@@ -13,7 +13,7 @@ description: >
   construction machinery—excavators, cranes, bulldozers, loaders—ensuring
   safe operation, maximum availability, and compliance with manufacturer
   specifications and ISO 55000 asset-management principles.  See also
-  `asset_integrity_management` for organisation-wide maintenance governance.
+  `asset_integrity_management` for organization-wide maintenance governance.
 source_frameworks:
   - "ISO 55000 Asset-Management framework"
   - "OEM heavy-equipment service manuals (e.g., Caterpillar, Komatsu)"
@@ -24,9 +24,9 @@ proficiency_levels:
   - level: Basic
     indicator: Performs routine services (fluid changes, filter replacement); documents work orders and parts usage.
   - level: Intermediate
-    indicator: Diagnoses common faults (hydraulic leaks, sensor alerts); utilises telematics data to schedule repairs; conducts torque checks.
+    indicator: Diagnoses common faults (hydraulic leaks, sensor alerts); utilizes telematics data to schedule repairs; conducts torque checks.
   - level: Advanced
     indicator: Implements predictive-maintenance tools (vibration, thermography); analyses downtime trends; coordinates warranty/recall work with OEMs.
   - level: Expert
-    indicator: Designs fleet-wide maintenance programs aligned with ISO 55000; mentors technicians; optimises lifecycle cost through overhaul vs. replacement strategies.
+    indicator: Designs fleet-wide maintenance programs aligned with ISO 55000; mentors technicians; optimizes lifecycle cost through overhaul vs. replacement strategies.
 ---

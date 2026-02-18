@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Develops master cell bank SOPs; prepares regulatory dossiers (human-food, GRAS notice).
   - level: Advanced
-    indicator: Manages pilot-plant GMP validation; aligns labelling with jurisdictional rules (e.g., “cell-cultured chicken”).
+    indicator: Manages pilot-plant GMP validation; aligns labeling with jurisdictional rules (e.g., “cell-cultured chicken”).
   - level: Expert
     indicator: Leads multinational regulatory strategy; publishes risk-assessment studies; shapes Codex guidance on novel foods.
 ---

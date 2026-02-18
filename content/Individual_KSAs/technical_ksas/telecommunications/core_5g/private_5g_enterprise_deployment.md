@@ -8,7 +8,7 @@ cluster_tags:
   - "Private 5G"
   - "Enterprise"
 description: >
-  Designs CBRS/Local-licence private networks, integrating 5G Core, edge-MEC, and Zero-Trust security per 3GPP SA6 TS 23.501 option 2 and ONAP Private RAN blueprint.
+  Designs CBRS/Local-license private networks, integrating 5G Core, edge-MEC, and Zero-Trust security per 3GPP SA6 TS 23.501 option 2 and ONAP Private RAN blueprint.
 source_frameworks:
   - "3GPP TS 23.501 Option 2"
   - "ONAP Private Wireless Blueprint"

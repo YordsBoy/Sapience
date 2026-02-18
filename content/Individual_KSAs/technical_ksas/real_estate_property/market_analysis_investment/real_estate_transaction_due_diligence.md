@@ -14,7 +14,7 @@ source_frameworks:
   - "Fannie Mae Multifamily Selling-Servicing Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists diligence categories; recognises red-flags.
+    indicator: Lists diligence categories; recognizes red-flags.
   - level: Basic
     indicator: Orders Phase I; reviews title; verifies rent roll.
   - level: Intermediate

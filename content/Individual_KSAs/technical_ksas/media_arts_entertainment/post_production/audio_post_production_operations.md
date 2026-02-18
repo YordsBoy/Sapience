@@ -15,9 +15,9 @@ source_frameworks:
   - "Dolby Atmos Home Entertainment Mix Spec"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies digital‑audio‑workstation (DAW) tools; defines LKFS; recognises loudness units full scale (LUFS) meters; imports OMF/AAF sessions.
+    indicator: Identifies digital‑audio‑workstation (DAW) tools; defines LKFS; recognizes loudness units full scale (LUFS) meters; imports OMF/AAF sessions.
   - level: Basic
-    indicator: Cleans clicks; sets rough levels; exports interleaved WAV; performs dialogue editing; applies basic equalisation (EQ) and dynamics; conforms stems to cue sheet.
+    indicator: Cleans clicks; sets rough levels; exports interleaved WAV; performs dialog editing; applies basic equalisation (EQ) and dynamics; conforms stems to cue sheet.
   - level: Intermediate
     indicator: Uses loudness meter; mixes 5.1 surround; calibrates monitoring environments; meets Integrated Loudness targets per EBU R128; meets −24 LKFS ±2.
   - level: Advanced

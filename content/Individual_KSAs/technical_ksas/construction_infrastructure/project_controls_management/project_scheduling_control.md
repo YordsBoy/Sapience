@@ -14,7 +14,7 @@ source_frameworks:
   - "PMI Construction Extension to PMBOK"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads Gantt charts; recognises float.
+    indicator: Reads Gantt charts; recognizes float.
   - level: Basic
     indicator: Updates progress; calculates SPI/CPI.
   - level: Intermediate

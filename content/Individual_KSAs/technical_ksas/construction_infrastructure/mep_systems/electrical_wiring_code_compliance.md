@@ -16,7 +16,7 @@ source_frameworks:
   - "NFPA 70 National Electrical Code (NEC)"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies conductor colours; follows lock-out/tag-out.
+    indicator: Identifies conductor colors; follows lock-out/tag-out.
   - level: Basic
     indicator: Pulls wire; terminates receptacles; applies box-fill rules.
   - level: Intermediate

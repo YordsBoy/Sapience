@@ -15,7 +15,7 @@ source_frameworks:
   - "OSHA 29 CFR 1910 General Industry Regulations"
 proficiency_levels:
   - level: Awareness
-    indicator: Uses appropriate PPE; recognises common safety signage and pictograms (NFPA 704).
+    indicator: Uses appropriate PPE; recognizes common safety signage and pictograms (NFPA 704).
   - level: Basic
     indicator: Performs LOTO on simple machinery; maintains SDS (Safety Data Sheet) access.
   - level: Intermediate

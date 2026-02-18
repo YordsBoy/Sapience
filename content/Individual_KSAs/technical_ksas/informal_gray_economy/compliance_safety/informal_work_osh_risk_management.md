@@ -19,9 +19,9 @@ proficiency_levels:
   - level: Basic
     indicator: Conducts simple hazard mapping; implements housekeeping and hygiene practices; documents near misses.
   - level: Intermediate
-    indicator: Leads peer‑to‑peer safety dialogues; adapts low‑cost engineering controls; tracks incident data in logbooks.
+    indicator: Leads peer‑to‑peer safety dialogs; adapts low‑cost engineering controls; tracks incident data in logbooks.
   - level: Advanced
     indicator: Designs community OSH training; collaborates with local authorities on waste‑management safety; measures intervention outcomes.
   - level: Expert
-    indicator: Advises NGOs and governments on informal‑sector OSH programmes; publishes research on participatory risk‑reduction models; advocates for OSH policy reforms.
+    indicator: Advises NGOs and governments on informal‑sector OSH programs; publishes research on participatory risk‑reduction models; advocates for OSH policy reforms.
 ---

@@ -8,7 +8,7 @@ cluster_tags:
   - "Chatbots"
   - "Customer Service"
 description: >
-  Designs, deploys, and maintains conversational-AI chatbots that handle routine inquiries, authenticate users, and triage complex requests before escalating to human agents; aligns bot dialogue with customer-experience principles and regulatory requirements (privacy, accessibility).
+  Designs, deploys, and maintains conversational-AI chatbots that handle routine inquiries, authenticate users, and triage complex requests before escalating to human agents; aligns bot dialog with customer-experience principles and regulatory requirements (privacy, accessibility).
 source_frameworks:
   - "Microsoft Style Guide – Chatbots & Virtual Agents (2022)"
   - "NIST Trustworthy & Responsible AI guidance (2023)"
@@ -17,7 +17,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Explains chatbot benefits and limitations; maps simple FAQ to intents.
   - level: Basic
-    indicator: Builds a rule-based bot with natural-language intents; tests flows for clarity and ISO 9241-110 dialogue principles.
+    indicator: Builds a rule-based bot with natural-language intents; tests flows for clarity and ISO 9241-110 dialog principles.
   - level: Intermediate
     indicator: Integrates an LLM to improve intent coverage; establishes human-handoff triggers; monitors user-satisfaction metrics.
   - level: Advanced

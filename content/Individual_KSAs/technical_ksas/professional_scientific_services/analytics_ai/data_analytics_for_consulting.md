@@ -15,13 +15,13 @@ source_frameworks:
   - "Gartner Analytics & BI Best Practices"
 proficiency_levels:
   - level: Awareness
-    indicator: Extracts data from spreadsheets; creates basic charts; calculates descriptive stats; recognises outliers.
+    indicator: Extracts data from spreadsheets; creates basic charts; calculates descriptive stats; recognizes outliers.
   - level: Basic
     indicator: Writes SQL queries; uses Power Query to merge data; creates pivot KPIs; shares simple chart; builds dashboards (Tableau/Power BI); explains correlation vs. causation.
   - level: Intermediate
     indicator: Implements regression models; cleanses data pipelines; writes Python ETL script; builds interactive dashboard; automates refresh.
   - level: Advanced
-    indicator: Deploys machine‑learning predictions; Executes scenario modelling; applies statistical tests; links analytics to strategic options; presents insights to C-suite.
+    indicator: Deploys machine‑learning predictions; Executes scenario modeling; applies statistical tests; links analytics to strategic options; presents insights to C-suite.
   - level: Expert
     indicator: Designs data-governance model; leads analytics consulting practice; standardises data governance; publishes analytics case studies.
 ---

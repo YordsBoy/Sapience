@@ -9,7 +9,7 @@ cluster_tags:
   - "Digital Tools"
 description: >
   Produces and edits graphics, audio, and video using industry suites
-  (Adobe CC, DaVinci Resolve) and emerging Gen-AI assistants; applies colour
+  (Adobe CC, DaVinci Resolve) and emerging Gen-AI assistants; applies color
   management, codecs, and accessibility standards.
 source_frameworks:
   - "Adobe Certified Professional Exam Objectives"
@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Applies LUTs, compression, generative fill; collaborates via shared projects.
   - level: Advanced
-    indicator: Automates workflows with scripts; optimises assets for multi-platform delivery.
+    indicator: Automates workflows with scripts; optimizes assets for multi-platform delivery.
   - level: Expert
     indicator: Establishes studio standards; integrates AI pipelines; mentors creators.
 ---

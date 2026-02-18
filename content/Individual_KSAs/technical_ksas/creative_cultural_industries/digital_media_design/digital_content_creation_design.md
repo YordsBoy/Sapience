@@ -11,9 +11,9 @@ source_frameworks:
   - "World Wide Web Consortium (W3C) WCAG 2.2" 
 proficiency_levels:  
   - level: Awareness  
-    indicator: Navigates design software interface; explains colour-contrast basics; uses basic design templates or tools to produce simple graphics or social media posts.  
+    indicator: Navigates design software interface; explains color-contrast basics; uses basic design templates or tools to produce simple graphics or social media posts.  
   - level: Basic  
-    indicator: Creates raster/vector assets; applies templates; exports optimised files; produces quality standalone content (imagery, short videos, or written posts) following style guidelines and branding.  
+    indicator: Creates raster/vector assets; applies templates; exports optimized files; produces quality standalone content (imagery, short videos, or written posts) following style guidelines and branding.  
   - level: Intermediate  
     indicator: Uses layer comps, component libraries, and AI tools; integrates alt-text and transcript assets; integrates multiple media elements (visuals, audio, text) into cohesive content pieces or campaigns that engage the target audience.  
   - level: Advanced  

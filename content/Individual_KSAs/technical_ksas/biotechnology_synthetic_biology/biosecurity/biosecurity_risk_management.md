@@ -15,7 +15,7 @@ source_frameworks:
   - "IAEA ENGAGE Biosecurity Toolkit"
 proficiency_levels:
   - level: Awareness
-    indicator: Screens gene orders; recognises select‑agent lists; completes basic biosafety/biosecurity training.
+    indicator: Screens gene orders; recognizes select‑agent lists; completes basic biosafety/biosecurity training.
   - level: Basic
     indicator: Conducts risk assessments; documents inventory; restricts access controls.
   - level: Intermediate

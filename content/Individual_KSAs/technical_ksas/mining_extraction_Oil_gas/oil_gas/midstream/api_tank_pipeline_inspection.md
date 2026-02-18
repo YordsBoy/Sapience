@@ -15,13 +15,13 @@ source_frameworks:
   - "API 570 piping code"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads corrosion-rate charts; recognises critical zones.
+    indicator: Reads corrosion-rate charts; recognizes critical zones.
   - level: Basic
     indicator: Measures thickness; calculates minimum required thickness.
   - level: Intermediate
     indicator: Schedules inspection intervals; writes repair plans.
   - level: Advanced
-    indicator: Leads RBI programmes; coordinates NDE (UT, MFL, PAUT).
+    indicator: Leads RBI programs; coordinates NDE (UT, MFL, PAUT).
   - level: Expert
     indicator: Certifies API inspectors; mentors teams; interfaces with regulators & insurers.
 ---

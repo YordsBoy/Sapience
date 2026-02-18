@@ -16,7 +16,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Differentiates CC vs subtitles; identifies audio-desc needs.
   - level: Basic
-    indicator: Times captions; syncs to dialogue; exports .srt and .vtt.
+    indicator: Times captions; syncs to dialog; exports .srt and .vtt.
   - level: Intermediate
     indicator: Adds speaker IDs; embeds positional audio cues; meets minimum font legibility.
   - level: Advanced
