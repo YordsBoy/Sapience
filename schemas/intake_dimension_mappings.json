@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Maps B2C and B2B intake form dimensions to UPLS competencies and Sapience offerings",
+  "b2c_dimensions": [
+    {
+      "dimension_id": "career_clarity",
+      "dimension_label": "Career Clarity & Direction",
+      "description": "How clear are you on your career direction?",
+      "maps_to_upls": [
+        { "ksa_id": "strategic_thinking", "category": "Leadership" },
+        { "ksa_id": "purpose_articulation", "category": "Self Management" },
+        { "ksa_id": "vision_setting", "category": "Leadership" }
+      ],
+      "indicates_offering": ["career_compass_coaching"],
+      "low_score_focus": ["Career visioning exercises", "Values clarification", "Strategic career planning"]
+    },
+    {
+      "dimension_id": "self_awareness",
+      "dimension_label": "Self-Awareness & Insight",
+      "description": "How well do you understand your strengths and growth areas?",
+      "maps_to_upls": [
+        { "ksa_id": "self_reflective_insight", "category": "Self Management" },
+        { "ksa_id": "metacognition_skills", "category": "Self Management" },
+        { "ksa_id": "identity_self_authorship", "category": "Self Management" }
+      ],
+      "indicates_offering": ["self_mastery_workshop", "career_compass_coaching"],
+      "low_score_focus": ["Strengths assessment", "360 feedback", "Reflection practices"]
+    },
+    {
+      "dimension_id": "leadership_readiness",
+      "dimension_label": "Leadership Readiness",
+      "description": "How prepared do you feel to lead others?",
+      "maps_to_upls": [
+        { "ksa_id": "team_building", "category": "Leadership" },
+        { "ksa_id": "delegation_empowerment", "category": "Leadership" },
+        { "ksa_id": "mentoring_coaching", "category": "Leadership" }
+      ],
+      "indicates_offering": ["career_accelerator_bootcamp"],
+      "low_score_focus": ["Leadership style assessment", "Delegation practice", "Feedback skills"]
+    },
+    {
+      "dimension_id": "communication_effectiveness",
+      "dimension_label": "Communication Effectiveness",
+      "description": "How effectively do you communicate in professional settings?",
+      "maps_to_upls": [
+        { "ksa_id": "effective_communication", "category": "Universal Professional" },
+        { "ksa_id": "strategic_communication", "category": "Leadership" },
+        { "ksa_id": "persuasion_negotiation", "category": "Leadership" }
+      ],
+      "indicates_offering": ["self_mastery_workshop", "career_accelerator_bootcamp"],
+      "low_score_focus": ["Presentation skills", "Active listening", "Written communication"]
+    },
+    {
+      "dimension_id": "resilience_stress",
+      "dimension_label": "Resilience & Stress Management",
+      "description": "How well do you handle setbacks and pressure?",
+      "maps_to_upls": [
+        { "ksa_id": "resilience", "category": "Universal Professional" },
+        { "ksa_id": "stress_management", "category": "Self Management" },
+        { "ksa_id": "impulse_control", "category": "Self Management" }
+      ],
+      "indicates_offering": ["self_mastery_workshop"],
+      "low_score_focus": ["Stress reduction techniques", "Cognitive reframing", "Recovery practices"]
+    },
+    {
+      "dimension_id": "productivity_focus",
+      "dimension_label": "Productivity & Focus",
+      "description": "How effectively do you manage time and maintain focus?",
+      "maps_to_upls": [
+        { "ksa_id": "time_management", "category": "Universal Professional" },
+        { "ksa_id": "deep_work_practice", "category": "Self Management" },
+        { "ksa_id": "attention_switching_focus", "category": "Self Management" }
+      ],
+      "indicates_offering": ["self_mastery_workshop"],
+      "low_score_focus": ["Time blocking", "Distraction management", "Energy management"]
+    },
+    {
+      "dimension_id": "adaptability_learning",
+      "dimension_label": "Adaptability & Learning Agility",
+      "description": "How quickly do you adapt to change and learn new skills?",
+      "maps_to_upls": [
+        { "ksa_id": "adaptability", "category": "Universal Professional" },
+        { "ksa_id": "learning_agility", "category": "Universal Professional" },
+        { "ksa_id": "growth_mindset", "category": "Self Management" }
+      ],
+      "indicates_offering": ["career_compass_coaching", "career_accelerator_bootcamp"],
+      "low_score_focus": ["Growth mindset cultivation", "Learning strategies", "Change navigation"]
+    },
+    {
+      "dimension_id": "habits_discipline",
+      "dimension_label": "Habits & Self-Discipline",
+      "description": "How consistent are you in maintaining productive habits?",
+      "maps_to_upls": [
+        { "ksa_id": "self_motivation", "category": "Universal Professional" },
+        { "ksa_id": "accountability", "category": "Universal Professional" },
+        { "ksa_id": "digital_minimalism", "category": "Self Management" }
+      ],
+      "indicates_offering": ["self_mastery_workshop"],
+      "low_score_focus": ["Habit stacking", "Accountability structures", "Digital boundaries"]
+    }
+  ],
+  "b2b_dimensions": [
+    {
+      "dimension_id": "leadership_pipeline",
+      "dimension_label": "Leadership Pipeline Development",
+      "description": "Developing future leaders within the organization",
+      "maps_to_upls": [
+        { "ksa_id": "mentoring_coaching", "category": "Leadership" },
+        { "ksa_id": "delegation_empowerment", "category": "Leadership" },
+        { "ksa_id": "change_leadership", "category": "Leadership" }
+      ],
+      "indicates_offering": ["rising_leaders_academy", "executive_coaching"],
+      "priority_levels": ["first_line_supervisors", "middle_managers", "senior_leaders"]
+    },
+    {
+      "dimension_id": "team_effectiveness",
+      "dimension_label": "Team Effectiveness & Collaboration",
+      "description": "Improving team dynamics and collaboration",
+      "maps_to_upls": [
+        { "ksa_id": "team_building", "category": "Leadership" },
+        { "ksa_id": "collaboration", "category": "Universal Professional" },
+        { "ksa_id": "conflict_resolution", "category": "Leadership" }
+      ],
+      "indicates_offering": ["custom_training_design", "rising_leaders_academy"],
+      "delivery_formats": ["workshop", "team_coaching", "facilitation"]
+    },
+    {
+      "dimension_id": "change_transformation",
+      "dimension_label": "Change & Transformation Readiness",
+      "description": "Managing organizational change effectively",
+      "maps_to_upls": [
+        { "ksa_id": "change_leadership", "category": "Leadership" },
+        { "ksa_id": "change_analytics_sentiment_monitoring", "category": "Leadership" },
+        { "ksa_id": "crisis_leadership", "category": "Leadership" }
+      ],
+      "indicates_offering": ["competency_consulting", "custom_training_design"],
+      "engagement_types": ["change_readiness_assessment", "change_agent_training", "leadership_alignment"]
+    },
+    {
+      "dimension_id": "culture_dei",
+      "dimension_label": "Culture & DEI Initiatives",
+      "description": "Building inclusive culture and diverse workforce",
+      "maps_to_upls": [
+        { "ksa_id": "inclusive_leadership", "category": "Leadership" },
+        { "ksa_id": "ethical_governance", "category": "Leadership" }
+      ],
+      "indicates_offering": ["custom_training_design", "competency_consulting"],
+      "engagement_types": ["dei_training", "culture_assessment", "bias_awareness"]
+    },
+    {
+      "dimension_id": "professional_effectiveness",
+      "dimension_label": "Professional Effectiveness at Scale",
+      "description": "Lifting baseline professional skills across the workforce",
+      "maps_to_upls": [
+        { "ksa_id": "effective_communication", "category": "Universal Professional" },
+        { "ksa_id": "accountability", "category": "Universal Professional" },
+        { "ksa_id": "critical_thinking", "category": "Universal Professional" }
+      ],
+      "indicates_offering": ["custom_training_design"],
+      "delivery_formats": ["cohort_workshop", "e_learning", "blended"]
+    },
+    {
+      "dimension_id": "technical_upskilling",
+      "dimension_label": "Technical/Sector-Specific Upskilling",
+      "description": "Developing industry-specific competencies",
+      "maps_to_technical_sectors": true,
+      "sector_mapping_required": true,
+      "indicates_offering": ["custom_training_design"],
+      "common_sectors": [
+        "healthcare_social_assistance",
+        "core_it_cloud",
+        "manufacturing",
+        "public_safety_security"
+      ]
+    },
+    {
+      "dimension_id": "self_mastery_workforce",
+      "dimension_label": "Self-Mastery & Workforce Well-Being",
+      "description": "Developing resilience, focus, and personal effectiveness across the workforce",
+      "maps_to_upls": [
+        { "ksa_id": "resilience", "category": "Universal Professional" },
+        { "ksa_id": "stress_management", "category": "Self Management" },
+        { "ksa_id": "growth_mindset", "category": "Self Management" }
+      ],
+      "indicates_offering": ["self_mastery_workshop"],
+      "delivery_formats": ["workshop_series", "lunch_and_learn", "retreat"]
+    }
+  ],
+  "offering_mappings": {
+    "career_compass_coaching": {
+      "label": "Career Compass 1:1 Coaching",
+      "client_type": "B2C",
+      "primary_competencies": ["strategic_thinking", "purpose_articulation", "self_reflective_insight"],
+      "duration": "3-6 months",
+      "format": "1:1 coaching"
+    },
+    "self_mastery_workshop": {
+      "label": "Self-Mastery Workshop Series",
+      "client_type": "both",
+      "primary_competencies": ["stress_management", "deep_work_practice", "growth_mindset"],
+      "duration": "4-8 weeks",
+      "format": "group workshop"
+    },
+    "career_accelerator_bootcamp": {
+      "label": "Career Accelerator Bootcamp",
+      "client_type": "B2C",
+      "primary_competencies": ["effective_communication", "team_building", "learning_agility"],
+      "duration": "intensive cohort",
+      "format": "cohort program"
+    },
+    "rising_leaders_academy": {
+      "label": "Rising Leaders Academy",
+      "client_type": "B2B",
+      "primary_competencies": ["delegation_empowerment", "team_building", "strategic_thinking"],
+      "duration": "3-6 months",
+      "format": "cohort development"
+    },
+    "executive_coaching": {
+      "label": "Executive Coaching",
+      "client_type": "B2B",
+      "primary_competencies": ["vision_setting", "strategic_communication", "ethical_governance"],
+      "duration": "6-12 months",
+      "format": "1:1 coaching"
+    },
+    "competency_consulting": {
+      "label": "Competency Model Consulting",
+      "client_type": "B2B",
+      "primary_competencies": "custom",
+      "duration": "project-based",
+      "format": "consulting engagement"
+    },
+    "custom_training_design": {
+      "label": "Custom Training Design",
+      "client_type": "B2B",
+      "primary_competencies": "custom",
+      "duration": "project-based",
+      "format": "curriculum development + delivery"
+    }
+  },
+  "upls_to_client_dimension_map": {
+    "b2c": {
+      "Career Clarity & Direction": ["strategic_thinking", "purpose_articulation", "vision_setting"],
+      "Confidence & Self-Belief": ["growth_mindset", "identity_self_authorship", "resilience"],
+      "Communication & Relationships": ["effective_communication", "collaboration", "emotional_intelligence"],
+      "Productivity & Focus": ["time_management", "deep_work_practice", "digital_minimalism", "energy_management"],
+      "Leadership & Influence": ["team_building", "mentoring_coaching", "persuasion_negotiation"],
+      "Resilience & Stress Management": ["stress_management", "impulse_control", "adaptability"],
+      "Habits & Self-Discipline": ["self_motivation", "attention_switching_focus", "accountability"],
+      "Purpose & Values Alignment": ["purpose_articulation", "ethical_reflection_reasoning", "integrity_alignment"]
+    },
+    "b2b": {
+      "Professional Effectiveness": ["effective_communication", "critical_thinking", "accountability", "adaptability", "digital_literacy"],
+      "Leadership & Influence": ["strategic_thinking", "team_building", "change_leadership", "mentoring_coaching", "stakeholder_coalition_building"],
+      "Self-Mastery & Personal Effectiveness": ["time_management", "emotional_intelligence", "resilience", "growth_mindset", "purpose_articulation"]
+    }
+  }
+}

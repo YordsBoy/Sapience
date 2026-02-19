@@ -24,6 +24,7 @@
 
 | ID                                     | Label                                                  | Horizon   |
 |----------------------------------------|--------------------------------------------------------|-----------|
+| change_analytics_sentiment_monitoring | Change Analytics & Sentiment Monitoring                 | emerging  |
 | change_leadership                      | Change Leadership                                      | core      |
 | conflict_resolution                    | Conflict Resolution                                    | core      |
 | crisis_leadership                      | Crisis Leadership                                      | core      |
@@ -38,7 +39,6 @@
 | vision_setting                         | Vision Setting                                         | core      |
 | stakeholder_coalition_building         | Stakeholder & Coalition Building                       | core      |
 | remote_hybrid_team_leadership          | Remote & Hybrid Team Leadership                        | core      |
-| advanced_change_analytics_sentiment_monitoring | Advanced Change Analytics & Sentiment Monitoring | emerging  |
 
 ## Referenced Frameworks & Standards  
 
@@ -54,15 +54,15 @@
 - **World Economic Forum – Future of Jobs 2025:** Highlighted “Leadership and social influence” as a top skill. Our addition of Persuasion/Negotiation addresses this insight (no WEF text used, just its identification of the skill gap).
 - **Academic & Business Sources:** General leadership literature supports these KSAs. For instance, the importance of empowering leadership is well-documented in management research (e.g., Harvard Business Review articles on delegation – not directly cited in YAML due to copyright, but conceptually integrated). We focused on public domain sources for actual wording.
 
-## Future-Expansion  
+## Future-Expansion
 
-| Area | Why it matters |
-|------|----------------|
-| **AI-Generated Micro-Coaching Nudges** | LLMs delivering just-in-time leadership prompts based on meeting transcripts and team mood. |
-| **Metaverse-Based Leadership Simulations** | Immersive VR for crisis-scenario practice and cross-cultural negotiation exercises. |
-| **Digital-Twin Workforce Culture Models** | Simulated organizational networks predicting morale impact from structural changes. |
-| **Quantum-Secure Executive Communication** | Early adoption of post-quantum encrypted messaging for high-stakes leadership comms. |
+| Area | Rationale |
+|------|-----------|
+| AI-Augmented Decision Making | Leaders increasingly use AI for strategic analysis |
+| Distributed Leadership Models | Flatter organizations require shared leadership |
+| Sustainability Leadership | ESG integration becoming board-level expectation |
+| Neurodiverse Team Leadership | Inclusive practices for cognitive diversity |
 
-> *All sources cited for conceptual alignment. No proprietary text copied.*
+> *These competencies are adapted from public-domain frameworks including U.S. OPM ECQs, O*NET, and academic leadership research. No source organization endorses these adaptations.*
 
-_Last updated: 17 Oct 2025_
+_Last updated: February 2026_

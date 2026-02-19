@@ -32,6 +32,31 @@ The KSAs here are grouped into thematic sub-domains:
 - **stress_management** – *Stress Management Techniques* (perennial) – Uses effective techniques to manage stress and sustain well-being under pressure. 
 *(Note: *Time Management* is addressed under **General KSAs**; its principles are cross-referenced here as they strongly relate to personal productivity and stress reduction.)*
 
+## UPLS Core vs. Extended Competencies
+
+The Self-Mastery domain contains **15 core UPLS competencies** organized into 6 sub-domains. Additional competencies may be added as the framework evolves, but the core 15 represent the foundational self-mastery capabilities.
+
+### Core 15 Self-Mastery Competencies
+
+| Sub-domain | Core KSAs |
+|------------|-----------|
+| Habits & Productivity | Deep Work Practice, Digital Minimalism, Energy Management |
+| Intrinsic Motivation | Purpose Articulation |
+| Self-Awareness | Identity Self-Authorship, Metacognition, Self-Reflective Insight |
+| Self-Regulation | Attention Switching & Focus, Impulse Control |
+| Values & Ethics | Ethical Reflection & Reasoning, Integrity Alignment, Moral Courage |
+| Well-Being & Resilience | Growth Mindset, Sensory Mindfulness, Stress Management |
+
+## Future-Expansion
+
+| Area | Rationale |
+|------|-----------|
+| Cognitive Load Management | Information overload becoming critical barrier |
+| Digital Well-Being | Screen time and attention economy impacts |
+| Financial Self-Mastery | Personal finance as enabler of career flexibility |
+
+_Last updated: February 2026_
+
 ## Referenced Frameworks & Sources
 
 - **Psychology & Wellness Frameworks:** Content in this sector draws from widely accepted psychology practices (e.g., mindfulness techniques from Kabat-Zinn’s work, stress coping strategies from CDC/NIOSH). No proprietary text is used; sources like CDC stress management guidelines (public domain) inform KSAs such as Stress Management.

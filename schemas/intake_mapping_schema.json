@@ -1,0 +1,358 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Sapience Intake Mapping Schema",
+  "description": "Maps intake form dimensions to UPLS and sector-specific competencies with artifact evidence support",
+  "version": "1.0.0",
+  "definitions": {
+    "proficiency_level": {
+      "type": "string",
+      "enum": ["Awareness", "Basic", "Intermediate", "Advanced", "Expert"]
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["low", "medium", "high"]
+    },
+    "evidence_source": {
+      "type": "string",
+      "enum": ["self_report", "artifact_review", "coach_interview", "assessment", "framework_lookup"]
+    },
+    "aspiration_type": {
+      "type": "string",
+      "enum": [
+        "target_job_description",
+        "business_concept_brief",
+        "role_model_profile",
+        "sector_values_statement",
+        "improvement_goals"
+      ]
+    },
+    "artifact_type": {
+      "type": "string",
+      "enum": [
+        "resume",
+        "transcript",
+        "certification",
+        "performance_appraisal",
+        "job_description",
+        "business_plan",
+        "portfolio",
+        "recommendation_letter",
+        "other"
+      ]
+    },
+    "grade_weight": {
+      "type": "string",
+      "enum": ["full", "partial", "none"],
+      "description": "A/B grades = full, C grades = partial (Awareness/Basic only), D/F = none"
+    },
+    "recency_weight": {
+      "type": "string",
+      "enum": ["current", "reduced", "foundational"],
+      "description": "0-3 years = current, 3-7 years = reduced, 7+ years = foundational"
+    },
+    "certification_status": {
+      "type": "string",
+      "enum": ["active", "expired_renewable", "expired_nonrenewable", "revoked"]
+    },
+    "transcript_entry": {
+      "type": "object",
+      "required": ["entry_id", "title", "date_completed", "grade"],
+      "properties": {
+        "entry_id": { "type": "string" },
+        "title": { "type": "string" },
+        "course_description": { "type": "string" },
+        "institution": { "type": "string" },
+        "date_completed": { "type": "string", "format": "date" },
+        "credit_hours": { "type": "number" },
+        "grade": { "type": "string" },
+        "grade_weight": { "$ref": "#/definitions/grade_weight" },
+        "recency_weight": { "$ref": "#/definitions/recency_weight" },
+        "suggested_ksa_mappings": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/ksa_mapping" }
+        }
+      }
+    },
+    "certification_entry": {
+      "type": "object",
+      "required": ["entry_id", "name", "issuing_body", "date_earned", "status"],
+      "properties": {
+        "entry_id": { "type": "string" },
+        "name": { "type": "string" },
+        "issuing_body": { "type": "string" },
+        "date_earned": { "type": "string", "format": "date" },
+        "expiration_date": { "type": "string", "format": "date" },
+        "status": { "$ref": "#/definitions/certification_status" },
+        "maintenance_current": { "type": "boolean" },
+        "credential_id": { "type": "string" },
+        "recency_weight": { "$ref": "#/definitions/recency_weight" },
+        "suggested_ksa_mappings": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/ksa_mapping" }
+        }
+      }
+    },
+    "ksa_mapping": {
+      "type": "object",
+      "required": ["ksa_id", "suggested_level"],
+      "properties": {
+        "ksa_id": { "type": "string" },
+        "category": {
+          "type": "string",
+          "enum": ["Universal Professional", "Leadership", "Self Management", "Technical"]
+        },
+        "suggested_level": { "$ref": "#/definitions/proficiency_level" },
+        "confidence": { "$ref": "#/definitions/confidence_level" },
+        "source": { "$ref": "#/definitions/evidence_source" },
+        "notes": { "type": "string" }
+      }
+    },
+    "aspiration_evidence": {
+      "type": "object",
+      "required": ["evidence_type"],
+      "properties": {
+        "evidence_type": { "$ref": "#/definitions/aspiration_type" },
+        "artifact_ref": { "type": "string" },
+        "content": {
+          "oneOf": [
+            {
+              "type": "object",
+              "title": "target_job_description",
+              "properties": {
+                "job_title": { "type": "string" },
+                "employer": { "type": "string" },
+                "industry_sector": { "type": "string" },
+                "key_requirements": { "type": "array", "items": { "type": "string" } },
+                "experience_level": { "type": "string" }
+              }
+            },
+            {
+              "type": "object",
+              "title": "business_concept_brief",
+              "properties": {
+                "business_name": { "type": "string" },
+                "industry_sector": { "type": "string" },
+                "problem_solved": { "type": "string" },
+                "target_customers": { "type": "string" },
+                "required_capabilities": { "type": "array", "items": { "type": "string" } },
+                "timeline": { "type": "string" }
+              }
+            },
+            {
+              "type": "object",
+              "title": "role_model_profile",
+              "properties": {
+                "role_model_name": { "type": "string" },
+                "what_admired": { "type": "string" },
+                "capabilities_to_emulate": { "type": "array", "items": { "type": "string" } },
+                "industry_context": { "type": "string" }
+              }
+            },
+            {
+              "type": "object",
+              "title": "sector_values_statement",
+              "properties": {
+                "sectors_of_interest": { "type": "array", "items": { "type": "string" } },
+                "core_values": { "type": "array", "items": { "type": "string" } },
+                "work_environment_preferences": { "type": "string" },
+                "impact_desired": { "type": "string" }
+              }
+            },
+            {
+              "type": "object",
+              "title": "improvement_goals",
+              "properties": {
+                "current_role": { "type": "string" },
+                "pain_points": { "type": "array", "items": { "type": "string" } },
+                "skills_to_develop": { "type": "array", "items": { "type": "string" } },
+                "success_definition": { "type": "string" }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "competency_assessment": {
+      "type": "object",
+      "required": ["ksa_id", "assessed_level"],
+      "properties": {
+        "ksa_id": { "type": "string" },
+        "category": { "type": "string" },
+        "sector": { "type": "string" },
+        "assessed_level": { "$ref": "#/definitions/proficiency_level" },
+        "target_level": { "$ref": "#/definitions/proficiency_level" },
+        "gap_size": { "type": "integer", "minimum": 0, "maximum": 4 },
+        "priority": { "type": "string", "enum": ["critical", "high", "medium", "low"] },
+        "evidence_sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "artifact_type": { "$ref": "#/definitions/artifact_type" },
+              "artifact_ref": { "type": "string" },
+              "excerpt": { "type": "string" },
+              "supports_level": { "$ref": "#/definitions/proficiency_level" },
+              "indicates_gap": { "type": "boolean" },
+              "confidence": { "$ref": "#/definitions/confidence_level" }
+            }
+          }
+        },
+        "coach_notes": { "type": "string" }
+      }
+    }
+  },
+  "type": "object",
+  "required": ["schema_version", "client_type", "client_profile", "assessment_metadata"],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.0.0" },
+    "client_type": { "type": "string", "enum": ["B2C", "B2B"] },
+    "client_profile": {
+      "type": "object",
+      "required": ["client_id"],
+      "properties": {
+        "client_id": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "intake_date": { "type": "string", "format": "date" },
+        "demographics": {
+          "type": "object",
+          "properties": {
+            "age_range": { "type": "string" },
+            "location": { "type": "string" },
+            "education_level": { "type": "string" },
+            "years_experience": { "type": "integer" }
+          }
+        },
+        "industry_context": {
+          "type": "object",
+          "properties": {
+            "current_industry": { "type": "string" },
+            "current_role": { "type": "string" },
+            "target_industry": { "type": "string" },
+            "target_role": { "type": "string" },
+            "sector_mappings": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Technical KSA sectors relevant to this client"
+            }
+          }
+        }
+      }
+    },
+    "intake_form_responses": {
+      "type": "object",
+      "description": "Raw responses from B2C or B2B intake form",
+      "properties": {
+        "form_version": { "type": "string" },
+        "completion_date": { "type": "string", "format": "date-time" },
+        "dimensions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["dimension_id", "response"],
+            "properties": {
+              "dimension_id": { "type": "string" },
+              "dimension_label": { "type": "string" },
+              "response": {},
+              "maps_to_upls": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "aspiration_evidence": { "$ref": "#/definitions/aspiration_evidence" },
+    "baseline_evidence": {
+      "type": "object",
+      "properties": {
+        "resume_artifacts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "artifact_ref": { "type": "string" },
+              "upload_date": { "type": "string", "format": "date" },
+              "extracted_data": {
+                "type": "object",
+                "properties": {
+                  "job_history": { "type": "array", "items": { "type": "object" } },
+                  "skills_mentioned": { "type": "array", "items": { "type": "string" } },
+                  "achievements": { "type": "array", "items": { "type": "string" } },
+                  "education": { "type": "array", "items": { "type": "object" } }
+                }
+              }
+            }
+          }
+        },
+        "transcript_entries": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/transcript_entry" }
+        },
+        "certification_entries": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/certification_entry" }
+        },
+        "appraisal_artifacts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "artifact_ref": { "type": "string" },
+              "review_period": { "type": "string" },
+              "overall_rating": { "type": "string" },
+              "strengths_noted": { "type": "array", "items": { "type": "string" } },
+              "development_areas": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        },
+        "other_artifacts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "artifact_type": { "$ref": "#/definitions/artifact_type" },
+              "artifact_ref": { "type": "string" },
+              "description": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "competency_assessments": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/competency_assessment" }
+    },
+    "recommended_offerings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "offering_id": { "type": "string" },
+          "offering_name": { "type": "string" },
+          "relevance_score": { "type": "number", "minimum": 0, "maximum": 1 },
+          "addresses_competencies": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "rationale": { "type": "string" }
+        }
+      }
+    },
+    "assessment_metadata": {
+      "type": "object",
+      "required": ["assessment_date", "assessor", "method"],
+      "properties": {
+        "assessment_date": { "type": "string", "format": "date" },
+        "assessor": { "type": "string" },
+        "method": {
+          "type": "string",
+          "enum": ["self_report", "artifact_review", "coach_interview", "hybrid", "ai_assisted"]
+        },
+        "framework_version": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

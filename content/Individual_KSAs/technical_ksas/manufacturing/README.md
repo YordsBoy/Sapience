@@ -43,4 +43,13 @@
 - **ASME Y14.5 (GD&T):** Dimensioning standard underpinning precision-measurement KSA. 
 - **AWS D1.1 Structural Welding Code:** Governs welding-process mastery indicators.
 
-*(Last updated: 2025-09-20)*
+## Future-Expansion
+
+| Area | Rationale |
+|------|-----------|
+| Collaborative Robotics (Cobots) | Human-robot teaming on production lines |
+| Additive Manufacturing at Scale | 3D printing moving from prototyping to production |
+| Circular Manufacturing | Sustainability and materials recapture |
+| Digital Twin Operations | Real-time virtual modeling of physical processes |
+
+_Last updated: February 2026_

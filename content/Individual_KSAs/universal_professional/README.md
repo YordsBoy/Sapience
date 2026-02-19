@@ -1,40 +1,63 @@
-# Universal Professional (Cross-Sector Skills)
+# Universal Professional Competencies (Cross-Sector)
 
-**Sector Overview:** This sector encompasses foundational personal and professional skills that are broadly applicable across all domains. These general KSAs – such as thinking critically, communicating effectively, self-regulating, and adapting to change – underlie success in any role. They are “perennial” competencies, meaning they remain relevant over time and are continually in demand. Developing these skills enhances an individual’s ability to learn, collaborate, lead, and thrive in a rapidly evolving work environment.
+## Sector Overview
+
+Universal Professional competencies represent the foundational knowledge, skills, and attributes that Sapience develops in all employees, clients, and learners regardless of industry or role. These 15 competencies form the “General” tier of the UPLS (Universal Professional, Leadership, Self-Mastery) framework. All are marked `perennial` because they remain relevant across career stages and economic cycles.
 
 ## Sub-domains
-*(This sector is not divided into formal sub-domains; it represents a single set of core cross-sector competencies. For reference, we group some KSAs by theme below.)*
 
-- **Cognitive Skills:** e.g. *Critical Thinking*, *Creative Thinking* – Problem solving, innovation, and decision-making abilities.
-- **Interpersonal Skills:** e.g. *Collaboration*, *Effective Communication* – Teamwork, clear expression, and listening skills.
-- **Self-Management Skills:** e.g. *Adaptability*, *Resilience*, *Self-Motivation* – Personal drive, flexibility, and coping strategies under stress.
-- **Meta-Learning Skills:** e.g. *Learning Agility*, *Self-Reflection* (metacognition) – Continuous learning and self-awareness for growth.
+| Code | Focus Area | Example KSAs |
+|------|------------|--------------|
+| **CM** | Communication & Collaboration | Effective Communication, Collaboration |
+| **TH** | Thinking & Problem-Solving | Critical Thinking, Creative Thinking |
+| **PR** | Professionalism & Character | Accountability, Professionalism, Initiative |
+| **AD** | Adaptability & Growth | Adaptability, Learning Agility, Resilience |
+| **DG** | Digital & Technical Foundations | Digital Literacy |
+| **SM** | Self-Management | Time Management, Self-Motivation, Emotional Intelligence, Attention to Detail |
 
-**Horizon Key:** All KSAs in this sector are marked `perennial` – foundational skills with enduring relevance.
+## Horizon Key
 
-## KSA Inventory
+| Horizon | Meaning |
+|---------|---------|
+| **perennial** | Timeless skills that remain relevant regardless of technological or market shifts |
 
-- **accountability** – *Accountability* (perennial) – Takes responsibility for actions and upholds ethical standards.
-- **adaptability** – *Adaptability* (perennial) – Adjusts effectively to changing environments and priorities.
-- **attention_detail** – *Attention to Detail* (perennial) – Ensures accuracy and thoroughness in work.
-- **collaboration** – *Collaboration* (perennial) – Works cooperatively with others to achieve shared goals.
-- **creative_thinking** – *Creative Thinking* (perennial) – Develops innovative ideas and solutions.
-- **critical_thinking** – *Critical Thinking* (perennial) – Uses reasoning to analyze facts and solve problems.
-- **digital_literacy** – *Digital Literacy* (perennial) – Uses and evaluates digital tools for productivity and problem-solving.
-- **effective_communication** – *Effective Communication* (perennial) – Conveys information clearly and listens actively.
-- **emotional_intelligence** – *Emotional Intelligence* (perennial) – Manages one's own emotions and understands others' emotions.
-- **initiative** – *Initiative* (perennial) – Takes proactive action to improve outcomes without prompting.
-- **learning_agility** – *Learning Agility* (perennial) – Rapidly acquires and applies new knowledge in evolving contexts.
-- **professionalism** – *Professionalism* (perennial) – Demonstrates integrity, reliability, and respectful conduct.
-- **resilience** – *Resilience* (perennial) – Recovers from setbacks and remains effective under pressure.
-- **self_motivation** – *Self-Motivation* (perennial) – Proactively initiates action and sustains effort toward goals.
-- **time_management** – *Time Management* (perennial) – Prioritizes tasks, allocates time efficiently, and meets deadlines consistently.
+## KSA Inventory (15 Competencies)
 
-## Referenced Frameworks & Sources
+| ID | Label | Horizon |
+|----|-------|---------|
+| accountability | Accountability | perennial |
+| adaptability | Adaptability | perennial |
+| attention_detail | Attention to Detail | perennial |
+| collaboration | Collaboration | perennial |
+| creative_thinking | Creative Thinking | perennial |
+| critical_thinking | Critical Thinking | perennial |
+| digital_literacy | Digital Literacy | perennial |
+| effective_communication | Effective Communication | perennial |
+| emotional_intelligence | Emotional Intelligence | perennial |
+| initiative | Initiative | perennial |
+| learning_agility | Learning Agility | perennial |
+| professionalism | Professionalism | perennial |
+| resilience | Resilience | perennial |
+| self_motivation | Self-Motivation | perennial |
+| time_management | Time Management | perennial |
 
-- **O*NET OnLine** – Several KSA definitions are adapted from U.S. Department of Labor’s O*NET descriptions (e.g. Adaptability, Critical Thinking), used under CC BY 4.0. These public-domain sources provide validated descriptions of general competencies.
-- **U.S. OPM Competency Dictionary** – The Effective Communication KSA draws on OPM’s definitions for communication competencies. OPM’s leadership competency for Creativity/Innovation informed the Creative Thinking KSA. OPM content is public domain.
-- **SFIA & Other Models** – Earlier versions referenced SFIA or SHRM BASK for a few KSAs (e.g. Emotional Intelligence, Learning Agility). We have removed direct BASK content to maintain compliance. Where applicable, we retained the conceptual alignment (e.g. Emotional Intelligence aligns with SFIA’s “Relationship Management” competency) while using original phrasing or public sources. Any legacy references to proprietary frameworks have been refactored or replaced.
-- **World Economic Forum (WEF)** – The importance of Creativity and Communication was underscored by WEF’s Future of Jobs report, which guided us to prioritize adding those KSAs (though no text was copied from WEF). 
+## Referenced Frameworks & Standards
+
+- **U.S. OPM Competencies** — Federal workforce competency model (public domain)
+- **O*NET Content Model** — Occupational skills taxonomy (CC BY 4.0)
+- **World Economic Forum Future of Jobs** — Global skills demand research
+- **SHRM Competency Model** — HR professional competencies (conceptual alignment)
 
 *(All frameworks above are either public domain or used with proper attribution. Trademark names like O*NET® are acknowledged in the repository’s license notice.)*
+
+## Future-Expansion
+
+| Area | Rationale |
+|------|-----------|
+| AI Collaboration Literacy | Working effectively alongside AI tools (emerging skill) |
+| Data Fluency | Basic data interpretation for non-technical roles |
+| Remote Work Effectiveness | Hybrid/distributed work becoming baseline expectation |
+
+> *These competencies are adapted from public-domain frameworks. No source organization endorses these adaptations.*
+
+_Last updated: February 2026_
