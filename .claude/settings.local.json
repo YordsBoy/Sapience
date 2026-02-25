@@ -11,7 +11,9 @@
       "mcp__github__list_commits",
       "Bash(gh api repos/YordsBoy/CaliberPath/branches --jq '.[].name')",
       "mcp__github__list_issues",
-      "mcp__claude_ai_Supabase__list_projects"
+      "mcp__claude_ai_Supabase__list_projects",
+      "Bash(claude mcp:*)",
+      "Bash(npx:*)"
     ]
   }
 }
