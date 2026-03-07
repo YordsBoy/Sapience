@@ -1,8 +1,8 @@
-# Sapience — Claude Code Context
+# CaliberPath — Claude Code Context
 
-## What Is Sapience
+## What Is CaliberPath
 
-Sapience is a Learning & Development (L&D) company delivering human-led coaching, workshops, and consulting services. The core IP is the **UPLS competency framework** (Universal Professional, Leadership, and Self-Mastery) plus 400+ technical KSAs across 35 industry sectors.
+CaliberPath is a Learning & Development (L&D) company delivering human-led coaching, workshops, and consulting services. The core IP is the **UPLS competency framework** (Universal Professional, Leadership, and Self-Mastery) plus 400+ technical KSAs across 35 industry sectors.
 
 **Author:** YordsBoy | **Version:** 0.1.0 | **License:** UNLICENSED
 
@@ -94,4 +94,4 @@ pages/                         # Next.js API routes and pages
 - One feature/fix per branch
 - Commit messages: short, imperative ("Add onboarding walkthrough")
 - Always pull before editing
-- See `docs/sapience-dev_contributor-guide.md` for full guidelines
+- See `docs/caliberpath-dev_contributor-guide.md` for full guidelines

@@ -1,15 +1,15 @@
-# 📚 Sapience Git + Local Management Manual
+# 📚 CaliberPath Git + Local Management Manual
 
 *(Full Master Version for Word, Docs, or Repo Use)*
 
 ---
 
 ## 🛠 Purpose
-This manual explains how to manage the Sapience repository, clone it, update it, and operate Git workflows like a professional system-builder.
+This manual explains how to manage the CaliberPath repository, clone it, update it, and operate Git workflows like a professional system-builder.
 ---
 ## 💻 About Your Environment
 
-Sapience supports development in both:
+CaliberPath supports development in both:
 - **Local Machines** (Windows/Mac/Linux)
 - **GitHub Codespaces** (Cloud-hosted VSCode)
 
@@ -39,7 +39,7 @@ If using Codespaces:
 ## 📍 2. Get Your GitHub Repo URL
 
 - Open your GitHub repository.
-- Click the green **Code** button → Copy the **HTTPS URL** (e.g., `https://github.com/yourusername/sapience.git`).
+- Click the green **Code** button → Copy the **HTTPS URL** (e.g., `https://github.com/yourusername/caliberpath.git`).
 
 ---
 
@@ -55,7 +55,7 @@ cd Documents/Projects/
 ## 📍 4. Clone Your Repository
 
 ```bash
-git clone https://github.com/yourusername/sapience.git
+git clone https://github.com/yourusername/caliberpath.git
 ```
 
 ✅ This saves a full local copy of your work.
@@ -77,7 +77,7 @@ git clone https://github.com/yourusername/sapience.git
 
 ### 1. Clone (First Time)
 ```bash
-git clone https://github.com/yourusername/sapience.git
+git clone https://github.com/yourusername/caliberpath.git
 ```
 
 ---
@@ -198,12 +198,12 @@ You operate like a digital builder now. 🛠️🚀
 
 ---
 
-# 📜 Official Sapience Git Project Manual
+# 📜 Official CaliberPath Git Project Manual
 
 This manual is ready to paste into:
 - Word (.docx)
 - Google Docs
-- GitHub `/docs` folder as `sapience-git-manual.md`
+- GitHub `/docs` folder as `caliberpath-git-manual.md`
 - Or printed out if you want to flex at Starbucks (optional but hilarious).
 
 ---

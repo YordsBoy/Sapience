@@ -1,4 +1,4 @@
-# Sapience B2C Individual Intake Form
+# CaliberPath B2C Individual Intake Form
 ## Version 2.0 Specification
 
 **Document Status:** Specification for implementation
@@ -10,7 +10,7 @@
 
 ## FORM HEADER
 
-> **SAPIENCE — Personal Growth Discovery Form**
+> **CALIBERPATH — Personal Growth Discovery Form**
 >
 > You're taking an important step by exploring how to grow and develop. This form helps us understand where you are, where you want to go, and how we might help you get there.
 >
@@ -34,7 +34,7 @@
 | Current Role / Title | text | conditional | Show if: Employed or Entrepreneur selected |
 | Industry / Field | text | conditional | Show if: Employed or Entrepreneur selected |
 | Years of Experience | number | yes | |
-| How did you hear about Sapience? | checkbox | yes | Social media / Google / Referral / Event / College / Professional org / Other |
+| How did you hear about CaliberPath? | checkbox | yes | Social media / Google / Referral / Event / College / Professional org / Other |
 
 **UPLS Mapping:** Section 1 feeds `client_profile.demographics` and `industry_context` in intake schema.
 
@@ -261,20 +261,20 @@ For each uploaded document, collect:
 | Field | Type | Required | Notes |
 |-------|------|----------|-------|
 | Anything else we should know? | textarea | no | Sensitivities, context, constraints |
-| Questions for Sapience before your first call? | textarea | no | |
+| Questions for CaliberPath before your first call? | textarea | no | |
 | How would you describe your situation in one sentence? | text | no | Optional — your own words |
 
 ---
 
 ## FORM FOOTER
 
-> *By submitting this form, you consent to Sapience using your responses to personalize our services. Your information is never shared with third parties. You may request deletion of your data at any time by contacting us.*
+> *By submitting this form, you consent to CaliberPath using your responses to personalize our services. Your information is never shared with third parties. You may request deletion of your data at any time by contacting us.*
 >
-> *Sapience is committed to your growth and privacy.*
+> *CaliberPath is committed to your growth and privacy.*
 
 ---
 
-## INTERNAL ROUTING GUIDE (Sapience Use Only)
+## INTERNAL ROUTING GUIDE (CaliberPath Use Only)
 
 ### Offering Routing Matrix
 

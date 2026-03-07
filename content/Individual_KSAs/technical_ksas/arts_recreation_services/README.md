@@ -13,7 +13,7 @@ Creative technology, hybrid participation models, and outcome-focused funding ar
 | **outdoor_recreation/** | Trail operations and outdoor safety competencies |
 | **recreation_programs/** | Program design and impact evaluation |
 
-## Sapience horizon keys
+## CaliberPath horizon keys
 
 | Key | Definition |
 |-----|------------|

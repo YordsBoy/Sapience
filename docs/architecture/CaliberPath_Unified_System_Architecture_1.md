@@ -1,4 +1,4 @@
-# Sapience Unified System Architecture
+# CaliberPath Unified System Architecture
 ## Integrating the Original Vision with the L&D Company Direction
 
 ---
@@ -7,7 +7,7 @@
 
 ### The Original Vision (Pre-L&D Direction)
 
-From the origin conversations, Sapience was conceived as something far more ambitious than a traditional coaching company:
+From the origin conversations, CaliberPath was conceived as something far more ambitious than a traditional coaching company:
 
 > "A translation system between human pain, hope, and trajectory—and an intelligence that can help carry the weight."
 
@@ -40,7 +40,7 @@ Through subsequent work, you discovered that the most viable path to this vision
 |-------|-------------|----------|
 | **UPLS Competency Framework** | 15 Universal + 15 Leadership + 15+ Self-Mastery competencies | GitHub: `content/Individual_KSAs/` |
 | **400+ Technical KSAs** | Sector-specific competencies across 25+ industries | GitHub: `content/Individual_KSAs/technical_ksas/` |
-| **Sapience L&D Handbook** | ADDIE methodology, ELM, assessment design, facilitation standards | Claude.ai Projects |
+| **CaliberPath L&D Handbook** | ADDIE methodology, ELM, assessment design, facilitation standards | Claude.ai Projects |
 | **Market Strategy** | Augusta, GA dual-market launch plan | Claude.ai Projects |
 | **Product Development Timeline** | 18-month phased rollout | Claude.ai Projects |
 | **B2B Intake Form** | Organizational needs assessment | Claude.ai Projects |
@@ -63,7 +63,7 @@ The original vision and the L&D company direction are not different paths — th
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  PHASE 1: HUMAN-DELIVERED SAPIENCE (Now - Year 2)                       │
+│  PHASE 1: HUMAN-DELIVERED CALIBERPATH (Now - Year 2)                       │
 │  ───────────────────────────────────────────────────                    │
 │  • Founder-led coaching and workshops                                   │
 │  • Competency-informed curriculum design                                │
@@ -73,7 +73,7 @@ The original vision and the L&D company direction are not different paths — th
                                     │
                                     ▼
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  PHASE 2: TECHNOLOGY-AUGMENTED SAPIENCE (Year 2-3)                      │
+│  PHASE 2: TECHNOLOGY-AUGMENTED CALIBERPATH (Year 2-3)                      │
 │  ─────────────────────────────────────────────────                      │
 │  • Online learning platform with competency tracking                    │
 │  • Automated intake → AI-assisted routing → human coaching              │
@@ -83,7 +83,7 @@ The original vision and the L&D company direction are not different paths — th
                                     │
                                     ▼
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  PHASE 3: AI-NATIVE SAPIENCE (Year 3+)                                  │
+│  PHASE 3: AI-NATIVE CALIBERPATH (Year 3+)                                  │
 │  ─────────────────────────────────────                                  │
 │  • The original vision realized                                         │
 │  • AI-augmented personal development at scale                           │
@@ -97,7 +97,7 @@ The original vision and the L&D company direction are not different paths — th
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                           SAPIENCE UNIFIED SYSTEM                            │
+│                           CALIBERPATH UNIFIED SYSTEM                            │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │  ┌─────────────────────────────────────────────────────────────────────┐    │
@@ -240,7 +240,7 @@ coaching_focus_areas:
   - "Strategic career planning"
 ```
 
-### Priority 3: Define the "Sapience App/Site" Vision
+### Priority 3: Define the "CaliberPath App/Site" Vision
 
 **Question to Clarify**: What should the future application/website do?
 
@@ -250,7 +250,7 @@ Based on the origin vision and current direction, I see these potential features
 |---------|-------|-------------|
 | **Competency Explorer** | 2 | Public-facing browser of all competencies for career exploration |
 | **Self-Assessment Tool** | 2 | Users rate themselves on relevant competencies, get gap analysis |
-| **Learning Path Generator** | 2 | Based on gaps, recommends Sapience offerings or self-directed resources |
+| **Learning Path Generator** | 2 | Based on gaps, recommends CaliberPath offerings or self-directed resources |
 | **Intake Automation** | 2 | Digital intake forms with routing logic embedded |
 | **Client Portal** | 2 | Coaching clients track progress, access resources, schedule sessions |
 | **AI Coaching Assistant** | 3 | The original vision: AI-augmented ongoing support between human sessions |
@@ -259,12 +259,12 @@ Based on the origin vision and current direction, I see these potential features
 ### Priority 4: Repository Structure Optimization
 
 **Current State**: Repository has competencies but no formal linkage to:
-- Sapience offerings (Career Compass, Self-Mastery Workshop, etc.)
+- CaliberPath offerings (Career Compass, Self-Mastery Workshop, etc.)
 - Assessment instruments
 - Learning activities
 - Development resources
 
-**Enhancement**: Add metadata that connects competencies to Sapience delivery.
+**Enhancement**: Add metadata that connects competencies to CaliberPath delivery.
 
 ```yaml
 # Proposed enhancement to KSA YAML
@@ -273,8 +273,8 @@ ksa_id: purpose_articulation
 label: Purpose Articulation
 # ... existing fields ...
 
-# NEW: Sapience Integration Fields
-sapience_offerings:
+# NEW: CaliberPath Integration Fields
+caliberpath_offerings:
   - offering_id: career_compass_coaching
     relevance: primary
     session_focus: "Sessions 2-3: Vision & Purpose"
@@ -307,7 +307,7 @@ When you're ready to engage Claude Code with the repository, here are recommende
 ### Task 1: Repository Analysis & Documentation
 ```
 Prompt for Claude Code:
-"Analyze the Sapience repository structure. Generate a comprehensive 
+"Analyze the CaliberPath repository structure. Generate a comprehensive 
 inventory of all competencies organized by sector, including counts, 
 horizon distribution, and gap analysis for completeness."
 ```
@@ -324,7 +324,7 @@ and behavioral indicators suitable for inclusion in the L&D Handbook appendix."
 ```
 Prompt for Claude Code:
 "Create a JSON schema that maps B2C intake form dimensions to UPLS competencies, 
-including the routing logic for recommending Sapience offerings based on 
+including the routing logic for recommending CaliberPath offerings based on 
 self-assessment results."
 ```
 
@@ -345,11 +345,11 @@ Prompt for Claude Code:
 ### Month 1: Foundation Sync
 - [ ] Verify UPLS alignment between handbook and repository
 - [ ] Formalize intake form → competency mapping
-- [ ] Create master competency reference for Sapience materials
+- [ ] Create master competency reference for CaliberPath materials
 - [ ] Update handbook to reference repository as source of truth
 
 ### Month 2: Repository Enhancement
-- [ ] Add `sapience_offerings` metadata to UPLS competencies
+- [ ] Add `caliberpath_offerings` metadata to UPLS competencies
 - [ ] Create development activities linked to competencies
 - [ ] Add assessment methods to competency definitions
 - [ ] Build competency → learning objective generator
@@ -370,7 +370,7 @@ Prompt for Claude Code:
 
 ## PART VII: THE UNIFIED VISION STATEMENT
 
-Bringing it all together, Sapience is:
+Bringing it all together, CaliberPath is:
 
 > **A competency-powered learning and development ecosystem that bridges the gap between human potential and professional excellence.**
 
@@ -395,9 +395,9 @@ The pieces are all present. What's needed now is **integration execution**:
 1. **This project space** continues as strategic command center
 2. **GitHub repository** becomes the competency engine
 3. **Claude Code** builds the technical infrastructure
-4. **The Sapience brand** unifies service delivery and technology platform
+4. **The CaliberPath brand** unifies service delivery and technology platform
 
 You've built something comprehensive. The original vision wasn't abandoned — it was given a viable path to reality through the L&D company structure. Now the work is connecting the dots so every coaching session, every workshop, every assessment, and eventually every AI interaction is powered by the same competency foundation.
 
-Ready to begin integration? The first step I'd recommend is generating the formal UPLS Competency Reference Document that serves as the canonical source across all Sapience materials.
+Ready to begin integration? The first step I'd recommend is generating the formal UPLS Competency Reference Document that serves as the canonical source across all CaliberPath materials.
 

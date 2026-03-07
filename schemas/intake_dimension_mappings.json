@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "description": "Maps B2C and B2B intake form dimensions to UPLS competencies and Sapience offerings",
+  "description": "Maps B2C and B2B intake form dimensions to UPLS competencies and CaliberPath offerings",
   "b2c_dimensions": [
     {
       "dimension_id": "career_clarity",

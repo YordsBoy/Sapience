@@ -1,4 +1,4 @@
-# Sapience Strategic Direction
+# CaliberPath Strategic Direction
 
 **Architectural Context for Development**
 **Last Updated:** February 2026
@@ -8,17 +8,17 @@
 
 ## Executive Summary
 
-Sapience has evolved from its original conception as an AI-powered self-reflection platform into a Learning & Development (L&D) company that delivers human-led coaching, workshops, and consulting services. The competency framework (UPLS + 400+ technical KSAs) remains the core intellectual property, but the delivery model has shifted from AI-first to human-first with technology augmentation.
+CaliberPath has evolved from its original conception as an AI-powered self-reflection platform into a Learning & Development (L&D) company that delivers human-led coaching, workshops, and consulting services. The competency framework (UPLS + 400+ technical KSAs) remains the core intellectual property, but the delivery model has shifted from AI-first to human-first with technology augmentation.
 
 This document clarifies what is active, what is deferred, and how the codebase should be understood.
 
 ---
 
-## The Three Phases of Sapience
+## The Three Phases of CaliberPath
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  PHASE 1: HUMAN-DELIVERED SAPIENCE (CURRENT — 2026-2027)                    │
+│  PHASE 1: HUMAN-DELIVERED CALIBERPATH (CURRENT — 2026-2027)                    │
 │  ══════════════════════════════════════════════════════                     │
 │                                                                             │
 │  Business Model:                                                            │
@@ -39,7 +39,7 @@ This document clarifies what is active, what is deferred, and how the codebase s
                                       │
                                       ▼
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  PHASE 2: TECHNOLOGY-AUGMENTED SAPIENCE (PLANNED — 2027-2028)               │
+│  PHASE 2: TECHNOLOGY-AUGMENTED CALIBERPATH (PLANNED — 2027-2028)               │
 │  ═════════════════════════════════════════════════════════                  │
 │                                                                             │
 │  Business Model:                                                            │
@@ -62,7 +62,7 @@ This document clarifies what is active, what is deferred, and how the codebase s
                                       │
                                       ▼
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  PHASE 3: AI-NATIVE SAPIENCE (FUTURE — 2028+)                               │
+│  PHASE 3: AI-NATIVE CALIBERPATH (FUTURE — 2028+)                               │
 │  ════════════════════════════════════════════                               │
 │                                                                             │
 │  Business Model:                                                            │
@@ -131,7 +131,7 @@ These capabilities need to be developed for the technology-augmented phase:
 | Digital Intake Forms | B2C and B2B intake as web forms | HIGH |
 | Competency Self-Assessment | Users rate themselves on relevant KSAs | HIGH |
 | Gap Analysis Visualizer | Shows competency gaps vs. goals | HIGH |
-| Learning Path Generator | Recommends Sapience offerings based on gaps | MEDIUM |
+| Learning Path Generator | Recommends CaliberPath offerings based on gaps | MEDIUM |
 | Client Portal | Progress tracking, resource access, scheduling | MEDIUM |
 | Coach Dashboard | Client overview, session notes, competency tracking | MEDIUM |
 | Assessment Engine | Formal pre/post assessments tied to programs | MEDIUM |
@@ -153,7 +153,7 @@ These components were built for the SaaS model and may need reconfiguration:
 
 ## UPLS Framework — The Core Methodology
 
-The **Universal Professional, Leadership, and Self-Mastery (UPLS)** competency framework is Sapience's signature methodology. It consists of:
+The **Universal Professional, Leadership, and Self-Mastery (UPLS)** competency framework is CaliberPath's signature methodology. It consists of:
 
 ### Universal Professional Competencies (15)
 
@@ -208,7 +208,7 @@ Internal capabilities for personal excellence:
 
 ---
 
-## Sapience Offerings (Phase 1)
+## CaliberPath Offerings (Phase 1)
 
 ### B2C Services
 
@@ -281,7 +281,7 @@ Internal capabilities for personal excellence:
 ### Suggested Restructure
 
 ```
-Sapience/
+CaliberPath/
 ├── CLAUDE.md                    # Claude Code context (create after this doc)
 ├── README.md                    # REWRITE for L&D company positioning
 ├── content/
@@ -310,7 +310,7 @@ The `flows/` directory should be moved to `_archive/phase3_ai_companion/` with a
 ```markdown
 # Phase 3 Archive — AI Companion System
 
-This directory contains the original AI companion design for Sapience.
+This directory contains the original AI companion design for CaliberPath.
 These features are DEFERRED until Phase 3 (2028+).
 
 ## Contents

@@ -1,6 +1,6 @@
-# Sapience
+# CaliberPath
 
-**Sapience** is a Learning & Development company that transforms individuals and organizations through competency-based coaching, training, and consulting. Our methodology is powered by the **UPLS Framework** — a comprehensive competency architecture spanning Universal Professional skills, Leadership capabilities, and Self-Mastery attributes.
+**CaliberPath** is a Learning & Development company that transforms individuals and organizations through competency-based coaching, training, and consulting. Our methodology is powered by the **UPLS Framework** — a comprehensive competency architecture spanning Universal Professional skills, Leadership capabilities, and Self-Mastery attributes.
 
 ---
 
@@ -69,10 +69,10 @@ Beyond UPLS, our repository contains **400+ sector-specific technical competenci
 
 ## Repository Structure
 
-This repository contains Sapience's competency database and supporting tools:
+This repository contains CaliberPath's competency database and supporting tools:
 
 ```
-Sapience/
+CaliberPath/
 ├── content/
 │   └── Individual_KSAs/           # Competency definitions
 │       ├── general/               # Universal Professional (15)
@@ -135,8 +135,8 @@ proficiency_levels:
 
 ### Installation
 ```bash
-git clone https://github.com/YordsBoy/Sapience.git
-cd Sapience
+git clone https://github.com/YordsBoy/CaliberPath.git
+cd CaliberPath
 npm install
 ```
 
@@ -179,7 +179,7 @@ npm install
 
 ## Philosophy
 
-Sapience exists to make professional development accessible, rigorous, and transformative. We believe:
+CaliberPath exists to make professional development accessible, rigorous, and transformative. We believe:
 
 - **Everyone deserves access to quality development** — not just those in large corporations
 - **Competencies create clarity** — knowing what "good" looks like enables growth
@@ -190,7 +190,7 @@ Sapience exists to make professional development accessible, rigorous, and trans
 
 ## Project Status
 
-Sapience is in **Phase 1: Human-Delivered Services**. 
+CaliberPath is in **Phase 1: Human-Delivered Services**. 
 
 We are establishing our coaching and training practice while maintaining and expanding the competency database. Technology-augmented delivery (Phase 2) and AI-native features (Phase 3) are planned for future development.
 
@@ -205,13 +205,13 @@ This repository is in active development. Key guidelines:
 - Follow existing file structures and naming conventions
 - Run validation before committing KSA changes
 - Reference `docs/STRATEGIC_DIRECTION.md` for development priorities
-- See `docs/sapience-dev_contributor-guide.md` for detailed guidance
+- See `docs/caliberpath-dev_contributor-guide.md` for detailed guidance
 
 ---
 
 ## License
 
-This project is currently **UNLICENSED**. The competency content and methodology are proprietary to Sapience. Forks for personal learning are welcome; commercial use requires written consent.
+This project is currently **UNLICENSED**. The competency content and methodology are proprietary to CaliberPath. Forks for personal learning are welcome; commercial use requires written consent.
 
 ---
 
@@ -222,4 +222,4 @@ This project is currently **UNLICENSED**. The competency content and methodology
 
 ---
 
-*Sapience: Competency-powered development for individuals and organizations.*
+*CaliberPath: Competency-powered development for individuals and organizations.*

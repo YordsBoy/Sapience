@@ -1,6 +1,6 @@
 # Sector-by-Sector Detailed Findings
 
-**Companion to:** Sapience_KSA_Comprehensive_Audit_Report.md  
+**Companion to:** CaliberPath_KSA_Comprehensive_Audit_Report.md  
 **Purpose:** Granular findings per sector not fully enumerated in main report
 
 ---
@@ -106,7 +106,7 @@
 | `pedagogy_design/classroom_management_learner_engagement.md` | "behaviour" | 🟡 UK spelling |
 | `README.md` | "behaviour" in PBIS reference | 🟡 UK spelling |
 
-**Coverage Assessment:** Excellent alignment with Sapience L&D methodology.
+**Coverage Assessment:** Excellent alignment with CaliberPath L&D methodology.
 
 ### Administrative Support Services (22 KSAs)
 
@@ -365,7 +365,7 @@ proficiency_levels:
 
 ### 4.2 Watch_2030 KSAs (Future-Oriented)
 
-**Rationale:** Position Sapience as forward-looking; useful for thought leadership content.
+**Rationale:** Position CaliberPath as forward-looking; useful for thought leadership content.
 
 **Candidates for watch_2030 horizon:**
 - Quantum computing literacy

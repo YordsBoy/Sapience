@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Sapience Intake Mapping Schema",
+  "title": "CaliberPath Intake Mapping Schema",
   "description": "Maps intake form dimensions to UPLS and sector-specific competencies with artifact evidence support",
   "version": "1.0.0",
   "definitions": {

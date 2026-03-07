@@ -8,11 +8,11 @@
 
 ## Overview
 
-This directory contains the original AI companion design for Sapience — a sophisticated system for AI-guided self-reflection, emotional intelligence, and ongoing personal development support.
+This directory contains the original AI companion design for CaliberPath — a sophisticated system for AI-guided self-reflection, emotional intelligence, and ongoing personal development support.
 
 **This content is preserved for future development but is not a current priority.**
 
-Sapience has evolved into an L&D company delivering human-led coaching, training, and consulting services. The AI companion features represent the long-term vision (Phase 3) that will be built upon the foundation established in Phase 1 (human-delivered services) and Phase 2 (technology-augmented delivery).
+CaliberPath has evolved into an L&D company delivering human-led coaching, training, and consulting services. The AI companion features represent the long-term vision (Phase 3) that will be built upon the foundation established in Phase 1 (human-delivered services) and Phase 2 (technology-augmented delivery).
 
 ---
 
@@ -157,13 +157,13 @@ From the founding conversations:
 
 > *"How do I make this power legible, safe, and useful for the people in my community who never got taught how to dream in code?"*
 
-This vision remains core to Sapience's mission. The phased approach ensures we build it on a sustainable foundation.
+This vision remains core to CaliberPath's mission. The phased approach ensures we build it on a sustainable foundation.
 
 ---
 
 ## Contact
 
-Questions about this archive or Phase 3 planning should be directed to the Sapience founder or discussed in the strategic planning context (Claude.ai Projects).
+Questions about this archive or Phase 3 planning should be directed to the CaliberPath founder or discussed in the strategic planning context (Claude.ai Projects).
 
 ---
 

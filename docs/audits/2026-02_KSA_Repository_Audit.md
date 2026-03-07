@@ -1,4 +1,4 @@
-# Sapience KSA Repository Comprehensive Audit Report
+# CaliberPath KSA Repository Comprehensive Audit Report
 
 **Audit Date:** February 2026  
 **Auditor:** Claude (Instructional Design Specialist)  
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-This audit reviewed the entire Sapience KSA repository against quality standards for:
+This audit reviewed the entire CaliberPath KSA repository against quality standards for:
 - American English spelling (vs. UK English)
 - Acronym first-use expansion
 - YAML schema compliance
@@ -344,7 +344,7 @@ Per `HORIZON_POLICY.md`, valid values are:
 
 | Document | Status | Notes |
 |----------|--------|-------|
-| Sapience L&D Handbook UPLS list | ✅ Aligned | All 45 competencies present |
+| CaliberPath L&D Handbook UPLS list | ✅ Aligned | All 45 competencies present |
 | B2C Intake Form dimensions | ⚠️ Needs mapping | No formal mapping schema exists |
 | B2B Intake Form sectors | ⚠️ Partial | Technical sectors cover most industries |
 

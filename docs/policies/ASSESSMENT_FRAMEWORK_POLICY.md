@@ -1,4 +1,4 @@
-# Sapience Assessment Framework Policy
+# CaliberPath Assessment Framework Policy
 
 **Version:** 1.0
 **Effective Date:** February 2026
@@ -8,7 +8,7 @@
 
 ## 1. Overview
 
-Sapience uses a multi-source assessment approach that triangulates:
+CaliberPath uses a multi-source assessment approach that triangulates:
 - Client self-assessment
 - Artifact evidence (resumes, transcripts, certifications, appraisals)
 - Coach observation and interview

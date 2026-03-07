@@ -216,4 +216,4 @@ O*NET® is a registered trademark of the U.S. Department of Labor.
 PMI® is a registered trademark of the Project Management Institute.  
 ISO® is a registered trademark of the International Organization for Standardization.  
 Situational Leadership® is a registered trademark of Leadership Studies, Inc.  
-Sapience is not endorsed by or affiliated with these organizations, SFIA®, or SHRM BASK®.
+CaliberPath is not endorsed by or affiliated with these organizations, SFIA®, or SHRM BASK®.

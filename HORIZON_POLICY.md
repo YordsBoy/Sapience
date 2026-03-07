@@ -1,6 +1,6 @@
 # Horizon Policy
 
-This policy standardises how Sapience assigns and maintains **horizon tiers** for every KSA so the taxonomy stays evergreen and unambiguous.
+This policy standardises how CaliberPath assigns and maintains **horizon tiers** for every KSA so the taxonomy stays evergreen and unambiguous.
 
 ---
 

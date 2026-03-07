@@ -2,7 +2,7 @@
 
 ## Sector Overview
 
-Universal Professional competencies represent the foundational knowledge, skills, and attributes that Sapience develops in all employees, clients, and learners regardless of industry or role. These 15 competencies form the “General” tier of the UPLS (Universal Professional, Leadership, Self-Mastery) framework. All are marked `perennial` because they remain relevant across career stages and economic cycles.
+Universal Professional competencies represent the foundational knowledge, skills, and attributes that CaliberPath develops in all employees, clients, and learners regardless of industry or role. These 15 competencies form the “General” tier of the UPLS (Universal Professional, Leadership, Self-Mastery) framework. All are marked `perennial` because they remain relevant across career stages and economic cycles.
 
 ## Sub-domains
 

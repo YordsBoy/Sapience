@@ -1,4 +1,4 @@
-# Sapience B2B Organizational Intake Form
+# CaliberPath B2B Organizational Intake Form
 ## Version 2.0 Specification
 
 **Document Status:** Specification for implementation
@@ -10,7 +10,7 @@
 
 ## DATA PRIVACY NOTICE (Form Header)
 
-> *Sapience is committed to protecting your organization's information. Data collected through this form is used solely to understand your needs, develop tailored solutions, and deliver agreed services. We do not share client information with third parties without explicit consent. For questions, contact [privacy@sapienceld.com].*
+> *CaliberPath is committed to protecting your organization's information. Data collected through this form is used solely to understand your needs, develop tailored solutions, and deliver agreed services. We do not share client information with third parties without explicit consent. For questions, contact [privacy@caliberpathld.com].*
 
 ---
 
@@ -101,7 +101,7 @@
 
 ### B2. Competency Development Priorities
 
-**Introduction text:** *"Sapience develops capabilities across three interconnected domains. Rate the importance of developing each category for this initiative (1 = Low, 5 = Critical)."*
+**Introduction text:** *"CaliberPath develops capabilities across three interconnected domains. Rate the importance of developing each category for this initiative (1 = Low, 5 = Critical)."*
 
 #### Professional Effectiveness (Universal Professional Competencies)
 
@@ -178,7 +178,7 @@
 | Technology platform | text | no | LMS, video platform, etc. |
 | Accessibility requirements | textarea | no | |
 | Preferred program duration | radio | yes | Single event / Multi-session series / Extended program / Ongoing |
-| Location preference | radio | yes | Client facility / Sapience venue / Offsite retreat / Virtual / Flexible |
+| Location preference | radio | yes | Client facility / CaliberPath venue / Offsite retreat / Virtual / Flexible |
 | Internal SMEs to contribute content? | radio | no | Yes / No |
 
 ### B7. Resources & Support
@@ -207,7 +207,7 @@
 
 | Document | Upload | Purpose |
 |----------|--------|---------|
-| Existing competency model or job profiles | File upload | Aligns Sapience content with your current framework |
+| Existing competency model or job profiles | File upload | Aligns CaliberPath content with your current framework |
 | Previous training evaluations or survey data | File upload | Reveals what has / hasn't worked |
 | Current performance review template | File upload | Shows how success is currently measured |
 | Employee engagement or survey results | File upload | Provides context on workforce needs |
@@ -220,8 +220,8 @@
 |-------|------|-------|
 | Document type | dropdown | Competency Model / Training Evaluation / Performance Template / Engagement Survey / Org Chart / Strategic Plan / Other |
 | Date of document | date | Approximate is fine |
-| Confidentiality level | radio | Internal use / Confidential (Sapience eyes only) / Restricted (summarize only, no copies) |
-| Notes | text | Anything Sapience should know about this document |
+| Confidentiality level | radio | Internal use / Confidential (CaliberPath eyes only) / Restricted (summarize only, no copies) |
+| Notes | text | Anything CaliberPath should know about this document |
 
 **Schema mapping:** Uploads populate `baseline_evidence.other_artifacts` in `intake_mapping_schema.json`.
 
@@ -252,7 +252,7 @@
 
 ### C3. Content & Materials Audit
 
-**Existing materials Sapience may leverage:**
+**Existing materials CaliberPath may leverage:**
 
 | Material Type | Available? |
 |--------------|-----------|
@@ -264,7 +264,7 @@
 | Onboarding materials | Yes / No |
 
 **Open fields:**
-- Materials Sapience should NOT contradict or must defer to (textarea)
+- Materials CaliberPath should NOT contradict or must defer to (textarea)
 - Branding / style requirements for deliverables (textarea)
 
 ### C4. Assessment & Evaluation Infrastructure
@@ -276,7 +276,7 @@
 - Self-assessment
 - Peer feedback
 - On-the-job performance metrics
-- Sapience to recommend
+- CaliberPath to recommend
 
 **Post-training reinforcement:**
 - Manager coaching conversations
@@ -285,7 +285,7 @@
 - Follow-up sessions
 - Digital reinforcement / microlearning
 - None planned
-- Sapience to recommend
+- CaliberPath to recommend
 
 **Open field:** Data systems available for impact measurement (textarea)
 
@@ -302,7 +302,7 @@
 
 | Field | Type | Notes |
 |-------|------|-------|
-| Degree of customization expected | radio | Off-the-shelf / Sapience program with org-specific examples / Significantly customized / Fully custom |
+| Degree of customization expected | radio | Off-the-shelf / CaliberPath program with org-specific examples / Significantly customized / Fully custom |
 | Integration with other organizational initiatives | textarea | |
 | Content ownership and usage rights expectations | textarea | |
 | Future scalability needs | textarea | Will this be repeated, expanded, licensed internally? |
@@ -321,12 +321,12 @@
 
 | Field | Type | Notes |
 |-------|------|-------|
-| Anything else Sapience should know? | textarea | |
+| Anything else CaliberPath should know? | textarea | |
 | Political dynamics, sensitivities, or landmines to be aware of? | textarea | Optional — confidential |
 
 ---
 
-## INTERNAL ROUTING GUIDE (Sapience Use Only)
+## INTERNAL ROUTING GUIDE (CaliberPath Use Only)
 
 ### Offering Routing Matrix
 

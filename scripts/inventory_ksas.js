@@ -206,7 +206,7 @@ const missingOptSection = missingOptionals.length === 0
 const report = `# KSA Inventory Report
 
 **Generated:** ${new Date().toUTCString()}
-**Repository:** Sapience
+**Repository:** CaliberPath
 
 ---
 

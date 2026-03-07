@@ -26,7 +26,7 @@ const horizonCategories = {
 };
 
 // Read the JSON file
-const filePath = '/workspaces/Sapience/schemas/master_ksa.json';
+const filePath = '/workspaces/CaliberPath/schemas/master_ksa.json';
 const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
 // Add horizon field to each KSA

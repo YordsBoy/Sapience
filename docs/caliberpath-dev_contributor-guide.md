@@ -1,7 +1,7 @@
-# 🤝 Contributing to Sapience
+# 🤝 Contributing to CaliberPath
 
 Welcome, builder of futures.  
-We’re glad you're considering contributing to Sapience, a platform designed to empower people toward their best, most self-directed selves.
+We’re glad you're considering contributing to CaliberPath, a platform designed to empower people toward their best, most self-directed selves.
 
 This guide will walk you through the expectations for contributing, how to get started, and how to collaborate effectively.
 
@@ -23,7 +23,7 @@ This guide will walk you through the expectations for contributing, how to get s
 
 2. **Clone the Repo**
 ```bash
-git clone https://github.com/yourusername/sapience.git
+git clone https://github.com/yourusername/caliberpath.git
 ```
 
 3. **Create a New Branch**
@@ -84,9 +84,9 @@ Before requesting a review, ensure:
 
 ---
 
-## 🔥 Sapience Tone and Culture
+## 🔥 CaliberPath Tone and Culture
 
-When you contribute, you become part of Sapience’s growth journey.  
+When you contribute, you become part of CaliberPath’s growth journey.  
 We value **clarity**, **kindness**, **relentless improvement**, and **deep accountability**.
 
 Come as a builder.  
@@ -104,7 +104,7 @@ Leave as part of a legacy.
 
 # ✨ Final Reminder
 
-Sapience isn’t just code — it's a bridge toward future self-mastery.  
+CaliberPath isn’t just code — it's a bridge toward future self-mastery.  
 Every commit you make should help lift others higher.
 
 Thank you for contributing. 🚀

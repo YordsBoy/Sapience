@@ -7,7 +7,7 @@
 #
 # Usage: bash scripts/fix_uk_spellings.sh
 
-CONTENT_DIR="/workspaces/Sapience/content"
+CONTENT_DIR="/workspaces/CaliberPath/content"
 FIXED=0
 
 fix() {

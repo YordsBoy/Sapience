@@ -8,7 +8,7 @@
 
 ## Summary
 
-The Sapience KSA repository has been audited and corrected for:
+The CaliberPath KSA repository has been audited and corrected for:
 - Schema compliance (sector casing, YAML parse errors, horizon values)
 - American English spelling standardization
 - Typo corrections
@@ -104,4 +104,4 @@ The Sapience KSA repository has been audited and corrected for:
 
 ---
 
-*Audit complete. Repository validated and ready for Sapience Phase 1 launch preparation.*
+*Audit complete. Repository validated and ready for CaliberPath Phase 1 launch preparation.*

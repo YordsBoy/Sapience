@@ -179,7 +179,7 @@ async function buildDocument() {
     new Paragraph({
       children: [
         new TextRun({
-          text: "© Sapience L&D. Competencies adapted from public-domain frameworks including U.S. OPM, O*NET (CC BY 4.0), and WEF. No source organization endorses these adaptations.",
+          text: "© CaliberPath L&D. Competencies adapted from public-domain frameworks including U.S. OPM, O*NET (CC BY 4.0), and WEF. No source organization endorses these adaptations.",
           italics: true,
           size: 18,
         }),
