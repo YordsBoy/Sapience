@@ -12,7 +12,7 @@ source_frameworks:
   - "Adapted from O*NET Work Style 'Initiative' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Completes assigned work promptly when asked.
+    indicator: Notices tasks or problems that fall outside assigned duties and reports observations to a supervisor without being asked.
   - level: Basic
     indicator: Volunteers for additional tasks; suggests small improvements to processes.
   - level: Intermediate

@@ -9,7 +9,7 @@ cluster_tags:
 description: >
   Rapidly acquires and applies new knowledge and skills to novel situations; reflects on experience to improve future performance.
 source_frameworks:
-  - "Adapted from Korn Ferry & O*NET 'Learning Strategies' (public-domain descriptions)"
+  - "Adapted from O*NET Work Style 'Learning Strategies' (USDOL/ETA, CC BY 4.0); conceptual alignment with organizational psychology literature on learning agility constructs (original CaliberPath wording)"
 proficiency_levels:
   - level: Awareness
     indicator: Seeks guidance and resources when faced with unfamiliar tasks.

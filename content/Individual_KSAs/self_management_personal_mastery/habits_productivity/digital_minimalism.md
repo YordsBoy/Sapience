@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Intentionally curates digital tools and information consumption to minimize distraction, maximize value, and support mental well-being.
 source_frameworks:
-  - "Concepts from Cal Newport’s digital-minimalism framework (publicly discussed)"
+  - "Conceptual alignment with Cal Newport’s digital minimalism framework (Newport, 2019; original CaliberPath wording)"
 proficiency_levels:
   - level: Awareness
     indicator: Notices impact of excessive notifications; silences non-urgent alerts.

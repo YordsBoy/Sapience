@@ -11,7 +11,7 @@ description: >
   Leads organizational change by communicating purpose, engaging stakeholders, and sustaining momentum through transition.
 source_frameworks:
   - "Informed by Prosci ADKAR Model principles (conceptual alignment)"
-  - "Aligned with Kotter's 8-Step Change Model (public domain concepts)"
+  - "Aligned with Kotter's 8-Step Change Model (conceptual alignment only; Kotter International)"
 proficiency_levels:
   - level: Awareness
     indicator: Supports change initiatives when directed; adapts personal work habits accordingly.

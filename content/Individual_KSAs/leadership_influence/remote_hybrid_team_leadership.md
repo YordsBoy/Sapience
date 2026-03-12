@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Leads geographically dispersed or schedule-flexible teams by creating clear norms, sustaining engagement, and fostering equity and performance across virtual and in-person contexts.
 source_frameworks:
-  - "Informed by MIT Sloan Management Review hybrid-leadership research (2025) and Gartner remote-work studies (publicly available)"
+  - "Informed by MIT Sloan Management Review hybrid-leadership research (2025; conceptual alignment only); aligned with Gartner remote-work research (conceptual alignment only; Gartner, Inc.)"
 proficiency_levels:
   - level: Awareness
     indicator: Uses basic collaboration tools (video, chat); attends virtual meetings on time; follows stated online etiquette.

@@ -15,11 +15,11 @@ proficiency_levels:
   - level: Awareness
     indicator: States team goals when prompted; understands the organization’s mission.
   - level: Basic
-    indicator: Articulates clear near-term objectives linked to broader goals; communicates enthusiasm for future possibilities.
+    indicator: Articulates clear near-term objectives linked to broader goals; describes potential future opportunities in team conversations to build shared direction.
   - level: Intermediate
     indicator: Synthesizes trends to craft an engaging multi-year vision; aligns team efforts with strategic priorities.
   - level: Advanced
-    indicator: Inspires cross-functional commitment to an ambitious vision; adjusts direction responsively to environmental changes.
+    indicator: Engages cross-functional stakeholders through structured vision-articulation sessions, explicitly linking each group's objectives to the organizational vision; adjusts strategic direction when environmental analysis indicates a revision is warranted.
   - level: Expert
     indicator: Shapes enterprise-wide or societal vision; influences external stakeholders and resources to realize long-range goals.
 ---

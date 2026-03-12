@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Builds alliances and collaborative networks among diverse stakeholders to achieve shared objectives.
 source_frameworks:
-  - "Based on stakeholder-analysis frameworks (public domain)"
-  - "Aligned with PMI stakeholder-engagement practices"
+  - "Aligned with stakeholder-analysis principles from OPM ECQ 'Building Coalitions' (public domain)"
+  - "Aligned with PMI stakeholder-engagement practices (PMBOK; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies key stakeholders; communicates project goals to them when directed.

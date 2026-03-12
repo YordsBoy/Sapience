@@ -9,8 +9,8 @@ cluster_tags:
 description: >
   Manages impulses and emotions, delaying gratification to pursue long-term goals and maintain constructive behavior under pressure.
 source_frameworks:
-  - "Informed by neuroscience-based self-discipline exercises (publicly available)"
-  - "Aligned with Baumeister ego-depletion research concepts"
+  - "Informed by behavioral self-regulation and implementation intention research (conceptual alignment; original CaliberPath wording)"
+  - "Aligned with Mischel's delayed-gratification research and Gollwitzer's implementation intention theory (Gollwitzer, 1999; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Pauses briefly before reacting when reminded.

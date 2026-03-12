@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Addresses and resolves disagreements constructively, fostering collaboration and maintaining positive relationships.
 source_frameworks:
-  - "Informed by Thomas-Kilmann Conflict Mode Instrument concepts (public domain)"
+  - "Informed by Thomas-Kilmann Conflict Mode Instrument concepts (conceptual alignment only; The Myers-Briggs Company)"
   - "Aligned with interest-based relational approach principles"
 proficiency_levels:
   - level: Awareness

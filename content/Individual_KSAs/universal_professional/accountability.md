@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Takes responsibility for actions, decisions, and results; upholds ethical standards and follows through on commitments.
 source_frameworks:
-  - "Based on O*NET Work Value 'Integrity' and USA OPM guidance (public domain)"
+  - "Aligned with OPM 'Integrity/Honesty' competency (public domain); conceptual alignment with O*NET Work Values 'Integrity' (USDOL/ETA, CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Acknowledges own errors when pointed out; meets basic deadlines with supervision.

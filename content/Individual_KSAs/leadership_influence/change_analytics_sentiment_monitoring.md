@@ -8,9 +8,9 @@ cluster_tags:
   - "Change Analytics"
   - "Sentiment Monitoring"
 description: >
-  Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programs; integrates dashboards with Prosci Change Scorecard metrics and AI-driven stakeholder insights.
+  Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programs; integrates dashboards with adoption-readiness metrics and AI-driven stakeholder insights.
 source_frameworks:
-  - "Prosci Change Scorecard metrics & AI Change-Management guidance"
+  - "Informed by change-management analytics frameworks and AI-assisted sentiment monitoring research (conceptual alignment only; original CaliberPath wording)"
   - "MIT Sloan 'How to Make Data Work Meaningful' & engagement analytics research (2025)"
   - "ResearchGate paper 'Change-Management Trends in the AI Modern World' (2024) – AI sentiment analytics use-cases"
 proficiency_levels:
@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Uses a pulse-survey tool to collect engagement scores; visualises trend lines against project milestones.
   - level: Intermediate
-    indicator: Connects surveys, Slack/Teams NLP sentiment, and HRIS turnover data; builds Prosci Change Scorecard dashboard.
+    indicator: Connects pulse surveys, messaging-platform NLP sentiment analysis, and HRIS turnover data; builds an integrated change-adoption dashboard tracking awareness, engagement, and resistance metrics across project milestones.
   - level: Advanced
     indicator: Trains ML models to predict adoption risk; segments interventions by persona; validates accuracy against post-go-live KPIs.
   - level: Expert

@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Examines one's thoughts, emotions, and behaviors to gain deeper self-understanding, informing intentional growth and improved decision-making.
 source_frameworks:
-  - "Based on Schön’s reflective practice model (public domain concepts)"
+  - "Conceptual alignment with Schön’s reflective practice model (Schön, 1983; original CaliberPath wording)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes recent actions and feelings when prompted.

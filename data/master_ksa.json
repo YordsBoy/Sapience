@@ -53,7 +53,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Completes assigned tasks when prompted."
+        "indicator": "Identifies what motivates personal engagement with assigned work; names activities where self-directed effort comes easily."
       },
       {
         "level": "Basic",
@@ -65,7 +65,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Energizes others through example; sustains momentum on long-term projects."
+        "indicator": "Models sustained high-effort engagement visibly, prompting colleagues to maintain performance; communicates project milestones and progress narratives to sustain team momentum over time."
       },
       {
         "level": "Expert",
@@ -102,7 +102,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Demonstrates optimism in crises; guides teams in stress-management techniques."
+        "indicator": "Maintains forward-focused framing during crises by communicating near-term achievable steps; guides teams through structured stress-management techniques to restore performance."
       },
       {
         "level": "Expert",
@@ -121,7 +121,7 @@
     ],
     "description": "Demonstrates reliability, respectful conduct, appropriate appearance, and a commitment to ethical standards.\n",
     "source_frameworks": [
-      "Synthesized from widely accepted professional-conduct guidelines (public domain)"
+      "Aligned with OPM 'Interpersonal Skills,' 'Integrity/Honesty,' and 'Accountability' competency frameworks (public domain)"
     ],
     "proficiency_levels": [
       {
@@ -134,7 +134,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Represents the organization positively; handles confidential information responsibly."
+        "indicator": "Maintains composed, respectful conduct in client-facing and cross-organizational settings; handles confidential information responsibly by following applicable privacy and disclosure protocols."
       },
       {
         "level": "Advanced",
@@ -157,7 +157,7 @@
     ],
     "description": "Rapidly acquires and applies new knowledge and skills to novel situations; reflects on experience to improve future performance.\n",
     "source_frameworks": [
-      "Adapted from Korn Ferry & O*NET 'Learning Strategies' (public-domain descriptions)"
+      "Adapted from O*NET Work Style 'Learning Strategies' (USDOL/ETA, CC BY 4.0); conceptual alignment with organizational psychology literature on learning agility constructs (original CaliberPath wording)"
     ],
     "proficiency_levels": [
       {
@@ -198,7 +198,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Completes assigned work promptly when asked."
+        "indicator": "Notices tasks or problems that fall outside assigned duties and reports observations to a supervisor without being asked."
       },
       {
         "level": "Basic",
@@ -243,11 +243,11 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Regulates emotional reactions under stress; practices empathy to build rapport."
+        "indicator": "Regulates emotional reactions under stress; demonstrates empathy by actively listening and asking clarifying questions to understand others' emotional perspectives."
       },
       {
         "level": "Advanced",
-        "indicator": "Coaches others in emotional self-management; diffuses tense situations through skilled emotional insight."
+        "indicator": "Coaches others in emotional self-management; de-escalates tense situations by naming shared goals, acknowledging emotional stakes, and redirecting to productive problem-solving."
       },
       {
         "level": "Expert",
@@ -303,7 +303,7 @@
     ],
     "description": "Possesses fundamental computer and internet skills needed in most modern jobs; can operate a computer or smart device; understands basic cybersecurity practices (strong passwords, recognizing phishing) and can learn new software or systems with minimal guidance. Confidently uses digital tools, evaluates online information, and applies technology to solve problems and communicate effectively.\n",
     "source_frameworks": [
-      "Derived from EU DigComp framework (publicly released) and O*NET 'Computers & Electronics' knowledge"
+      "Derived from EU DigComp 2.2 framework (publicly released, EC JRC); adapted from O*NET Knowledge 'Computers and Electronics' (USDOL/ETA, CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -312,15 +312,15 @@
       },
       {
         "level": "Basic",
-        "indicator": "Performs essential digital tasks (i.e.uses documents, spreadsheets, presentations, and collaboration platforms) independently; manages file storage, retreival, and sharing securely; writes emails, fills online forms, follows security basics (doesn’t share passwords, runs antivirus if prompted)."
+        "indicator": "Performs essential digital tasks (i.e., uses documents, spreadsheets, presentations, and collaboration platforms) independently; manages file storage, retrieval, and sharing securely; writes emails, fills online forms, follows security basics (doesn’t share passwords, runs antivirus if prompted)."
       },
       {
         "level": "Intermediate",
-        "indicator": "Adapts to new software at work after some practice; uses collaborative tools (shared drives, video meetings) comfortably; troubleshoots minor issues (restart program, check internet) and seeks help appropriately for bigger problems; stays safe online (recognizes suspicious emails, uses multi-factor authentication)."
+        "indicator": "Adopts new workplace software and platforms independently, including AI-assisted tools for drafting, research, or data analysis; uses collaborative tools (shared drives, video meetings) effectively; troubleshoots minor technical issues and escalates larger problems appropriately; applies cybersecurity practices (recognizing phishing attempts, enabling multi-factor authentication)."
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates multiple digital tools to streamline workflows; customizes settings for efficiency and accessibility. Becomes the go-to person for basic IT help in a small team; quickly learns specialized software for a role; efficiently manages data (organizing files, using formulas in spreadsheets, etc.); proactively updates skills through online tutorials and aligns with frameworks like DigComp for well-rounded competency."
+        "indicator": "Integrates multiple digital tools — including AI productivity assistants and workflow automation platforms — to streamline processes and reduce manual effort; customizes tool settings for efficiency and accessibility; serves as digital resource and troubleshooter for teammates; efficiently manages complex data (organizing files, applying spreadsheet formulas, using database queries); proactively updates digital skills in response to emerging technologies."
       },
       {
         "level": "Expert",
@@ -524,7 +524,7 @@
     ],
     "description": "Takes responsibility for actions, decisions, and results; upholds ethical standards and follows through on commitments.\n",
     "source_frameworks": [
-      "Based on O*NET Work Value 'Integrity' and USA OPM guidance (public domain)"
+      "Aligned with OPM 'Integrity/Honesty' competency (public domain); conceptual alignment with O*NET Work Values 'Integrity' (USDOL/ETA, CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -11227,6 +11227,44 @@
     ]
   },
   {
+    "ksa_id": "micro_insurance_risk_sharing",
+    "label": "Micro-Insurance & Risk Sharing",
+    "category": "Technical",
+    "sector": "informal_gray_economy",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "Micro-Insurance",
+      "Risk Sharing"
+    ],
+    "description": "Accesses health, crop, and life micro-insurance via mobile platforms using International Association of Insurance Supervisors (IAIS) inclusive-insurance standards and index-based models.\n",
+    "source_frameworks": [
+      "IAIS Application Paper on Inclusive Insurance",
+      "GSMA Mobile Micro-Insurance Case Studies"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Defines premium, coverage, claim; lists providers."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Registers policy via USSD; pays premium; knows claim hotline."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Understands exclusions; bundles with micro-credit; tracks renewal."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Participates in group policy; analyses payout triggers; educates community."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Negotiates customised schemes; influences regulators; mentors agent network."
+      }
+    ]
+  },
+  {
     "ksa_id": "microenterprise_bootstrapping",
     "label": "Micro-Enterprise Bootstrapping",
     "category": "Technical",
@@ -11263,44 +11301,6 @@
       {
         "level": "Expert",
         "indicator": "Scales micro-enterprise clusters; coaches cluster; documents case studies; influences micro-finance design and local policy."
-      }
-    ]
-  },
-  {
-    "ksa_id": "micro_insurance_risk_sharing",
-    "label": "Micro-Insurance & Risk Sharing",
-    "category": "Technical",
-    "sector": "informal_gray_economy",
-    "horizon": "emerging",
-    "cluster_tags": [
-      "Micro-Insurance",
-      "Risk Sharing"
-    ],
-    "description": "Accesses health, crop, and life micro-insurance via mobile platforms using International Association of Insurance Supervisors (IAIS) inclusive-insurance standards and index-based models.\n",
-    "source_frameworks": [
-      "IAIS Application Paper on Inclusive Insurance",
-      "GSMA Mobile Micro-Insurance Case Studies"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Defines premium, coverage, claim; lists providers."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Registers policy via USSD; pays premium; knows claim hotline."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Understands exclusions; bundles with micro-credit; tracks renewal."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Participates in group policy; analyses payout triggers; educates community."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Negotiates customised schemes; influences regulators; mentors agent network."
       }
     ]
   },
@@ -16341,6 +16341,43 @@
       {
         "level": "Expert",
         "indicator": "Leads corporate‑wide GHG inventories; develops sector‑specific guidance; publishes peer‑reviewed LCA studies."
+      }
+    ]
+  },
+  {
+    "ksa_id": "direct_air_capture_operations_management",
+    "label": "Direct-Air Capture Operations Management",
+    "category": "Technical",
+    "sector": "Environmental_Energy_Advanced",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "Direct Air Capture",
+      "Carbon Removal"
+    ],
+    "description": "Runs solid-sorbent or liquid-solvent DAC systems; optimises energy-to-capture ratio; manages CO₂ conditioning and offtake for sequestration or utilisation.\n",
+    "source_frameworks": [
+      "DOE Carbon Negative Shot Roadmap 2025"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "States ppm CO₂ in air and basic DAC principles."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Operates skid-mounted DAC units; tracks fan and sorbent metrics."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Analyses energy penalties; schedules sorbent regeneration cycles."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Integrates waste-heat or renewable energy; negotiates CO₂ offtake."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads megaton DAC hub design; secures long-term credit finance."
       }
     ]
   },
@@ -21742,6 +21779,121 @@
     ]
   },
   {
+    "ksa_id": "minimal_cell_genome_engineering",
+    "label": "Whole-Genome Engineering & Minimal Cells",
+    "category": "Technical",
+    "sector": "biotechnology_synbio",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "Minimal Cell",
+      "Genome Engineering"
+    ],
+    "description": "Constructs and evolves minimal bacterial genomes (e.g., JCVI-syn 3B) and chassis organisms; applies large-scale DNA synthesis, genome transplantation, and evolutionary adaptation techniques for robust bioproduction.\n",
+    "source_frameworks": [
+      "Nature ‘Evolution of a Minimal Cell’ (2023)",
+      "JCVI Minimal Cell Workshop proceedings (2024)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Defines minimal genome and chassis organism concepts."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Performs multiplex genome-editing on non-essential gene clusters; confirms via PCR."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses yeast-based genome assembly and transplantation into Mycoplasma host; tracks fitness recovery."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs synthetic operons to add metabolic pathways; evaluates stability over 100+ generations."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads cross-lab minimal-cell standardisation; authors safety & biosecurity guidance for minimal genome release."
+      }
+    ]
+  },
+  {
+    "ksa_id": "biodesign_cad_tools",
+    "label": "Biodesign Computer‑Aided Design (CAD)",
+    "category": "Technical",
+    "sector": "biotechnology_synbio",
+    "horizon": "core",
+    "cluster_tags": [
+      "Synthetic Biology",
+      "CAD"
+    ],
+    "description": "Using biological CAD tools (Benchling, Geneious, SBOLDesigner) to model genetic circuits, metabolic pathways, and part libraries with version control and SBOL (Synthetic Biology Open Language) standards.",
+    "source_frameworks": [
+      "MIT iGEM Design Standards",
+      "SBOL 3.0 Specification"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Draws plasmid maps; annotates coding sequences; exports GenBank files."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Designs promoters/RBS parts; simulates restriction digests; tracks plasmid versions."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Models genetic logic gates; uses pathway flux analysis; collaborates via cloud CAD; applies in-silico validation of codon usage and metabolic burden."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Creates modular part libraries; integrates CAD with lab automation; validates part compatibility; links omics data for predictive modeling."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Develops novel CAD plugins; contributes to SBOL standards; publishes biodesign methodologies."
+      }
+    ]
+  },
+  {
+    "ksa_id": "ai_driven_protein_design",
+    "label": "AI‑Driven Protein Design & Engineering",
+    "category": "Technical",
+    "sector": "biotechnology_synbio",
+    "horizon": "emerging",
+    "cluster_tags": [
+      "Bioinformatics",
+      "AI"
+    ],
+    "description": "Utilises machine-learning models (e.g., AlphaFold, protein-language models) to predict structure–function relationships and design or optimize novel proteins and enzymes for therapeutics, industrial biocatalysis, or materials science.\n",
+    "source_frameworks": [
+      "DeepMind AlphaFold Papers (2023-25)",
+      "ONET 19-1029.01 Computational Biologist",
+      "Rosetta Commons Protein Design Protocols"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Generates homology models; interprets pLDDT scores; aligns sequences."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Runs an AI model to evaluate single-site mutations and assess confidence scores."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Designs variant libraries; fine-tunes models on lab datasets; prioritises candidates for wet-lab testing."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Integrates AI pipelines with directed-evolution experiments; optimizes enzymes or antibodies for stability and activity."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads cross-disciplinary teams creating de-novo proteins; develops new algorithms; publishes breakthroughs in AI-enabled protein engineering."
+      }
+    ]
+  },
+  {
     "ksa_id": "biosecurity_risk_management",
     "label": "Biosecurity & Risk Management",
     "category": "Technical",
@@ -21896,121 +22048,6 @@
       {
         "level": "Expert",
         "indicator": "Leads data‑science core; develops new computational methods; leads large-scale consortium analyses; publishes novel bioinformatics tools; shapes GA4GH policies."
-      }
-    ]
-  },
-  {
-    "ksa_id": "minimal_cell_genome_engineering",
-    "label": "Whole-Genome Engineering & Minimal Cells",
-    "category": "Technical",
-    "sector": "biotechnology_synbio",
-    "horizon": "emerging",
-    "cluster_tags": [
-      "Minimal Cell",
-      "Genome Engineering"
-    ],
-    "description": "Constructs and evolves minimal bacterial genomes (e.g., JCVI-syn 3B) and chassis organisms; applies large-scale DNA synthesis, genome transplantation, and evolutionary adaptation techniques for robust bioproduction.\n",
-    "source_frameworks": [
-      "Nature ‘Evolution of a Minimal Cell’ (2023)",
-      "JCVI Minimal Cell Workshop proceedings (2024)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Defines minimal genome and chassis organism concepts."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Performs multiplex genome-editing on non-essential gene clusters; confirms via PCR."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Uses yeast-based genome assembly and transplantation into Mycoplasma host; tracks fitness recovery."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Designs synthetic operons to add metabolic pathways; evaluates stability over 100+ generations."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Leads cross-lab minimal-cell standardisation; authors safety & biosecurity guidance for minimal genome release."
-      }
-    ]
-  },
-  {
-    "ksa_id": "biodesign_cad_tools",
-    "label": "Biodesign Computer‑Aided Design (CAD)",
-    "category": "Technical",
-    "sector": "biotechnology_synbio",
-    "horizon": "core",
-    "cluster_tags": [
-      "Synthetic Biology",
-      "CAD"
-    ],
-    "description": "Using biological CAD tools (Benchling, Geneious, SBOLDesigner) to model genetic circuits, metabolic pathways, and part libraries with version control and SBOL (Synthetic Biology Open Language) standards.",
-    "source_frameworks": [
-      "MIT iGEM Design Standards",
-      "SBOL 3.0 Specification"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Draws plasmid maps; annotates coding sequences; exports GenBank files."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Designs promoters/RBS parts; simulates restriction digests; tracks plasmid versions."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Models genetic logic gates; uses pathway flux analysis; collaborates via cloud CAD; applies in-silico validation of codon usage and metabolic burden."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Creates modular part libraries; integrates CAD with lab automation; validates part compatibility; links omics data for predictive modeling."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Develops novel CAD plugins; contributes to SBOL standards; publishes biodesign methodologies."
-      }
-    ]
-  },
-  {
-    "ksa_id": "ai_driven_protein_design",
-    "label": "AI‑Driven Protein Design & Engineering",
-    "category": "Technical",
-    "sector": "biotechnology_synbio",
-    "horizon": "emerging",
-    "cluster_tags": [
-      "Bioinformatics",
-      "AI"
-    ],
-    "description": "Utilises machine-learning models (e.g., AlphaFold, protein-language models) to predict structure–function relationships and design or optimize novel proteins and enzymes for therapeutics, industrial biocatalysis, or materials science.\n",
-    "source_frameworks": [
-      "DeepMind AlphaFold Papers (2023-25)",
-      "ONET 19-1029.01 Computational Biologist",
-      "Rosetta Commons Protein Design Protocols"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Generates homology models; interprets pLDDT scores; aligns sequences."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Runs an AI model to evaluate single-site mutations and assess confidence scores."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Designs variant libraries; fine-tunes models on lab datasets; prioritises candidates for wet-lab testing."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Integrates AI pipelines with directed-evolution experiments; optimizes enzymes or antibodies for stability and activity."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Leads cross-disciplinary teams creating de-novo proteins; develops new algorithms; publishes breakthroughs in AI-enabled protein engineering."
       }
     ]
   },
@@ -24966,7 +25003,7 @@
     ],
     "description": "Cultivates present-moment awareness through attention to breath, body sensations, or surroundings, enhancing emotional regulation and cognitive clarity.\n",
     "source_frameworks": [
-      "Based on Kabat-Zinn’s Mindfulness-Based Stress Reduction (public descriptions)"
+      "Conceptual alignment with Kabat-Zinn’s Mindfulness-Based Stress Reduction framework (Kabat-Zinn, 1990; original CaliberPath wording)"
     ],
     "proficiency_levels": [
       {
@@ -25003,16 +25040,16 @@
     ],
     "description": "Believes abilities can be developed through effort, feedback, and learning, embracing challenges and persisting after setbacks.\n",
     "source_frameworks": [
-      "Based on Carol Dweck’s growth-mindset research (widely cited public work)"
+      "Conceptual alignment with Dweck’s growth mindset theory (Dweck, 2006; original CaliberPath wording)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Acknowledges that skills can improve with practice."
+        "indicator": "Recognises specific skill areas where personal improvement has occurred through prior effort and practice; does not yet consistently apply growth-oriented learning strategies without external prompting."
       },
       {
         "level": "Basic",
-        "indicator": "Seeks feedback; views mistakes as learning opportunities."
+        "indicator": "Actively requests feedback from supervisors or peers after completing a task; identifies at least one specific adjustment to make based on an error or failure, rather than simply moving on."
       },
       {
         "level": "Intermediate",
@@ -25040,7 +25077,7 @@
     ],
     "description": "Acts on ethical convictions despite fear of negative consequences, defending principles and others who may be at risk.\n",
     "source_frameworks": [
-      "Adapted from public-domain leadership-ethics literature"
+      "Conceptual alignment with leadership ethics literature and public-domain guidance from OPM 'Integrity/Honesty' competency framework (public domain); original CaliberPath wording"
     ],
     "proficiency_levels": [
       {
@@ -25114,7 +25151,7 @@
     ],
     "description": "Examines moral dilemmas, applies ethical principles, and justifies decisions that align with personal and organizational values.\n",
     "source_frameworks": [
-      "Rest’s Four-Component Model of Moral Behavior (public summaries)"
+      "Conceptual alignment with Rest’s Four-Component Model of Moral Behavior (Rest, 1983; original CaliberPath wording)"
     ],
     "proficiency_levels": [
       {
@@ -25150,8 +25187,8 @@
     ],
     "description": "Manages impulses and emotions, delaying gratification to pursue long-term goals and maintain constructive behavior under pressure.\n",
     "source_frameworks": [
-      "Informed by neuroscience-based self-discipline exercises (publicly available)",
-      "Aligned with Baumeister ego-depletion research concepts"
+      "Informed by behavioral self-regulation and implementation intention research (conceptual alignment; original CaliberPath wording)",
+      "Aligned with Mischel's delayed-gratification research and Gollwitzer's implementation intention theory (Gollwitzer, 1999; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -25188,8 +25225,8 @@
     ],
     "description": "Deliberately maintains deep focus on priority tasks, minimizes distractions, and switches attention efficiently when goals change.   See also `deep_work_practice` for extended protocols on multi-hour distraction-free sessions.\n",
     "source_frameworks": [
-      "Guided by research on deep-work cycles (Cal Newport)",
-      "Attention-residue studies by Sophie Leroy"
+      "Conceptual alignment with Cal Newport's deep-work framework (Newport, 2016; original CaliberPath wording)",
+      "Informed by Leroy's attention-residue research (Leroy, 2009; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -25198,7 +25235,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Schedules focused blocks (e.g., 25-minute Pomodoro); limits notifications during work sessions."
+        "indicator": "Schedules focused work blocks (e.g., structured 25-minute intervals); limits notifications during work sessions."
       },
       {
         "level": "Intermediate",
@@ -25226,7 +25263,7 @@
     ],
     "description": "Examines one's thoughts, emotions, and behaviors to gain deeper self-understanding, informing intentional growth and improved decision-making.\n",
     "source_frameworks": [
-      "Based on Schön’s reflective practice model (public domain concepts)"
+      "Conceptual alignment with Schön’s reflective practice model (Schön, 1983; original CaliberPath wording)"
     ],
     "proficiency_levels": [
       {
@@ -25300,7 +25337,7 @@
     ],
     "description": "Defines and lives by an internally generated sense of values, purpose, and identity—rather than external scripts—guiding consistent, authentic actions.\n",
     "source_frameworks": [
-      "Kegan’s self-authorship theory (publicly summarized) and leadership-identity research"
+      "Conceptual alignment with Kegan’s constructive-developmental theory and self-authorship framework (Kegan, 1982, 1994; original CaliberPath wording); informed by leadership identity development research (conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -25317,7 +25354,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Leads others from a clear inner compass; adapts style while retaining authenticity."
+        "indicator": "Makes leadership decisions transparently by referencing stated personal values in team settings; flexes communication style and approach across diverse contexts while maintaining consistent underlying commitments."
       },
       {
         "level": "Expert",
@@ -25337,12 +25374,12 @@
     ],
     "description": "Identifies, clarifies, and communicates one’s overarching life or career purpose, aligning daily actions and goals with that intrinsic motivation.\n",
     "source_frameworks": [
-      "Based on self-determination theory and purpose-driven leadership research"
+      "Conceptual alignment with Deci and Ryan's self-determination theory (SDT; original CaliberPath wording); informed by purpose-driven leadership literature (conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Reflects on what feels meaningful; notes broad interests."
+        "indicator": "Lists domains, projects, or activities that feel engaging or important when prompted; identifies recurring patterns across personal moments of satisfaction or absorption."
       },
       {
         "level": "Basic",
@@ -25354,7 +25391,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Aligns major career or project choices with purpose; inspires others by sharing purpose-linked narratives."
+        "indicator": "Evaluates career or project opportunities against explicit purpose criteria before committing; shares personal purpose narratives in professional contexts in ways that prompt others to reflect on their own direction."
       },
       {
         "level": "Expert",
@@ -25374,7 +25411,7 @@
     ],
     "description": "Optimizes physical, mental, and emotional energy through routines of rest, nutrition, movement, and focused recovery to sustain high performance.\n",
     "source_frameworks": [
-      "Public-domain sports-science and workplace-energy research"
+      "Informed by occupational health and performance-energy cycle research (conceptual alignment; original CaliberPath wording); consistent with CDC/NIOSH workplace wellness guidance (public domain)"
     ],
     "proficiency_levels": [
       {
@@ -25391,7 +25428,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Tracks energy metrics (heart-rate variability, fatigue scores) to fine-tune routines; mentors colleagues on energy rituals."
+        "indicator": "Monitors personal energy patterns through structured daily check-ins or journaling; systematically adjusts sleep, nutrition, exercise, and work-scheduling routines based on observed performance patterns; mentors colleagues on designing personalized energy management practices."
       },
       {
         "level": "Expert",
@@ -25411,7 +25448,7 @@
     ],
     "description": "Intentionally curates digital tools and information consumption to minimize distraction, maximize value, and support mental well-being.\n",
     "source_frameworks": [
-      "Concepts from Cal Newport’s digital-minimalism framework (publicly discussed)"
+      "Conceptual alignment with Cal Newport’s digital minimalism framework (Newport, 2019; original CaliberPath wording)"
     ],
     "proficiency_levels": [
       {
@@ -25448,8 +25485,8 @@
     ],
     "description": "Schedules and protects extended blocks of distraction-free, cognitively demanding work to maximize learning, creativity, and throughput, and deliberately balances these sessions with restorative breaks.\n",
     "source_frameworks": [
-      "Cal Newport’s Deep Work framework (publicly summarized)",
-      "Sophie Leroy’s attention-residue research (public domain summaries)"
+      "Conceptual alignment with Cal Newport’s deep-work productivity framework (Newport, 2016; original CaliberPath wording)",
+      "Informed by Leroy’s attention-residue research (Leroy, 2009; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -25495,7 +25532,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Articulates clear near-term objectives linked to broader goals; communicates enthusiasm for future possibilities."
+        "indicator": "Articulates clear near-term objectives linked to broader goals; describes potential future opportunities in team conversations to build shared direction."
       },
       {
         "level": "Intermediate",
@@ -25503,7 +25540,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Inspires cross-functional commitment to an ambitious vision; adjusts direction responsively to environmental changes."
+        "indicator": "Engages cross-functional stakeholders through structured vision-articulation sessions, explicitly linking each group's objectives to the organizational vision; adjusts strategic direction when environmental analysis indicates a revision is warranted."
       },
       {
         "level": "Expert",
@@ -25516,7 +25553,7 @@
     "label": "Team Leadership & Collaboration",
     "category": "Leadership",
     "sector": "cross_sector",
-    "horizon": "core",
+    "horizon": "perennial",
     "cluster_tags": [
       "Team Leadership",
       "Collaboration"
@@ -25528,7 +25565,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes the importance of teamwork and respects input from all team members."
+        "indicator": "Listens to teammates' contributions during group work and meetings; completes assigned team tasks reliably without needing to be prompted to cooperate."
       },
       {
         "level": "Basic",
@@ -25634,8 +25671,8 @@
     ],
     "description": "Builds alliances and collaborative networks among diverse stakeholders to achieve shared objectives.\n",
     "source_frameworks": [
-      "Based on stakeholder-analysis frameworks (public domain)",
-      "Aligned with PMI stakeholder-engagement practices"
+      "Aligned with stakeholder-analysis principles from OPM ECQ 'Building Coalitions' (public domain)",
+      "Aligned with PMI stakeholder-engagement practices (PMBOK; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -25672,7 +25709,7 @@
     ],
     "description": "Leads geographically dispersed or schedule-flexible teams by creating clear norms, sustaining engagement, and fostering equity and performance across virtual and in-person contexts.\n",
     "source_frameworks": [
-      "Informed by MIT Sloan Management Review hybrid-leadership research (2025) and Gartner remote-work studies (publicly available)"
+      "Informed by MIT Sloan Management Review hybrid-leadership research (2025; conceptual alignment only); aligned with Gartner remote-work research (conceptual alignment only; Gartner, Inc.)"
     ],
     "proficiency_levels": [
       {
@@ -25931,7 +25968,7 @@
     ],
     "description": "Addresses and resolves disagreements constructively, fostering collaboration and maintaining positive relationships.\n",
     "source_frameworks": [
-      "Informed by Thomas-Kilmann Conflict Mode Instrument concepts (public domain)",
+      "Informed by Thomas-Kilmann Conflict Mode Instrument concepts (conceptual alignment only; The Myers-Briggs Company)",
       "Aligned with interest-based relational approach principles"
     ],
     "proficiency_levels": [
@@ -25970,7 +26007,7 @@
     "description": "Leads organizational change by communicating purpose, engaging stakeholders, and sustaining momentum through transition.\n",
     "source_frameworks": [
       "Informed by Prosci ADKAR Model principles (conceptual alignment)",
-      "Aligned with Kotter's 8-Step Change Model (public domain concepts)"
+      "Aligned with Kotter's 8-Step Change Model (conceptual alignment only; Kotter International)"
     ],
     "proficiency_levels": [
       {
@@ -26005,9 +26042,9 @@
       "Change Analytics",
       "Sentiment Monitoring"
     ],
-    "description": "Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programs; integrates dashboards with Prosci Change Scorecard metrics and AI-driven stakeholder insights.\n",
+    "description": "Applies data-science, natural-language-processing (NLP), and people-analytics techniques to quantify change readiness, track employee sentiment, and forecast adoption risks across transformation programs; integrates dashboards with adoption-readiness metrics and AI-driven stakeholder insights.\n",
     "source_frameworks": [
-      "Prosci Change Scorecard metrics & AI Change-Management guidance",
+      "Informed by change-management analytics frameworks and AI-assisted sentiment monitoring research (conceptual alignment only; original CaliberPath wording)",
       "MIT Sloan 'How to Make Data Work Meaningful' & engagement analytics research (2025)",
       "ResearchGate paper 'Change-Management Trends in the AI Modern World' (2024) – AI sentiment analytics use-cases"
     ],
@@ -26022,7 +26059,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Connects surveys, Slack/Teams NLP sentiment, and HRIS turnover data; builds Prosci Change Scorecard dashboard."
+        "indicator": "Connects pulse surveys, messaging-platform NLP sentiment analysis, and HRIS turnover data; builds an integrated change-adoption dashboard tracking awareness, engagement, and resistance metrics across project milestones."
       },
       {
         "level": "Advanced",

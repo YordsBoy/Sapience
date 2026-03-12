@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Cultivates present-moment awareness through attention to breath, body sensations, or surroundings, enhancing emotional regulation and cognitive clarity.
 source_frameworks:
-  - "Based on Kabat-Zinn’s Mindfulness-Based Stress Reduction (public descriptions)"
+  - "Conceptual alignment with Kabat-Zinn’s Mindfulness-Based Stress Reduction framework (Kabat-Zinn, 1990; original CaliberPath wording)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises moments of distraction; brings focus back to current activity.

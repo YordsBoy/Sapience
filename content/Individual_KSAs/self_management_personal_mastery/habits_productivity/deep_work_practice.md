@@ -12,8 +12,8 @@ description: >
   demanding work to maximize learning, creativity, and throughput, and
   deliberately balances these sessions with restorative breaks.
 source_frameworks:
-  - "Cal Newport’s Deep Work framework (publicly summarized)"
-  - "Sophie Leroy’s attention-residue research (public domain summaries)"
+  - "Conceptual alignment with Cal Newport’s deep-work productivity framework (Newport, 2016; original CaliberPath wording)"
+  - "Informed by Leroy’s attention-residue research (Leroy, 2009; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises that frequent context-switching harms concentration.

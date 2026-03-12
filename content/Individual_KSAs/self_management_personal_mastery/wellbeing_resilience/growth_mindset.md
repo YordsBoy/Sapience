@@ -10,12 +10,12 @@ cluster_tags:
 description: >
   Believes abilities can be developed through effort, feedback, and learning, embracing challenges and persisting after setbacks.
 source_frameworks:
-  - "Based on Carol Dweck’s growth-mindset research (widely cited public work)"
+  - "Conceptual alignment with Dweck’s growth mindset theory (Dweck, 2006; original CaliberPath wording)"
 proficiency_levels:
   - level: Awareness
-    indicator: Acknowledges that skills can improve with practice.
+    indicator: Recognises specific skill areas where personal improvement has occurred through prior effort and practice; does not yet consistently apply growth-oriented learning strategies without external prompting.
   - level: Basic
-    indicator: Seeks feedback; views mistakes as learning opportunities.
+    indicator: Actively requests feedback from supervisors or peers after completing a task; identifies at least one specific adjustment to make based on an error or failure, rather than simply moving on.
   - level: Intermediate
     indicator: Pursues stretch goals; reframes setbacks as data for improvement.
   - level: Advanced

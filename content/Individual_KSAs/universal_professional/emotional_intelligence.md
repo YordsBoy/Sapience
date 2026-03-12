@@ -17,9 +17,9 @@ proficiency_levels:
   - level: Basic
     indicator: Notices emotional cues in others; adjusts tone to maintain positive interactions.
   - level: Intermediate
-    indicator: Regulates emotional reactions under stress; practices empathy to build rapport.
+    indicator: Regulates emotional reactions under stress; demonstrates empathy by actively listening and asking clarifying questions to understand others' emotional perspectives.
   - level: Advanced
-    indicator: Coaches others in emotional self-management; diffuses tense situations through skilled emotional insight.
+    indicator: Coaches others in emotional self-management; de-escalates tense situations by naming shared goals, acknowledging emotional stakes, and redirecting to productive problem-solving.
   - level: Expert
     indicator: Embeds emotional-intelligence practices in organizational culture; mentors leaders in leveraging EI for strategy and change.
 ---

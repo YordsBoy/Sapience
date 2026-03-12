@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Examines moral dilemmas, applies ethical principles, and justifies decisions that align with personal and organizational values.
 source_frameworks:
-  - "Rest’s Four-Component Model of Moral Behavior (public summaries)"
+  - "Conceptual alignment with Rest’s Four-Component Model of Moral Behavior (Rest, 1983; original CaliberPath wording)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises when choices have ethical implications.

@@ -12,13 +12,13 @@ description: >
   See also `deep_work_practice` for extended protocols on multi-hour
   distraction-free sessions.
 source_frameworks:
-  - "Guided by research on deep-work cycles (Cal Newport)"
-  - "Attention-residue studies by Sophie Leroy"
+  - "Conceptual alignment with Cal Newport's deep-work framework (Newport, 2016; original CaliberPath wording)"
+  - "Informed by Leroy's attention-residue research (Leroy, 2009; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises common distractions; follows guidance to regain focus.
   - level: Basic
-    indicator: Schedules focused blocks (e.g., 25-minute Pomodoro); limits notifications during work sessions.
+    indicator: Schedules focused work blocks (e.g., structured 25-minute intervals); limits notifications during work sessions.
   - level: Intermediate
     indicator: Sustains 60- to 90-minute deep-work cycles; uses context-switch routines to prevent attention residue.
   - level: Advanced

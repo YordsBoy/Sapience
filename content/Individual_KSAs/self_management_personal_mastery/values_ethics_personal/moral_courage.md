@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Acts on ethical convictions despite fear of negative consequences, defending principles and others who may be at risk.
 source_frameworks:
-  - "Adapted from public-domain leadership-ethics literature"
+  - "Conceptual alignment with leadership ethics literature and public-domain guidance from OPM 'Integrity/Honesty' competency framework (public domain); original CaliberPath wording"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises instances where speaking up is necessary.

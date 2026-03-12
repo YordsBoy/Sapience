@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Uses coping strategies to remain effective during extended pressure; helps teammates regain focus after setbacks.
   - level: Advanced
-    indicator: Demonstrates optimism in crises; guides teams in stress-management techniques.
+    indicator: Maintains forward-focused framing during crises by communicating near-term achievable steps; guides teams through structured stress-management techniques to restore performance.
   - level: Expert
     indicator: Builds organizational resilience frameworks; leads cultural initiatives that normalize adaptive coping and recovery.
 ---
