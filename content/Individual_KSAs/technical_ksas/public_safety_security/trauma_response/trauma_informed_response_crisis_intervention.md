@@ -10,7 +10,7 @@ cluster_tags:
 description: Providing trauma‑informed, culturally competent crisis intervention and de‑escalation, utilizing CIT (Crisis Intervention Team) and Psychological First Aid (PFA) principles.
 source_frameworks:
   - "SAMHSA Trauma-Informed Care Framework"
-  - "CIT International Core Elements"
+  - "CIT International Core Elements Curriculum (CIT International; publicly available nonprofit professional association curriculum; conceptual alignment only)"
   - "WHO Psychological First Aid Guide"
 proficiency_levels:
   - level: Awareness
