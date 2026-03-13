@@ -13,7 +13,7 @@ source_frameworks:
   - "FAA UAS Facility Maps"
   - "DoD CUAS Strategy"
   - "DHS CISA Counter‑UAS Guidance"
-  - "ASTM F3325‑20 UAS Detection Standard"
+  - "ASTM F3325-20 Standard Guide for Unmanned Aircraft System (UAS) Detection (ASTM International; proprietary standard — purchase required; referenced for structural alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies UAS threats; recognizes detection technologies; observes legal constraints.

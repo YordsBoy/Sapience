@@ -9,9 +9,9 @@ cluster_tags:
   - "Systems Integration"
 description: Designing and integrating access‑control, CCTV, intrusion‑detection, and perimeter‑defense systems in accordance with ASIS Physical Asset Protection standards, ONVIF profiles, and UL 294.
 source_frameworks:
-  - "UL 294 Access Control Standard"
-  - "ONVIF Profile S/G"
-  - "ASIS Physical Asset Protection (PAP) Standard"
+  - "UL 294: Standard for Access Control System Units (UL; proprietary standard — purchase required; referenced for structural alignment only)"
+  - "ONVIF Profile S (Video Streaming) and Profile G (Recording and Search) (ONVIF; publicly available industry consortium interface specifications — free to access and implement)"
+  - "ASIS Physical Asset Protection (PAP) Standard (ASIS International; proprietary professional association standard — purchase required; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies security components; describes server vs cloud VMS; interprets basic floor plans; follows badge protocols.

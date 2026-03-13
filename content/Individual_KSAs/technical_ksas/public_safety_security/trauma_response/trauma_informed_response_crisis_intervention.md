@@ -14,7 +14,7 @@ source_frameworks:
   - "WHO Psychological First Aid Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognises trauma signs; recognizes triggers; uses person-centred language; uses calming voice; maintains safe distance.
+    indicator: Recognizes signs of acute trauma response in individuals (e.g., hypervigilance, dissociation, emotional dysregulation); identifies common trauma triggers in public safety contexts; describes the role of person-centered language and physical positioning in trauma-informed crisis interactions.
   - level: Basic
     indicator: Applies PFA steps; employs de‑escalation techniques; refers to services.
   - level: Intermediate

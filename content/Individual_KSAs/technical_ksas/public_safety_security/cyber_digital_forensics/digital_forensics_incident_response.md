@@ -9,8 +9,8 @@ cluster_tags:
   - "Forensics"
 description: Collecting, preserving, and analyzing digital evidence, conducting incident response, and testifying in court, aligning with NIST SP 800‑86 and SWGDE best practices.
 source_frameworks:
-  - "NIST SP 800-101"
-  - "SWGDE Digital Forensics Guidelines"
+  - "NIST SP 800-86 Rev. 1: Guide to Integrating Forensic Techniques into Incident Response (NIST; U.S. government work; public domain)"
+  - "SWGDE Digital and Multimedia Evidence Guidelines (Scientific Working Group for Digital Evidence; publicly available working group guidance; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Uses write blockers; documents chain‑of‑custody; captures volatile data; recognizes hash functions.

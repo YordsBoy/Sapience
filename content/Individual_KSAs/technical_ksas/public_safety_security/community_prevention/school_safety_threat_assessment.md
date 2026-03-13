@@ -10,9 +10,9 @@ cluster_tags:
 description: Establishing behavioral‑threat assessment teams, safety drills, and environmental design to prevent and respond to school violence, aligning with U.S. Secret Service NTAC guidance and ALICE protocols.
 source_frameworks:
   - "USSS NTAC School Safety Guide"
-  - "NASP PREPaRE Framework"
+  - "NASP PREPaRE School Crisis Prevention and Intervention Training Curriculum (National Association of School Psychologists; proprietary professional association training curriculum; conceptual alignment only)"
   - "USSS NTAC Threat Assessment Model"
-  - "ALICE Training Protocols"
+  - "ALICE Training Institute Active Threat Response Framework (ALICE Training Institute; proprietary trademarked training program; referenced as illustrative training methodology only)"
   - "CPTED for Schools"
 proficiency_levels:
   - level: Awareness
@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Applies NTAC 8‑step model; coordinates with law enforcement; documents plans; monitors progress.
   - level: Advanced
-    indicator: Implements multilayer security tech; conducts tabletop exercises; measures safety climate; tracks data; integrates mental-health services; reports metrics..
+    indicator: Implements multilayer security tech; conducts tabletop exercises; measures safety climate; tracks data; integrates mental-health services; reports metrics.
   - level: Expert
     indicator: Leads district‑wide safety strategies; influences state policy; publishes school‑safety research.
 ---

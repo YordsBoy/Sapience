@@ -12,11 +12,11 @@ description: >
   manages social media accounts for police/fire departments to share crime prevention tips and updates, operates public alert systems (e.g., SMS emergency alerts, apps) to inform citizens of emergencies or safety information, and engages with the community online to build trust and gather tips.  
 source_frameworks:
   - "DOJ COPS Digital Community Policing Guide"
-  - "PERF Social Media Toolkit"  
+  - "PERF Social Media and the Police Agency Toolkit (Police Executive Research Forum; publicly available nonprofit research organization guidance; conceptual alignment only)"
   - "FEMA IPAWS Alerting Best Practices"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands that police and public safety agencies use social media and text alerts to reach the community; has seen examples (Amber Alerts, Twitter announcements).  
+    indicator: Identifies examples of digital public safety communications including social media announcements and emergency alert systems (e.g., Wireless Emergency Alerts, community notification apps); describes the purpose of each channel in reaching citizens during non-emergency and emergency situations.
   - level: Basic  
     indicator: Posts basic updates or safety tips on official social media under supervision; responds politely to simple public inquiries online; assists in sending a pre-crafted alert via an established system; logs sentiment.  
   - level: Intermediate  

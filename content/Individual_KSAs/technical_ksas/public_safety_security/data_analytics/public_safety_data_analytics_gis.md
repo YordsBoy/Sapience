@@ -9,8 +9,8 @@ cluster_tags:
   - "GIS"
 description: Leveraging geospatial information systems (GIS), predictive analytics, and dashboards to guide resource deployment and crime‑reduction strategies.
 source_frameworks:
-  - "ESRI ArcGIS Pro ModelBuilder"
-  - "Esri ArcGIS Crime Analysis Standard"
+  - "Esri ArcGIS Pro ModelBuilder (Esri; commercial GIS software platform; conceptual alignment only — equivalent GIS platforms may demonstrate competency)"
+  - "Esri ArcGIS for Law Enforcement/Crime Analysis (Esri; commercial GIS software platform; conceptual alignment only — equivalent GIS and crime analysis platforms may demonstrate competency)"
   - "NIEM 5.0 Public-Safety Domain"
   - "NIJ CrimeStat IV"
   - "CompStat Methodology"

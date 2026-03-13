@@ -11,7 +11,7 @@ description: Leading multi‑agency response using the National Incident Managem
 source_frameworks:
   - "FEMA IS-100/IS-700 Courses"
   - "FEMA NIMS Doctrine"
-  - "NFPA 1561 Emergency Services Incident Management"
+  - "NFPA 1561: Standard on Emergency Services Incident Management System and Command Safety (National Fire Protection Association; proprietary standard — purchase required; referenced for structural alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines ICS roles; identifies common terminology; completes IS‑100 training; describes chain of command.

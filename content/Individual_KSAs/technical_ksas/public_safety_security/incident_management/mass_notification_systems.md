@@ -11,10 +11,10 @@ description: >
   Deploys Integrated Public Alert & Warning System (IPAWS) and Common Alerting Protocol (CAP) feeds for geo-targeted Wireless Emergency Alerts (WEA) and Emergency Alert System (EAS) messaging.
 source_frameworks:
   - "FEMA IPAWS Toolkit"
-  - "OASIS CAP v1.2 Standard"
+  - "OASIS Common Alerting Protocol (CAP) v1.2 (OASIS; publicly available open standard — free to implement and reference)"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists alert channels; aligns to FCC WEA rules.
+    indicator: Lists public alert and warning channels (e.g., Wireless Emergency Alerts, Emergency Alert System, IPAWS); identifies the FCC Wireless Emergency Alert rules governing message content, geographic targeting, and required channel activation.
   - level: Basic
     indicator: Drafts CAP template; performs quarterly RWT; documents logs.
   - level: Intermediate

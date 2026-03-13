@@ -11,8 +11,8 @@ description: Planning and managing crowd movement, egress, and emergency respons
 source_frameworks:
   - "NFPA 101 Life-Safety Code"
   - "NFPA 3000 ASHER Standard"
-  - "ISO 20121 Sustainable Events"
-  - "Purple Guide Crowd Management"
+  - "ISO 20121:2012 Event Sustainability Management Systems (ISO; proprietary standard — purchase required; referenced for structural alignment only)"
+  - "The Purple Guide to Health, Safety and Welfare at Music and Other Events (Events Industry Forum; publicly available UK industry guidance; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Calculates occupancy loads and safe egress; identifies crushing risk; identifies pinch points; posts evacuation maps.

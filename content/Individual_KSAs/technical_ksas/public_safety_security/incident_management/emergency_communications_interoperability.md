@@ -7,11 +7,11 @@ horizon: core
 cluster_tags:
   - "Interoperability"
   - "Communications"
-description: Establishing interoperable voice and data communications across agencies using APCO P25, LTE FirstNet, and NG911 interfaces; ensuring redundant pathways and plain-language protocols..
+description: Establishing interoperable voice and data communications across agencies using APCO P25, LTE FirstNet, and NG911 interfaces; ensuring redundant pathways and plain-language protocols.
 source_frameworks:
   - "DHS SAFECOM Interoperability Continuum"
   - "FirstNet Band 14 Operational Guidance"
-  - "APCO P25 Standards"
+  - "APCO P25 Digital Radio Standards (Association of Public Safety Communications Officials / TIA; publicly available interoperability standards suite; conceptual alignment only)"
   - "FirstNet Authority Roadmap"
 proficiency_levels:
   - level: Awareness

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Identifies and manages individuals on a pathway to violence at malls, transit, and events using NABITA & ATAP guidelines and National Behavioral Threat Assessment Center (NTAC) research.
 source_frameworks:
-  - "ATAP BTAM Model"
-  - "NABITA Threat Assessment Standards"
+  - "ATAP Behavioral Threat Assessment and Management Model (Association of Threat Assessment Professionals; proprietary professional association framework; conceptual alignment only)"
+  - "NABITA Threat Assessment Standards (National Association for Behavioral Intervention and Threat Assessment; proprietary professional association framework; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognizes concerning behaviors; documents observations.

@@ -4377,7 +4377,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognises trauma signs; recognizes triggers; uses person-centred language; uses calming voice; maintains safe distance."
+        "indicator": "Recognizes signs of acute trauma response in individuals (e.g., hypervigilance, dissociation, emotional dysregulation); identifies common trauma triggers in public safety contexts; describes the role of person-centered language and physical positioning in trauma-informed crisis interactions."
       },
       {
         "level": "Basic",
@@ -4409,9 +4409,9 @@
     ],
     "description": "Designing and integrating access‑control, CCTV, intrusion‑detection, and perimeter‑defense systems in accordance with ASIS Physical Asset Protection standards, ONVIF profiles, and UL 294.",
     "source_frameworks": [
-      "UL 294 Access Control Standard",
-      "ONVIF Profile S/G",
-      "ASIS Physical Asset Protection (PAP) Standard"
+      "UL 294: Standard for Access Control System Units (UL; proprietary standard — purchase required; referenced for structural alignment only)",
+      "ONVIF Profile S (Video Streaming) and Profile G (Recording and Search) (ONVIF; publicly available industry consortium interface specifications — free to access and implement)",
+      "ASIS Physical Asset Protection (PAP) Standard (ASIS International; proprietary professional association standard — purchase required; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -4492,7 +4492,7 @@
       "FAA UAS Facility Maps",
       "DoD CUAS Strategy",
       "DHS CISA Counter‑UAS Guidance",
-      "ASTM F3325‑20 UAS Detection Standard"
+      "ASTM F3325-20 Standard Guide for Unmanned Aircraft System (UAS) Detection (ASTM International; proprietary standard — purchase required; referenced for structural alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -4530,12 +4530,12 @@
     "description": "Deploys Integrated Public Alert & Warning System (IPAWS) and Common Alerting Protocol (CAP) feeds for geo-targeted Wireless Emergency Alerts (WEA) and Emergency Alert System (EAS) messaging.\n",
     "source_frameworks": [
       "FEMA IPAWS Toolkit",
-      "OASIS CAP v1.2 Standard"
+      "OASIS Common Alerting Protocol (CAP) v1.2 (OASIS; publicly available open standard — free to implement and reference)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists alert channels; aligns to FCC WEA rules."
+        "indicator": "Lists public alert and warning channels (e.g., Wireless Emergency Alerts, Emergency Alert System, IPAWS); identifies the FCC Wireless Emergency Alert rules governing message content, geographic targeting, and required channel activation."
       },
       {
         "level": "Basic",
@@ -4569,7 +4569,7 @@
     "source_frameworks": [
       "FEMA IS-100/IS-700 Courses",
       "FEMA NIMS Doctrine",
-      "NFPA 1561 Emergency Services Incident Management"
+      "NFPA 1561: Standard on Emergency Services Incident Management System and Command Safety (National Fire Protection Association; proprietary standard — purchase required; referenced for structural alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -4604,11 +4604,11 @@
       "Interoperability",
       "Communications"
     ],
-    "description": "Establishing interoperable voice and data communications across agencies using APCO P25, LTE FirstNet, and NG911 interfaces; ensuring redundant pathways and plain-language protocols..",
+    "description": "Establishing interoperable voice and data communications across agencies using APCO P25, LTE FirstNet, and NG911 interfaces; ensuring redundant pathways and plain-language protocols.",
     "source_frameworks": [
       "DHS SAFECOM Interoperability Continuum",
       "FirstNet Band 14 Operational Guidance",
-      "APCO P25 Standards",
+      "APCO P25 Digital Radio Standards (Association of Public Safety Communications Officials / TIA; publicly available interoperability standards suite; conceptual alignment only)",
       "FirstNet Authority Roadmap"
     ],
     "proficiency_levels": [
@@ -4648,8 +4648,8 @@
     "source_frameworks": [
       "NFPA 101 Life-Safety Code",
       "NFPA 3000 ASHER Standard",
-      "ISO 20121 Sustainable Events",
-      "Purple Guide Crowd Management"
+      "ISO 20121:2012 Event Sustainability Management Systems (ISO; proprietary standard — purchase required; referenced for structural alignment only)",
+      "The Purple Guide to Health, Safety and Welfare at Music and Other Events (Events Industry Forum; publicly available UK industry guidance; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -4686,7 +4686,7 @@
     ],
     "description": "Conducts Chemical-Biological-Radiological-Nuclear-Explosive (CBRNE) incident operations per NFPA 472/1072 and FEMA HAZMAT Technician competencies, including PPE selection, metering, mass-decon, and hot-zone command.\n",
     "source_frameworks": [
-      "NFPA 1072 Professional Qualifications",
+      "NFPA 1072: Standard for Hazardous Materials/Weapons of Mass Destruction Emergency Response Personnel Professional Qualifications (National Fire Protection Association; proprietary standard — purchase required; referenced for structural alignment only)",
       "FEMA HAZMAT Technician Curriculum"
     ],
     "proficiency_levels": [
@@ -4704,7 +4704,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Leads strike team; integrates WISER / HazMasterG3 data; liaises with federal assets."
+        "indicator": "Leads strike team; integrates chemical hazard reference tools (e.g., WISER, HazMasterG3) to guide response decisions; liaises with federal assets."
       },
       {
         "level": "Expert",
@@ -4724,8 +4724,8 @@
     ],
     "description": "Leveraging geospatial information systems (GIS), predictive analytics, and dashboards to guide resource deployment and crime‑reduction strategies.",
     "source_frameworks": [
-      "ESRI ArcGIS Pro ModelBuilder",
-      "Esri ArcGIS Crime Analysis Standard",
+      "Esri ArcGIS Pro ModelBuilder (Esri; commercial GIS software platform; conceptual alignment only — equivalent GIS platforms may demonstrate competency)",
+      "Esri ArcGIS for Law Enforcement/Crime Analysis (Esri; commercial GIS software platform; conceptual alignment only — equivalent GIS and crime analysis platforms may demonstrate competency)",
       "NIEM 5.0 Public-Safety Domain",
       "NIJ CrimeStat IV",
       "CompStat Methodology"
@@ -4765,8 +4765,8 @@
     ],
     "description": "Collecting, preserving, and analyzing digital evidence, conducting incident response, and testifying in court, aligning with NIST SP 800‑86 and SWGDE best practices.",
     "source_frameworks": [
-      "NIST SP 800-101",
-      "SWGDE Digital Forensics Guidelines"
+      "NIST SP 800-86 Rev. 1: Guide to Integrating Forensic Techniques into Incident Response (NIST; U.S. government work; public domain)",
+      "SWGDE Digital and Multimedia Evidence Guidelines (Scientific Working Group for Digital Evidence; publicly available working group guidance; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -4803,14 +4803,13 @@
     ],
     "description": "Coordinates response to cyber incidents (e.g., critical infrastructure hacks, ransomware affecting city services) from a public safety/emergency management perspective; works with IT/cyber experts, disseminates public information if needed, protects citizens’ data, and integrates cyber scenarios into disaster preparedness plans following frameworks like NIST or FEMA guidelines.  \n",
     "source_frameworks": [
-      "NIST SP 800-61 Rev 3",
-      "NIST Cybersecurity Incident Response Guide",
+      "NIST SP 800-61 Rev. 3: Computer Security Incident Handling Guide (NIST; U.S. government work; public domain)",
       "CISA Cyber Incident Playbook"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows that cyber attacks can cause public emergencies (e.g., power grid hack) and that responders might be involved; has heard of basic cybersecurity terms (hack, firewall)."
+        "indicator": "Identifies examples of cyber attacks that can cause public emergencies (e.g., ransomware affecting 911 dispatch systems, power grid intrusions); defines basic cybersecurity terms relevant to emergency response contexts, including malware, firewall, and incident response."
       },
       {
         "level": "Basic",
@@ -4843,9 +4842,9 @@
     "description": "Establishing behavioral‑threat assessment teams, safety drills, and environmental design to prevent and respond to school violence, aligning with U.S. Secret Service NTAC guidance and ALICE protocols.",
     "source_frameworks": [
       "USSS NTAC School Safety Guide",
-      "NASP PREPaRE Framework",
+      "NASP PREPaRE School Crisis Prevention and Intervention Training Curriculum (National Association of School Psychologists; proprietary professional association training curriculum; conceptual alignment only)",
       "USSS NTAC Threat Assessment Model",
-      "ALICE Training Protocols",
+      "ALICE Training Institute Active Threat Response Framework (ALICE Training Institute; proprietary trademarked training program; referenced as illustrative training methodology only)",
       "CPTED for Schools"
     ],
     "proficiency_levels": [
@@ -4863,7 +4862,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Implements multilayer security tech; conducts tabletop exercises; measures safety climate; tracks data; integrates mental-health services; reports metrics.."
+        "indicator": "Implements multilayer security tech; conducts tabletop exercises; measures safety climate; tracks data; integrates mental-health services; reports metrics."
       },
       {
         "level": "Expert",
@@ -4884,13 +4883,13 @@
     "description": "Utilizes digital platforms and tools to enhance community policing and public safety communication;   manages social media accounts for police/fire departments to share crime prevention tips and updates, operates public alert systems (e.g., SMS emergency alerts, apps) to inform citizens of emergencies or safety information, and engages with the community online to build trust and gather tips.  \n",
     "source_frameworks": [
       "DOJ COPS Digital Community Policing Guide",
-      "PERF Social Media Toolkit",
+      "PERF Social Media and the Police Agency Toolkit (Police Executive Research Forum; publicly available nonprofit research organization guidance; conceptual alignment only)",
       "FEMA IPAWS Alerting Best Practices"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands that police and public safety agencies use social media and text alerts to reach the community; has seen examples (Amber Alerts, Twitter announcements)."
+        "indicator": "Identifies examples of digital public safety communications including social media announcements and emergency alert systems (e.g., Wireless Emergency Alerts, community notification apps); describes the purpose of each channel in reaching citizens during non-emergency and emergency situations."
       },
       {
         "level": "Basic",
@@ -4922,8 +4921,8 @@
     ],
     "description": "Identifies and manages individuals on a pathway to violence at malls, transit, and events using NABITA & ATAP guidelines and National Behavioral Threat Assessment Center (NTAC) research.\n",
     "source_frameworks": [
-      "ATAP BTAM Model",
-      "NABITA Threat Assessment Standards"
+      "ATAP Behavioral Threat Assessment and Management Model (Association of Threat Assessment Professionals; proprietary professional association framework; conceptual alignment only)",
+      "NABITA Threat Assessment Standards (National Association for Behavioral Intervention and Threat Assessment; proprietary professional association framework; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
