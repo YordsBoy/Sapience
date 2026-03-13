@@ -11,6 +11,8 @@ This policy standardises how CaliberPath assigns and maintains **horizon tiers**
 | **Core** | Widely adopted capability in ≥ 40 % of relevant organisations and governed by mature international/national standards, certifications, or regulations. | ISO/IEEE/NIST/FAA standards; job-posting analytics. |
 | **Emerging** | Fast-growing capability with < 40 % adoption but strong signals in investment, R&D, or draft policy activity. | Venture-funding data; Gartner Hype-Cycle “Innovation Trigger / Early Adoption” stages. |
 | **Perennial** | Evergreen foundational skill set whose core concepts have remained stable ≥ 5 years and are expected to persist for the foreseeable future. | Foundational frameworks such as SFIA’s long-running core skills list; consistent ≥ 70 % job-adoption across ≥ 5 years. |
+| **Watch 2030** | Future-oriented capability expected to reach professional relevance by approximately 2030; insufficient current adoption or standards maturity for Core or Emerging classification, but credible forward signals warrant monitoring and early content development. | Foresight reports (McKinsey, WEF Future of Jobs); patent-filing trends; pre-standard working-group activity (e.g., ISO/IEC draft stages). |
+| **Peripheral** | Niche capability relevant to a narrow subset of roles, industries, or contexts; unlikely to achieve broad adoption but valuable for specialist populations within CaliberPath’s client base. | Sector-specific role analyses; low overall job-posting frequency but high criticality within target roles. |
 | **Legacy** | Competency in structural decline: adoption < 20 %, major standards withdrawn or superseded, and technology sunset underway. | Withdrawn ISO/ANSI standards; Gartner “Obsolete Plateau” notes; shrinking job demand. |
 
 *Rationale:* Tier names mirror common skill-framework practice, avoiding year-stamps that quickly date content.
@@ -23,6 +25,8 @@ This policy standardises how CaliberPath assigns and maintains **horizon tiers**
 |-----------|----------------------|-------------------------|
 | **Emerging → Core** | **Adoption** ≥ 50 % job-ads **and**<br>**Standards** ≥ 1 final standard/cert published **and**<br>**Maturity** exits Early-Adoption (e.g., TRL ≥ 8) | LinkedIn/EMSI analytics; ISO/FAA registers; NASA TRL docs. |
 | **Core → Perennial** | Skill has been **Core** ≥ 5 years **and**<br>Adoption ≥ 70 % **and**<br>Minimal change in underlying standards during that period | Long-term labour-market trend lines; standards stability check. |
+| **Watch 2030 → Emerging** | Credible adoption signals emerge (> 5 % market presence) **and**<br>At least one draft standard, certification pathway, or major employer adoption programme is active | Foresight report updates; early job-posting trends; standards-body working-group progress. |
+| **Peripheral → Emerging** | Niche capability shows breakout adoption beyond original specialist population **and**<br>Adoption signals cross the 5 % threshold in broader market | Cross-sector job-posting analytics; industry conference coverage expanding beyond niche. |
 | **Core/Emerging → Legacy** | Adoption < 20 % **or**<br>Key standards withdrawn **or**<br>Technology labelled obsolete on Hype Cycle | Withdrawal notices; Gartner “Obsolete Plateau”. |
 
 Borderline cases stay in their current tier and are re-evaluated next cycle.
