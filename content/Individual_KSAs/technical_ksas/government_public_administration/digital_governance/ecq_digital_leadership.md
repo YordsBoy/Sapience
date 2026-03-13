@@ -7,14 +7,14 @@ horizon: core
 cluster_tags:
   - "Leadership"
   - "Digital Transformation"
-description: Applying the U.S. Office of Personnel Management (OPM) Executive Core Qualifications (ECQ)—Leading Change, Leading People, Results Driven, Business Acumen, and Building Coalitions—in a digital‑government context that emphasizes agile delivery, data ethics, innvation, public value, and user‑centred services.
+description: Applying the U.S. Office of Personnel Management (OPM) Executive Core Qualifications (ECQ)—Leading Change, Leading People, Results Driven, Business Acumen, and Building Coalitions—in a digital‑government context that emphasizes agile delivery, data ethics, innovation, public value, and user‑centred services.
 source_frameworks:
   - "OPM Executive Core Qualifications"
   - "OECD Digital Government Policy Framework"
   - "Federal CIO Council Digital Services Playbook"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines each ECQ; recognizes agile terminology; understands executive‑order mandates for digital services.
+    indicator: Defines each of the five OPM Executive Core Qualifications; recognizes agile terminology in a government delivery context; identifies current executive-order mandates for digital services applicable to the practitioner's agency.
   - level: Basic
     indicator: Leads small cross‑functional digital projects; applies human‑centred design; communicates change vision.
   - level: Intermediate

@@ -13824,8 +13824,8 @@
     ],
     "description": "Coordinates policies and programs across federal, state, local, and tribal entities; fosters partnerships with civil society and industry to advance shared objectives.",
     "source_frameworks": [
-      "IAP2 Spectrum of Public Participation",
-      "National Governors Association Intergovernmental Handbook"
+      "IAP2 Spectrum of Public Participation (IAP2; publicly available professional association framework; conceptual alignment only)",
+      "National Governors Association Intergovernmental Relations Handbook (NGA; publicly available guidance from a U.S. nonprofit organization)"
     ],
     "proficiency_levels": [
       {
@@ -13842,7 +13842,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Coordinates multilevel governance on complex policy (e.g., climate); reports joint outcomes.; leads interagency task forces, secures co-funding agreements, and manages high-visibility consultations."
+        "indicator": "Coordinates multilevel governance on complex policy (e.g., climate); reports joint outcomes; leads interagency task forces, secures co-funding agreements, and manages high-visibility consultations."
       },
       {
         "level": "Expert",
@@ -13862,9 +13862,9 @@
     ],
     "description": "Plans, executes, and controls government projects using industry frameworks adapted for public-sector constraints, emphasizing value delivery, risk, and accountability.",
     "source_frameworks": [
-      "PMI PMBOK Guide 7th Edition",
-      "Prince2 Agile",
-      "gao:ScheduleAssessment"
+      "PMI PMBOK Guide 7th Edition (Project Management Institute; proprietary professional association publication — purchase required; conceptual alignment only)",
+      "PRINCE2 Agile (Axelos/PeopleCert; proprietary project management methodology — purchase required; conceptual alignment only)",
+      "GAO Schedule Assessment Guide: Best Practices for Project Schedules (U.S. Government Accountability Office; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -13907,7 +13907,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands the basic structure of government agencies and the fundamental steps in the policy-making process."
+        "indicator": "Describes the basic structure of government agencies; identifies the fundamental steps in the policy-making process from problem identification through legislative or regulatory enactment."
       },
       {
         "level": "Basic",
@@ -13940,13 +13940,13 @@
     "description": "Utilizes data analysis and evidence-based methods in policy development and public administration;   interprets data from open data portals, statistical reports, and smart city sensors to inform decisions, and measures policy outcomes with quantitative metrics.  \n",
     "source_frameworks": [
       "Open Data Charter Technical Tools",
-      "Esri ArcGIS Public-Policy Templates",
+      "Esri ArcGIS Public-Policy Templates (Esri; commercial GIS platform; conceptual alignment only)",
       "OECD Data-Driven Public Sector Framework"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands the concept of evidence-based policy and knows that data (surveys, statistics) can guide decisions; explains open-data licenses; recognizes Personally Identifiable Information (PII) safeguards."
+        "indicator": "Identifies evidence-based policy as the use of data to inform governmental decisions; explains open-data license types (e.g., Creative Commons); distinguishes Personally Identifiable Information (PII) from non-PII data in policy datasets."
       },
       {
         "level": "Basic",
@@ -13978,13 +13978,13 @@
     ],
     "description": "Designs and implements participatory-budgeting (PB) cycles, facilitating citizen idea generation, deliberation, voting, and transparent allocation in accordance with International Association for Public Participation (IAP2) standards.\n",
     "source_frameworks": [
-      "IAP2 Spectrum of Public Participation",
+      "IAP2 Spectrum of Public Participation (IAP2; publicly available professional association framework; conceptual alignment only)",
       "Participatory Budgeting Project Toolkit"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines PB stages; understands inclusion principles (gender, youth)."
+        "indicator": "Defines the stages of a participatory-budgeting cycle; describes inclusion principles ensuring equitable participation by gender, youth, and underrepresented groups."
       },
       {
         "level": "Basic",
@@ -14025,7 +14025,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies data sources; understands logic‑model basics; distinguishes outputs vs. outcomes."
+        "indicator": "Identifies data sources available for policy analysis; describes the purpose and components of a logic model; distinguishes outputs from outcomes in a program-evaluation context."
       },
       {
         "level": "Basic",
@@ -14058,9 +14058,9 @@
     "description": "Conducts rigorous policy research, impact assessments, and program evaluations to inform decision-making and improve public outcomes.",
     "source_frameworks": [
       "GAO Program Evaluation Guide",
-      "Campbell Collaboration Methodology",
+      "Campbell Collaboration Systematic Review Methodology (Campbell Collaboration; publicly available international research organization; conceptual alignment only)",
       "OECD Policy Toolkit",
-      "gaop:BlueBook"
+      "GAO Performance Measurement and Evaluation: Definitions and Relationships (GAO-11-646SP; U.S. Government Accountability Office; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -14097,8 +14097,8 @@
     ],
     "description": "Develops and implements performance frameworks, KPIs, and data-driven reviews to ensure programs deliver results aligned with strategic goals and statutory mandates.",
     "source_frameworks": [
-      "omb:A-136",
-      "baldrige:Gov",
+      "OMB Circular A-136: Financial Reporting Requirements (U.S. Office of Management and Budget; public domain)",
+      "Baldrige Excellence Framework — Government and Nonprofit Sector (NIST Baldrige Performance Excellence Program; public domain)",
       "OECD Results & Evaluation Glossary"
     ],
     "proficiency_levels": [
@@ -14137,8 +14137,8 @@
     "description": "Drafts statutes and regulations, navigates rulemaking procedures, and ensures alignment with administrative-law standards and oversight requirements.",
     "source_frameworks": [
       "OECD Regulatory-Policy Toolkit",
-      "gsa:RegGuide",
-      "oira:EO12866"
+      "GSA Regulatory Guidance for Federal Agencies (U.S. General Services Administration; public domain)",
+      "Executive Order 12866: Regulatory Planning and Review (U.S. federal government; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -14176,7 +14176,7 @@
     "description": "Structures, negotiates, and manages public-private partnerships (PPP) using World Bank PPP Reference Guide and International Project Finance Association (IPFA) best practices to deliver infrastructure and services.\n",
     "source_frameworks": [
       "World Bank PPP Reference Guide",
-      "IPFA Knowledge Hub"
+      "IPFA Knowledge Hub (International Project Finance Association; publicly available professional association resources; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -14213,14 +14213,14 @@
     ],
     "description": "Plans, allocates, and monitors public funds in compliance with statutory requirements and sound fiscal-management principles, supporting transparency and stewardship.",
     "source_frameworks": [
-      "omb:A-11",
-      "gao:RedBook",
-      "International Public Sector Accounting Standards (IPSAS)"
+      "OMB Circular A-11: Preparation, Submission, and Execution of the Budget (U.S. Office of Management and Budget; public domain)",
+      "GAO Principles of Federal Appropriations Law (Red Book) (U.S. Government Accountability Office; public domain)",
+      "International Public Sector Accounting Standards (IPSAS; IFAC International Public Sector Accounting Standards Board; select standards publicly available; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines budget classifications (economic, functional); distinguishes cash vs accrual; prepares basic cost estimates and understands the budget calendar."
+        "indicator": "Defines budget classification types (economic, functional); distinguishes cash-basis from accrual-basis accounting; prepares basic cost estimates; navigates the agency budget calendar to identify submission deadlines and review milestones."
       },
       {
         "level": "Basic",
@@ -14252,13 +14252,13 @@
     ],
     "description": "Executes end-to-end acquisition life-cycle activities—planning, solicitation, negotiation, administration, and closeout—ensuring best value, fairness, and compliance with the Federal Acquisition Regulation.",
     "source_frameworks": [
-      "far:Part15",
-      "ncma:CMBOK"
+      "Federal Acquisition Regulation (FAR) Part 15: Contracting by Negotiation (U.S. federal government; public domain)",
+      "NCMA Contract Management Body of Knowledge (National Contract Management Association; proprietary professional association publication — purchase required; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists procurement methods (open, restricted, negotiated); prepares purchase requests and understands micro-purchase thresholds."
+        "indicator": "Lists applicable procurement methods (open, restricted, negotiated); prepares purchase requests; identifies current micro-purchase thresholds applicable to the practitioner's acquisition authority."
       },
       {
         "level": "Basic",
@@ -14366,7 +14366,7 @@
     ],
     "description": "Oversees Internet of Things (IoT) deployments—traffic sensors, smart lighting—ensuring cybersecurity per International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 30141 architecture and National Institute of Standards and Technology (NIST) 800-213 IoT guidelines.\n",
     "source_frameworks": [
-      "ISO/IEC 30141 IoT Reference Architecture",
+      "ISO/IEC 30141 IoT Reference Architecture (ISO/IEC; proprietary standard — purchase required; referenced for structural alignment only)",
       "NIST 800-213 IoT-Device Cybersecurity"
     ],
     "proficiency_levels": [
@@ -14402,7 +14402,7 @@
       "Leadership",
       "Digital Transformation"
     ],
-    "description": "Applying the U.S. Office of Personnel Management (OPM) Executive Core Qualifications (ECQ)—Leading Change, Leading People, Results Driven, Business Acumen, and Building Coalitions—in a digital‑government context that emphasizes agile delivery, data ethics, innvation, public value, and user‑centred services.",
+    "description": "Applying the U.S. Office of Personnel Management (OPM) Executive Core Qualifications (ECQ)—Leading Change, Leading People, Results Driven, Business Acumen, and Building Coalitions—in a digital‑government context that emphasizes agile delivery, data ethics, innovation, public value, and user‑centred services.",
     "source_frameworks": [
       "OPM Executive Core Qualifications",
       "OECD Digital Government Policy Framework",
@@ -14411,7 +14411,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines each ECQ; recognizes agile terminology; understands executive‑order mandates for digital services."
+        "indicator": "Defines each of the five OPM Executive Core Qualifications; recognizes agile terminology in a government delivery context; identifies current executive-order mandates for digital services applicable to the practitioner's agency."
       },
       {
         "level": "Basic",
@@ -14486,7 +14486,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows common examples of digital government services (online tax filing, e-voting) and basic benefits (convenience, efficiency)."
+        "indicator": "Identifies common examples of digital government services (online tax filing, appointment booking, e-voting); describes basic benefits to citizens, including convenience, reduced processing time, and improved accessibility."
       },
       {
         "level": "Basic",
@@ -14519,7 +14519,7 @@
     "description": "Designs and manages open-data portals aligned with the OECD recommendation on Open Government and the Sunlight Foundation’s open-data guidelines, ensuring data quality, privacy, and community reuse.\n",
     "source_frameworks": [
       "OECD Recommendation on Open Government",
-      "Sunlight Foundation Open Data Policy Guidelines"
+      "Sunlight Foundation Open Data Policy Guidelines (Sunlight Foundation; publicly available nonprofit advocacy organization guidance; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -14594,9 +14594,9 @@
     ],
     "description": "Developing and maintaining Continuity of Operations (COOP) and Continuity of Government (COG) plans that ensure essential services, data integrity, and leadership succession during all‑hazards disruptions.",
     "source_frameworks": [
-      "ISO 31000:2018 Risk Management",
+      "ISO 31000:2018 Risk Management — Guidelines (ISO; proprietary standard — purchase required; referenced for structural alignment only)",
       "Federal Emergency Management Agency (FEMA) Continuity Guidance Circular",
-      "ISO 22301:2019 Business Continuity Management"
+      "ISO 22301:2019 Security and Resilience — Business Continuity Management Systems (ISO; proprietary standard — purchase required; referenced for structural alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -14633,7 +14633,7 @@
     ],
     "description": "Develops and tests continuity-of-operations plans (COOP) and incident-command structures in line with ISO 22301 Security & Resilience and FEMA National Incident Management System (NIMS) doctrines.\n",
     "source_frameworks": [
-      "ISO 22301:2019 Business Continuity Management",
+      "ISO 22301:2019 Security and Resilience — Business Continuity Management Systems (ISO; proprietary standard — purchase required; referenced for structural alignment only)",
       "FEMA NIMS 2022 Update"
     ],
     "proficiency_levels": [

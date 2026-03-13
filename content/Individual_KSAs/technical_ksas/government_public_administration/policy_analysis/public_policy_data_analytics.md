@@ -12,11 +12,11 @@ description: >
   interprets data from open data portals, statistical reports, and smart city sensors to inform decisions, and measures policy outcomes with quantitative metrics.  
 source_frameworks:
   - "Open Data Charter Technical Tools"
-  - "Esri ArcGIS Public-Policy Templates" 
+  - "Esri ArcGIS Public-Policy Templates (Esri; commercial GIS platform; conceptual alignment only)"
   - "OECD Data-Driven Public Sector Framework"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands the concept of evidence-based policy and knows that data (surveys, statistics) can guide decisions; explains open-data licenses; recognizes Personally Identifiable Information (PII) safeguards.
+    indicator: Identifies evidence-based policy as the use of data to inform governmental decisions; explains open-data license types (e.g., Creative Commons); distinguishes Personally Identifiable Information (PII) from non-PII data in policy datasets.
   - level: Basic
     indicator: Cleans CSV files; generates summary tables; retrieves basic datasets or reports (e.g., census data, budget figures) and uses them to create simple charts or summaries for a policy proposal.  
   - level: Intermediate  

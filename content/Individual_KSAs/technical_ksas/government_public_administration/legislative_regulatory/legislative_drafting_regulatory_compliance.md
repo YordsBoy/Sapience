@@ -10,8 +10,8 @@ cluster_tags:
 description: Drafts statutes and regulations, navigates rulemaking procedures, and ensures alignment with administrative-law standards and oversight requirements.
 source_frameworks:
   - "OECD Regulatory-Policy Toolkit"
-  - "gsa:RegGuide"
-  - "oira:EO12866"
+  - "GSA Regulatory Guidance for Federal Agencies (U.S. General Services Administration; public domain)"
+  - "Executive Order 12866: Regulatory Planning and Review (U.S. federal government; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies bill sections (preamble, clause, schedule); explains enabling vs subsidiary legislation; cites legal authorities and formats basic rule text accurately.

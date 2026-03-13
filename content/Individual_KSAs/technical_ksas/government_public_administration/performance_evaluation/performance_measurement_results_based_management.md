@@ -9,8 +9,8 @@ cluster_tags:
   - "RBM"
 description: Develops and implements performance frameworks, KPIs, and data-driven reviews to ensure programs deliver results aligned with strategic goals and statutory mandates.
 source_frameworks: 
-  - "omb:A-136"
-  - "baldrige:Gov"
+  - "OMB Circular A-136: Financial Reporting Requirements (U.S. Office of Management and Budget; public domain)"
+  - "Baldrige Excellence Framework — Government and Nonprofit Sector (NIST Baldrige Performance Excellence Program; public domain)"
   - "OECD Results & Evaluation Glossary"
 proficiency_levels:
   - level: Awareness

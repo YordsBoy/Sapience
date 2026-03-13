@@ -14,7 +14,7 @@ source_frameworks:
   - "UN E-Government Survey Best Practices"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Knows common examples of digital government services (online tax filing, e-voting) and basic benefits (convenience, efficiency).  
+    indicator: Identifies common examples of digital government services (online tax filing, appointment booking, e-voting); describes basic benefits to citizens, including convenience, reduced processing time, and improved accessibility.
   - level: Basic  
     indicator: Assists in updating agency websites or forms to be accessible online; responds to citizen inquiries via email or social media under guidance.  
   - level: Intermediate  

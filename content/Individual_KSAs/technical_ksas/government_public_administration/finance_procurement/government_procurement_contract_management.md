@@ -9,11 +9,11 @@ cluster_tags:
   - "Contract Management"
 description: Executes end-to-end acquisition life-cycle activities—planning, solicitation, negotiation, administration, and closeout—ensuring best value, fairness, and compliance with the Federal Acquisition Regulation.
 source_frameworks: 
-  - "far:Part15"
-  - "ncma:CMBOK"
+  - "Federal Acquisition Regulation (FAR) Part 15: Contracting by Negotiation (U.S. federal government; public domain)"
+  - "NCMA Contract Management Body of Knowledge (National Contract Management Association; proprietary professional association publication — purchase required; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists procurement methods (open, restricted, negotiated); prepares purchase requests and understands micro-purchase thresholds.
+    indicator: Lists applicable procurement methods (open, restricted, negotiated); prepares purchase requests; identifies current micro-purchase thresholds applicable to the practitioner's acquisition authority.
   - level: Basic
     indicator: Drafts request for proposal (RFP), sets evaluation criteria, drafts statements of work (SOW), evaluates bids, and maintains contract files.
   - level: Intermediate

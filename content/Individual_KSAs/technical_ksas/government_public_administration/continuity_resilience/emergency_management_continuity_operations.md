@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Develops and tests continuity-of-operations plans (COOP) and incident-command structures in line with ISO 22301 Security & Resilience and FEMA National Incident Management System (NIMS) doctrines.
 source_frameworks:
-  - "ISO 22301:2019 Business Continuity Management"
+  - "ISO 22301:2019 Security and Resilience — Business Continuity Management Systems (ISO; proprietary standard — purchase required; referenced for structural alignment only)"
   - "FEMA NIMS 2022 Update"
 proficiency_levels:
   - level: Awareness

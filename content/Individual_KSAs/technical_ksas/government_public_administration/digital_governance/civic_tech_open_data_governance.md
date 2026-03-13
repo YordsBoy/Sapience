@@ -12,7 +12,7 @@ description: >
   guidelines, ensuring data quality, privacy, and community reuse.
 source_frameworks:
   - "OECD Recommendation on Open Government"
-  - "Sunlight Foundation Open Data Policy Guidelines"
+  - "Sunlight Foundation Open Data Policy Guidelines (Sunlight Foundation; publicly available nonprofit advocacy organization guidance; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines open-by-default; lists standard schemas (CKAN, DCAT).

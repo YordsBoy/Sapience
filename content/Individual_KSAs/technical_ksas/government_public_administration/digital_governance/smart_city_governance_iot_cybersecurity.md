@@ -12,7 +12,7 @@ description: >
   Standardization/International Electrotechnical Commission (ISO/IEC) 30141 architecture and National Institute of Standards and Technology (NIST)
   800-213 IoT guidelines.
 source_frameworks:
-  - "ISO/IEC 30141 IoT Reference Architecture"
+  - "ISO/IEC 30141 IoT Reference Architecture (ISO/IEC; proprietary standard — purchase required; referenced for structural alignment only)"
   - "NIST 800-213 IoT-Device Cybersecurity"
 proficiency_levels:
   - level: Awareness

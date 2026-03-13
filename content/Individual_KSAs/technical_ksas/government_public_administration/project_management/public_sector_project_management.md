@@ -9,9 +9,9 @@ cluster_tags:
   - "Public Sector"
 description: Plans, executes, and controls government projects using industry frameworks adapted for public-sector constraints, emphasizing value delivery, risk, and accountability.
 source_frameworks:
-  - "PMI PMBOK Guide 7th Edition"
-  - "Prince2 Agile"
-  - "gao:ScheduleAssessment"
+  - "PMI PMBOK Guide 7th Edition (Project Management Institute; proprietary professional association publication — purchase required; conceptual alignment only)"
+  - "PRINCE2 Agile (Axelos/PeopleCert; proprietary project management methodology — purchase required; conceptual alignment only)"
+  - "GAO Schedule Assessment Guide: Best Practices for Project Schedules (U.S. Government Accountability Office; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies project objectives, scope, and basic milestones.

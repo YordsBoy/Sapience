@@ -11,11 +11,11 @@ description: >
   Designs and implements participatory-budgeting (PB) cycles, facilitating citizen idea generation, deliberation, voting, and transparent allocation in accordance with International Association for Public Participation (IAP2)
   standards.
 source_frameworks:
-  - "IAP2 Spectrum of Public Participation"
+  - "IAP2 Spectrum of Public Participation (IAP2; publicly available professional association framework; conceptual alignment only)"
   - "Participatory Budgeting Project Toolkit"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines PB stages; understands inclusion principles (gender, youth).
+    indicator: Defines the stages of a participatory-budgeting cycle; describes inclusion principles ensuring equitable participation by gender, youth, and underrepresented groups.
   - level: Basic
     indicator: Conducts outreach; moderates idea workshops; posts budget data online.
   - level: Intermediate

@@ -10,9 +10,9 @@ cluster_tags:
 description: Conducts rigorous policy research, impact assessments, and program evaluations to inform decision-making and improve public outcomes.
 source_frameworks:
   - "GAO Program Evaluation Guide"
-  - "Campbell Collaboration Methodology"
+  - "Campbell Collaboration Systematic Review Methodology (Campbell Collaboration; publicly available international research organization; conceptual alignment only)"
   - "OECD Policy Toolkit"
-  - "gaop:BlueBook"
+  - "GAO Performance Measurement and Evaluation: Definitions and Relationships (GAO-11-646SP; U.S. Government Accountability Office; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains formative vs summative evaluation; collects qualitative and quantitative data and summarizes literature.

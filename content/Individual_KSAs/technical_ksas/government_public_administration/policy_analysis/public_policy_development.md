@@ -13,7 +13,7 @@ source_frameworks:
   - "OECD Policy-Development Framework"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands the basic structure of government agencies and the fundamental steps in the policy-making process.  
+    indicator: Describes the basic structure of government agencies; identifies the fundamental steps in the policy-making process from problem identification through legislative or regulatory enactment.
   - level: Basic  
     indicator: Assists in gathering data or drafting portions of policy documents under supervision.  
   - level: Intermediate  

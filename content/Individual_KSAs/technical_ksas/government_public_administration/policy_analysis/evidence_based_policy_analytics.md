@@ -16,7 +16,7 @@ source_frameworks:
   - "GAO Program Evaluation Guide"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies data sources; understands logic‑model basics; distinguishes outputs vs. outcomes.
+    indicator: Identifies data sources available for policy analysis; describes the purpose and components of a logic model; distinguishes outputs from outcomes in a program-evaluation context.
   - level: Basic
     indicator: Collects administrative datasets; performs descriptive statistics; drafts evaluation questions.
   - level: Intermediate

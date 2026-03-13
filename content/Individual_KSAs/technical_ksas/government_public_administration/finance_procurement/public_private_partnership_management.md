@@ -11,7 +11,7 @@ description: >
   Structures, negotiates, and manages public-private partnerships (PPP) using World Bank PPP Reference Guide and International Project Finance Association (IPFA) best practices to deliver infrastructure and services.
 source_frameworks:
   - "World Bank PPP Reference Guide"
-  - "IPFA Knowledge Hub"
+  - "IPFA Knowledge Hub (International Project Finance Association; publicly available professional association resources; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines PPP models (BOT, DBFO) and risk-allocation principles.

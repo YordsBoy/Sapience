@@ -9,9 +9,9 @@ cluster_tags:
   - "Risk Management"
 description: Developing and maintaining Continuity of Operations (COOP) and Continuity of Government (COG) plans that ensure essential services, data integrity, and leadership succession during all‑hazards disruptions.
 source_frameworks:
-  - "ISO 31000:2018 Risk Management"
+  - "ISO 31000:2018 Risk Management — Guidelines (ISO; proprietary standard — purchase required; referenced for structural alignment only)"
   - "Federal Emergency Management Agency (FEMA) Continuity Guidance Circular"
-  - "ISO 22301:2019 Business Continuity Management"
+  - "ISO 22301:2019 Security and Resilience — Business Continuity Management Systems (ISO; proprietary standard — purchase required; referenced for structural alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists essential functions; identifies alternate facilities; recognizes alert and notification systems.
