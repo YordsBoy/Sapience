@@ -21521,7 +21521,7 @@
     "ksa_id": "regulatory_cmc_biologics",
     "label": "Regulatory Compliance (Biologics CMC)",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "core",
     "cluster_tags": [
       "Regulatory",
@@ -21529,13 +21529,13 @@
     ],
     "description": "Preparing Chemistry, Manufacturing, and Controls (CMC) documentation for Investigational New Drug (IND) submissions, ensuring alignment with ICH Q5E, FDA 21 CFR Part 312, and EMA guidelines.",
     "source_frameworks": [
-      "ICH Q5E Comparability of Biotechnological Products",
-      "FDA IND Application Guidance"
+      "ICH Q5E Comparability of Biotechnological/Biological Products Subject to Changes in Their Manufacturing Process — international harmonisation guideline; publicly available",
+      "FDA Guidance for Industry: Content and Format of Investigational New Drug Applications (INDs) — U.S. government — FDA; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists CMC sections; reviews batch records; understands quality attributes."
+        "indicator": "Lists the primary CMC sections of an IND submission; reviews batch records; identifies critical quality attributes (CQAs) specified for biologics under ICH guidelines."
       },
       {
         "level": "Basic",
@@ -21559,7 +21559,7 @@
     "ksa_id": "synthetic_biology_techniques",
     "label": "Synthetic Biology Core Techniques",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "core",
     "cluster_tags": [
       "Lab Techniques",
@@ -21567,7 +21567,7 @@
     ],
     "description": "Performs foundational wet-lab methods used in synthetic biology, including PCR, Gibson assembly, Golden-Gate cloning, cell-free expression, and analytical verification (gel electrophoresis, Sanger sequencing).\n",
     "source_frameworks": [
-      "Addgene Molecular Cloning Guides"
+      "Addgene Molecular Cloning Guides — non-profit plasmid repository; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21580,7 +21580,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Designs and constructs genetic circuits or edits genes (e.g., using CRISPR) and analyzes results in a lab setting; troubleshoots efficiency issues."
+        "indicator": "Designs genetic circuits and gene edit strategies; coordinates construction activities with laboratory personnel; interprets sequencing and expression analysis results to evaluate efficiency and troubleshoot failures."
       },
       {
         "level": "Advanced",
@@ -21596,7 +21596,7 @@
     "ksa_id": "microfluidic_single_cell_analysis",
     "label": "Microfluidic Single-Cell Analysis",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "emerging",
     "cluster_tags": [
       "Single-Cell",
@@ -21604,8 +21604,8 @@
     ],
     "description": "Designs and operates droplet or nanowell microfluidic platforms for single-cell transcriptomics, proteomics, and genome editing screens, enabling high-resolution heterogeneity studies.\n",
     "source_frameworks": [
-      "Nature Reviews ‘Microfluidic Single-Cell Omics’ (2025)",
-      "ISO 20359-1:2023 – Microfluidic Device Performance Evaluation"
+      "Nature Reviews Methods Primers: Microfluidic Single-Cell Omics (2025) — academic journal; conceptual alignment only",
+      "ISO 20359-1:2023 Microfluidics — Measurement methods for flow properties of microfluidic devices — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -21618,7 +21618,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Tunes droplet size and flow rates; uses barcoded beads for scRNA-seq; processes data with Seurat."
+        "indicator": "Adjusts microfluidic platform settings (droplet size, flow rates) based on cell type requirements; interprets single-cell library quality metrics; applies standard data analysis pipelines (e.g., Seurat, Scanpy) to identify cell populations."
       },
       {
         "level": "Advanced",
@@ -21634,7 +21634,7 @@
     "ksa_id": "genome_editing_lab_safety",
     "label": "Genome Editing & Lab Safety",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "core",
     "cluster_tags": [
       "Genome Editing",
@@ -21642,9 +21642,9 @@
     ],
     "description": "Designing and executing CRISPR/TALEN/base-editing experiments while adhering to Biosafety Level‑2 (BSL‑2) containment, NIH Guidelines, and Gene‐Drive governance principles; validates edits and ensures ethical oversight.",
     "source_frameworks": [
-      "WHO Laboratory Biosafety Manual 4th Ed.",
-      "CRISPR Clinical Trials Update 2025",
-      "NIH Guidelines for Research Involving Recombinant DNA"
+      "WHO Laboratory Biosafety Manual, 4th Edition (2020) — intergovernmental organization; publicly available",
+      "ClinicalTrials.gov CRISPR-based gene therapy trial registry (current as of 2025) — U.S. government — NIH/NLM; public domain",
+      "NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Molecules — U.S. government — NIH; public domain"
     ],
     "proficiency_levels": [
       {
@@ -21653,7 +21653,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Designs single guide RNA (sgRNA); transfects cell lines; disposes biohazard waste."
+        "indicator": "Describes single guide RNA (sgRNA) design principles; participates in cell transfection procedures under supervision; follows institutional biohazard waste disposal protocols."
       },
       {
         "level": "Intermediate",
@@ -21673,7 +21673,7 @@
     "ksa_id": "gene_editing_techniques",
     "label": "CRISPR & Gene Editing Techniques",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "core",
     "cluster_tags": [
       "Genome Engineering",
@@ -21681,8 +21681,8 @@
     ],
     "description": "Masters modern gene-editing tools and protocols such as CRISPR-Cas9, TALENs, and base editors; designs and executes gene edits in cell lines or model organisms, and applies proper validation and bioethics review for genetic modifications.  \n",
     "source_frameworks": [
-      "NIH Gene Therapy Laboratory Guidelines (2025)",
-      "ISO 20387 Biotechnology–Biobanking Requirements"
+      "NIH Gene Therapy Laboratory Guidelines (2025) — U.S. government — NIH; public domain",
+      "ISO 20387:2018 Biotechnology — Biobanking: General Requirements for Biobanking — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -21695,7 +21695,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Designs custom gRNAs for targeted gene edits; manages on/off-target analyses; implements gene editing in model organisms (e.g. mice) following safety protocols."
+        "indicator": "Designs custom guide RNA (gRNA) sequences for targeted gene edits; reviews on/off-target analysis reports; coordinates with safety officers and IBC on protocols for editing in model systems."
       },
       {
         "level": "Advanced",
@@ -21711,7 +21711,7 @@
     "ksa_id": "biofoundry_automation",
     "label": "Biofoundry Automation & High‑Throughput Workflows",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "emerging",
     "cluster_tags": [
       "Lab Automation",
@@ -21719,10 +21719,10 @@
     ],
     "description": "Programming liquid‑handling robots, integrating Laboratory Information Management Systems (LIMS), and designing Design–Build–Test–Learn (DBTL) loops for high‑throughput strain engineering.",
     "source_frameworks": [
-      "Nature Comms: Building a Biofoundry (2020)",
-      "ISA-88 Batch Control for BioProcesses",
-      "Global Biofoundries Alliance Standard",
-      "SBOL 3.0 Specification"
+      "Holowko MB, Frow EK, Reid JC, Rourke M & Vickers CE (2020), 'Building a biofoundry,' Synthetic Biology, DOI: 10.1093/synbio/ysaa026 — academic journal; conceptual alignment only",
+      "ISA-88 Batch Control Standard — ISA proprietary standard; conceptual alignment only",
+      "Global Biofoundry Alliance (GBA) operational standards — international industry consortium; publicly available",
+      "Synthetic Biology Open Language (SBOL) 3.0 Specification — open community standard; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21751,7 +21751,7 @@
     "ksa_id": "synthetic_bio_entrepreneurial_finance",
     "label": "Synthetic-Bio Entrepreneurship & Finance",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "emerging",
     "cluster_tags": [
       "Entrepreneurship",
@@ -21759,8 +21759,8 @@
     ],
     "description": "Raising capital and managing finances for synthetic biology ventures, leveraging SBIR/STTR grants, venture capital term sheets, and milestone‑based funding models.",
     "source_frameworks": [
-      "NSF SBIR Guidelines",
-      "Y Combinator Bio Playbook"
+      "NSF SBIR/STTR Program Guidelines — U.S. government — NSF; public domain",
+      "Y Combinator Bio Playbook — commercial startup accelerator; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -21789,7 +21789,7 @@
     "ksa_id": "minimal_cell_genome_engineering",
     "label": "Whole-Genome Engineering & Minimal Cells",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "emerging",
     "cluster_tags": [
       "Minimal Cell",
@@ -21797,8 +21797,8 @@
     ],
     "description": "Constructs and evolves minimal bacterial genomes (e.g., JCVI-syn 3B) and chassis organisms; applies large-scale DNA synthesis, genome transplantation, and evolutionary adaptation techniques for robust bioproduction.\n",
     "source_frameworks": [
-      "Nature ‘Evolution of a Minimal Cell’ (2023)",
-      "JCVI Minimal Cell Workshop proceedings (2024)"
+      "Moger-Reischer RZ et al. (2023), ‘Evolution of a minimal cell,’ Nature 620(7972):122–127, DOI: 10.1038/s41586-023-06288-x — academic journal (CC BY 4.0); publicly available",
+      "J. Craig Venter Institute Minimal Cell Workshop proceedings (2024) — academic/research institution proceedings; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21807,7 +21807,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Performs multiplex genome-editing on non-essential gene clusters; confirms via PCR."
+        "indicator": "Participates in multiplex genome-editing experiments under guidance; interprets PCR confirmation data to verify targeted gene cluster deletions."
       },
       {
         "level": "Intermediate",
@@ -21827,16 +21827,16 @@
     "ksa_id": "biodesign_cad_tools",
     "label": "Biodesign Computer‑Aided Design (CAD)",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "core",
     "cluster_tags": [
       "Synthetic Biology",
       "CAD"
     ],
-    "description": "Using biological CAD tools (Benchling, Geneious, SBOLDesigner) to model genetic circuits, metabolic pathways, and part libraries with version control and SBOL (Synthetic Biology Open Language) standards.",
+    "description": "Using biological CAD tools (e.g., Benchling, Geneious, SBOLDesigner) to model genetic circuits, metabolic pathways, and part libraries with version control and SBOL (Synthetic Biology Open Language) standards.",
     "source_frameworks": [
-      "MIT iGEM Design Standards",
-      "SBOL 3.0 Specification"
+      "iGEM Registry of Standard Biological Parts Design Standards — open-source academic consortium; publicly available",
+      "Synthetic Biology Open Language (SBOL) 3.0 Specification — open community standard; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21865,7 +21865,7 @@
     "ksa_id": "ai_driven_protein_design",
     "label": "AI‑Driven Protein Design & Engineering",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "emerging",
     "cluster_tags": [
       "Bioinformatics",
@@ -21873,14 +21873,14 @@
     ],
     "description": "Utilises machine-learning models (e.g., AlphaFold, protein-language models) to predict structure–function relationships and design or optimize novel proteins and enzymes for therapeutics, industrial biocatalysis, or materials science.\n",
     "source_frameworks": [
-      "DeepMind AlphaFold Papers (2023-25)",
-      "ONET 19-1029.01 Computational Biologist",
-      "Rosetta Commons Protein Design Protocols"
+      "DeepMind AlphaFold research publications (2023–25) — commercial research lab; conceptual alignment only",
+      "O*NET Computational Biologist 19-1029.01 (USDOL/ETA, CC BY 4.0)",
+      "Rosetta Commons Protein Design Protocols — open-source academic consortium; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Generates homology models; interprets pLDDT scores; aligns sequences."
+        "indicator": "Describes how AI tools (e.g., AlphaFold) predict protein structure from sequence; explains confidence metrics and their significance for downstream experimental prioritisation."
       },
       {
         "level": "Basic",
@@ -21904,7 +21904,7 @@
     "ksa_id": "biosecurity_risk_management",
     "label": "Biosecurity & Risk Management",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "emerging",
     "cluster_tags": [
       "Biosecurity",
@@ -21912,10 +21912,10 @@
     ],
     "description": "Assessing and mitigating dual‑use and pandemic‑potential risks in synthetic biology, following synthesis‑screening frameworks, DURC (Dual‑Use Research of Concern) policies, and ISO 35001 biorisk management.",
     "source_frameworks": [
-      "ISO 35001:2019 Biorisk Management",
-      "NIH Biosafety & Biosecurity Policy",
-      "US HHS DURC Policy",
-      "IAEA ENGAGE Biosecurity Toolkit"
+      "ISO 35001:2019 Biorisk Management for Laboratories and Other Related Organisations — ISO proprietary standard; conceptual alignment only",
+      "NIH Biosafety and Biosecurity Policy — U.S. government — NIH; public domain",
+      "U.S. HHS Dual-Use Research of Concern (DURC) Policy — U.S. government — HHS; public domain",
+      "IAEA ENGAGE Biosecurity Toolkit — intergovernmental organization; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21944,7 +21944,7 @@
     "ksa_id": "cell_free_biomanufacturing",
     "label": "Cell-Free Biomanufacturing",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "emerging",
     "cluster_tags": [
       "Cell-Free Systems",
@@ -21952,8 +21952,8 @@
     ],
     "description": "Utilises cell-lysate or purified-enzyme systems to produce proteins, enzymes, or metabolites without living cells, enabling rapid prototyping and decentralised on-demand manufacturing.\n",
     "source_frameworks": [
-      "OECD ‘Synthetic-Biology in Focus’ report (2025)",
-      "NIH Rapid Cell-Free Protein Synthesis Protocols (2024)"
+      "OECD Synthetic Biology in Focus (2025) — intergovernmental organization; publicly available",
+      "NIH Rapid Cell-Free Protein Synthesis Protocols (2024) — U.S. government — NIH; public domain"
     ],
     "proficiency_levels": [
       {
@@ -21966,7 +21966,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Optimises energy systems (PANOxSP); scales to 100 ml; assesses cost per mg protein."
+        "indicator": "Optimises energy regeneration systems for cell-free expression (e.g., phosphate-based or ATP regeneration approaches); scales reactions to intermediate volumes; assesses cost per milligram of expressed protein."
       },
       {
         "level": "Advanced",
@@ -21982,7 +21982,7 @@
     "ksa_id": "biomanufacturing_qa_qc",
     "label": "Biomanufacturing Quality Assurance & Control",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "core",
     "cluster_tags": [
       "Quality Assurance",
@@ -21990,10 +21990,10 @@
     ],
     "description": "Implementing Good Manufacturing Practice (GMP) in upstream and downstream processes, overseeing in‑process controls, environmental monitoring, and batch release testing.",
     "source_frameworks": [
-      "ISO 13485:2016",
-      "FDA cGMP 21 CFR Parts 210-211",
-      "ICH Q7 GMP for APIs",
-      "ISPE Baseline Guide Vol 6 Biopharmaceutical Manufacturing"
+      "ISO 13485:2016 Quality management systems — Requirements for regulatory purposes — ISO proprietary standard; conceptual alignment only",
+      "FDA cGMP 21 CFR Parts 210–211 — U.S. government — FDA; public domain",
+      "ICH Q7 Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients — international harmonisation guideline; publicly available",
+      "ISPE Baseline Guide Vol. 6 Biopharmaceutical Manufacturing — commercial professional association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -22022,7 +22022,7 @@
     "ksa_id": "biological_data_science",
     "label": "Biological Data Science & Bioinformatics",
     "category": "Technical",
-    "sector": "biotechnology_synbio",
+    "sector": "biotechnology_synthetic_biology",
     "horizon": "core",
     "cluster_tags": [
       "Bioinformatics",
@@ -22030,31 +22030,31 @@
     ],
     "description": "Analyses multi-omics datasets (genomic, transcriptomic, proteomic) using computational pipelines; applies statistics and machine-learning to uncover biological insight and guide experimental design.\n",
     "source_frameworks": [
-      "NIH Bioinformatics Core Competencies",
-      "ELIXIR Bioinformatics Core Competencies",
-      "FAIR Data Principles",
-      "GA4GH Standards"
+      "NIH Bioinformatics Core Competencies — U.S. government — NIH; public domain",
+      "ELIXIR Bioinformatics Core Competencies — European research infrastructure consortium; publicly available",
+      "FAIR Data Principles (Wilkinson et al. 2016) — open community standard; publicly available",
+      "Global Alliance for Genomics and Health (GA4GH) Standards — international standards consortium; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Performs FASTQ quality checks; runs BLAST; interprets basic heatmaps."
+        "indicator": "Describes the categories of biological data generated by modern sequencing and proteomics platforms (genomic, transcriptomic, proteomic); explains how bioinformatics pipelines convert raw data into biological insights and why data quality affects downstream decisions."
       },
       {
         "level": "Basic",
-        "indicator": "Aligns reads with BWA; quantifies expression (salmon); manages version-controlled pipelines; executes canned RNA-seq or variant-calling workflows."
+        "indicator": "Interprets standard bioinformatics outputs including differential expression tables, variant reports, and pathway enrichment summaries in the context of project objectives; identifies key data quality indicators from QC summary reports provided by analytical teams."
       },
       {
         "level": "Intermediate",
-        "indicator": "Conducts differential‑expression analysis; visualises networks; applies metadata standards; customises scripts; integrates datasets; performs statistical tests."
+        "indicator": "Reviews and interrogates bioinformatics analysis reports; evaluates statistical significance and biological effect sizes in multi-omics findings; applies FAIR data principles to data management decisions; specifies analysis requirements when commissioning bioinformatics work from internal or external teams."
       },
       {
         "level": "Advanced",
-        "indicator": "Automates multi‑omics workflows; builds scalable pipelines on HPC/cloud; applies ML for pattern discovery; implements cloud computing; ensures FAIR compliance."
+        "indicator": "Defines analytical workflow requirements and acceptance criteria for bioinformatics projects; evaluates pipeline output validity and integrates multi-omics insights into regulatory strategy or research decision-making; leads data governance implementation in compliance with FAIR standards and GA4GH frameworks."
       },
       {
         "level": "Expert",
-        "indicator": "Leads data‑science core; develops new computational methods; leads large-scale consortium analyses; publishes novel bioinformatics tools; shapes GA4GH policies."
+        "indicator": "Leads the biological data science strategy for a research or product development organisation; designs analytical governance frameworks and data-sharing architectures; influences consortium and industry standards; mentors project leaders on evidence-based integration of computational biology into strategic decisions."
       }
     ]
   },

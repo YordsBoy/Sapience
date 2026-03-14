@@ -2,15 +2,15 @@
 ksa_id: biodesign_cad_tools
 label: Biodesign Computer‑Aided Design (CAD)
 category: Technical
-sector: biotechnology_synbio
+sector: biotechnology_synthetic_biology
 horizon: core
 cluster_tags:
   - "Synthetic Biology"
   - "CAD"
-description: Using biological CAD tools (Benchling, Geneious, SBOLDesigner) to model genetic circuits, metabolic pathways, and part libraries with version control and SBOL (Synthetic Biology Open Language) standards.
+description: Using biological CAD tools (e.g., Benchling, Geneious, SBOLDesigner) to model genetic circuits, metabolic pathways, and part libraries with version control and SBOL (Synthetic Biology Open Language) standards.
 source_frameworks:
-  - "MIT iGEM Design Standards"
-  - "SBOL 3.0 Specification"
+  - "iGEM Registry of Standard Biological Parts Design Standards — open-source academic consortium; publicly available"
+  - "Synthetic Biology Open Language (SBOL) 3.0 Specification — open community standard; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Draws plasmid maps; annotates coding sequences; exports GenBank files.

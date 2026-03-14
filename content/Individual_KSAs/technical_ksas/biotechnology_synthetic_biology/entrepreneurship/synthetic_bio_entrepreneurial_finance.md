@@ -2,15 +2,15 @@
 ksa_id: synthetic_bio_entrepreneurial_finance
 label: Synthetic-Bio Entrepreneurship & Finance
 category: Technical
-sector: biotechnology_synbio
+sector: biotechnology_synthetic_biology
 horizon: emerging
 cluster_tags:
   - "Entrepreneurship"
   - "Biotech Finance"
 description: Raising capital and managing finances for synthetic biology ventures, leveraging SBIR/STTR grants, venture capital term sheets, and milestone‑based funding models.
 source_frameworks:
-  - "NSF SBIR Guidelines"
-  - "Y Combinator Bio Playbook"
+  - "NSF SBIR/STTR Program Guidelines — U.S. government — NSF; public domain"
+  - "Y Combinator Bio Playbook — commercial startup accelerator; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Outlines business model canvas; identifies funding sources; tracks burn rate.

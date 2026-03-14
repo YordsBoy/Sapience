@@ -2,17 +2,17 @@
 ksa_id: biofoundry_automation
 label: Biofoundry Automation & High‑Throughput Workflows
 category: Technical
-sector: biotechnology_synbio
+sector: biotechnology_synthetic_biology
 horizon: emerging
 cluster_tags:
   - "Lab Automation"
   - "Synthetic Biology"
 description: Programming liquid‑handling robots, integrating Laboratory Information Management Systems (LIMS), and designing Design–Build–Test–Learn (DBTL) loops for high‑throughput strain engineering.
 source_frameworks:
-  - "Nature Comms: Building a Biofoundry (2020)"
-  - "ISA-88 Batch Control for BioProcesses"
-  - "Global Biofoundries Alliance Standard"
-  - "SBOL 3.0 Specification"
+  - "Holowko MB, Frow EK, Reid JC, Rourke M & Vickers CE (2020), 'Building a biofoundry,' Synthetic Biology, DOI: 10.1093/synbio/ysaa026 — academic journal; conceptual alignment only"
+  - "ISA-88 Batch Control Standard — ISA proprietary standard; conceptual alignment only"
+  - "Global Biofoundry Alliance (GBA) operational standards — international industry consortium; publicly available"
+  - "Synthetic Biology Open Language (SBOL) 3.0 Specification — open community standard; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies robot deck layouts; loads basic scripts; records sample IDs; observes automated liquid-handler protocols.

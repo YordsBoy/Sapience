@@ -2,17 +2,17 @@
 ksa_id: biomanufacturing_qa_qc
 label: Biomanufacturing Quality Assurance & Control
 category: Technical
-sector: biotechnology_synbio
+sector: biotechnology_synthetic_biology
 horizon: core
 cluster_tags:
   - "Quality Assurance"
   - "GMP"
 description: Implementing Good Manufacturing Practice (GMP) in upstream and downstream processes, overseeing in‑process controls, environmental monitoring, and batch release testing.
 source_frameworks:
-  - "ISO 13485:2016"
-  - "FDA cGMP 21 CFR Parts 210-211"
-  - "ICH Q7 GMP for APIs"
-  - "ISPE Baseline Guide Vol 6 Biopharmaceutical Manufacturing"
+  - "ISO 13485:2016 Quality management systems — Requirements for regulatory purposes — ISO proprietary standard; conceptual alignment only"
+  - "FDA cGMP 21 CFR Parts 210–211 — U.S. government — FDA; public domain"
+  - "ICH Q7 Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients — international harmonisation guideline; publicly available"
+  - "ISPE Baseline Guide Vol. 6 Biopharmaceutical Manufacturing — commercial professional association; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Reviews SOPs; labels materials; records deviations.

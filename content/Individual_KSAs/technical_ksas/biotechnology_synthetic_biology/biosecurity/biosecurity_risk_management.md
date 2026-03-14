@@ -2,17 +2,17 @@
 ksa_id: biosecurity_risk_management
 label: Biosecurity & Risk Management
 category: Technical
-sector: biotechnology_synbio
+sector: biotechnology_synthetic_biology
 horizon: emerging
 cluster_tags:
   - "Biosecurity"
   - "Risk Management"
 description: Assessing and mitigating dual‑use and pandemic‑potential risks in synthetic biology, following synthesis‑screening frameworks, DURC (Dual‑Use Research of Concern) policies, and ISO 35001 biorisk management.
 source_frameworks:
-  - "ISO 35001:2019 Biorisk Management"
-  - "NIH Biosafety & Biosecurity Policy"
-  - "US HHS DURC Policy"
-  - "IAEA ENGAGE Biosecurity Toolkit"
+  - "ISO 35001:2019 Biorisk Management for Laboratories and Other Related Organisations — ISO proprietary standard; conceptual alignment only"
+  - "NIH Biosafety and Biosecurity Policy — U.S. government — NIH; public domain"
+  - "U.S. HHS Dual-Use Research of Concern (DURC) Policy — U.S. government — HHS; public domain"
+  - "IAEA ENGAGE Biosecurity Toolkit — intergovernmental organization; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Screens gene orders; recognizes select‑agent lists; completes basic biosafety/biosecurity training.

@@ -2,7 +2,7 @@
 ksa_id: ai_driven_protein_design
 label: AI‑Driven Protein Design & Engineering
 category: Technical
-sector: biotechnology_synbio
+sector: biotechnology_synthetic_biology
 horizon: emerging
 cluster_tags:
   - "Bioinformatics"
@@ -10,12 +10,12 @@ cluster_tags:
 description: >
   Utilises machine-learning models (e.g., AlphaFold, protein-language models) to predict structure–function relationships and design or optimize novel proteins and enzymes for therapeutics, industrial biocatalysis, or materials science.
 source_frameworks:
-  - "DeepMind AlphaFold Papers (2023-25)"
-  - "ONET 19-1029.01 Computational Biologist"
-  - "Rosetta Commons Protein Design Protocols"
+  - "DeepMind AlphaFold research publications (2023–25) — commercial research lab; conceptual alignment only"
+  - "O*NET Computational Biologist 19-1029.01 (USDOL/ETA, CC BY 4.0)"
+  - "Rosetta Commons Protein Design Protocols — open-source academic consortium; publicly available"
 proficiency_levels:
   - level: Awareness
-    indicator: Generates homology models; interprets pLDDT scores; aligns sequences.
+    indicator: Describes how AI tools (e.g., AlphaFold) predict protein structure from sequence; explains confidence metrics and their significance for downstream experimental prioritisation.
   - level: Basic
     indicator: Runs an AI model to evaluate single-site mutations and assess confidence scores.
   - level: Intermediate
