@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Monitors data and model drift, latency, cost, and security of AI services; implements automated alerting, retraining triggers, and self-healing pipelines.
 source_frameworks:
-  - "Google MLOps Level 2 Checklist"
-  - "onet:15-1242.00"
+  - "Google MLOps Level 2 Checklist (vendor documentation; conceptual alignment only — equivalent MLOps practices and platforms may demonstrate competency)"
+  - "O*NET-SOC 15-1242.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Views dashboard metrics for prediction latency and failures.

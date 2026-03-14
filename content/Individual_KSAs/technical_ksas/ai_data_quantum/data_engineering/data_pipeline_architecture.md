@@ -11,7 +11,7 @@ description: >
   Designs and maintains scalable data pipelines (batch and streaming) to extract, transform, and load (ETL) data from heterogeneous sources while ensuring quality, lineage, and
   reliability.
 source_frameworks:
-  - "IBM Data Engineer Roadmap (2025)"
+  - "IBM Data Engineer Roadmap (2025) (vendor/training documentation; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes the purpose of ETL/ELT processes.

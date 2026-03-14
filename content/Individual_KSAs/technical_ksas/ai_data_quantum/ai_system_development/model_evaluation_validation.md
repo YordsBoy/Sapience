@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Validates model performance, robustness, and fairness using cross-validation, statistical tests, and bias-detection metrics; documents findings for stakeholders and regulators.
 source_frameworks:
-  - "ISO/IEC 24029-1 (2021)"
-  - "NIST AI RMF Playbook"
+  - "ISO/IEC 24029-1:2021 (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "NIST AI RMF Playbook (U.S. government publication; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Calculates accuracy and loss on validation sets.

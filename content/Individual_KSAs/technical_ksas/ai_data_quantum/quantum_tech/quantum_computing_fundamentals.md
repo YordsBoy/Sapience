@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Explains qubits, superposition, and entanglement; runs simple quantum circuits on a simulator and understands foundational algorithms and hardware constraints.
 source_frameworks:
-  - "IBM Quantum Developer Cert Objectives"
+  - "IBM Quantum Developer Certification Objectives (vendor certification body; conceptual alignment only — equivalent quantum computing platform documentation may demonstrate competency)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Describes the concept of qubits versus classical bits and basic quantum logic gates.  

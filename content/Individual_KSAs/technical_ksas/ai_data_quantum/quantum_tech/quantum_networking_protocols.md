@@ -7,11 +7,11 @@ horizon: watch_2030
 cluster_tags:
   - "Quantum Computing"
   - "Networking"
-description: Understanding and implementing the protocols that enable qubit‑level entanglement distribution, Quantum Key Distribution (QKD), and error‑corrected quantum‑repeater networks for the emerging quantum internet.
+description: Understanding and implementing the protocols that enable qubit‑level entanglement distribution, Quantum Key Distribution (QKD), and error‑corrected quantum‑repeater networks for the emerging quantum internet.
 source_frameworks:
-  - "European Telecommunications Standards Institute (ETSI) QKD Standards"
-  - "ETSI Quantum Safe Security Whitepaper (2024)"
-  - "National Aeronautics and Space Administration (NASA) Quantum Internet Roadmap 2024"
+  - "ETSI QKD Standards (European Telecommunications Standards Institute; proprietary standards body; conceptual alignment only)"
+  - "ETSI Quantum Safe Security Whitepaper (2024) (proprietary standards body; conceptual alignment only)"
+  - "NASA Quantum Internet Roadmap 2024 (U.S. government publication; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains qubit entanglement, Bell tests, and basic QKD principles.

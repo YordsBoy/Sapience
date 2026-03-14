@@ -10,8 +10,8 @@ cluster_tags:
   - "Distributed Artificial Intelligence"
 description: Designing, deploying, and optimizing Federated Learning (FL) systems that train shared models across decentralized data silos while preserving privacy and minimising communication overhead.
 source_frameworks:
-  - "arXiv 2502.05273 (2025)"
-  - "Federated Learning Architecture Survey"
+  - "arXiv 2502.05273 (2025) (preprint; open access — findings may not yet be peer-reviewed)"
+  - "Federated Learning Architecture Survey literature (academic survey body; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes FL versus centralised Machine Learning (ML); sets basic hyper‑parameters in an open‑source FL framework.

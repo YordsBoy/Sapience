@@ -11,9 +11,9 @@ cluster_tags:
 description: >
   Plans and executes adversarial testing (“red teaming”) of AI systems to uncover safety, security, and ethical failure modes; develops attack scenarios (prompt injection, privacy leakage, bias exploits), coordinates fixes, and documents residual risk in line with standards for responsible AI deployment.
 source_frameworks:
-  - "NIST AI Risk-Management Framework 1.0 (2024) — Red-Team Annex"
-  - "Microsoft Gen-AI Red-Team Playbook (2025)"
-  - "DeepMind Frontier-Safety Framework (2025)"
+  - "NIST AI Risk Management Framework 1.0 (2024) – Red-Team Annex (U.S. government publication; public domain)"
+  - "Microsoft Generative AI Red-Team Playbook (2025) (vendor documentation; conceptual alignment only — methodology is transferable across AI platforms)"
+  - "DeepMind Frontier Safety Framework (2025) (vendor/research documentation; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common failure modes (toxic outputs, data leaks) and basic red-team

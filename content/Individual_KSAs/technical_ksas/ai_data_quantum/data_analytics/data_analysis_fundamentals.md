@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Utilises descriptive statistics and basic visualisation to interpret datasets; cleans and preprocesses data to support evidence-based decisions across business functions.
 source_frameworks:
-  - "ONET 15-2041.00"
+  - "O*NET-SOC 15-2041.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises common data types and simple charts; describes observable trends.

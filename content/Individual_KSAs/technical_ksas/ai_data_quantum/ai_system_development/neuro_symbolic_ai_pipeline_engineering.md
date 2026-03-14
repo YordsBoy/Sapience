@@ -11,18 +11,18 @@ description: >
   Designs end-to-end pipelines that combine sub-symbolic machine-learning (deep neural networks) with symbolic knowledge-representation and logical reasoning; implements frameworks such as DARPA ANSR and IBM Neuro-Symbolic
   AI to achieve interpretable, data-efficient, and verifiable models.
 source_frameworks:
-  - "DARPA ANSR (Assured Neuro-Symbolic Learning & Reasoning) program overview"
-  - "IBM Research – Neuro-Symbolic AI topic page (2025)"
-  - "IBM/IEEE Workshop on Neuro-Symbolic Software Engineering 2025"
+  - "DARPA ANSR (Assured Neuro-Symbolic Learning & Reasoning) program overview (U.S. government program documentation; publicly available)"
+  - "IBM Research – Neuro-Symbolic AI topic page (2025) (vendor/research documentation; conceptual alignment only)"
+  - "IBM/IEEE Workshop on Neuro-Symbolic Software Engineering 2025 (conference proceedings reference; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains how symbolic rules augment neural nets; cites examples like neural theorem-proving.
   - level: Basic
     indicator: Integrates a pretrained vision model with a Prolog rule-set for simple scene-question answering; validates logic outputs.
   - level: Intermediate
-    indicator: Builds hybrid pipelines with ontologies (OWL/RDF) and deep embeddings; debugs symbol grounding errors; measures accuracy vs. logic coverage.
+    indicator: Builds hybrid pipelines combining ontologies (OWL/RDF) and deep embeddings; debugs symbol grounding errors; measures accuracy versus logic coverage.
   - level: Advanced
-    indicator: Implements neuro-symbolic training loops that learn and revise rules from data; optimizes reasoning latency in PyTorch-based graphs; documents assurance cases per DARPA ANSR guidelines.
+    indicator: Implements neuro-symbolic training loops that learn and revise rules from data; optimizes reasoning latency in deep-learning frameworks (e.g., PyTorch, TensorFlow); documents assurance cases per applicable program guidelines (e.g., DARPA ANSR).
   - level: Expert
     indicator: Publishes new neuro-symbolic architectures; leads enterprise adoption for safety-critical domains; influences standards for explainable hybrid AI systems.
 ---

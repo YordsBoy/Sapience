@@ -10,10 +10,10 @@ cluster_tags:
 description: >
   Develops schedulers and orchestration layers that partition and route hybrid quantum-classical jobs across heterogeneous quantum-processing units (QPUs) and high-performance-computing (HPC) clusters; manages latency, queueing, error budgets, and cost optimization for multi-vendor quantum clouds.
 source_frameworks:
-  - "Qonductor – Cloud orchestrator for hybrid quantum-classical apps (arXiv 2408.04312)"
-  - "Qoro Quantum + CESGA distributed circuit-simulation pilot 2025"
-  - "AWS Braket hybrid-job interface & BB84 QKD example (2025 blog)"
-  - "Cisco cross-vendor quantum-cloud orchestration announcement 2025"
+  - "Qonductor – Cloud orchestrator for hybrid quantum-classical apps (arXiv 2408.04312) (preprint; open access — findings may not yet be peer-reviewed)"
+  - "Qoro Quantum + CESGA distributed circuit-simulation pilot 2025 (research/industry pilot; publicly available)"
+  - "AWS Braket hybrid-job interface documentation 2025 (vendor documentation; conceptual alignment only — equivalent hybrid quantum-classical platforms may demonstrate competency)"
+  - "Cisco cross-vendor quantum-cloud orchestration announcement 2025 (vendor announcement; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes why hybrid workflows need orchestration (classical pre- and post-processing, quantum resource scarcity).

@@ -11,7 +11,7 @@ description: >
   Builds, trains, and tunes ML models (regression, classification, clustering, deep learning) using appropriate algorithms and frameworks; iterates to optimize performance and
   generalisation.
 source_frameworks:
-  - "Coursera ML Foundations Syllabus"
+  - "Coursera Machine Learning Foundations Syllabus (commercial course platform; conceptual alignment only — framework content is instructionally equivalent to academic ML curricula)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Explains basic ML concepts (train vs. test); applies basic algorithms to datasets using existing tools under guidance.  

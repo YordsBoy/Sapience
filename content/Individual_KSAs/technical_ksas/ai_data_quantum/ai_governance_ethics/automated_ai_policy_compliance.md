@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Builds pipelines that continuously scan AI/ML systems for alignment with evolving regulations (EU AI Act, NIST AI RMF) and internal policies; auto-generates impact-assessment reports and alerts on drift.
 source_frameworks:
-  - "NIST AI RMF 1.0 – governance function"
+  - "NIST AI RMF 1.0 – governance function (U.S. government publication; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists major AI regulations (EU AI Act, U.S. Executive Order) and basic compliance artefacts.

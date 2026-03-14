@@ -10,7 +10,7 @@ cluster_tags:
 description: |
   Designs and implements quantum algorithms (e.g., Grover, Shor, QAOA) on real or simulated hardware; evaluates complexity, noise resilience, and hybrid quantum-classical approaches.
 source_frameworks:
-  - "EU Quantum Flagship Agenda (2025)"
+  - "EU Quantum Flagship Agenda (2025) (EU institutional publication; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises famous quantum algorithms conceptually.

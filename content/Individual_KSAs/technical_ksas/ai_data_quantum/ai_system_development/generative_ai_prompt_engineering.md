@@ -11,15 +11,14 @@ cluster_tags:
 description: >
   Crafts, refines, and evaluates prompts that steer large-language or multimodal models toward accurate, safe, and high-utility outputs; applies techniques such as role-setting, chain-of-thought, system-/user-message separation, and few-shot prompting while mitigating risks like prompt injection.
 source_frameworks:
-  - "OpenAI Prompt Engineering Guide (2023)"
-  - "Anthropic Claude 4 Prompt Best-Practices (2024)"
-  - "NIST Generative-AI RMF Profile (2024)"
+  - "OpenAI Prompt Engineering Guide (2023) (vendor documentation; conceptual alignment only — techniques are applicable across LLM providers)"
+  - "Anthropic Claude Prompt Best-Practices (vendor documentation; conceptual alignment only — techniques are applicable across LLM providers)"
+  - "NIST Generative-AI RMF Profile (2024) (U.S. government publication; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains what a prompt is and recognizes basic pitfalls (vagueness, broad scope).
   - level: Basic
-    indicator: Uses documented patterns (role + task + context) to achieve consistent answers in a
-      sandbox; tests prompts for edge-case failures.
+    indicator: Uses documented prompt patterns (role + task + context) to achieve consistent answers across LLM platforms; tests prompts for edge-case failures.
   - level: Intermediate
     indicator: Applies chain-of-thought or few-shot examples to boost reasoning; measures output
       quality with rubrics; mitigates simple injection attempts via delimiters/validation.

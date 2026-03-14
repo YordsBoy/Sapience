@@ -11,8 +11,8 @@ cluster_tags:
 description: >
   Designs distributed compute/storage environments (on-premise, cloud, GPU clusters) for training and serving large-scale ML models; balances performance, cost, and reliability.
 source_frameworks:
-  - "NVIDIA DGX Best Practices Guide"
-  - "onet:15-1242.00"
+  - "NVIDIA DGX Best Practices Guide (vendor documentation; conceptual alignment only — equivalent GPU/accelerator platforms and orchestration environments may demonstrate competency)"
+  - "O*NET-SOC 15-1242.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes why GPUs/accelerators speed up ML; runs notebook training on a single GPU instance.

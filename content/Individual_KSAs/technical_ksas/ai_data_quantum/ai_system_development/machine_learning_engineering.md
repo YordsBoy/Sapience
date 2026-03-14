@@ -10,8 +10,8 @@ cluster_tags:
 description: |
   Builds, deploys, and maintains machine-learning models in production; automates pipelines, manages feature stores, sets up scalable serving architectures, and monitors lifecycle performance in alignment with responsible-AI guidelines.
 source_frameworks:
-  - "SFIA MLDS"
-  - "ONET 15-2051.01"
+  - "SFIA v8 — MLDS (commercial framework; conceptual alignment only)"
+  - "O*NET-SOC 15-2051.01 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Trains off-the-shelf models on sample data.
