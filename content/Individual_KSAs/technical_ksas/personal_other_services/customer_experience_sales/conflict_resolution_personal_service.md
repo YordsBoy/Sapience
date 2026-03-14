@@ -9,9 +9,9 @@ cluster_tags:
   - "Resolution"
 description: Handles dissatisfied clients professionally, applies de-escalation techniques, and delivers fair resolutions that protect reputation.
 source_frameworks:
-  - "Cornell Hospitality SRP Research"
-  - "Forbes Five-Star Service Recovery"
-  - "icc:ConflictManagement"
+  - "Service Recovery Paradox research literature (McCollough & Bharadwaj 1992; Cornell School of Hotel Administration hospitality service recovery studies) — academic literature; conceptual alignment only"
+  - "Forbes Travel Guide Five-Star service recovery standards — commercial rating system — Forbes Travel Guide; conceptual alignment only"
+  - "International Institute for Conflict Prevention & Resolution (CPR) conflict management frameworks — commercial professional association; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Listens actively; recognizes emotional cues; avoids defensive language; and apologizes sincerely.

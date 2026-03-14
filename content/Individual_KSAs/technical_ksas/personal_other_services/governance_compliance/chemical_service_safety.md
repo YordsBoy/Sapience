@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Handles colourants, relaxers, and disinfectants under OSHA Hazard Communication (29 CFR 1910.1200), monitoring formaldehyde limits and proper Personal Protective Equipment (PPE).
 source_frameworks:
-  - "OSHA Hair-Salon Chemical Hazard Alert"
-  - "NIOSH PPE Selection Guide"
+  - "OSHA Hair Salon Chemical Hazard Alert and 29 CFR 1910.1200 Hazard Communication Standard — U.S. government — DOL/OSHA; public domain"
+  - "NIOSH Personal Protective Equipment Selection Guide — U.S. government — NIOSH/CDC; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Reads Safety Data Sheet (SDS); identifies hazard pictograms.

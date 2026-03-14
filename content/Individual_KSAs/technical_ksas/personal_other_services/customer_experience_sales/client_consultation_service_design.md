@@ -9,10 +9,10 @@ cluster_tags:
   - "Service Design"
 description: Conducting structured client consultations to assess needs, co‑design personalised service plans, and manage expectations using design‑thinking and hospitality‑service frameworks.
 source_frameworks:
-  - "IDEO Health Design Kit"
-  - "State Cosmetology Consent Forms"
-  - "International Customer Service Association (ICSA) Consultation Standards"
-  - "Design Thinking for Services (DT4S)"
+  - "IDEO Health Design Kit — commercial design firm — IDEO; conceptual alignment only"
+  - "State cosmetology board informed consent requirements — state government regulatory bodies; publicly available"
+  - "International Customer Service Association (ICSA) professional standards — commercial professional association — ICSA; conceptual alignment only"
+  - "Design Thinking for Services methodology (Stickdorn & Schneider, This is Service Design Thinking, 2010) — academic framework; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Greets client; lists open‑ended questions; records basic preferences; summarizes agreed services.

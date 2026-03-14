@@ -9,9 +9,9 @@ cluster_tags:
   - "Soft Skills"
 description: Reads verbal and non-verbal signals to tailor services, defuse tension, and create personalized experiences that build loyalty.
 source_frameworks:
-  - "Daniel Goleman EI Matrix"
-  - "Harvard Business Review Empathy Mapping"
-  - "aha:ServiceExcellence"
+  - "Goleman Emotional Intelligence framework (Goleman 1995, 1998) — academic/commercial framework; conceptual alignment only"
+  - "Empathy mapping methodology (Gray et al. 2010; Harvard Business Review practitioner applications) — academic/commercial publication; conceptual alignment only"
+  - "American Hotel & Lodging Association (AHA) Service Excellence standards — commercial professional association — AHA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines empathy vs sympathy; maintains eye contact; acknowledges client emotions and mirrors tone politely.

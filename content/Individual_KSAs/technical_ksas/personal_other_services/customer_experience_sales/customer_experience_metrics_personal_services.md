@@ -9,13 +9,13 @@ cluster_tags:
   - "Analytics"
 description: Measuring service quality via Net Promoter Score (NPS), Customer Satisfaction (CSAT), and sentiment analysis; applying Lean continuous‑improvement cycles to enhance personal‑service experiences.
 source_frameworks:
-  - "Qualtrics NPS Guide"
-  - "CXPA Measurement Standards"
-  - "American Customer Satisfaction Index (ACSI) Methodology"
-  - "Lean Service Excellence Playbook"
+  - "Qualtrics NPS Methodology Guide — vendor documentation — Qualtrics; conceptual alignment only — equivalent survey platforms may demonstrate competency"
+  - "CXPA Customer Experience Measurement Standards — commercial professional association — Customer Experience Professionals Association; conceptual alignment only"
+  - "American Customer Satisfaction Index (ACSI) methodology — commercial research organization — ACSI/University of Michigan; conceptual alignment only"
+  - "Lean service improvement principles (Womack & Jones, Lean Thinking, 1996; applied to service contexts) — academic/commercial framework; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
-    indicator: Calculates NPS; knows promoter vs detractor; Collects post‑service feedback; calculates basic CSAT scores; identifies common complaints.
+    indicator: Calculates basic NPS; distinguishes promoter from detractor categories; collects post-service feedback via simple surveys; calculates basic CSAT scores; identifies recurring complaint themes.
   - level: Basic
     indicator: Implements NPS surveys; logs CSAT; sets baseline; tracks repeat‑visit rates; visualises trend charts.
   - level: Intermediate

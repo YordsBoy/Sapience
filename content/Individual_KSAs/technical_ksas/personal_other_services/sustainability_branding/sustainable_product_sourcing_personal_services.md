@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Procures eco-certified cosmetics (COSMOS, Leaping Bunny), biodegradable disposables, and implements waste-reduction practices.
 source_frameworks:
-  - "COSMOS Organic Standard"
-  - "Leaping Bunny Cruelty-Free Certification"
+  - "COSMOS Organic Standard — commercial certification program — COSMOS-standard AISBL; conceptual alignment only"
+  - "Leaping Bunny Cruelty-Free certification program — commercial certification program — Leaping Bunny/CCIC; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies eco labels; inventories products.

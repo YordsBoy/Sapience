@@ -9,9 +9,9 @@ cluster_tags:
   - "Dispatch"
 description: Optimizing appointment scheduling, route planning, and real‑time dispatch for mobile personal‑service providers using field‑service‑management (FSM) software, GPS, and customer‑communication tools.
 source_frameworks:
-  - "CFA Route Optimisation Standards"
-  - "Field Service Management Association (FSMA) Best Practices"
-  - "Project Management Institute (PMI) Service Scheduling Guide"
+  - "Field service route optimization best practices (e.g., IFS/ServiceMax industry research; Gartner Field Service Management Market Guide) — commercial research; conceptual alignment only"
+  - "Field service management industry best practices (e.g., Service Council; WBR Insights Field Service USA research) — commercial industry research; conceptual alignment only"
+  - "PMI scheduling management principles (PMBOK Guide 7th Ed.) — commercial professional association — Project Management Institute; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists job types; assigns priority codes; enters appointments; confirms customer addresses; tracks technician status.

@@ -9,10 +9,10 @@ cluster_tags:
   - "Infection Control"
 description: Complying with state and national licensing requirements for cosmetology, massage, and esthetics while implementing sanitation, sterilisation, and infection‑control protocols outlined by the Centers for Disease Control and Prevention (CDC) and professional boards.
 source_frameworks:
-  - "CDC Infection Control Core Practices"
-  - "CDC Nail Salon Worker Health & Safety"
-  - "State Cosmetology Sanitary Standards"
-  - "International Spa Association (ISPA) Sanitation Standards"
+  - "CDC Core Infection Prevention and Control Practices — U.S. government — CDC/HHS; public domain"
+  - "CDC Nail Salon Worker Health and Safety guidance — U.S. government — CDC/NIOSH; public domain"
+  - "State cosmetology board sanitary standards and regulations — state government regulatory bodies; publicly available"
+  - "International Spa Association (ISPA) sanitation and safety standards — commercial professional association — ISPA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies license categories; distinguishes single‑use vs. reusable tools; describes basic sanitation steps; washes hands per CDC guidelines.
@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Audits staff compliance; passes surprise inspection; develops salon infection‑control SOPs; trains staff on pathogen updates; coordinates health‑inspector visits.
   - level: Expert
-    indicator: Trains region;; advises regulatory boards; certifies multiple facilities; publishes sanitation‑compliance research.
+    indicator: Trains regional practitioners; advises regulatory boards; certifies multiple facilities; publishes sanitation-compliance research.
 ---

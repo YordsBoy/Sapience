@@ -9,9 +9,9 @@ cluster_tags:
   - "Retail"
 description: Identifies client needs and recommends complementary products or premium upgrades to enhance experience and increase average ticket size ethically.
 source_frameworks:
-  - "Retail Upsell Playbook"
-  - "LinkedIn Personal Branding Insights"
-  - "hubspot:ConsultativeSales"
+  - "Retail upselling and consultative sales frameworks (e.g., Miller Heiman Group; Rackham SPIN Selling, 1988) — commercial/academic; conceptual alignment only"
+  - "LinkedIn Personal Branding resources — vendor platform — LinkedIn/Microsoft; conceptual alignment only — equivalent professional networking platforms may demonstrate competency"
+  - "HubSpot Consultative Sales methodology — vendor documentation — HubSpot; conceptual alignment only — equivalent CRM and sales platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Knows product lines; observes cues; mentions add-on options during checkout.

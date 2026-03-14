@@ -11,8 +11,8 @@ description: >
   Protects client personal and health data under GDPR, HIPAA (where aesthetic
   services collect medical info), and implements ISO 27001 controls.
 source_frameworks:
-  - "GDPR Compliance Guide"
-  - "ISO/IEC 27001 Information Security"
+  - "EU General Data Protection Regulation (GDPR) Regulation (EU) 2016/679 — European Union law; publicly available"
+  - "ISO/IEC 27001:2022 Information Security Management Systems — ISO/IEC proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains PII vs PHI; secures paper files.

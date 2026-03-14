@@ -9,10 +9,10 @@ cluster_tags:
   - "Safety"
 description: Implementing policies, background‑screening, incident response, and customer‑protections to ensure safety and privacy during in‑home personal services, aligned with National Association of Professional Background Screeners (NAPBS) and platform trust‑and‑safety benchmarks.
 source_frameworks:
-  - "OSHA Lone Worker Guidance"
-  - "Trust & Safety Professional Association Toolkit"
-  - "NAPBS Background Screening Guidelines"
-  - "SafeService Alliance Trust & Safety Framework"
+  - "OSHA Lone Worker safety guidance — U.S. government — DOL/OSHA; public domain"
+  - "Trust & Safety Professional Association (TSPA) Toolkit — commercial professional association — TSPA; conceptual alignment only"
+  - "PBSA (Professional Background Screening Association, formerly NAPBS) Background Screening Guidelines — commercial professional association — PBSA; conceptual alignment only"
+  - "Home service trust and safety best practices (e.g., TSPA platform trust standards; PBSA background screening guidelines) — commercial professional associations; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Verifies identity; lists risks; enables location-sharing; follows check‑in/out procedures; recognizes red‑flag behaviors.

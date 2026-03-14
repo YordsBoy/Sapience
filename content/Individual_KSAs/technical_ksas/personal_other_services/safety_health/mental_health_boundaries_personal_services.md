@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Sets workload limits, practices mindfulness, and recognizes compassion fatigue, following WHO workplace-wellbeing guidelines.
 source_frameworks:
-  - "WHO Mental Health at Work Guidelines"
-  - "National Alliance on Mental Illness Self-Care Toolkit"
+  - "WHO Mental Health at Work guidelines — intergovernmental organization — WHO (UN); publicly available"
+  - "NAMI (National Alliance on Mental Illness) self-care resources — non-profit organization — NAMI; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies burnout signs; schedules breaks.

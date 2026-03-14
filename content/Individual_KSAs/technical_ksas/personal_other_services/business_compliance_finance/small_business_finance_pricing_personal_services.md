@@ -11,8 +11,8 @@ description: >
   Sets service prices using cost-plus, value-based, and dynamic demand models;
   analyses break-even and profit margin.
 source_frameworks:
-  - "SBA Break-Even Calculator"
-  - "Harvard Business Review Value-Based Pricing"
+  - "SBA Break-Even Calculator and financial planning resources — U.S. government — SBA; public domain"
+  - "Value-based pricing research literature (e.g., Nagle & Müller, Strategy and Tactics of Pricing; Harvard Business Review pricing articles) — academic/commercial publication; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists fixed vs variable cost; calculates breakeven.

@@ -9,10 +9,10 @@ cluster_tags:
   - "Regulatory"
 description: Maintains hygienic workspaces, adheres to health regulations, and documents procedures to safeguard clients and staff.
 source_frameworks:
-  - "ISO 9001:2015 Quality Management"
-  - "Local Health-Dept Salon Code"
-  - "OSHA 29 CFR 1910 (General Industry)"
-  - "CDC Infection Control Guidelines"
+  - "ISO 9001:2015 Quality Management Systems: Requirements — ISO proprietary standard; conceptual alignment only"
+  - "Local health department salon and personal services sanitation codes — local/state government regulatory bodies; publicly available"
+  - "OSHA 29 CFR 1910 General Industry Standards — U.S. government — DOL/OSHA; public domain"
+  - "CDC Infection Control in Healthcare Facilities guidelines — U.S. government — CDC/HHS; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: States daily/weekly cleaning tasks; lists inspection items; follows basic cleaning checklists and uses PPE.

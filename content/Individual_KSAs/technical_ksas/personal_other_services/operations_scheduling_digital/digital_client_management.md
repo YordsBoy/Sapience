@@ -10,12 +10,12 @@ cluster_tags:
 description: >  
   Uses digital tools to manage appointments, client records, and communications in personal service businesses (salons, personal training, home repair, etc.); maintains an online booking system or calendar app, sends automated reminders, tracks client preferences and feedback in a simple CRM or database to enhance service quality.  
 source_frameworks:
-  - "GDPR Compliance Guide"
-  - "PCI-DSS v4.0"
-  - "Small Business Client Management Best Practices (SBA)"  
+  - "EU General Data Protection Regulation (GDPR) Regulation (EU) 2016/679 — European Union law; publicly available"
+  - "PCI-DSS v4.0 Payment Card Industry Data Security Standard — commercial standards body — PCI Security Standards Council; conceptual alignment only"
+  - "SBA small business client management guidance — U.S. government — SBA; public domain"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Knows that appointments can be booked online or via apps; has basic experience with using a digital calendar or texting clients; captures basic info; sets reminder..  
+    indicator: Identifies online and app-based appointment booking options; uses a digital calendar or text messaging for basic client scheduling; captures basic client contact information; sets appointment reminders.  
   - level: Basic  
     indicator: Uses a standard scheduling app (or even Google Calendar) to set appointments; manually reminds clients via text or call; keeps basic notes on client preferences in a notebook or simple spreadsheet; processes card; issues receipt.
   - level: Intermediate  
@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced  
     indicator: Integrates scheduling with other tools (payment, CRM for promotions); analyzes booking data to identify peak times or lulls; personalizes marketing (emails/texts on birthdays or tailored offers) using client data; syncs marketing emails; encrypts backups; audits permissions.  
   - level: Expert  
-    indicator: Manages client relations at scale (for a chain or multi-site service business) using a professional CRM; optimizes scheduling to maximize utilization and customer satisfaction; mentors others in adopting digital client management practices; aligns with SBA recommended best practices for small service business management; builds API integrations; migrates data warehouse.  
+    indicator: Manages client relations at scale across a chain or multi-site service business using a professional CRM; optimizes scheduling to maximize utilization and client satisfaction; mentors staff in digital client management adoption; aligns operations with SBA and industry best practices for small service business management.  
 ---  

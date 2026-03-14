@@ -9,9 +9,9 @@ cluster_tags:
   - "Safety"
 description: Applies ergonomic principles to minimize strain and injury, optimizing workspace layout and technician posture for sustainable careers.
 source_frameworks:
-  - "NIOSH Ergonomic Guidelines"
-  - "PMC Hairdresser MSD Study"
-  - "osha:ErgonomicsGuidelines"
+  - "NIOSH Ergonomic Guidelines for Manual Material Handling and Work-Related Musculoskeletal Disorders — U.S. government — NIOSH/CDC; public domain"
+  - "Musculoskeletal disorder research in hairdressing (e.g., Alexopoulos et al., published via PubMed Central) — academic literature; conceptual alignment only"
+  - "OSHA Ergonomics Program guidelines and e-Tools — U.S. government — DOL/OSHA; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies awkward postures; lists high-risk tasks; adjusts chair height and uses basic posture reminders.

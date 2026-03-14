@@ -5539,8 +5539,8 @@
     ],
     "description": "Procures eco-certified cosmetics (COSMOS, Leaping Bunny), biodegradable disposables, and implements waste-reduction practices.\n",
     "source_frameworks": [
-      "COSMOS Organic Standard",
-      "Leaping Bunny Cruelty-Free Certification"
+      "COSMOS Organic Standard — commercial certification program — COSMOS-standard AISBL; conceptual alignment only",
+      "Leaping Bunny Cruelty-Free certification program — commercial certification program — Leaping Bunny/CCIC; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -5577,7 +5577,7 @@
     ],
     "description": "Builds and curates an authentic digital identity that attracts clients, showcases expertise, and differentiates services in competitive markets.",
     "source_frameworks": [
-      "google:DigitalGarage"
+      "Google Digital Garage digital marketing resources — vendor platform — Google; conceptual alignment only — equivalent digital marketing platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -5594,7 +5594,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates multi-channel campaigns; launches live streams; integrates Linktree; gains 10k followers; collaborates with influencers."
+        "indicator": "Integrates multi-channel campaigns; launches live streams; uses link-in-bio aggregation tools (e.g., Linktree); collaborates with influencers; grows follower base to meaningful scale."
       },
       {
         "level": "Expert",
@@ -5614,9 +5614,9 @@
     ],
     "description": "Conducts routine inspections, cleaning, and calibration of service equipment to ensure safety, efficiency, and longevity.",
     "source_frameworks": [
-      "Manufacturer Maintenance Manual",
-      "ISO 13485 Small Device Maintenance",
-      "cmms:Basic"
+      "Equipment manufacturer maintenance manuals and service documentation — vendor documentation; conceptual alignment only — practitioners should consult documentation specific to their equipment",
+      "ISO 13485:2016 Medical Devices: Quality Management Systems (maintenance provisions applicable to small device care) — ISO proprietary standard; conceptual alignment only",
+      "Computerized Maintenance Management System (CMMS) industry best practices — commercial technology category; conceptual alignment only — equivalent CMMS platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -5653,8 +5653,8 @@
     ],
     "description": "Sets workload limits, practices mindfulness, and recognizes compassion fatigue, following WHO workplace-wellbeing guidelines.\n",
     "source_frameworks": [
-      "WHO Mental Health at Work Guidelines",
-      "National Alliance on Mental Illness Self-Care Toolkit"
+      "WHO Mental Health at Work guidelines — intergovernmental organization — WHO (UN); publicly available",
+      "NAMI (National Alliance on Mental Illness) self-care resources — non-profit organization — NAMI; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -5691,9 +5691,9 @@
     ],
     "description": "Applies ergonomic principles to minimize strain and injury, optimizing workspace layout and technician posture for sustainable careers.",
     "source_frameworks": [
-      "NIOSH Ergonomic Guidelines",
-      "PMC Hairdresser MSD Study",
-      "osha:ErgonomicsGuidelines"
+      "NIOSH Ergonomic Guidelines for Manual Material Handling and Work-Related Musculoskeletal Disorders — U.S. government — NIOSH/CDC; public domain",
+      "Musculoskeletal disorder research in hairdressing (e.g., Alexopoulos et al., published via PubMed Central) — academic literature; conceptual alignment only",
+      "OSHA Ergonomics Program guidelines and e-Tools — U.S. government — DOL/OSHA; public domain"
     ],
     "proficiency_levels": [
       {
@@ -5730,9 +5730,9 @@
     ],
     "description": "Optimizing appointment scheduling, route planning, and real‑time dispatch for mobile personal‑service providers using field‑service‑management (FSM) software, GPS, and customer‑communication tools.",
     "source_frameworks": [
-      "CFA Route Optimisation Standards",
-      "Field Service Management Association (FSMA) Best Practices",
-      "Project Management Institute (PMI) Service Scheduling Guide"
+      "Field service route optimization best practices (e.g., IFS/ServiceMax industry research; Gartner Field Service Management Market Guide) — commercial research; conceptual alignment only",
+      "Field service management industry best practices (e.g., Service Council; WBR Insights Field Service USA research) — commercial industry research; conceptual alignment only",
+      "PMI scheduling management principles (PMBOK Guide 7th Ed.) — commercial professional association — Project Management Institute; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -5769,14 +5769,14 @@
     ],
     "description": "Uses digital tools to manage appointments, client records, and communications in personal service businesses (salons, personal training, home repair, etc.); maintains an online booking system or calendar app, sends automated reminders, tracks client preferences and feedback in a simple CRM or database to enhance service quality.  \n",
     "source_frameworks": [
-      "GDPR Compliance Guide",
-      "PCI-DSS v4.0",
-      "Small Business Client Management Best Practices (SBA)"
+      "EU General Data Protection Regulation (GDPR) Regulation (EU) 2016/679 — European Union law; publicly available",
+      "PCI-DSS v4.0 Payment Card Industry Data Security Standard — commercial standards body — PCI Security Standards Council; conceptual alignment only",
+      "SBA small business client management guidance — U.S. government — SBA; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows that appointments can be booked online or via apps; has basic experience with using a digital calendar or texting clients; captures basic info; sets reminder.."
+        "indicator": "Identifies online and app-based appointment booking options; uses a digital calendar or text messaging for basic client scheduling; captures basic client contact information; sets appointment reminders."
       },
       {
         "level": "Basic",
@@ -5792,7 +5792,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Manages client relations at scale (for a chain or multi-site service business) using a professional CRM; optimizes scheduling to maximize utilization and customer satisfaction; mentors others in adopting digital client management practices; aligns with SBA recommended best practices for small service business management; builds API integrations; migrates data warehouse."
+        "indicator": "Manages client relations at scale across a chain or multi-site service business using a professional CRM; optimizes scheduling to maximize utilization and client satisfaction; mentors staff in digital client management adoption; aligns operations with SBA and industry best practices for small service business management."
       }
     ]
   },
@@ -5808,9 +5808,9 @@
     ],
     "description": "Utilizes digital booking tools, manages waitlists, and optimizes daily workflow to reduce downtime and maximize revenue per available slot.",
     "source_frameworks": [
-      "AMA Wave Scheduling Guide",
-      "ASAPorg Appointment Best Practices",
-      "nab:BestPracticesScheduling"
+      "American Medical Association (AMA) wave scheduling methodology — commercial professional association — AMA; conceptual alignment only",
+      "American Society of Administrative Professionals (ASAP) scheduling and workflow best practices — commercial professional association — ASAP; conceptual alignment only",
+      "National Academy of Business (NAB) scheduling best practices — commercial training association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -5847,10 +5847,10 @@
     ],
     "description": "Maintains hygienic workspaces, adheres to health regulations, and documents procedures to safeguard clients and staff.",
     "source_frameworks": [
-      "ISO 9001:2015 Quality Management",
-      "Local Health-Dept Salon Code",
-      "OSHA 29 CFR 1910 (General Industry)",
-      "CDC Infection Control Guidelines"
+      "ISO 9001:2015 Quality Management Systems: Requirements — ISO proprietary standard; conceptual alignment only",
+      "Local health department salon and personal services sanitation codes — local/state government regulatory bodies; publicly available",
+      "OSHA 29 CFR 1910 General Industry Standards — U.S. government — DOL/OSHA; public domain",
+      "CDC Infection Control in Healthcare Facilities guidelines — U.S. government — CDC/HHS; public domain"
     ],
     "proficiency_levels": [
       {
@@ -5887,10 +5887,10 @@
     ],
     "description": "Complying with state and national licensing requirements for cosmetology, massage, and esthetics while implementing sanitation, sterilisation, and infection‑control protocols outlined by the Centers for Disease Control and Prevention (CDC) and professional boards.",
     "source_frameworks": [
-      "CDC Infection Control Core Practices",
-      "CDC Nail Salon Worker Health & Safety",
-      "State Cosmetology Sanitary Standards",
-      "International Spa Association (ISPA) Sanitation Standards"
+      "CDC Core Infection Prevention and Control Practices — U.S. government — CDC/HHS; public domain",
+      "CDC Nail Salon Worker Health and Safety guidance — U.S. government — CDC/NIOSH; public domain",
+      "State cosmetology board sanitary standards and regulations — state government regulatory bodies; publicly available",
+      "International Spa Association (ISPA) sanitation and safety standards — commercial professional association — ISPA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -5911,7 +5911,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Trains region;; advises regulatory boards; certifies multiple facilities; publishes sanitation‑compliance research."
+        "indicator": "Trains regional practitioners; advises regulatory boards; certifies multiple facilities; publishes sanitation-compliance research."
       }
     ]
   },
@@ -5927,10 +5927,10 @@
     ],
     "description": "Implementing policies, background‑screening, incident response, and customer‑protections to ensure safety and privacy during in‑home personal services, aligned with National Association of Professional Background Screeners (NAPBS) and platform trust‑and‑safety benchmarks.",
     "source_frameworks": [
-      "OSHA Lone Worker Guidance",
-      "Trust & Safety Professional Association Toolkit",
-      "NAPBS Background Screening Guidelines",
-      "SafeService Alliance Trust & Safety Framework"
+      "OSHA Lone Worker safety guidance — U.S. government — DOL/OSHA; public domain",
+      "Trust & Safety Professional Association (TSPA) Toolkit — commercial professional association — TSPA; conceptual alignment only",
+      "PBSA (Professional Background Screening Association, formerly NAPBS) Background Screening Guidelines — commercial professional association — PBSA; conceptual alignment only",
+      "Home service trust and safety best practices (e.g., TSPA platform trust standards; PBSA background screening guidelines) — commercial professional associations; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -5967,8 +5967,8 @@
     ],
     "description": "Protects client personal and health data under GDPR, HIPAA (where aesthetic services collect medical info), and implements ISO 27001 controls.\n",
     "source_frameworks": [
-      "GDPR Compliance Guide",
-      "ISO/IEC 27001 Information Security"
+      "EU General Data Protection Regulation (GDPR) Regulation (EU) 2016/679 — European Union law; publicly available",
+      "ISO/IEC 27001:2022 Information Security Management Systems — ISO/IEC proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -6005,8 +6005,8 @@
     ],
     "description": "Handles colourants, relaxers, and disinfectants under OSHA Hazard Communication (29 CFR 1910.1200), monitoring formaldehyde limits and proper Personal Protective Equipment (PPE).\n",
     "source_frameworks": [
-      "OSHA Hair-Salon Chemical Hazard Alert",
-      "NIOSH PPE Selection Guide"
+      "OSHA Hair Salon Chemical Hazard Alert and 29 CFR 1910.1200 Hazard Communication Standard — U.S. government — DOL/OSHA; public domain",
+      "NIOSH Personal Protective Equipment Selection Guide — U.S. government — NIOSH/CDC; public domain"
     ],
     "proficiency_levels": [
       {
@@ -6043,9 +6043,9 @@
     ],
     "description": "Identifies client needs and recommends complementary products or premium upgrades to enhance experience and increase average ticket size ethically.",
     "source_frameworks": [
-      "Retail Upsell Playbook",
-      "LinkedIn Personal Branding Insights",
-      "hubspot:ConsultativeSales"
+      "Retail upselling and consultative sales frameworks (e.g., Miller Heiman Group; Rackham SPIN Selling, 1988) — commercial/academic; conceptual alignment only",
+      "LinkedIn Personal Branding resources — vendor platform — LinkedIn/Microsoft; conceptual alignment only — equivalent professional networking platforms may demonstrate competency",
+      "HubSpot Consultative Sales methodology — vendor documentation — HubSpot; conceptual alignment only — equivalent CRM and sales platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -6082,9 +6082,9 @@
     ],
     "description": "Designs and manages loyalty initiatives, gathers feedback, and analyzes retention metrics to cultivate long-term client relationships.",
     "source_frameworks": [
-      "Salon Today Loyalty Benchmark",
-      "Bain & Company Loyalty Economics",
-      "nps:LoyaltyLoop"
+      "Salon Today loyalty benchmarking data — commercial trade publication — Salon Today/Endeavor Business Media; conceptual alignment only",
+      "Bain & Company loyalty economics research (Reichheld & Sasser 1990; Reichheld 1996) — commercial consulting firm; conceptual alignment only",
+      "Net Promoter System Loyalty Loop framework (Bain & Company / Satmetrix) — commercial proprietary methodology; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -6121,15 +6121,15 @@
     ],
     "description": "Measuring service quality via Net Promoter Score (NPS), Customer Satisfaction (CSAT), and sentiment analysis; applying Lean continuous‑improvement cycles to enhance personal‑service experiences.",
     "source_frameworks": [
-      "Qualtrics NPS Guide",
-      "CXPA Measurement Standards",
-      "American Customer Satisfaction Index (ACSI) Methodology",
-      "Lean Service Excellence Playbook"
+      "Qualtrics NPS Methodology Guide — vendor documentation — Qualtrics; conceptual alignment only — equivalent survey platforms may demonstrate competency",
+      "CXPA Customer Experience Measurement Standards — commercial professional association — Customer Experience Professionals Association; conceptual alignment only",
+      "American Customer Satisfaction Index (ACSI) methodology — commercial research organization — ACSI/University of Michigan; conceptual alignment only",
+      "Lean service improvement principles (Womack & Jones, Lean Thinking, 1996; applied to service contexts) — academic/commercial framework; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Calculates NPS; knows promoter vs detractor; Collects post‑service feedback; calculates basic CSAT scores; identifies common complaints."
+        "indicator": "Calculates basic NPS; distinguishes promoter from detractor categories; collects post-service feedback via simple surveys; calculates basic CSAT scores; identifies recurring complaint themes."
       },
       {
         "level": "Basic",
@@ -6161,9 +6161,9 @@
     ],
     "description": "Handles dissatisfied clients professionally, applies de-escalation techniques, and delivers fair resolutions that protect reputation.",
     "source_frameworks": [
-      "Cornell Hospitality SRP Research",
-      "Forbes Five-Star Service Recovery",
-      "icc:ConflictManagement"
+      "Service Recovery Paradox research literature (McCollough & Bharadwaj 1992; Cornell School of Hotel Administration hospitality service recovery studies) — academic literature; conceptual alignment only",
+      "Forbes Travel Guide Five-Star service recovery standards — commercial rating system — Forbes Travel Guide; conceptual alignment only",
+      "International Institute for Conflict Prevention & Resolution (CPR) conflict management frameworks — commercial professional association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -6200,9 +6200,9 @@
     ],
     "description": "Reads verbal and non-verbal signals to tailor services, defuse tension, and create personalized experiences that build loyalty.",
     "source_frameworks": [
-      "Daniel Goleman EI Matrix",
-      "Harvard Business Review Empathy Mapping",
-      "aha:ServiceExcellence"
+      "Goleman Emotional Intelligence framework (Goleman 1995, 1998) — academic/commercial framework; conceptual alignment only",
+      "Empathy mapping methodology (Gray et al. 2010; Harvard Business Review practitioner applications) — academic/commercial publication; conceptual alignment only",
+      "American Hotel & Lodging Association (AHA) Service Excellence standards — commercial professional association — AHA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -6239,10 +6239,10 @@
     ],
     "description": "Conducting structured client consultations to assess needs, co‑design personalised service plans, and manage expectations using design‑thinking and hospitality‑service frameworks.",
     "source_frameworks": [
-      "IDEO Health Design Kit",
-      "State Cosmetology Consent Forms",
-      "International Customer Service Association (ICSA) Consultation Standards",
-      "Design Thinking for Services (DT4S)"
+      "IDEO Health Design Kit — commercial design firm — IDEO; conceptual alignment only",
+      "State cosmetology board informed consent requirements — state government regulatory bodies; publicly available",
+      "International Customer Service Association (ICSA) professional standards — commercial professional association — ICSA; conceptual alignment only",
+      "Design Thinking for Services methodology (Stickdorn & Schneider, This is Service Design Thinking, 2010) — academic framework; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -6279,8 +6279,8 @@
     ],
     "description": "Sets service prices using cost-plus, value-based, and dynamic demand models; analyses break-even and profit margin.\n",
     "source_frameworks": [
-      "SBA Break-Even Calculator",
-      "Harvard Business Review Value-Based Pricing"
+      "SBA Break-Even Calculator and financial planning resources — U.S. government — SBA; public domain",
+      "Value-based pricing research literature (e.g., Nagle & Müller, Strategy and Tactics of Pricing; Harvard Business Review pricing articles) — academic/commercial publication; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -6317,13 +6317,13 @@
     ],
     "description": "Navigates permits, local licensing, basic contracts, and tax obligations to operate personal-service businesses legally and efficiently.",
     "source_frameworks": [
-      "SBA State Licence Directory",
-      "IRS Small Business Tax Center"
+      "SBA State Business License Directory — U.S. government — SBA; public domain",
+      "IRS Small Business and Self-Employed Tax Center — U.S. government — IRS/Treasury; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Obtains necessary local service license; lists required licencses; tracks renewal dates."
+        "indicator": "Obtains necessary local service license; lists required licenses by service type; tracks renewal dates."
       },
       {
         "level": "Basic",
@@ -6355,14 +6355,14 @@
     ],
     "description": "Runs the basic operations of a personal service venture (e.g., a home salon, freelance repair service, tutoring business); handles necessary licenses/permits, basic bookkeeping and budgeting, pricing of services, marketing to local clients (including social media promotion), and ensures customer satisfaction and repeat business through good service practices.  \n",
     "source_frameworks": [
-      "Small Business Compliance Checklist",
-      "SBA SOP 50 10",
-      "SBA Small Business Management Guide"
+      "SBA Small Business Compliance resources — U.S. government — SBA; public domain",
+      "SBA Standard Operating Procedure (SOP) 50 10 — U.S. government — SBA; public domain",
+      "SBA Small Business Management Guide — U.S. government — SBA; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Aware that even a small home business might need a permit or license; tracks income/expense; files receipts."
+        "indicator": "Identifies permit and license requirements applicable to home-based personal service businesses; tracks basic income and expense transactions; files and organizes receipts."
       },
       {
         "level": "Basic",
@@ -6394,8 +6394,8 @@
     ],
     "description": "Accepts contactless payments via NFC, QR, and mobile wallets, maintaining PCI-DSS compliance and reconciling payouts.\n",
     "source_frameworks": [
-      "PCI-DSS v4.0",
-      "Square Contactless Reader Guide"
+      "PCI-DSS v4.0 Payment Card Industry Data Security Standard — commercial standards body — PCI Security Standards Council; conceptual alignment only",
+      "Square Contactless Reader Guide — vendor documentation — Square/Block Inc.; conceptual alignment only — equivalent mobile payment platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {

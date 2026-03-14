@@ -9,9 +9,9 @@ cluster_tags:
   - "Retention"
 description: Designs and manages loyalty initiatives, gathers feedback, and analyzes retention metrics to cultivate long-term client relationships.
 source_frameworks:
-  - "Salon Today Loyalty Benchmark"
-  - "Bain & Company Loyalty Economics"
-  - "nps:LoyaltyLoop"
+  - "Salon Today loyalty benchmarking data — commercial trade publication — Salon Today/Endeavor Business Media; conceptual alignment only"
+  - "Bain & Company loyalty economics research (Reichheld & Sasser 1990; Reichheld 1996) — commercial consulting firm; conceptual alignment only"
+  - "Net Promoter System Loyalty Loop framework (Bain & Company / Satmetrix) — commercial proprietary methodology; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists loyalty drivers; collects email/phone; records repeat-visit counts and basic feedback.

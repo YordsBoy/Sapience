@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Accepts contactless payments via NFC, QR, and mobile wallets, maintaining PCI-DSS compliance and reconciling payouts.
 source_frameworks:
-  - "PCI-DSS v4.0"
-  - "Square Contactless Reader Guide"
+  - "PCI-DSS v4.0 Payment Card Industry Data Security Standard — commercial standards body — PCI Security Standards Council; conceptual alignment only"
+  - "Square Contactless Reader Guide — vendor documentation — Square/Block Inc.; conceptual alignment only — equivalent mobile payment platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Lists payment types; recognizes transaction fees.

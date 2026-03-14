@@ -10,12 +10,12 @@ cluster_tags:
 description: >  
   Runs the basic operations of a personal service venture (e.g., a home salon, freelance repair service, tutoring business); handles necessary licenses/permits, basic bookkeeping and budgeting, pricing of services, marketing to local clients (including social media promotion), and ensures customer satisfaction and repeat business through good service practices.  
 source_frameworks:
-  - "Small Business Compliance Checklist"
-  - "SBA SOP 50 10" 
-  - "SBA Small Business Management Guide"  
+  - "SBA Small Business Compliance resources — U.S. government — SBA; public domain"
+  - "SBA Standard Operating Procedure (SOP) 50 10 — U.S. government — SBA; public domain"
+  - "SBA Small Business Management Guide — U.S. government — SBA; public domain"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Aware that even a small home business might need a permit or license; tracks income/expense; files receipts.  
+    indicator: Identifies permit and license requirements applicable to home-based personal service businesses; tracks basic income and expense transactions; files and organizes receipts.  
   - level: Basic  
     indicator: Registers for any required local license (or at least knows where to find out requirements); keeps simple income and expense records; sets prices by checking competitors; reconciles bank; pays sales tax; manages petty cash; relies mostly on word-of-mouth for marketing.  
   - level: Intermediate  

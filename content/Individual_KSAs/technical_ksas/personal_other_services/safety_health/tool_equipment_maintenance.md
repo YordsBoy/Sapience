@@ -9,9 +9,9 @@ cluster_tags:
   - "Equipment"
 description: Conducts routine inspections, cleaning, and calibration of service equipment to ensure safety, efficiency, and longevity.
 source_frameworks:
-  - "Manufacturer Maintenance Manual"
-  - "ISO 13485 Small Device Maintenance"
-  - "cmms:Basic"
+  - "Equipment manufacturer maintenance manuals and service documentation — vendor documentation; conceptual alignment only — practitioners should consult documentation specific to their equipment"
+  - "ISO 13485:2016 Medical Devices: Quality Management Systems (maintenance provisions applicable to small device care) — ISO proprietary standard; conceptual alignment only"
+  - "Computerized Maintenance Management System (CMMS) industry best practices — commercial technology category; conceptual alignment only — equivalent CMMS platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies tool parts; cleans tools after each use and/or daily following SOP.

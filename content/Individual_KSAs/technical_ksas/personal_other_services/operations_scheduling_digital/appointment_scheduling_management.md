@@ -9,9 +9,9 @@ cluster_tags:
   - "Operations"
 description: Utilizes digital booking tools, manages waitlists, and optimizes daily workflow to reduce downtime and maximize revenue per available slot.
 source_frameworks:
-  - "AMA Wave Scheduling Guide"
-  - "ASAPorg Appointment Best Practices" 
-  - "nab:BestPracticesScheduling"
+  - "American Medical Association (AMA) wave scheduling methodology — commercial professional association — AMA; conceptual alignment only"
+  - "American Society of Administrative Professionals (ASAP) scheduling and workflow best practices — commercial professional association — ASAP; conceptual alignment only"
+  - "National Academy of Business (NAB) scheduling best practices — commercial training association; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Calculates capacity; lists booking channels; confirms appointments and records basic client data.
