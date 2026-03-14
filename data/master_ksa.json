@@ -2577,7 +2577,7 @@
   },
   {
     "ksa_id": "fiber_outside_plant_construction_safety",
-    "label": "Fiber Outside‑Plant Construction Safety",
+    "label": "Fiber Outside-Plant Construction Safety",
     "category": "Technical",
     "sector": "telecommunications",
     "horizon": "core",
@@ -2585,39 +2585,39 @@
       "Fiber",
       "OSP Construction"
     ],
-    "description": "Managing fiber‑optic outside‑plant (OSP) construction—trenching, aerial installation, splicing—while adhering to Occupational Safety and Health Administration (OSHA) standards, National Electrical Safety Code (NESC), and industry best practices for excavation and working at height.",
+    "description": "Managing fiber-optic outside-plant (OSP) construction—trenching, aerial installation, splicing—while adhering to Occupational Safety and Health Administration (OSHA) standards, National Electrical Safety Code (NESC), and industry best practices for excavation and working at height.",
     "source_frameworks": [
-      "OSHA 29 CFR 1926 Subpart P",
-      "NESC 2023",
-      "ITU-T L.110",
-      "Fiber Broadband Association OSP Handbook"
+      "OSHA 29 CFR 1926 Subpart P — Excavations safety regulations (U.S. government regulation — Occupational Safety and Health Administration; public domain)",
+      "National Electrical Safety Code (NESC) 2023 (proprietary standard — IEEE/ANSI; conceptual alignment only)",
+      "ITU-T L.110 — Optical fibre cables for outdoor infrastructure (International Telecommunication Union; publicly available)",
+      "Fiber Broadband Association Outside Plant Handbook (industry association — Fiber Broadband Association; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies OSP topologies; recognizes common hazards; conducts job‑site briefings; dons Personal Protective Equipment (PPE); identifies underground‑utility marks."
+        "indicator": "Identifies OSP topologies; recognizes common hazards; conducts job-site briefings; dons Personal Protective Equipment (PPE); identifies underground-utility marks."
       },
       {
         "level": "Basic",
-        "indicator": "Marks utilities (811); sets up traffic control; implements lockout/tagout on aerial networks; uses fall‑arrest gear; maintains splice enclosures."
+        "indicator": "Marks utilities (811); sets up traffic control; implements lockout/tagout on aerial networks; uses fall-arrest gear; maintains splice enclosures."
       },
       {
         "level": "Intermediate",
-        "indicator": "Coordinates one‑call dig permits; calculates clearances; supervises splicing; tests OTDR loss ≤ 0.3 dB; analyses tension and sag calculations; ensures traffic‑control plans."
+        "indicator": "Coordinates one-call dig permits; calculates clearances; supervises splicing; tests OTDR loss ≤ 0.3 dB; analyses tension and sag calculations; ensures traffic-control plans."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs micro‑trench routes; supervises multi‑contractor builds; enforces QA/QC plan; audits safety compliance KPIs; closes permits with as-built GIS."
+        "indicator": "Designs micro-trench routes; supervises multi-contractor builds; enforces QA/QC plan; audits safety compliance KPIs; closes permits with as-built GIS."
       },
       {
         "level": "Expert",
-        "indicator": "Manages multi-state fiber program; mentors safety officers; drives zero-incident culture; leads nationwide fiber rollouts; shapes OSP safety guidelines; publishes construction‑safety studies."
+        "indicator": "Manages multi-state fiber program; mentors safety officers; drives zero-incident culture; leads nationwide fiber rollouts; shapes OSP safety guidelines; publishes construction-safety studies."
       }
     ]
   },
   {
     "ksa_id": "ran_optimization_self_organising_networks",
-    "label": "RAN Optimization & Self‑Organising Networks (SON)",
+    "label": "RAN Optimization & Self-Organising Networks (SON)",
     "category": "Technical",
     "sector": "telecommunications",
     "horizon": "core",
@@ -2625,13 +2625,12 @@
       "RAN Optimization",
       "SON"
     ],
-    "description": "Tuning 4G/5G Radio‑Access‑Network (RAN) parameters, executing drive‑tests, and deploying Self‑Organising Network (SON) functions—ANR, PCI conflict resolution, load balancing—per 3GPP TS 32.500 and O‑RAN WG standards.",
+    "description": "Tuning 4G/5G Radio-Access-Network (RAN) parameters, executing drive-tests, and deploying Self-Organising Network (SON) functions—ANR, PCI conflict resolution, load balancing—per 3GPP TS 32.500 and O-RAN WG standards.",
     "source_frameworks": [
-      "3GPP TS 32.500 SON",
-      "3GPP TS 32.500 RAN Performance Management",
-      "O-RAN SC Near-RT RIC",
-      "O‑RAN Alliance WG9 SON Architecture",
-      "ITU‑T M.2120 Radio Performance KPIs"
+      "3GPP TS 32.500 — Telecommunication management: Self-Organising Networks (SON) policy network concept (3GPP standards body; publicly available)",
+      "O-RAN Software Community Near-Real-Time RAN Intelligent Controller (Near-RT RIC) specifications (open-source — O-RAN Software Community; publicly available)",
+      "O-RAN Alliance Working Group 9 SON Architecture specifications (industry consortium — O-RAN Alliance; publicly available)",
+      "ITU-T M.2120 — Radio performance KPI definition framework (International Telecommunication Union; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -2640,25 +2639,25 @@
       },
       {
         "level": "Basic",
-        "indicator": "Conducts drive‑test analysis; adjusts handover thresholds; runs automatic‑neighbour‑relation (ANR) scripts; triggers coverage/capacity optimization."
+        "indicator": "Conducts drive-test analysis; adjusts handover thresholds; runs automatic-neighbour-relation (ANR) scripts; triggers coverage/capacity optimization."
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements PCI optimization; implements AI xApp for mobility robustness; balances traffic via cell‑individual‑offset (CIO); reduces dropped‑call rate."
+        "indicator": "Implements PCI optimization; implements AI xApp for mobility robustness; balances traffic via cell-individual-offset (CIO); reduces dropped-call rate."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs closed‑loop SON policies; integrates AI models for interference mitigation; audits KPI improvements; reduces HO failure."
+        "indicator": "Designs closed-loop SON policies; integrates AI models for interference mitigation; audits KPI improvements; reduces HO failure."
       },
       {
         "level": "Expert",
-        "indicator": "Leads nationwide RAN optimization programs; designs RIC marketplace; mentors optimization engineers;shapes O‑RAN SON standards; publishes optimization research."
+        "indicator": "Leads nationwide RAN optimization programs; designs RIC marketplace; mentors optimization engineers; shapes O-RAN SON standards; publishes optimization research."
       }
     ]
   },
   {
     "ksa_id": "open_ran_security_integration",
-    "label": "Open‑RAN Security & Integration",
+    "label": "Open-RAN Security & Integration",
     "category": "Technical",
     "sector": "telecommunications",
     "horizon": "emerging",
@@ -2666,16 +2665,16 @@
       "O-RAN",
       "Security"
     ],
-    "description": "Integrating multi‑vendor Open‑RAN components (RU, DU, CU) and securing open Fronthaul, Near‑RT RIC, and SMO interfaces using O‑RAN Security WG guidelines and NIST IR 8402 zero‑trust principles.",
+    "description": "Integrating multi-vendor Open-RAN components (RU, DU, CU) and securing open Fronthaul, Near-RT RIC, and SMO interfaces using O-RAN Security WG guidelines and NIST IR 8402 zero-trust principles.",
     "source_frameworks": [
-      "O‑RAN Security WG10 Specification",
-      "NIST IR 8402 5G Security",
-      "3GPP SA3 Security Architecture"
+      "O-RAN Alliance Security Working Group 10 specifications (industry consortium — O-RAN Alliance; publicly available)",
+      "NIST IR 8402 — Considerations for Managing Internet of Things Cybersecurity and Privacy Risks in 5G Systems (U.S. government publication — NIST; public domain)",
+      "3GPP SA3 Security Architecture specifications (3GPP standards body; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists open‑RAN elements; identifies eCPRI links; recognizes security‑threat vectors."
+        "indicator": "Lists open-RAN elements; identifies eCPRI links; recognizes security-threat vectors."
       },
       {
         "level": "Basic",
@@ -2683,7 +2682,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Conducts interface‑fuzz testing; enables MACsec on M-Plane; monitors anomaly; enforces zero‑trust segmentation; integrates RIC apps securely."
+        "indicator": "Conducts interface-fuzz testing; enables MACsec on M-Plane; monitors anomaly; enforces zero-trust segmentation; integrates RIC apps securely."
       },
       {
         "level": "Advanced",
@@ -2691,7 +2690,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads open‑RAN security governance; influences O‑RAN specs; publishes integration case studies."
+        "indicator": "Leads open-RAN security governance; influences O-RAN specs; publishes integration case studies."
       }
     ]
   },
@@ -2705,32 +2704,32 @@
       "MEC",
       "Content Delivery"
     ],
-    "description": "Deploying Multi‑access Edge Computing (MEC) platforms for low‑latency applications—AR/VR, gaming, IoT—using ETSI MEC APIs, CDN caching, and Kubernetes edge clusters.",
+    "description": "Deploying Multi-access Edge Computing (MEC) platforms for low-latency applications—AR/VR, gaming, IoT—using ETSI MEC APIs, CDN caching, and Kubernetes edge clusters.",
     "source_frameworks": [
-      "ETSI MEC 001 Terminology",
-      "Linux Foundation LF Edge Akraino",
-      "5G‑AA Media Delivery at Edge"
+      "ETSI MEC 001 — Multi-access Edge Computing Terminology (European Telecommunications Standards Institute; publicly available)",
+      "LF Edge Akraino Edge Stack (open-source foundation — Linux Foundation Edge; publicly available)",
+      "5G Automotive Association (5G-AA) media delivery at edge specifications (industry association — 5G-AA; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains MEC concept; lists MEC components (MEP, MEN, MEAO); identifies latency‑sensitive services; checks edge‑node metrics."
+        "indicator": "Explains MEC concept; lists MEC components (MEP, MEN, MEAO); identifies latency-sensitive services; checks edge-node metrics."
       },
       {
         "level": "Basic",
-        "indicator": "Installs edge platform; onboards MEC applications; configures DNS redirection; measures round‑trip latency."
+        "indicator": "Installs edge platform; onboards MEC applications; configures DNS redirection; measures round-trip latency."
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements traffic‑steering policies; deploys GPU acceleration; analyses QoE at edge; configures traffic rules; aligns SLA ≤ 10 ms."
+        "indicator": "Implements traffic-steering policies; deploys GPU acceleration; analyses QoE at edge; configures traffic rules; aligns SLA ≤ 10 ms."
       },
       {
         "level": "Advanced",
-        "indicator": "Optimises micro‑service placement; integrates CI/CD to edge nodes; automates scaling via Kubernetes CRDs; integrates NWDAF feedback; optimizes backhaul cost; negotiates MEC federation."
+        "indicator": "Optimises micro-service placement; integrates CI/CD to edge nodes; automates scaling via Kubernetes CRDs; integrates NWDAF feedback; optimizes backhaul cost; negotiates MEC federation."
       },
       {
         "level": "Expert",
-        "indicator": "Leads edge‑MEC architectures; mentors dev-partners; publishes edge‑economics studies; shapes ETSI MEC standards."
+        "indicator": "Leads edge-MEC architectures; mentors dev-partners; publishes edge-economics studies; shapes ETSI MEC standards."
       }
     ]
   },
@@ -2739,15 +2738,15 @@
     "label": "Telecom Quantum-Safe Network Security",
     "category": "Technical",
     "sector": "telecommunications",
-    "horizon": "watch_2030",
+    "horizon": "emerging",
     "cluster_tags": [
       "Quantum-Safe",
       "Security"
     ],
     "description": "Transitions telecom PKI, VPN, and 5G SBI encryption to post-quantum algorithms per ETSI GS QSC 010 and ITU-T X.1710, implementing hybrid TLS 1.3 with CRYSTALS-Kyber.\n",
     "source_frameworks": [
-      "ETSI GS QSC 010",
-      "ITU-T X.1710"
+      "ETSI GS QSC 010 — Quantum-Safe Cryptography quantum key distribution (ETSI; publicly available)",
+      "ITU-T X.1710 — Security framework for quantum key distribution networks (International Telecommunication Union; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -2782,34 +2781,34 @@
       "NFV",
       "MANO Security"
     ],
-    "description": "Securing Network Function Virtualisation (NFV) infrastructures and orchestrating services via ETSI NFV MANO—NFVO, VNFM, VIM—implementing ETSI NFV‑SEC threat mitigations, role‑based access, and CI/CD pipelines.",
+    "description": "Securing Network Function Virtualisation (NFV) infrastructures and orchestrating services via ETSI NFV MANO—NFVO, VNFM, VIM—implementing ETSI NFV-SEC threat mitigations, role-based access, and CI/CD pipelines.",
     "source_frameworks": [
-      "ETSI GS NFV-SEC 031",
-      "ETSI GS NFV-IFA 040",
-      "ETSI NFV‑SEC 016 Security Management",
-      "ETSI GS NFV‑MANO 006",
-      "CNCF Kubernetes Security Best Practices"
+      "ETSI GS NFV-SEC 031 — Network Functions Virtualisation Security — Secured Orchestration (European Telecommunications Standards Institute; publicly available)",
+      "ETSI GS NFV-IFA 040 — Network Functions Virtualisation management and orchestration (ETSI; publicly available)",
+      "ETSI GS NFV-SEC 016 — Security Management specification (ETSI; publicly available)",
+      "ETSI GS NFV-MANO 006 — Management and Orchestration API specification (ETSI; publicly available)",
+      "CNCF Kubernetes Security Best Practices (open-source foundation — Cloud Native Computing Foundation; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies NFV‑MANO components; recognizes image‑signing basics; lists attack vectors; applies security patches."
+        "indicator": "Identifies NFV-MANO components; recognizes image-signing basics; lists attack vectors; applies security patches."
       },
       {
         "level": "Basic",
-        "indicator": "Enables API authentication; configures role‑based access control (RBAC); uses TLS certificates; scans container images; applies CIS hardening."
+        "indicator": "Enables API authentication; configures role-based access control (RBAC); uses TLS certificates; scans container images; applies CIS hardening."
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements secure onboarding workflows; automates vulnerability remediation; enforces network‑policy isolation; deploys runtime security."
+        "indicator": "Implements secure onboarding workflows; automates vulnerability remediation; enforces network-policy isolation; deploys runtime security."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs multi‑tenancy security; implements East-West micro-segmentation; automates compliance checks; integrates DevSecOps pipelines; conducts penetration tests on NFV stack."
+        "indicator": "Designs multi-tenancy security; implements East-West micro-segmentation; automates compliance checks; integrates DevSecOps pipelines; conducts penetration tests on NFV stack."
       },
       {
         "level": "Expert",
-        "indicator": "Leads telco‑cloud security governance; mentors DevSecOps team; contributes to ETSI NFV‑SEC standards; publishes NFV‑security white papers."
+        "indicator": "Leads telco-cloud security governance; mentors DevSecOps team; contributes to ETSI NFV-SEC standards; publishes NFV-security white papers."
       }
     ]
   },
@@ -2825,8 +2824,8 @@
     ],
     "description": "Builds multi-layer digital twins (RAN, transport, core) with AI/ML simulators to optimize capacity and energy, referencing GSMA Telco Digital Twin Architecture and ITU-T Y.3200.\n",
     "source_frameworks": [
-      "GSMA Telco Digital Twin Blueprint",
-      "ITU-T Y.3200 Digital Twin Framework"
+      "GSMA Telco Digital Twin Architecture Blueprint (global mobile operators' trade body — GSMA; publicly available)",
+      "ITU-T Y.3200 — Cloud computing — Overview and vocabulary for digital twin (International Telecommunication Union; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -2853,7 +2852,7 @@
   },
   {
     "ksa_id": "non_terrestrial_networks_ntn_integration",
-    "label": "Non‑Terrestrial Network (NTN) Integration",
+    "label": "Non-Terrestrial Network (NTN) Integration",
     "category": "Technical",
     "sector": "telecommunications",
     "horizon": "emerging",
@@ -2861,12 +2860,12 @@
       "NTN",
       "Satellite-5G"
     ],
-    "description": "Integrating satellite and High‑Altitude Platform Station (HAPS) links into 5G networks per 3GPP TS 38.821/822, handling delay, Doppler, and handover challenges.",
+    "description": "Integrating satellite and High-Altitude Platform Station (HAPS) links into 5G networks per 3GPP TS 38.821/822, handling delay, Doppler, and handover challenges.",
     "source_frameworks": [
-      "3GPP TS 38.821",
-      "3GPP TS 23.122 Rel-17 NTN",
-      "ETSI EN 301 549 HAPS",
-      "ITU‑R S.2460 Propagation Models"
+      "3GPP TS 38.821 — Solutions for NR to support Non-Terrestrial Networks (3GPP standards body; publicly available)",
+      "3GPP TS 23.122 Release 17 — Non-Access-Stratum functions related to NTN (3GPP standards body; publicly available)",
+      "ETSI EN 301 549 — Accessibility requirements for ICT products and services (note: ETSI EN 301 549 covers accessibility; if the intended reference is to HAPS standards, this should be ETSI TR 103 611 or ITU-R F.2502 — verify during execution)",
+      "ITU-R S.2460 — Propagation prediction methods for satellite communication systems (International Telecommunication Union; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -2875,25 +2874,25 @@
       },
       {
         "level": "Basic",
-        "indicator": "Configures satellite backhaul; simulates link budgets; tests attach; measures SNR;tracks Doppler shifts."
+        "indicator": "Configures satellite backhaul; simulates link budgets; tests attach; measures SNR; tracks Doppler shifts."
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements hybrid‑handovers; tunes HARQ process; compensates Doppler; aligns RRC timers; optimizes QoS mapping; tests NB‑IoT NTN waveforms."
+        "indicator": "Implements hybrid-handovers; tunes HARQ process; compensates Doppler; aligns RRC timers; optimizes QoS mapping; tests NB-IoT NTN waveforms."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs multi‑orbit architectures; manages spectrum coordination; iImplements slice continuity ground-space; verifies roaming; meets QoS class; analyzes capacity trade‑offs."
+        "indicator": "Designs multi-orbit architectures; manages spectrum coordination; implements slice continuity across ground-space domains; verifies roaming; meets QoS class requirements; analyzes capacity trade-offs."
       },
       {
         "level": "Expert",
-        "indicator": "Leads NTN‑5G convergence programs; contributes to 3GPP NTN standards; publishes NTN integration research."
+        "indicator": "Leads NTN-5G convergence programs; contributes to 3GPP NTN standards; publishes NTN integration research."
       }
     ]
   },
   {
     "ksa_id": "ng911_emergency_service_communications",
-    "label": "NG911 Emergency‑Services Communications",
+    "label": "NG911 Emergency-Services Communications",
     "category": "Technical",
     "sector": "telecommunications",
     "horizon": "core",
@@ -2901,33 +2900,33 @@
       "NG911",
       "IP PSAP"
     ],
-    "description": "Deploying and operating Next‑Generation 911 (NG911) IP‑based emergency‑communications systems, ensuring geospatial call‑routing, cybersecurity, and interoperability with First Responder Network Authority (FirstNet) per NENA i3 standards.",
+    "description": "Deploying and operating Next-Generation 911 (NG911) IP-based emergency-communications systems, ensuring geospatial call-routing, cybersecurity, and interoperability with First Responder Network Authority (FirstNet) per NENA i3 standards.",
     "source_frameworks": [
-      "NENA STA-010.3 i3 Standard",
-      "NENA NG911 Security Standard",
-      "FCC NG911 Progress Report",
-      "ATIS NG9‑1‑1 Security Standard"
+      "NENA STA-010.3 i3 Standard for Next Generation 9-1-1 (professional association — National Emergency Number Association; publicly available)",
+      "NENA NG911 Cybersecurity Standard (professional association — National Emergency Number Association; publicly available)",
+      "FCC NG911 Progress Report and regulatory guidance (U.S. government — Federal Communications Commission; public domain)",
+      "ATIS Standard on Next Generation 9-1-1 Security (standards body — Alliance for Telecommunications Industry Solutions; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Describes NG911 architecture; identifies ESInet components; explains location‑based routing."
+        "indicator": "Describes NG911 architecture; identifies ESInet components; explains location-based routing."
       },
       {
         "level": "Basic",
-        "indicator": "Configures Session Border Controllers (SBCs); validates GIS data; tests Text‑to‑911."
+        "indicator": "Configures Session Border Controllers (SBCs); validates GIS data; tests Text-to-911."
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements Emergency Services IP Network (ESInet) redundancy; secures PSAP endpoints; enables text-to-911; implements call-queue policy; follows cyber-hardening checklist; monitors call‑quality metrics."
+        "indicator": "Implements Emergency Services IP Network (ESInet) redundancy; secures PSAP endpoints; enables text-to-911; implements call-queue policy; follows cyber-hardening checklist; monitors call-quality metrics."
       },
       {
         "level": "Advanced",
-        "indicator": "Conducts cutover from legacy 911; integrates multimedia emergency services (video, sensor data); aligns with FirstNet priority services; integrates CAD and location-based routing; achieves 99.999 % uptime.."
+        "indicator": "Conducts cutover from legacy 911; integrates multimedia emergency services (video, sensor data); aligns with FirstNet priority services; integrates CAD and location-based routing; achieves 99.999 % uptime."
       },
       {
         "level": "Expert",
-        "indicator": "Leads statewide NG911 deployments; leads statewide ESInet program; mentors PSAP engineers; advises regulators; publishes emergency‑comms resilience studies."
+        "indicator": "Leads statewide NG911 system migrations from legacy selective-routing to IP-based ESInet architecture; mentors PSAP engineers; advises state and federal regulators; publishes emergency-communications resilience studies."
       }
     ]
   },
@@ -2943,8 +2942,8 @@
     ],
     "description": "Designs CBRS/Local-license private networks, integrating 5G Core, edge-MEC, and Zero-Trust security per 3GPP SA6 TS 23.501 option 2 and ONAP Private RAN blueprint.\n",
     "source_frameworks": [
-      "3GPP TS 23.501 Option 2",
-      "ONAP Private Wireless Blueprint"
+      "3GPP TS 23.501 Option 2 — Local Breakout for private network deployments (3GPP standards body; publicly available)",
+      "ONAP Private Wireless Blueprint (open-source foundation — Linux Foundation Networking / Open Network Automation Platform; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -2981,9 +2980,9 @@
     ],
     "description": "Manages and configures advanced 5G network features such as network slicing and multi-access edge computing (MEC); allocates network slices for different use cases (enhanced mobile broadband, IoT, ultra-reliable low-latency) via 5G core, and deploys edge computing resources to optimize latency and bandwidth for critical applications.  \n",
     "source_frameworks": [
-      "3GPP TS 23.501 R17/18",
-      "3GPP TS 23.502 R17/18",
-      "3GPP Release 16 Specifications"
+      "3GPP TS 23.501 Release 17/18 — System Architecture for the 5G System (3GPP standards body; publicly available)",
+      "3GPP TS 23.502 Release 17/18 — Procedures for the 5G System (3GPP standards body; publicly available)",
+      "3GPP Release 16 specification suite — 5G-Advanced feature baseline (3GPP standards body; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -3018,22 +3017,22 @@
       "5G Core",
       "Network Slicing"
     ],
-    "description": "Operating 5G Stand‑Alone (SA) core functions—AMF, SMF, UPF—within Kubernetes‑based telco clouds, orchestrating network slices via 3GPP TS 28.533 management models, and ensuring service continuity and low latency.",
+    "description": "Operating 5G Stand-Alone (SA) core functions—AMF, SMF, UPF—within Kubernetes-based telco clouds, orchestrating network slices via 3GPP TS 28.533 management models, and ensuring service continuity and low latency.",
     "source_frameworks": [
-      "3GPP TS 28.541 Slice Mgmt",
-      "3GPP TS 23.501 System Architecture",
-      "TM Forum ODA Open APIs",
-      "ETSI GR NFV‑IFA 029 V4.4.1",
-      "Linux Foundation Anuket Reference Model"
+      "3GPP TS 28.541 — Management and orchestration: 5G Network Resource Model (3GPP standards body; publicly available)",
+      "3GPP TS 23.501 — System Architecture for the 5G System (3GPP standards body; publicly available)",
+      "TM Forum Open Digital Architecture (ODA) Open APIs (industry association — TeleManagement Forum; conceptual alignment only)",
+      "ETSI GR NFV-IFA 029 — Report on Network Function Virtualisation (ETSI; publicly available)",
+      "Linux Foundation Anuket Reference Model for cloud-native network functions (open-source foundation — Linux Foundation; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies 5G core functions; monitors basic KPIs (registration success rate); follows slice‑template catalogs."
+        "indicator": "Identifies 5G core functions; monitors basic KPIs (registration success rate); follows slice-template catalogs."
       },
       {
         "level": "Basic",
-        "indicator": "Monitors NF status via NRF deploys cloud‑native network functions (CNFs); updates helm charts; validates slice profiles; deploys default data-network slice; captures KPIs (PDU session success)."
+        "indicator": "Monitors NF status via NRF deploys cloud-native network functions (CNFs); updates helm charts; validates slice profiles; deploys default data-network slice; captures KPIs (PDU session success)."
       },
       {
         "level": "Intermediate",
@@ -3041,11 +3040,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Optimises slice resource isolation; manages inter‑PLMN roaming; integrates service orchestration with OSS/BSS; implements NWDAF analytics for SLA breach detection; executes closed-loop remediation; integrates multi-domain orchestration via ETSI NFV-MEC APIs."
+        "indicator": "Optimises slice resource isolation; manages inter-PLMN roaming; integrates service orchestration with OSS/BSS; implements NWDAF analytics for SLA breach detection; executes closed-loop remediation; integrates multi-domain orchestration via ETSI NFV-MEC APIs."
       },
       {
         "level": "Expert",
-        "indicator": "Designs multi‑vendor slice ecosystems; leads national multi-slice production network; mentors core-ops engineers; leads 5G SA migrations; publishes slice‑assurance research."
+        "indicator": "Designs multi-vendor slice ecosystems; leads national multi-slice production network; mentors core-ops engineers; leads 5G SA migrations; publishes slice-assurance research."
       }
     ]
   },
@@ -3061,8 +3060,8 @@
     ],
     "description": "Measures end-user Quality of Experience (QoE) for OTT, VoNR, and gaming using ITU-T P.1203, ETSI TR 103 369 KPIs, and AI-driven anomaly detection.\n",
     "source_frameworks": [
-      "ITU-T P.1203",
-      "ETSI TR 103 369"
+      "ITU-T P.1203 — Integrated audiovisual quality assessment of progressive download and adaptive audiovisual streaming services over reliable transport (International Telecommunication Union; publicly available)",
+      "ETSI TR 103 369 — Speech and multimedia Transmission Quality (STQ) — KPIs for streaming services (European Telecommunications Standards Institute; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -3097,22 +3096,22 @@
       "NWDAF",
       "Analytics"
     ],
-    "description": "Collecting and analyzing 5G network data via Network Data Analytics Function (NWDAF), leveraging machine‑learning models to predict congestion, optimize handovers, and enable closed‑loop automation according to 3GPP TS 29.520.",
+    "description": "Collecting and analyzing 5G network data via Network Data Analytics Function (NWDAF), leveraging machine-learning models to predict congestion, optimize handovers, and enable closed-loop automation according to 3GPP TS 29.520.",
     "source_frameworks": [
-      "3GPP TS 29.520",
-      "3GPP TS 29.521",
-      "3GPP TS 23.288 NWDAF Architecture",
-      "TM Forum AI‑Ops Framework",
-      "ETSI ZSM Analytics WG"
+      "3GPP TS 29.520 — Network Data Analytics Services (3GPP standards body; specifications publicly available at 3gpp.org)",
+      "3GPP TS 29.521 — Binding Support Management Service (3GPP standards body; publicly available)",
+      "3GPP TS 23.288 — Architecture Enhancements for 5G System to Support Network Data Analytics Services (NWDAF) (3GPP standards body; publicly available)",
+      "TM Forum AI-Ops Framework (industry association — TeleManagement Forum; conceptual alignment only)",
+      "ETSI Zero-touch network and Service Management (ZSM) Analytics Working Group specifications (European Telecommunications Standards Institute; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Differentiates data/analytics layers; lists service operations; retrieves KPIs via OAM; plots cell‑level utilization; recognizes anomaly events."
+        "indicator": "Differentiates data/analytics layers; lists service operations; retrieves KPIs via OAM; plots cell-level utilization; recognizes anomaly events."
       },
       {
         "level": "Basic",
-        "indicator": "Configures NWDAF data collection; uses Grafana dashboards; subscribes to LoadLevelAn; publishes analytics; monitors gNB KPIstriggers simple alerts."
+        "indicator": "Configures NWDAF data collection; uses analytics dashboards (e.g., Grafana or equivalent); subscribes to LoadLevelAn; publishes analytics; monitors gNB KPIs; triggers simple alerts."
       },
       {
         "level": "Intermediate",
@@ -3120,11 +3119,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Implements closed‑loop optimization; integrates AI‑Ops pipelines; ensures data‑governance compliance; clusters slices; automates scaling; reduces drop rate."
+        "indicator": "Implements closed-loop optimization; integrates AI-Ops pipelines; ensures data-governance compliance; clusters slices; automates scaling; reduces drop rate."
       },
       {
         "level": "Expert",
-        "indicator": "Leads carrier‑scale analytics strategies; architects multi-vendor NWDAF; mentors analytics squad;publishes AI‑enabled network‑ops research; shapes 3GPP analytics standards."
+        "indicator": "Leads carrier-scale analytics strategies; architects multi-vendor NWDAF; mentors analytics squad; publishes AI-enabled network-ops research; shapes 3GPP analytics standards."
       }
     ]
   },
@@ -3140,18 +3139,17 @@
     ],
     "description": "Utilizes data analytics and AI to monitor and optimize telecommunication network performance and customer experience; analyzes large datasets from OSS/BSS, probes, and user devices to detect anomalies, predict outages or congestion, inform capacity planning, and personalize services (like dynamic quality adjustments or targeted network expansions).  \n",
     "source_frameworks": [
-      "Apache Spark Structured Streaming",
-      "TM Forum Big Data DAA",
-      "TM Forum Telecom Big Data Guidelines"
+      "Apache Spark Structured Streaming documentation (open-source framework — Apache Software Foundation; Apache 2.0 license; publicly available)",
+      "TM Forum Big Data Analytics Architecture (DAA) and Telecom Big Data Guidelines (industry association — TeleManagement Forum; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Aware that telecom companies collect a lot of network and usage data; has seen simple network statistics charts (e.g., traffic by hour)."
+        "indicator": "Describes how telecommunications operators collect and use network and subscriber data for operational decisions; identifies common network statistics representations (e.g., traffic volume by hour, call-drop rate trends)."
       },
       {
         "level": "Basic",
-        "indicator": "Runs predefined reports from OSS systems (like daily drop-call rate, data throughput); flags obvious outliers to senior engineers; uses basic tools or scripts to query logs for known issues; builds Kafka topic; parses CDR; stores in HDFS."
+        "indicator": "Runs predefined reports from OSS systems (like daily drop-call rate, data throughput); flags obvious outliers to senior engineers; uses basic tools or scripts to query logs for known issues; builds a streaming event topic (e.g., Apache Kafka or equivalent); parses CDR files; stores data in a distributed storage platform (e.g., HDFS, cloud object storage)."
       },
       {
         "level": "Intermediate",
@@ -3169,7 +3167,7 @@
   },
   {
     "ksa_id": "telco_cloud_finops_cost_optimization",
-    "label": "Telco‑Cloud FinOps & Cost Optimisation",
+    "label": "Telco-Cloud FinOps & Cost Optimisation",
     "category": "Technical",
     "sector": "telecommunications",
     "horizon": "emerging",
@@ -3179,20 +3177,20 @@
     ],
     "description": "Implementing financial operations (FinOps) practices in telco clouds—cost allocation, forecasting, optimization—following FinOps Foundation Telecom SIG guidelines and GSMA Cloud Cost Framework.",
     "source_frameworks": [
-      "FinOps Foundation Framework v1.0",
-      "FinOps Foundation Telecom SIG Playbook",
-      "Kube-Cost Open-Source",
-      "GSMA Telco Cloud Economics",
-      "Linux Foundation Anuket Financial KPIs"
+      "FinOps Foundation Framework v1.0 (nonprofit industry foundation — FinOps Foundation; publicly available)",
+      "FinOps Foundation Telecommunications SIG Playbook (nonprofit industry foundation — FinOps Foundation; publicly available)",
+      "OpenCost / Kubecost open-source cost-monitoring tooling (open-source project; Apache 2.0 license — specific implementation platforms vary)",
+      "GSMA Telco Cloud Economics and cost-management resources (global mobile operators' trade body — GSMA; publicly available)",
+      "Linux Foundation Anuket Reference Model and Financial KPIs (open-source foundation — Linux Foundation; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists cost categories; explains show-back vs charge-back; reads cloud‑usage reports; tags CNF resources; identifies idle capacity."
+        "indicator": "Lists cost categories; explains show-back vs charge-back; reads cloud-usage reports; tags CNF resources; identifies idle capacity."
       },
       {
         "level": "Basic",
-        "indicator": "Allocates costs by slice/service; sets budget alerts; applies spot‑instance policies; reviews monthly reports."
+        "indicator": "Allocates costs by slice/service; sets budget alerts; applies spot-instance policies; reviews monthly reports."
       },
       {
         "level": "Intermediate",
@@ -3204,7 +3202,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads telco‑cloud cost‑governance boards; negotiates license optimisations; publishes FinOps case studies."
+        "indicator": "Leads telco-cloud cost-governance boards; negotiates license optimisations; publishes FinOps case studies."
       }
     ]
   },

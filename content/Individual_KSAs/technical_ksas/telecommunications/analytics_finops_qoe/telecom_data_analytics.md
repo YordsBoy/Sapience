@@ -10,14 +10,13 @@ cluster_tags:
 description: >  
   Utilizes data analytics and AI to monitor and optimize telecommunication network performance and customer experience; analyzes large datasets from OSS/BSS, probes, and user devices to detect anomalies, predict outages or congestion, inform capacity planning, and personalize services (like dynamic quality adjustments or targeted network expansions).  
 source_frameworks:
-   - "Apache Spark Structured Streaming" 
-   - "TM Forum Big Data DAA"
-   - "TM Forum Telecom Big Data Guidelines"  
+  - "Apache Spark Structured Streaming documentation (open-source framework — Apache Software Foundation; Apache 2.0 license; publicly available)"
+  - "TM Forum Big Data Analytics Architecture (DAA) and Telecom Big Data Guidelines (industry association — TeleManagement Forum; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Aware that telecom companies collect a lot of network and usage data; has seen simple network statistics charts (e.g., traffic by hour).  
+    indicator: Describes how telecommunications operators collect and use network and subscriber data for operational decisions; identifies common network statistics representations (e.g., traffic volume by hour, call-drop rate trends).
   - level: Basic  
-    indicator: Runs predefined reports from OSS systems (like daily drop-call rate, data throughput); flags obvious outliers to senior engineers; uses basic tools or scripts to query logs for known issues; builds Kafka topic; parses CDR; stores in HDFS.  
+    indicator: Runs predefined reports from OSS systems (like daily drop-call rate, data throughput); flags obvious outliers to senior engineers; uses basic tools or scripts to query logs for known issues; builds a streaming event topic (e.g., Apache Kafka or equivalent); parses CDR files; stores data in a distributed storage platform (e.g., HDFS, cloud object storage).  
   - level: Intermediate  
     indicator: Works with network analytics platforms or big data tools to correlate metrics (e.g., linking cell congestion events with subscriber complaints); builds dashboards or uses ML-based systems that predict equipment faults or churn risk; contributes analysis insights during optimization meetings.  
   - level: Advanced  

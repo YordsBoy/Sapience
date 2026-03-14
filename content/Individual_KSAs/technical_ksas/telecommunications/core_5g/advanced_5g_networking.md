@@ -10,9 +10,9 @@ cluster_tags:
 description: >  
   Manages and configures advanced 5G network features such as network slicing and multi-access edge computing (MEC); allocates network slices for different use cases (enhanced mobile broadband, IoT, ultra-reliable low-latency) via 5G core, and deploys edge computing resources to optimize latency and bandwidth for critical applications.  
 source_frameworks:
-  - "3GPP TS 23.501 R17/18"
-  - "3GPP TS 23.502 R17/18" 
-  - "3GPP Release 16 Specifications"  
+  - "3GPP TS 23.501 Release 17/18 — System Architecture for the 5G System (3GPP standards body; publicly available)"
+  - "3GPP TS 23.502 Release 17/18 — Procedures for the 5G System (3GPP standards body; publicly available)"
+  - "3GPP Release 16 specification suite — 5G-Advanced feature baseline (3GPP standards body; publicly available)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Knows that 5G has new capabilities beyond 4G; has heard terms like “network slicing” or “edge computing” without deep understanding; states 5G-Advanced roadmap; lists RedCap KPIs.  

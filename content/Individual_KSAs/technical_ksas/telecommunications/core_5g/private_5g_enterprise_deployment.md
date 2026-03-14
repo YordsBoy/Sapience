@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designs CBRS/Local-license private networks, integrating 5G Core, edge-MEC, and Zero-Trust security per 3GPP SA6 TS 23.501 option 2 and ONAP Private RAN blueprint.
 source_frameworks:
-  - "3GPP TS 23.501 Option 2"
-  - "ONAP Private Wireless Blueprint"
+  - "3GPP TS 23.501 Option 2 — Local Breakout for private network deployments (3GPP standards body; publicly available)"
+  - "ONAP Private Wireless Blueprint (open-source foundation — Linux Foundation Networking / Open Network Automation Platform; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists spectrum models; explains SLA vs best-effort.

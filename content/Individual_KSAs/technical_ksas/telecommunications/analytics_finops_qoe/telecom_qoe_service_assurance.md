@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Measures end-user Quality of Experience (QoE) for OTT, VoNR, and gaming using ITU-T P.1203, ETSI TR 103 369 KPIs, and AI-driven anomaly detection.
 source_frameworks:
-  - "ITU-T P.1203"
-  - "ETSI TR 103 369"
+  - "ITU-T P.1203 — Integrated audiovisual quality assessment of progressive download and adaptive audiovisual streaming services over reliable transport (International Telecommunication Union; publicly available)"
+  - "ETSI TR 103 369 — Speech and multimedia Transmission Quality (STQ) — KPIs for streaming services (European Telecommunications Standards Institute; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Distinguishes QoS vs QoE; lists MOS parameters.

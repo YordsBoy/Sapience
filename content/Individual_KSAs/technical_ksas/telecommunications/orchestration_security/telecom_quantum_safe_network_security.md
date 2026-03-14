@@ -3,7 +3,7 @@ ksa_id: telecom_quantum_safe_network_security
 label: Telecom Quantum-Safe Network Security
 category: Technical
 sector: telecommunications
-horizon: watch_2030
+horizon: emerging
 cluster_tags:
   - "Quantum-Safe"
   - "Security"
@@ -11,8 +11,8 @@ description: >
   Transitions telecom PKI, VPN, and 5G SBI encryption to post-quantum algorithms per ETSI GS QSC 010 and ITU-T X.1710, implementing hybrid TLS 1.3
   with CRYSTALS-Kyber.
 source_frameworks:
-  - "ETSI GS QSC 010"
-  - "ITU-T X.1710"
+  - "ETSI GS QSC 010 — Quantum-Safe Cryptography quantum key distribution (ETSI; publicly available)"
+  - "ITU-T X.1710 — Security framework for quantum key distribution networks (International Telecommunication Union; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: States quantum threat timeline; lists PQC candidates.
