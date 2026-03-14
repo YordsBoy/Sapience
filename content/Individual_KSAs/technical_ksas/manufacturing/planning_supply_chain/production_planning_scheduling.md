@@ -12,7 +12,7 @@ description: >
   and Manufacturing Execution System (MES) tools to balance capacity, inventory,
   and customer demand.
 source_frameworks:
-  - "APICS CPIM Body of Knowledge"
+  - "ASCM/APICS Certified in Production and Inventory Management (CPIM) Body of Knowledge (professional membership association — Association for Supply Chain Management; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads bill-of-materials; understands push vs. pull systems.

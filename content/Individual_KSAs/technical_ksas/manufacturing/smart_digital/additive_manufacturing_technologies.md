@@ -12,7 +12,7 @@ description: >
   Energy Deposition (DED) processes, adhering to ASTM F42 standards for
   material qualification, machine calibration, and part inspection.
 source_frameworks:
-  - "ASTM Committee F42 Additive-Manufacturing Standards"
+  - "ASTM Committee F42 on Additive Manufacturing Technologies — standards series (proprietary standards — ASTM International; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Differentiates major AM processes and typical materials; observes basic safety (inert gas, powder PPE).

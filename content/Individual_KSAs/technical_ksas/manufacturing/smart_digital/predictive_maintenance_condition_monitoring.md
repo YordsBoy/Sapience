@@ -12,10 +12,10 @@ description: >
   and machine-learning models to predict failures and schedule just-in-time
   maintenance interventions.
 source_frameworks:
-  - "ISO 17359 Condition-Monitoring Standard"
+  - "ISO 17359:2018 Condition Monitoring and Diagnostics of Machine Systems — General Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands P-F curve; recognizes basic fault spectra (imbalance, misalignment).
+    indicator: Explains the P-F curve concept and its application to maintenance scheduling; identifies basic fault signatures in vibration spectra (imbalance, misalignment, looseness).
   - level: Basic
     indicator: Collects vibration baselines using accelerometers; logs data in CMMS.
   - level: Intermediate

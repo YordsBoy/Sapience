@@ -13,7 +13,7 @@ description: >
   requirements, including mix rheology, layer bonding, and dimensional
   accuracy.
 source_frameworks:
-  - "ISO/ASTM 52939-2023 Additive Construction QA"
+  - "ISO/ASTM 52939:2023 Additive Manufacturing for Construction — Qualification of Printing and Quality Assurance of 3D Printed Concrete Structures (ISO/ASTM joint standard; proprietary; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains gantry vs. robotic arm platforms; identifies printable mix constituents (cement, admixtures, fibres).

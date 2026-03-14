@@ -13,7 +13,7 @@ description: >
   accordance with American Welding Society (AWS) D1.1 structural code,
   ensuring proper joint preparation, parameters, and inspection.
 source_frameworks:
-  - "AWS D1.1 Structural Welding Code–Steel"
+  - "AWS D1.1 Structural Welding Code — Steel (proprietary standard — American Welding Society; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies joint types (butt, fillet); observes welding PPE and ventilation guidelines.

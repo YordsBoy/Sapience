@@ -9149,12 +9149,12 @@
     ],
     "description": "Uses IoT sensors and data analytics for predictive maintenance of manufacturing equipment;   monitors machine health indicators (vibrations, temperature, runtime data) via IIoT platforms to predict failures, schedule proactive maintenance, and minimize downtime.  \n",
     "source_frameworks": [
-      "IEC 62890 Lifecycle Management"
+      "IEC 62890:2020 Industrial-process measurement, control and automation — Life-cycle management for systems and components (IEC proprietary standard; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands that machines can have sensors sending data and that this data can hint at machine health (e.g., unusual vibration means something’s off)."
+        "indicator": "Explains how IoT sensors collect and transmit machine health data; identifies common health indicators monitored via IIoT platforms (vibration, temperature, runtime hours) and their relationship to equipment condition."
       },
       {
         "level": "Basic",
@@ -9186,12 +9186,12 @@
     ],
     "description": "Utilises vibration analysis, oil particle counting, infrared thermography, and machine-learning models to predict failures and schedule just-in-time maintenance interventions.\n",
     "source_frameworks": [
-      "ISO 17359 Condition-Monitoring Standard"
+      "ISO 17359:2018 Condition Monitoring and Diagnostics of Machine Systems — General Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands P-F curve; recognizes basic fault spectra (imbalance, misalignment)."
+        "indicator": "Explains the P-F curve concept and its application to maintenance scheduling; identifies basic fault signatures in vibration spectra (imbalance, misalignment, looseness)."
       },
       {
         "level": "Basic",
@@ -9223,7 +9223,7 @@
     ],
     "description": "Deploys cyber-physical systems, Industrial Internet of Things (IIoT), advanced analytics, and digital twins to enable real-time, adaptive manufacturing in line with Industry 4.0 frameworks.\n",
     "source_frameworks": [
-      "IBM & SAP Industry 4.0 reference architectures"
+      "IBM and SAP Industry 4.0 reference architecture documentation (vendor documentation — IBM and SAP SE; conceptual alignment only — equivalent smart-manufacturing reference architectures such as RAMI 4.0 or IIC Industrial Internet Reference Architecture may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -9260,7 +9260,8 @@
     ],
     "description": "Programs, operates, and maintains industrial robots and collaborative robots (cobots) in accordance with ISO 10218 and RIA R15.06, integrating safety zones, light curtains, and speed-and-separation monitoring.\n",
     "source_frameworks": [
-      "ISO 10218 / RIA R15.06 Robotics Safety Standards"
+      "ISO 10218:2011 Parts 1 and 2 — Robots and Robotic Devices Safety Requirements (ISO proprietary standard; conceptual alignment only)",
+      "ANSI/RIA R15.06 Industrial Robot Safety Standard (U.S. national standard — Robotic Industries Association; proprietary; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9297,7 +9298,7 @@
     ],
     "description": "Operates large-scale concrete or polymer extrusion systems for on-site additive construction in accordance with ISO/ASTM 52939 quality-assurance requirements, including mix rheology, layer bonding, and dimensional accuracy.\n",
     "source_frameworks": [
-      "ISO/ASTM 52939-2023 Additive Construction QA"
+      "ISO/ASTM 52939:2023 Additive Manufacturing for Construction — Qualification of Printing and Quality Assurance of 3D Printed Concrete Structures (ISO/ASTM joint standard; proprietary; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9334,12 +9335,12 @@
     ],
     "description": "Operates and monitors collaborative robots (cobots) and advanced automation on the factory floor;   programs simple robot tasks, ensures safe human-robot interaction per ISO robot safety standards, and adapts workflows to integrate human and automated labor efficiently.  \n",
     "source_frameworks": [
-      "ISO 10218-2 Robot Safety Standard"
+      "ISO 10218-2:2011 Robots and Robotic Devices — Safety Requirements for Industrial Robots — Part 2: Robot Systems and Integration (ISO proprietary standard; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Has seen or is aware of robots working alongside people in production; knows basic safety signals or fences that might be used."
+        "indicator": "Identifies collaborative robot (cobot) configurations used in production environments; describes the purpose of safety boundaries, light curtains, and emergency-stop mechanisms in human-robot shared workspaces."
       },
       {
         "level": "Basic",
@@ -9371,9 +9372,9 @@
     ],
     "description": "Sets up, programs, and operates Computer Numerical Control (CNC) lathes, mills, or multi-axis machining centers in accordance with ISO 230 test codes and National Institute for Metalworking Skills (NIMS) credential standards. Acronyms such as G-code (geometry code) and M-code (machine code) are defined at first mention.\n",
     "source_frameworks": [
-      "ISO 230-1 Machine-Tool Accuracy tests",
-      "NIMS CNC Machining Credentialing Guide",
-      "ISO 13399 Cutting-Tool Data model"
+      "ISO 230-1 Test Code for Machine Tools — Geometric Accuracy of Machines Operating Under No-Load or Quasi-Static Conditions (ISO proprietary standard; conceptual alignment only)",
+      "NIMS CNC Machining Level 1 Credentialing Standards (credentialing body — National Institute for Metalworking Skills; conceptual alignment only)",
+      "ISO 13399 Cutting Tool Representation and Exchange standard (ISO proprietary standard; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9410,7 +9411,7 @@
     ],
     "description": "Utilises Powder Bed Fusion (PBF), Material Extrusion (MEX), and Directed Energy Deposition (DED) processes, adhering to ASTM F42 standards for material qualification, machine calibration, and part inspection.\n",
     "source_frameworks": [
-      "ASTM Committee F42 Additive-Manufacturing Standards"
+      "ASTM Committee F42 on Additive Manufacturing Technologies — standards series (proprietary standards — ASTM International; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9447,7 +9448,7 @@
     ],
     "description": "Designs, documents, and continually improves a Quality Management System in line with ISO 9001:2015 clauses 4–10, covering risk-based thinking, internal audits, and management review.\n",
     "source_frameworks": [
-      "ISO 9001:2015 Quality-Management Standard"
+      "ISO 9001:2015 Quality Management Systems — Requirements (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -9484,7 +9485,7 @@
     ],
     "description": "Applies Geometric Dimensioning & Tolerancing (GD&T) per ASME Y14.5 and uses precision instruments—micrometres, coordinate-measuring machines (CMM), optical comparators—to verify product conformance.\n",
     "source_frameworks": [
-      "ASME Y14.5 GD&T Standard"
+      "ASME Y14.5-2018 Dimensioning and Tolerancing (Geometric Dimensioning and Tolerancing — GD&T) (proprietary standard — American Society of Mechanical Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9521,7 +9522,7 @@
     ],
     "description": "Implements OSHA 29 CFR 1910 General Industry standards—machine guarding, lock-out/tag-out (LOTO), hazard communication, and ergonomics—to protect workers and ensure regulatory compliance.\n",
     "source_frameworks": [
-      "OSHA 29 CFR 1910 General Industry Regulations"
+      "OSHA 29 CFR 1910 General Industry Occupational Safety and Health Standards (U.S. government regulation — Occupational Safety and Health Administration; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -9558,7 +9559,7 @@
     ],
     "description": "Establishes, implements, and audits an Environmental Management System (EMS) aligned with ISO 14001:2015, covering legal compliance, life-cycle perspective, and continuous improvement metrics.\n",
     "source_frameworks": [
-      "ISO 14001:2015 Environmental-Management Standard"
+      "ISO 14001:2015 Environmental Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -9595,7 +9596,7 @@
     ],
     "description": "Plans sourcing, inbound logistics, warehousing, and outbound distribution using Supply Chain Operations Reference (SCOR) metrics—Perfect Order Fulfilment, Cash-to-Cash Cycle—and integrates with Just-In-Time (JIT) production.\n",
     "source_frameworks": [
-      "APICS SCOR Model"
+      "ASCM Supply Chain Operations Reference (SCOR) Model (professional membership association — Association for Supply Chain Management; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9632,7 +9633,7 @@
     ],
     "description": "Uses Material Requirements Planning (MRP), Advanced Planning & Scheduling (APS), and Manufacturing Execution System (MES) tools to balance capacity, inventory, and customer demand.\n",
     "source_frameworks": [
-      "APICS CPIM Body of Knowledge"
+      "ASCM/APICS Certified in Production and Inventory Management (CPIM) Body of Knowledge (professional membership association — Association for Supply Chain Management; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9669,7 +9670,7 @@
     ],
     "description": "Implements TPM’s eight pillars—including Autonomous Maintenance, Planned Maintenance, and Early Equipment Management—to maximise Overall Equipment Effectiveness (OEE) and foster operator ownership.\n",
     "source_frameworks": [
-      "Japan Institute of Plant Maintenance TPM framework"
+      "Japan Institute of Plant Maintenance (JIPM) Total Productive Maintenance framework (professional organization — Japan Institute of Plant Maintenance; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9706,7 +9707,7 @@
     ],
     "description": "Utilises the DMAIC (Define-Measure-Analyse-Improve-Control) methodology and statistical tools—control charts, capability indices (C_pk), hypothesis testing—to reduce process variation and defects to ≤3.4 ppm.\n",
     "source_frameworks": [
-      "ASQ Six Sigma Body of Knowledge"
+      "ASQ Certified Six Sigma Black Belt (CSSBB) Body of Knowledge (professional membership association — American Society for Quality; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9743,8 +9744,8 @@
     ],
     "description": "Applies the five Lean principles—define value, map the value stream, create flow, establish pull, and pursue perfection—to eliminate waste (muda) and improve throughput in production systems.  Acronyms such as Single-Minute Exchange of Dies (SMED) or Overall Equipment Effectiveness (OEE) are defined at first mention in training materials.\n",
     "source_frameworks": [
-      "Lean Enterprise Institute / Toyota Production System",
-      "The Five Principles of Lean (Womack & Jones)"
+      "Lean Enterprise Institute / Toyota Production System foundational principles (nonprofit research institute — Lean Enterprise Institute; publicly available through academic and professional literature)",
+      "The Five Principles of Lean Thinking — Womack and Jones, Lean Thinking (academic/professional publication; widely available through academic literature)"
     ],
     "proficiency_levels": [
       {
@@ -9781,7 +9782,7 @@
     ],
     "description": "Identifies and interprets mechanical, thermal, and chemical properties—tensile strength, hardness, thermal conductivity, corrosion rate—using ASM Handbook data to select appropriate materials for manufacturing processes.\n",
     "source_frameworks": [
-      "ASM Handbook: Properties & Selection"
+      "ASM Handbook — Properties and Selection: Irons, Steels, and High-Performance Alloys (commercial publisher — ASM International; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -9818,7 +9819,7 @@
     ],
     "description": "Executes Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux-Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW) in accordance with American Welding Society (AWS) D1.1 structural code, ensuring proper joint preparation, parameters, and inspection.\n",
     "source_frameworks": [
-      "AWS D1.1 Structural Welding Code–Steel"
+      "AWS D1.1 Structural Welding Code — Steel (proprietary standard — American Welding Society; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {

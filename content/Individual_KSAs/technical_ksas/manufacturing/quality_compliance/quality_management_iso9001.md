@@ -12,7 +12,7 @@ description: >
   line with ISO 9001:2015 clauses 4–10, covering risk-based thinking, internal
   audits, and management review.
 source_frameworks:
-  - "ISO 9001:2015 Quality-Management Standard"
+  - "ISO 9001:2015 Quality Management Systems — Requirements (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains PDCA (Plan-Do-Check-Act) cycle; identifies QMS documents.

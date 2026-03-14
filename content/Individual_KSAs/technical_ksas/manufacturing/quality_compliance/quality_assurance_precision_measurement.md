@@ -12,7 +12,7 @@ description: >
   precision instruments—micrometres, coordinate-measuring machines (CMM),
   optical comparators—to verify product conformance.
 source_frameworks:
-  - "ASME Y14.5 GD&T Standard"
+  - "ASME Y14.5-2018 Dimensioning and Tolerancing (Geometric Dimensioning and Tolerancing — GD&T) (proprietary standard — American Society of Mechanical Engineers; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads feature-control frames; identifies datum symbols on prints.

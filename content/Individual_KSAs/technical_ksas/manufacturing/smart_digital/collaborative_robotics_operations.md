@@ -11,10 +11,10 @@ description: >
   Operates and monitors collaborative robots (cobots) and advanced automation on the factory floor;  
   programs simple robot tasks, ensures safe human-robot interaction per ISO robot safety standards, and adapts workflows to integrate human and automated labor efficiently.  
 source_frameworks:  
-  - "ISO 10218-2 Robot Safety Standard"  
+  - "ISO 10218-2:2011 Robots and Robotic Devices — Safety Requirements for Industrial Robots — Part 2: Robot Systems and Integration (ISO proprietary standard; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Has seen or is aware of robots working alongside people in production; knows basic safety signals or fences that might be used.  
+    indicator: Identifies collaborative robot (cobot) configurations used in production environments; describes the purpose of safety boundaries, light curtains, and emergency-stop mechanisms in human-robot shared workspaces.
   - level: Basic  
     indicator: Can start/stop a cobot and teach it simple movements manually; observes safety protocols (e.g., emergency stops, safe zones) when near automated equipment.  
   - level: Intermediate  

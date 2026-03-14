@@ -12,7 +12,8 @@ description: >
   (cobots) in accordance with ISO 10218 and RIA R15.06, integrating safety
   zones, light curtains, and speed-and-separation monitoring.
 source_frameworks:
-  - "ISO 10218 / RIA R15.06 Robotics Safety Standards"
+  - "ISO 10218:2011 Parts 1 and 2 — Robots and Robotic Devices Safety Requirements (ISO proprietary standard; conceptual alignment only)"
+  - "ANSI/RIA R15.06 Industrial Robot Safety Standard (U.S. national standard — Robotic Industries Association; proprietary; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies robot envelope, pinch points; follows lock-out/tag-out.

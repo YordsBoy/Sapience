@@ -14,9 +14,9 @@ description: >
   Acronyms such as G-code (geometry code) and M-code (machine code) are defined
   at first mention.
 source_frameworks:
-  - "ISO 230-1 Machine-Tool Accuracy tests"
-  - "NIMS CNC Machining Credentialing Guide"
-  - "ISO 13399 Cutting-Tool Data model"
+  - "ISO 230-1 Test Code for Machine Tools — Geometric Accuracy of Machines Operating Under No-Load or Quasi-Static Conditions (ISO proprietary standard; conceptual alignment only)"
+  - "NIMS CNC Machining Level 1 Credentialing Standards (credentialing body — National Institute for Metalworking Skills; conceptual alignment only)"
+  - "ISO 13399 Cutting Tool Representation and Exchange standard (ISO proprietary standard; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies XYZ axes, tool offsets, and basic G-/M-codes; observes machine-safety interlocks.

@@ -13,7 +13,7 @@ description: >
   Fulfilment, Cash-to-Cash Cycle—and integrates with Just-In-Time (JIT)
   production.
 source_frameworks:
-  - "APICS SCOR Model"
+  - "ASCM Supply Chain Operations Reference (SCOR) Model (professional membership association — Association for Supply Chain Management; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Tracks inventory turns; recognizes Incoterms.

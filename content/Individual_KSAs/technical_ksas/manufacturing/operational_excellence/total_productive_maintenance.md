@@ -12,7 +12,7 @@ description: >
   Maintenance, and Early Equipment Management—to maximise Overall Equipment
   Effectiveness (OEE) and foster operator ownership.
 source_frameworks:
-  - "Japan Institute of Plant Maintenance TPM framework"
+  - "Japan Institute of Plant Maintenance (JIPM) Total Productive Maintenance framework (professional organization — Japan Institute of Plant Maintenance; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Performs basic cleaning, inspection, and lubrication (CIL) tasks; posts OEE metrics on boards.

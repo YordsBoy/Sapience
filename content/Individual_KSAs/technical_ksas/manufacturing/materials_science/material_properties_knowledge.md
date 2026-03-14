@@ -12,7 +12,7 @@ description: >
   strength, hardness, thermal conductivity, corrosion rate—using ASM Handbook
   data to select appropriate materials for manufacturing processes.
 source_frameworks:
-  - "ASM Handbook: Properties & Selection"
+  - "ASM Handbook — Properties and Selection: Irons, Steels, and High-Performance Alloys (commercial publisher — ASM International; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads basic material designations (AISI 1020 steel, 6061-T6 aluminium) and their typical yield strengths.

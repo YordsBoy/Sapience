@@ -11,10 +11,10 @@ description: >
   Uses IoT sensors and data analytics for predictive maintenance of manufacturing equipment;  
   monitors machine health indicators (vibrations, temperature, runtime data) via IIoT platforms to predict failures, schedule proactive maintenance, and minimize downtime.  
 source_frameworks:  
-  - "IEC 62890 Lifecycle Management"  
+  - "IEC 62890:2020 Industrial-process measurement, control and automation — Life-cycle management for systems and components (IEC proprietary standard; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands that machines can have sensors sending data and that this data can hint at machine health (e.g., unusual vibration means something’s off).  
+    indicator: Explains how IoT sensors collect and transmit machine health data; identifies common health indicators monitored via IIoT platforms (vibration, temperature, runtime hours) and their relationship to equipment condition.
   - level: Basic  
     indicator: Reads basic sensor dashboards (temperature, pressure readings) provided by engineers; performs routine checks when alerted by a simple threshold alarm.  
   - level: Intermediate  

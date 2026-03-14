@@ -12,7 +12,7 @@ description: >
   statistical tools—control charts, capability indices (C_pk), hypothesis
   testing—to reduce process variation and defects to ≤3.4 ppm.
 source_frameworks:
-  - "ASQ Six Sigma Body of Knowledge"
+  - "ASQ Certified Six Sigma Black Belt (CSSBB) Body of Knowledge (professional membership association — American Society for Quality; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: States the five DMAIC phases; recognizes normal vs. special-cause variation on a run chart.

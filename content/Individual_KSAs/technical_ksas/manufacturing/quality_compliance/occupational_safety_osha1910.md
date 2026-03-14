@@ -12,7 +12,7 @@ description: >
   lock-out/tag-out (LOTO), hazard communication, and ergonomics—to protect
   workers and ensure regulatory compliance.
 source_frameworks:
-  - "OSHA 29 CFR 1910 General Industry Regulations"
+  - "OSHA 29 CFR 1910 General Industry Occupational Safety and Health Standards (U.S. government regulation — Occupational Safety and Health Administration; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Uses appropriate PPE; recognizes common safety signage and pictograms (NFPA 704).

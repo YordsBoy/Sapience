@@ -12,7 +12,7 @@ description: >
   advanced analytics, and digital twins to enable real-time, adaptive
   manufacturing in line with Industry 4.0 frameworks.
 source_frameworks:
-  - "IBM & SAP Industry 4.0 reference architectures"
+  - "IBM and SAP Industry 4.0 reference architecture documentation (vendor documentation — IBM and SAP SE; conceptual alignment only — equivalent smart-manufacturing reference architectures such as RAMI 4.0 or IIC Industrial Internet Reference Architecture may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines cyber-physical system; explains OPC-UA as an IIoT protocol.

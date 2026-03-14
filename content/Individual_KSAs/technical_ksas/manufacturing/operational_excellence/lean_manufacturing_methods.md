@@ -14,8 +14,8 @@ description: >
   Exchange of Dies (SMED) or Overall Equipment Effectiveness (OEE) are defined
   at first mention in training materials.
 source_frameworks:
-  - "Lean Enterprise Institute / Toyota Production System"
-  - "The Five Principles of Lean (Womack & Jones)"
+  - "Lean Enterprise Institute / Toyota Production System foundational principles (nonprofit research institute — Lean Enterprise Institute; publicly available through academic and professional literature)"
+  - "The Five Principles of Lean Thinking — Womack and Jones, Lean Thinking (academic/professional publication; widely available through academic literature)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies eight wastes; participates in daily gemba walks noting obvious flow barriers.

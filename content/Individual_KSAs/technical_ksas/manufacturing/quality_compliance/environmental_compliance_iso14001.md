@@ -12,7 +12,7 @@ description: >
   aligned with ISO 14001:2015, covering legal compliance, life-cycle
   perspective, and continuous improvement metrics.
 source_frameworks:
-  - "ISO 14001:2015 Environmental-Management Standard"
+  - "ISO 14001:2015 Environmental Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies significant environmental aspects; understands waste-segregation rules.
