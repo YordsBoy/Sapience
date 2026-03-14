@@ -11,9 +11,9 @@ description: >
   Applying the World Health Organization (WHO) Essential Public Health Functions—surveillance, health‑promotion, emergency preparedness, governance & Council on Linkages Core Competencies—assessment, policy development,
   communication, and leadership—to protect and improve population health through multidisciplinary collaboration.
 source_frameworks:
-  - "PHF Core Competencies for Public Health Professionals (2021)"
-  - "WHO Roadmap for Strengthening the Public Health and Emergency Workforce 2024"
-  - "Council on Linkages Core Competencies for Public Health Professionals"
+  - "Council on Linkages Core Competencies for Public Health Professionals (2021 update) (nonprofit coalition — Public Health Foundation / Council on Linkages; publicly available)"
+  - "WHO Roadmap for Strengthening the Public Health and Emergency Workforce 2024 (intergovernmental organization; publicly available)"
+  - "Public Health Foundation (PHF) Core Competencies for Public Health Professionals implementation resources (nonprofit organization; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines the Essential Public Health Functions (EPHFs); recognizes social determinants of health; follows basic epidemiological terminology.

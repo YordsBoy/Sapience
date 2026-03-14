@@ -10,10 +10,10 @@ cluster_tags:
 description: >
   Configures electronic-health-record (EHR) systems, clinical decision support, data governance, and analytics to improve quality and clinician workflow.
 source_frameworks:
-  - "AMIA 10×10 Health Informatics Core"
-  - "hl7:FHIR"
-  - "onc:HealthIT"
-  - "himss:EMRAM"
+  - "AMIA 10×10 Health Informatics Training Program core curriculum (academic nonprofit — American Medical Informatics Association; conceptual alignment only)"
+  - "HL7 FHIR standard (nonprofit standards development organization — HL7 International; openly available)"
+  - "ONC Health IT Certification Program criteria (U.S. government publication — Office of the National Coordinator for Health Information Technology; public domain)"
+  - "HIMSS Electronic Medical Record Adoption Model (EMRAM) (commercial nonprofit organization — Healthcare Information and Management Systems Society; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Enters structured clinical data and navigates the EHR workflows safely.

@@ -10,11 +10,11 @@ cluster_tags:
 description: >
   Addresses social determinants of health (SDOH); collaborates with community-based organizations to design culturally tailored interventions and measure equity outcomes.
 source_frameworks:
-  - "WHO Health-Equity Framework"
-  - "cdc:HI-5"
+  - "WHO Health Equity framework and Social Determinants of Health conceptual framework (intergovernmental organization; publicly available)"
+  - "CDC Health Impact in Five Years (HI-5) evidence-based interventions (U.S. government publication — Centers for Disease Control and Prevention; public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognizes basic health-equity concepts; identifies SDOH factor; attends community meetings.
+    indicator: Recognizes basic health-equity concepts; identifies social determinants of health (SDOH) factors; attends community engagement meetings.
   - level: Basic
     indicator: Conducts stakeholder mapping; facilitates focus groups; collects demographic data, applies plain-language principles, and adapts materials culturally.
   - level: Intermediate

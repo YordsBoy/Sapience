@@ -11,8 +11,8 @@ description: >
   Provides synchronous and asynchronous virtual care; ensures licensure, consent,
   technology standards, reimbursement, and digital accessibility compliance.
 source_frameworks:
-  - "American Telemedicine Association (ATA) Practice Guidelines"
-  - "cchp:PolicyTracker"
+  - "American Telemedicine Association (ATA) Practice Guidelines (professional membership association; conceptual alignment only)"
+  - "Center for Connected Health Policy (CCHP) State Telehealth Laws and Reimbursement Policies tracker (nonprofit center; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Schedules virtual visits; explains consent requirements; verifies patient identity and connectivity.

@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Safeguards protected health information (PHI) per the HIPAA Privacy, Security, and Breach-Notification Rules; implements administrative, physical, and technical safeguards and conducts risk assessments.
 source_frameworks:
-  - "HHS HIPAA Privacy Rule Summary"
+  - "HHS HIPAA Privacy Rule, Security Rule, and Breach Notification Rule (U.S. government regulation — Department of Health and Human Services; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies PHI and follows basic privacy procedures.

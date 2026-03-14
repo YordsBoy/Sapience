@@ -10,10 +10,10 @@ cluster_tags:
 description: >
   Applies quality-improvement science and patient-safety principles to reduce harm, improve clinical outcomes, and meet regulatory accreditation standards.
 source_frameworks:
-  - "IHI Patient Safety Essentials Toolkit"
-  - "joint:NPSG"
-  - "ahrq:QI"
-  - "ihi:ModelForImprovement"
+  - "IHI Patient Safety Essentials Toolkit (nonprofit organization — Institute for Healthcare Improvement; conceptual alignment only)"
+  - "The Joint Commission National Patient Safety Goals (NPSGs) (commercial accreditation body — The Joint Commission; conceptual alignment only)"
+  - "AHRQ Quality Indicators (QI) toolkit (U.S. government publication — Agency for Healthcare Research and Quality; public domain)"
+  - "IHI Model for Improvement (nonprofit organization — Institute for Healthcare Improvement; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Reports adverse events and participates in safety huddles.

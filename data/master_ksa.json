@@ -13171,8 +13171,8 @@
     ],
     "description": "Provides synchronous and asynchronous virtual care; ensures licensure, consent, technology standards, reimbursement, and digital accessibility compliance.\n",
     "source_frameworks": [
-      "American Telemedicine Association (ATA) Practice Guidelines",
-      "cchp:PolicyTracker"
+      "American Telemedicine Association (ATA) Practice Guidelines (professional membership association; conceptual alignment only)",
+      "Center for Connected Health Policy (CCHP) State Telehealth Laws and Reimbursement Policies tracker (nonprofit center; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -13209,8 +13209,8 @@
     ],
     "description": "Navigates U.S. FDA and EU MDR pathways; implements Quality-Management System under 21 CFR 820/QMSR and ISO 13485; manages design history file (DHF) and post-market surveillance.\n",
     "source_frameworks": [
-      "FDA Quality Management System Regulation 2024",
-      "iso:13485"
+      "FDA Quality Management System Regulation (QMSR) 21 CFR Part 820 (2024 final rule) (U.S. government regulation — Food and Drug Administration; public domain)",
+      "ISO 13485:2016 Medical Devices — Quality Management Systems (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -13247,10 +13247,10 @@
     ],
     "description": "Applies quality-improvement science and patient-safety principles to reduce harm, improve clinical outcomes, and meet regulatory accreditation standards.\n",
     "source_frameworks": [
-      "IHI Patient Safety Essentials Toolkit",
-      "joint:NPSG",
-      "ahrq:QI",
-      "ihi:ModelForImprovement"
+      "IHI Patient Safety Essentials Toolkit (nonprofit organization — Institute for Healthcare Improvement; conceptual alignment only)",
+      "The Joint Commission National Patient Safety Goals (NPSGs) (commercial accreditation body — The Joint Commission; conceptual alignment only)",
+      "AHRQ Quality Indicators (QI) toolkit (U.S. government publication — Agency for Healthcare Research and Quality; public domain)",
+      "IHI Model for Improvement (nonprofit organization — Institute for Healthcare Improvement; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -13287,10 +13287,10 @@
     ],
     "description": "Designs and operates surveillance systems, performs epidemiologic investigations, and interprets data to guide public-health interventions and policy; analyses trends and communicates findings to stakeholders.\n",
     "source_frameworks": [
-      "CDC Public Health Surveillance Manual",
-      "cdc:PHIN",
-      "who:ICD-11",
-      "cste:Competencies"
+      "CDC Updated Guidelines for Evaluating Public Health Surveillance Systems (U.S. government publication — Centers for Disease Control and Prevention; public domain)",
+      "CDC Public Health Information Network (PHIN) Messaging System specifications (U.S. government program — CDC; public domain)",
+      "WHO International Classification of Diseases 11th Revision (ICD-11) (intergovernmental organization; publicly available)",
+      "Council of State and Territorial Epidemiologists (CSTE) Applied Epidemiology Competencies (professional membership association; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -13303,7 +13303,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Conducts field investigations; applies statistical tests; ; calculates R₀ and attack rates; communicates findings to stakeholders."
+        "indicator": "Conducts field investigations; applies statistical tests; calculates R₀ and attack rates; communicates findings to stakeholders."
       },
       {
         "level": "Advanced",
@@ -13327,8 +13327,8 @@
     ],
     "description": "Stratifies risk, targets interventions, and tracks outcomes across attributed populations; leverages registries, HIE data, and predictive analytics to improve cost and quality.\n",
     "source_frameworks": [
-      "NCQA Population Health Management Standards",
-      "cms:QPP"
+      "NCQA Population Health Management Accreditation Standards (nonprofit accreditation organization — National Committee for Quality Assurance; conceptual alignment only)",
+      "CMS Quality Payment Program (QPP) framework and reporting requirements (U.S. government program — Centers for Medicare & Medicaid Services; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -13365,13 +13365,13 @@
     ],
     "description": "Addresses social determinants of health (SDOH); collaborates with community-based organizations to design culturally tailored interventions and measure equity outcomes.\n",
     "source_frameworks": [
-      "WHO Health-Equity Framework",
-      "cdc:HI-5"
+      "WHO Health Equity framework and Social Determinants of Health conceptual framework (intergovernmental organization; publicly available)",
+      "CDC Health Impact in Five Years (HI-5) evidence-based interventions (U.S. government publication — Centers for Disease Control and Prevention; public domain)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes basic health-equity concepts; identifies SDOH factor; attends community meetings."
+        "indicator": "Recognizes basic health-equity concepts; identifies social determinants of health (SDOH) factors; attends community engagement meetings."
       },
       {
         "level": "Basic",
@@ -13403,9 +13403,9 @@
     ],
     "description": "Applying the World Health Organization (WHO) Essential Public Health Functions—surveillance, health‑promotion, emergency preparedness, governance & Council on Linkages Core Competencies—assessment, policy development, communication, and leadership—to protect and improve population health through multidisciplinary collaboration.\n",
     "source_frameworks": [
-      "PHF Core Competencies for Public Health Professionals (2021)",
-      "WHO Roadmap for Strengthening the Public Health and Emergency Workforce 2024",
-      "Council on Linkages Core Competencies for Public Health Professionals"
+      "Council on Linkages Core Competencies for Public Health Professionals (2021 update) (nonprofit coalition — Public Health Foundation / Council on Linkages; publicly available)",
+      "WHO Roadmap for Strengthening the Public Health and Emergency Workforce 2024 (intergovernmental organization; publicly available)",
+      "Public Health Foundation (PHF) Core Competencies for Public Health Professionals implementation resources (nonprofit organization; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -13442,10 +13442,10 @@
     ],
     "description": "Configures electronic-health-record (EHR) systems, clinical decision support, data governance, and analytics to improve quality and clinician workflow.\n",
     "source_frameworks": [
-      "AMIA 10×10 Health Informatics Core",
-      "hl7:FHIR",
-      "onc:HealthIT",
-      "himss:EMRAM"
+      "AMIA 10×10 Health Informatics Training Program core curriculum (academic nonprofit — American Medical Informatics Association; conceptual alignment only)",
+      "HL7 FHIR standard (nonprofit standards development organization — HL7 International; openly available)",
+      "ONC Health IT Certification Program criteria (U.S. government publication — Office of the National Coordinator for Health Information Technology; public domain)",
+      "HIMSS Electronic Medical Record Adoption Model (EMRAM) (commercial nonprofit organization — Healthcare Information and Management Systems Society; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -13480,19 +13480,19 @@
       "HL7 FHIR",
       "Interoperability"
     ],
-    "description": "Designing, developing, and testing Fast Healthcare Interoperability Resources (FHIR) application‑programming interfaces (APIs) and implementation guides to enable secure, standards‑based data exchange across electronic health‑record systems.",
+    "description": "Designing, developing, and testing Fast Healthcare Interoperability Resources (FHIR) application-programming interfaces (APIs) and implementation guides to enable secure, standards-based data exchange across electronic health-record systems.",
     "source_frameworks": [
-      "HL7 FHIR R5 Standard",
-      "U.S. Office of the National Coordinator (ONC) 21st Century Cures Act Final Rule"
+      "HL7 Fast Healthcare Interoperability Resources (FHIR) R5 Standard (nonprofit standards development organization — HL7 International; openly available — no proprietary restriction)",
+      "ONC 21st Century Cures Act Interoperability, Information Blocking, and the ONC Health IT Certification Program Final Rule (U.S. government publication — Office of the National Coordinator for Health Information Technology; public domain)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Describes resources, profiles, and RESTful operations; explains FHIR resource structure; uses public FHIR sandboxes; understands basic Health Level Seven (HL7) concepts."
+        "indicator": "Describes resources, profiles, and RESTful operations; explains FHIR resource structure; uses public FHIR sandboxes; identifies foundational Health Level Seven (HL7) messaging concepts and their role in healthcare data exchange."
       },
       {
         "level": "Basic",
-        "indicator": "Builds RESTful FHIR endpoints; validates resources with FHIR validator; implements SMART‑on‑FHIR authentication."
+        "indicator": "Builds RESTful FHIR endpoints; validates resources with FHIR validator; implements SMART-on-FHIR authentication."
       },
       {
         "level": "Intermediate",
@@ -13500,11 +13500,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Optimises API performance; ensures compliance with United States Core Data for Interoperability (USCDI); integrates patient‑generated data from wearables; validates IGs, runs inferno tests, and manages versioning"
+        "indicator": "Optimises API performance; ensures compliance with United States Core Data for Interoperability (USCDI); integrates patient-generated data from wearables; validates IGs, runs inferno tests, and manages versioning."
       },
       {
         "level": "Expert",
-        "indicator": "Authors national implementation guides; leads health‑information exchange (HIE) architectures; contributes to HL7 Da Vinci and Gravity project standards."
+        "indicator": "Authors national implementation guides; leads health-information exchange (HIE) architectures; contributes to HL7 Da Vinci and Gravity project standards."
       }
     ]
   },
@@ -13520,7 +13520,7 @@
     ],
     "description": "Evaluates, integrates, and monitors machine-learning and large-language-model tools for diagnostics, triage, and workflow automation; addresses bias, safety, and FDA Software-as-Medical-Device (SaMD) guidance.\n",
     "source_frameworks": [
-      "FDA SaMD AI/ML Action Plan 2024"
+      "FDA Artificial Intelligence and Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan (U.S. government publication — Food and Drug Administration; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -13555,15 +13555,15 @@
       "Value-Based Care",
       "Quality Metrics"
     ],
-    "description": "Collecting, analyzing, and reporting clinical and financial metrics—quality measures, patient‑reported outcomes, cost‑of‑care indicators—to support value‑based payment models, risk adjustment, and continuous improvement.\n",
+    "description": "Collecting, analyzing, and reporting clinical and financial metrics—quality measures, patient-reported outcomes, cost-of-care indicators—to support value-based payment models, risk adjustment, and continuous improvement.\n",
     "source_frameworks": [
-      "Centers for Medicare & Medicaid Services (CMS) Merit‑based Incentive Payment System (MIPS) Quality Measures",
-      "National Quality Forum (NQF) Measure Evaluation Framework"
+      "CMS Merit-based Incentive Payment System (MIPS) Quality Measures — Quality Payment Program (U.S. government program — Centers for Medicare & Medicaid Services; public domain)",
+      "National Quality Forum (NQF) Measure Evaluation Criteria and Guidance (nonprofit organization; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists common quality measures (e.g., readmission rates); recognizes basic cost‑of‑care terminology; references MIPS categories."
+        "indicator": "Lists common quality measures (e.g., readmission rates); recognizes basic cost-of-care terminology; references MIPS categories."
       },
       {
         "level": "Basic",
@@ -13575,11 +13575,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Designs dashboards for accountable‑care organizations (ACOs); models shared‑savings forecasts; integrates social‑risk stratification; leads gap-closure initiatives; integrates feedback loops."
+        "indicator": "Designs dashboards for accountable-care organizations (ACOs); models shared-savings forecasts; integrates social-risk stratification; leads gap-closure initiatives; integrates feedback loops."
       },
       {
         "level": "Expert",
-        "indicator": "Shapes organization’s VBC contract strategy; leads value‑based contracting analytics; advises on national measure‑development; publishes research on value‑based performance; collaborates with CMS/NCQA."
+        "indicator": "Shapes organization's VBC contract strategy; leads value-based contracting analytics; advises on national measure-development; publishes research on value-based performance; collaborates with CMS/NCQA."
       }
     ]
   },
@@ -13595,8 +13595,8 @@
     ],
     "description": "Manages end-to-end revenue-cycle activities—registration, patient access, charge capture, coding (ICD-10-CM/PCS, CPT), claims, denials, and payer contracts to optimize cash flow and ensure regulatory compliance.",
     "source_frameworks": [
-      "HFMA Revenue Cycle Map",
-      "cms:UB-04"
+      "HFMA Revenue Cycle Map and best-practice frameworks (healthcare professional association — Healthcare Financial Management Association; conceptual alignment only)",
+      "CMS UB-04 / CMS-1450 Institutional Claim Form and completion guidelines (U.S. government publication — Centers for Medicare & Medicaid Services; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -13613,7 +13613,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Leads revenue-cycle optimization projects; aligns with value-based contracts; automates RPA bots; negotiates payer contracts; benchmarks KPIs ensures audit readiness."
+        "indicator": "Leads revenue-cycle optimization projects; aligns with value-based contracts; automates RPA bots; negotiates payer contracts; benchmarks KPIs; ensures audit readiness."
       },
       {
         "level": "Expert",
@@ -13633,14 +13633,14 @@
     ],
     "description": "Develops and maintains emergency-preparedness plans for healthcare facilities, ensuring continuity of critical functions and coordination with public-health agencies.\n",
     "source_frameworks": [
-      "CMS Emergency Preparedness Rule 2016",
-      "hhs:ASPR",
-      "joint:EM09"
+      "CMS Emergency Preparedness Requirements for Medicare and Medicaid Participating Providers and Suppliers (Final Rule 2016) (U.S. government regulation — Centers for Medicare & Medicaid Services; public domain)",
+      "HHS ASPR Hospital Preparedness Program (HPP) Capabilities (U.S. government publication — Assistant Secretary for Preparedness and Response; public domain)",
+      "The Joint Commission Emergency Management (EM) Standards chapter (commercial accreditation body — The Joint Commission; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Describes four core elements (risk assessment, P&P, training, comms); participates in drills;understands basic emergency codes."
+        "indicator": "Describes the four core emergency preparedness elements (risk assessment, policies and procedures, training, communications); participates in drills; identifies basic emergency codes and their corresponding response actions."
       },
       {
         "level": "Basic",
@@ -13672,7 +13672,7 @@
     ],
     "description": "Safeguards protected health information (PHI) per the HIPAA Privacy, Security, and Breach-Notification Rules; implements administrative, physical, and technical safeguards and conducts risk assessments.\n",
     "source_frameworks": [
-      "HHS HIPAA Privacy Rule Summary"
+      "HHS HIPAA Privacy Rule, Security Rule, and Breach Notification Rule (U.S. government regulation — Department of Health and Human Services; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -13709,9 +13709,9 @@
     ],
     "description": "Orchestrates patient-centered plans of care, aligning interdisciplinary team (physicians, nurses, pharmacists, and allied staff) actions, resources, and timelines to achieve optimal clinical and psychosocial outcomes.\n",
     "source_frameworks": [
-      "Agency for Healthcare Research & Quality (AHRQ) TeamSTEPPS",
-      "cms:CCM",
-      "nanda:CarePlans"
+      "AHRQ TeamSTEPPS 3.0 — Team Strategies and Tools to Enhance Performance and Patient Safety (U.S. government publication — Agency for Healthcare Research and Quality; public domain)",
+      "CMS Chronic Care Management (CCM) program billing and clinical requirements (U.S. government program — Centers for Medicare & Medicaid Services; public domain)",
+      "NANDA International Nursing Diagnoses: Definitions and Classification (professional organization; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -13732,7 +13732,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Designs enterprise care-coordination models; integrates social determinants of health;  influences reimbursement policy; publishes best-practice toolkits."
+        "indicator": "Designs enterprise care-coordination models; integrates social determinants of health; influences reimbursement policy; publishes best-practice toolkits."
       }
     ]
   },
@@ -13748,7 +13748,7 @@
     ],
     "description": "Assesses patient needs, develops care plans, coordinates multidisciplinary teams, and manages transitions of care to reduce readmissions and improve patient experience.\n",
     "source_frameworks": [
-      "Commission for Case Manager Certification (CCMC) Standards"
+      "Commission for Case Manager Certification (CCMC) Code of Professional Conduct and Case Management Standards (commercial certification body; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -13769,7 +13769,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Oversees care management programs or departments; establishes best practices for service coordination; ; secures payer contracts;  mentors case managers or social workers."
+        "indicator": "Oversees care management programs or departments; establishes best practices for service coordination; secures payer contracts; mentors case managers or social workers."
       }
     ]
   },
@@ -13785,8 +13785,8 @@
     ],
     "description": "Integrates mental-health and substance-use services into primary and specialty care, applying collaborative-care models, evidence-based screenings, and trauma-informed approaches.\n",
     "source_frameworks": [
-      "AMA Collaborative Care Model Guide",
-      "samhsa:CCM"
+      "American Medical Association (AMA) Implementing Collaborative Care Guide (professional membership association; conceptual alignment only)",
+      "SAMHSA-HRSA Collaborative Care Model implementation resources (U.S. government publication — Substance Abuse and Mental Health Services Administration; public domain)"
     ],
     "proficiency_levels": [
       {

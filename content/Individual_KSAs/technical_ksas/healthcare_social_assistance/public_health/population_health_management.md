@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Stratifies risk, targets interventions, and tracks outcomes across attributed populations; leverages registries, HIE data, and predictive analytics to improve cost and quality.
 source_frameworks:
-  - "NCQA Population Health Management Standards"
-  - "cms:QPP"
+  - "NCQA Population Health Management Accreditation Standards (nonprofit accreditation organization — National Committee for Quality Assurance; conceptual alignment only)"
+  - "CMS Quality Payment Program (QPP) framework and reporting requirements (U.S. government program — Centers for Medicare & Medicaid Services; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies basic population segments and retrieves registry reports.

@@ -10,12 +10,12 @@ cluster_tags:
 description: >
   Develops and maintains emergency-preparedness plans for healthcare facilities, ensuring continuity of critical functions and coordination with public-health agencies.
 source_frameworks:
-  - "CMS Emergency Preparedness Rule 2016"
-  - "hhs:ASPR"
-  - "joint:EM09"
+  - "CMS Emergency Preparedness Requirements for Medicare and Medicaid Participating Providers and Suppliers (Final Rule 2016) (U.S. government regulation — Centers for Medicare & Medicaid Services; public domain)"
+  - "HHS ASPR Hospital Preparedness Program (HPP) Capabilities (U.S. government publication — Assistant Secretary for Preparedness and Response; public domain)"
+  - "The Joint Commission Emergency Management (EM) Standards chapter (commercial accreditation body — The Joint Commission; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
-    indicator: Describes four core elements (risk assessment, P&P, training, comms); participates in drills;understands basic emergency codes.
+    indicator: Describes the four core emergency preparedness elements (risk assessment, policies and procedures, training, communications); participates in drills; identifies basic emergency codes and their corresponding response actions.
   - level: Basic
     indicator: Updates unit response plans, stocks supplies, and completes incident reports.
   - level: Intermediate

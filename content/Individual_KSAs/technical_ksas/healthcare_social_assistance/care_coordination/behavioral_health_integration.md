@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Integrates mental-health and substance-use services into primary and specialty care, applying collaborative-care models, evidence-based screenings, and trauma-informed approaches.
 source_frameworks:
-  - "AMA Collaborative Care Model Guide"
-  - "samhsa:CCM"
+  - "American Medical Association (AMA) Implementing Collaborative Care Guide (professional membership association; conceptual alignment only)"
+  - "SAMHSA-HRSA Collaborative Care Model implementation resources (U.S. government publication — Substance Abuse and Mental Health Services Administration; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Administers basic mental-health screenings, flags positives, and documents results.

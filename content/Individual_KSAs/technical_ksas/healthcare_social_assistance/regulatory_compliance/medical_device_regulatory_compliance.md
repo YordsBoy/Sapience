@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Navigates U.S. FDA and EU MDR pathways; implements Quality-Management System under 21 CFR 820/QMSR and ISO 13485; manages design history file (DHF) and post-market surveillance.
 source_frameworks:
-  - "FDA Quality Management System Regulation 2024"
-  - "iso:13485"
+  - "FDA Quality Management System Regulation (QMSR) 21 CFR Part 820 (2024 final rule) (U.S. government regulation — Food and Drug Administration; public domain)"
+  - "ISO 13485:2016 Medical Devices — Quality Management Systems (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Maintains device files and understands basic classification.

@@ -12,7 +12,7 @@ description: >
   tools for diagnostics, triage, and workflow automation; addresses bias, safety,
   and FDA Software-as-Medical-Device (SaMD) guidance.
 source_frameworks:
-  - "FDA SaMD AI/ML Action Plan 2024"
+  - "FDA Artificial Intelligence and Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan (U.S. government publication — Food and Drug Administration; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes AI vs traditional CDS; recognizes potential bias.

@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Orchestrates patient-centered plans of care, aligning interdisciplinary team (physicians, nurses, pharmacists, and allied staff) actions, resources, and timelines to achieve optimal clinical and psychosocial outcomes.
 source_frameworks:
-  - "Agency for Healthcare Research & Quality (AHRQ) TeamSTEPPS"
-  - "cms:CCM"
-  - "nanda:CarePlans"
+  - "AHRQ TeamSTEPPS 3.0 — Team Strategies and Tools to Enhance Performance and Patient Safety (U.S. government publication — Agency for Healthcare Research and Quality; public domain)"
+  - "CMS Chronic Care Management (CCM) program billing and clinical requirements (U.S. government program — Centers for Medicare & Medicaid Services; public domain)"
+  - "NANDA International Nursing Diagnoses: Definitions and Classification (professional organization; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Participates in daily huddles; gathers basic patient data; communicates care-plan updates to team members.
@@ -23,5 +23,5 @@ proficiency_levels:
   - level: Advanced
     indicator: Leads interdisciplinary rounds; leverages analytics to reduce readmissions; revises pathways for efficiency; mentors new coordinators.
   - level: Expert
-    indicator: Designs enterprise care-coordination models; integrates social determinants of health;  influences reimbursement policy; publishes best-practice toolkits.
+    indicator: Designs enterprise care-coordination models; integrates social determinants of health; influences reimbursement policy; publishes best-practice toolkits.
 ---

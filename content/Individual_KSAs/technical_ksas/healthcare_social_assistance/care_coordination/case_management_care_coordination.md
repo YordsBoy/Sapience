@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Assesses patient needs, develops care plans, coordinates multidisciplinary teams, and manages transitions of care to reduce readmissions and improve patient experience.
 source_frameworks:
-  - "Commission for Case Manager Certification (CCMC) Standards"
+  - "Commission for Case Manager Certification (CCMC) Code of Professional Conduct and Case Management Standards (commercial certification body; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Explains roles of case manager vs social worker; follows established care plans and carries out basic caregiving or support tasks as directed by supervisors.  
@@ -21,5 +21,5 @@ proficiency_levels:
   - level: Advanced  
     indicator: Implements closed-loop referral workflows; develops individualized care plans for complex cases, monitors progress, and adjusts resources or interventions as clients’ needs evolve; reports quality metrics.  
   - level: Expert  
-    indicator: Oversees care management programs or departments; establishes best practices for service coordination; ; secures payer contracts;  mentors case managers or social workers.  
+    indicator: Oversees care management programs or departments; establishes best practices for service coordination; secures payer contracts; mentors case managers or social workers.
 ---  
