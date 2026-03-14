@@ -8,10 +8,10 @@ cluster_tags:
   - "Software Development"
   - "Algorithms"
 description: >
-  Writes, debugs, and documents code in at least one high-level language (Python, Java, Go); applies control structures, data structures, and basic algorithms; follows clean-code and testing practices.s.
+  Writes, debugs, and documents code in at least one high-level language (Python, Java, Go); applies control structures, data structures, and basic algorithms; follows clean-code and testing practices.
 source_frameworks:
-  - "IEEE SWEBOK v3.0"
-  - "ONET 15-1252.00 Software Developers"
+  - "IEEE SWEBOK v3.0 (IEEE commercial standard; conceptual alignment only)"
+  - "O*NET-SOC 15-1252.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains variables, loops, and functions; writes small scripts that compile and run with guidance.

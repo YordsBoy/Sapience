@@ -10,11 +10,11 @@ cluster_tags:
 description: |
   Designs schemas, writes optimized queries, manages backup/restore, replication, and performance tuning for relational (PostgreSQL, MySQL) and NoSQL stores (MongoDB, DynamoDB).
 source_frameworks:
-  - "AWS Database Freedom Program"
-  - "onet:15-1242.00"
+  - "AWS Database Freedom Program (vendor program reference; conceptual alignment only — equivalent database platforms and multi-cloud strategies may demonstrate competency)"
+  - "O*NET-SOC 15-1242.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Performs basic CRUD operations and routine backups; executes SELECT queries; understands ACID.
+    indicator: Performs basic CRUD operations and routine backups; executes SELECT queries; explains ACID properties and their significance for database reliability.
   - level: Basic
     indicator: Configures roles/permissions; normalises tables; sets indexes; backups; monitors query plans.
   - level: Intermediate

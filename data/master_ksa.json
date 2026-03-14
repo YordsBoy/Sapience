@@ -19288,8 +19288,8 @@
     ],
     "description": "Provides technical support to end-users; triages incidents via ITIL-aligned ticketing systems; troubleshoots hardware, software, and connectivity issues; documents resolutions and drives continuous knowledge-base improvement.\n",
     "source_frameworks": [
-      "ITIL® 4 Foundation Practices",
-      "CompTIA A+ Core Skills Outline (2025)"
+      "ITIL® 4 Foundation Practices (commercial framework; conceptual alignment only)",
+      "CompTIA A+ Core Skills Outline 2025 (proprietary certification body; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -19326,8 +19326,8 @@
     ],
     "description": "Designs and administers identity, federation, and access policies across cloud providers; applies least-privilege, MFA, and role-based access control.\n",
     "source_frameworks": [
-      "AWS IAM Best Practices",
-      "Azure AD Conditional Access"
+      "AWS IAM Best Practices (vendor documentation; conceptual alignment only — equivalent IAM frameworks across Azure AD, GCP IAM, and other cloud providers may demonstrate competency)",
+      "Azure AD Conditional Access documentation (vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -19364,9 +19364,9 @@
     ],
     "description": "Deploys and manages cloud workloads inside hardware-based Trusted Execution Environments (TEEs) or memory-encrypted VMs; configures attestation, key-release, and runtime-encryption to protect data-in-use.\n",
     "source_frameworks": [
-      "Confidential Computing Consortium specs (2024)",
-      "NIST SP 800-207A draft – Zero-Trust & Confidential-Compute patterns (2023)",
-      "Azure Confidential VMs portfolio update 2025"
+      "Confidential Computing Consortium specifications (2024) (Linux Foundation project; open-source, publicly available)",
+      "NIST SP 800-207A draft – Zero-Trust & Confidential-Compute patterns (2023) (U.S. government draft publication; public domain)",
+      "Azure Confidential VMs portfolio update 2025 (vendor documentation; conceptual alignment only — equivalent confidential computing platforms such as AMD SEV or Intel TDX on other clouds may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -19375,7 +19375,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Launches an SGX/TDX VM; verifies attestation quote; encrypts disks."
+        "indicator": "Launches a hardware-based Trusted Execution Environment (TEE) VM (e.g., Intel SGX/TDX, AMD SEV, equivalent cloud TEE instance type); verifies attestation quote; encrypts disks."
       },
       {
         "level": "Intermediate",
@@ -19403,8 +19403,8 @@
     ],
     "description": "Designs defense-in-depth cloud security aligned with NIST SP 800-207 Zero-Trust principles; integrates IAM, WAF, SIEM/SOAR, and CSPM across multi-cloud estates.\n",
     "source_frameworks": [
-      "NIST SP 800-207 Zero Trust Architecture",
-      "ISO/IEC 27017 Cloud Security Controls"
+      "NIST SP 800-207 Zero Trust Architecture (U.S. government publication; public domain)",
+      "ISO/IEC 27017:2015 Cloud Security Controls (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -19441,8 +19441,8 @@
     ],
     "description": "Understands OSI/TCP-IP layers, IPv4/6 addressing, routing, switching, DNS, DHCP, and basic firewall concepts; uses packet-capture tools for troubleshooting.\n",
     "source_frameworks": [
-      "CompTIA Network+ Objectives 2025",
-      "onet:15-1244.00"
+      "CompTIA Network+ Objectives 2025 (proprietary certification body; conceptual alignment only)",
+      "O*NET-SOC 15-1244.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -19479,13 +19479,13 @@
     ],
     "description": "Ensures cloud data lifecycle, locality, privacy, and residency compliance (GDPR, CPRA, Schrems II); sets policies for classification, encryption, retention, and cross-border transfers.\n",
     "source_frameworks": [
-      "ISO/IEC 27018 Guidelines",
-      "Google Cloud Security Foundations Guide 2025"
+      "ISO/IEC 27018:2019 Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "Google Cloud Security Foundations Guide 2025 (vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies Personally Identifiable Information (PII) classes; tags data locations; follows encryption‑at‑rest policies; labels sensitive vs non-sensitive data."
+        "indicator": "Identifies Personally Identifiable Information (PII) classes; tags data locations; follows encryption-at-rest policies; labels sensitive vs non-sensitive data."
       },
       {
         "level": "Basic",
@@ -19493,15 +19493,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements Customer‑Managed Encryption Keys (CMEK); maintains data‑processing agreements; integrates Cloud Data Catalog; audits residency controls; automates classification workflows."
+        "indicator": "Implements Customer-Managed Encryption Keys (CMEK); maintains data-processing agreements; integrates a cloud data catalog service (e.g., Google Cloud Data Catalog, AWS Glue Data Catalog, Azure Purview) for lineage and classification; audits residency controls; automates classification workflows."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs cross‑border data‑replication strategies with pseudonymisation; monitors residency‑compliance dashboards."
+        "indicator": "Designs cross-border data-replication strategies with pseudonymisation; monitors residency-compliance dashboards."
       },
       {
         "level": "Expert",
-        "indicator": "Defines organizational data-governance policy; advises on global data‑protection regulations; architects sovereign‑cloud landing zones; leads third‑party assurance audits."
+        "indicator": "Defines organizational data-governance policy; advises on global data-protection regulations; architects sovereign-cloud landing zones; leads third-party assurance audits."
       }
     ]
   },
@@ -19517,9 +19517,9 @@
     ],
     "description": "Uses distributed version-control systems (Git) for branching, merging, tagging, and pull-request workflows; integrates commits with CI/CD pipelines.\n",
     "source_frameworks": [
-      "Git-SCM Pro Book",
-      "GitHub Flow Best Practices",
-      "onet:15-1253.00"
+      "Git-SCM Pro Book (open-source documentation; CC BY-NC-SA 3.0; publicly available at git-scm.com)",
+      "GitHub Flow Best Practices (vendor documentation; conceptual alignment only — equivalent branching workflows such as GitLab Flow or trunk-based development may demonstrate competency)",
+      "O*NET-SOC 15-1253.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -19554,10 +19554,10 @@
       "Software Development",
       "Algorithms"
     ],
-    "description": "Writes, debugs, and documents code in at least one high-level language (Python, Java, Go); applies control structures, data structures, and basic algorithms; follows clean-code and testing practices.s.\n",
+    "description": "Writes, debugs, and documents code in at least one high-level language (Python, Java, Go); applies control structures, data structures, and basic algorithms; follows clean-code and testing practices.\n",
     "source_frameworks": [
-      "IEEE SWEBOK v3.0",
-      "ONET 15-1252.00 Software Developers"
+      "IEEE SWEBOK v3.0 (IEEE commercial standard; conceptual alignment only)",
+      "O*NET-SOC 15-1252.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -19594,8 +19594,8 @@
     ],
     "description": "Applies core security principles to safeguard confidentiality, integrity, and availability; recognizes threats, enforces least-privilege, patches systems, and participates in incident-response processes.\n",
     "source_frameworks": [
-      "SFIA v8 — SCTY",
-      "NIST NICE Framework (Protect PR)"
+      "SFIA v8 — SCTY (commercial framework; conceptual alignment only)",
+      "NIST NICE Framework (Protect PR) (U.S. government publication; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -19632,10 +19632,10 @@
     ],
     "description": "Measures and reduces cloud carbon footprint through carbon-aware workload placement, right-sizing, renewable-energy alignment, and FinOps-driven efficiency metrics (gCO₂e per vCPU-hr / per API call).\n",
     "source_frameworks": [
-      "Green Software Foundation – Carbon-Awareness principles (2024)",
-      "Microsoft–UBS Carbon-Aware Computing white paper 2023",
-      "FinOps Foundation State of FinOps 2025 – green-ops metrics",
-      "EU Energy-Efficiency Directive 2023 data-center reporting"
+      "Green Software Foundation – Carbon-Awareness principles (2024) (open-source foundation; publicly available)",
+      "Microsoft–UBS Carbon-Aware Computing white paper 2023 (vendor white paper; conceptual alignment only)",
+      "FinOps Foundation State of FinOps 2025 – green-ops metrics (nonprofit industry report; publicly available)",
+      "EU Energy-Efficiency Directive 2023 data-center reporting (EU regulatory instrument; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -19672,30 +19672,30 @@
     ],
     "description": "Tracks, allocates, and optimizes cloud spend; sets KPIs (unit economics), rightsizes workloads, negotiates committed-use discounts, and drives culture change per FinOps Framework.\n",
     "source_frameworks": [
-      "FinOps Foundation – State of FinOps 2025",
-      "FinOps Foundation Practitioner Certification Guide",
-      "AWS Cost Management White Paper"
+      "FinOps Foundation – State of FinOps 2025 (nonprofit industry report; publicly available)",
+      "FinOps Foundation Practitioner Certification Guide (commercial certification body; conceptual alignment only)",
+      "AWS Cost Management White Paper (vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Retrieves basic cost‑and‑usage reports; identifies untagged resources."
+        "indicator": "Retrieves basic cost-and-usage reports; identifies untagged resources."
       },
       {
         "level": "Basic",
-        "indicator": "Implements cost‑allocation tags; sets budget alerts in Amazon Web Services (AWS) or Microsoft Azure."
+        "indicator": "Implements cost-allocation tags; sets budget alerts using cloud provider cost management tools (e.g., AWS Cost Explorer, Azure Cost Management, GCP Cost Management Console)."
       },
       {
         "level": "Intermediate",
-        "indicator": "Rightsizes instances; negotiates Savings Plans or Reserved Instances; presents monthly show‑back reports to stakeholders; implements autoscaling and spot."
+        "indicator": "Rightsizes instances; negotiates committed-use discount agreements (e.g., AWS Savings Plans, Azure Reserved Instances, GCP Committed Use Discounts); presents monthly show-back reports to stakeholders; implements autoscaling and spot-capacity."
       },
       {
         "level": "Advanced",
-        "indicator": "Automates anomaly detection using Application Programming Interface (API) feeds; forecasts spend allocates show-back/charge-back; integrates cost KPIs into Continuous Integration pipelines."
+        "indicator": "Automates anomaly detection using Application Programming Interface (API) feeds; forecasts spend allocates show-back/charge-back; integrates cost KPIs into Continuous Integration pipelines."
       },
       {
         "level": "Expert",
-        "indicator": "Leads organization‑wide FinOps program; drives cloud‑service provider contract optimisations; mentors cross‑functional FinOps teams; influences vendor pricing."
+        "indicator": "Leads organization-wide FinOps program; drives cloud-service provider contract optimisations; mentors cross-functional FinOps teams; influences vendor pricing."
       }
     ]
   },
@@ -19711,8 +19711,8 @@
     ],
     "description": "Deploying, scaling, and updating containerised workloads across heterogeneous edge devices and central cloud clusters using orchestration frameworks (such as **KubeEdge**, **OpenYurt**, or **Azure IoT Hub**) and tackles latency, connectivity, and security constraints.\n",
     "source_frameworks": [
-      "IDC Worldwide Edge Spending Guide 2025",
-      "KubeEdge Project Documentation"
+      "IDC Worldwide Edge Spending Guide 2025 (commercial analyst report; conceptual alignment only)",
+      "KubeEdge Project Documentation (CNCF sandbox project; open-source, publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -19725,7 +19725,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements fllet-management and remote over‑the‑air (OTA) updates; manages local‑storage volumes; configures device‑twin synchronisation."
+        "indicator": "Implements fleet-management and remote over-the-air (OTA) updates; manages local-storage volumes; configures device-twin synchronisation."
       },
       {
         "level": "Advanced",
@@ -19786,7 +19786,7 @@
     ],
     "description": "Uses declarative tools (Terraform, CloudFormation, Pulumi) to provision and manage cloud resources with version control, peer review, and automated testing.\n",
     "source_frameworks": [
-      "HashiCorp Terraform Docs"
+      "HashiCorp Terraform Documentation (vendor documentation; conceptual alignment only — equivalent IaC tools such as CloudFormation, Pulumi, or Bicep may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -19795,7 +19795,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Plans/applies stacks; stores state securely."
+        "indicator": "Provisions and applies infrastructure stacks; stores state securely in a remote backend."
       },
       {
         "level": "Intermediate",
@@ -19803,7 +19803,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Manages multi-cloud workspaces, drift detection, orchestration."
+        "indicator": "Manages multi-cloud environments and provider accounts, drift detection, and orchestration across workspaces or equivalent state-isolation constructs."
       },
       {
         "level": "Expert",
@@ -19823,8 +19823,8 @@
     ],
     "description": "Automates build-test-deploy pipelines using tools like Jenkins, GitHub Actions, or GitLab; manages artefacts, container registries, and release orchestration.\n",
     "source_frameworks": [
-      "DORA State of DevOps 2023",
-      "onet:15-1252.00"
+      "DORA State of DevOps 2023 (Google Cloud–affiliated research report; conceptual alignment only)",
+      "O*NET-SOC 15-1252.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -19841,7 +19841,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Enforces security scanning, canary releases, infra-as-code hooks; orchestrates microservice pipelines with container orchestration (K8s, ECS) and policy compliance."
+        "indicator": "Enforces security scanning, canary releases, infra-as-code hooks; orchestrates microservice pipelines with container orchestration platforms (e.g., Kubernetes, AWS ECS, Azure AKS, GCP GKE) and policy compliance."
       },
       {
         "level": "Expert",
@@ -19861,13 +19861,13 @@
     ],
     "description": "Designs schemas, writes optimized queries, manages backup/restore, replication, and performance tuning for relational (PostgreSQL, MySQL) and NoSQL stores (MongoDB, DynamoDB).\n",
     "source_frameworks": [
-      "AWS Database Freedom Program",
-      "onet:15-1242.00"
+      "AWS Database Freedom Program (vendor program reference; conceptual alignment only — equivalent database platforms and multi-cloud strategies may demonstrate competency)",
+      "O*NET-SOC 15-1242.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Performs basic CRUD operations and routine backups; executes SELECT queries; understands ACID."
+        "indicator": "Performs basic CRUD operations and routine backups; executes SELECT queries; explains ACID properties and their significance for database reliability."
       },
       {
         "level": "Basic",
@@ -19973,8 +19973,8 @@
     ],
     "description": "Operates production cloud estates—patching, capacity, tagging, incident response, and change control—via DevOps pipelines and ITSM tooling. Deploys and administers virtual networks, compute, storage, and identity services on major cloud platforms.\n",
     "source_frameworks": [
-      "ITIL® 4 High-Velocity IT",
-      "onet:15-1242.00"
+      "ITIL® 4 High-Velocity IT (commercial framework; conceptual alignment only)",
+      "O*NET-SOC 15-1242.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -19987,7 +19987,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Automates IaC with Terraform/CloudFormation, patching, backup, and scaling policies."
+        "indicator": "Automates IaC with infrastructure-as-code tools (e.g., Terraform, CloudFormation, Pulumi), patching, backup, and scaling policies."
       },
       {
         "level": "Advanced",
@@ -20011,9 +20011,9 @@
     ],
     "description": "Designs and operates AIOps pipelines that correlate telemetry, predict incidents, auto-scale workloads, and trigger self-healing runbooks (restart, rollback, config-tune) with minimal human intervention.\n",
     "source_frameworks": [
-      "Gartner Market Guide for AIOps Platforms 2024",
-      "Google Cloud predictive-autoscaling overview 2025",
-      "BigQuery Anomaly-Detection docs (cloud ops signals)"
+      "Gartner Market Guide for AIOps Platforms 2024 (commercial analyst report; conceptual alignment only)",
+      "Google Cloud predictive-autoscaling overview 2025 (vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)",
+      "Cloud provider anomaly-detection documentation (e.g., BigQuery Anomaly Detection; vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -20050,7 +20050,7 @@
     ],
     "description": "Designs and operates event-driven applications using FaaS (Lambda, Cloud Functions) and managed services; optimizes cold starts, observability, and cost.\n",
     "source_frameworks": [
-      "AWS Serverless Lens Well-Architected 2023"
+      "AWS Serverless Lens Well-Architected 2023 (vendor documentation; conceptual alignment only — equivalent serverless frameworks and platforms may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -20063,7 +20063,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements step-functions, retries, DLQs, tracing."
+        "indicator": "Implements workflow orchestration services (e.g., AWS Step Functions, Azure Logic Apps, GCP Workflows), retries, DLQs, tracing."
       },
       {
         "level": "Advanced",
@@ -20087,7 +20087,7 @@
     ],
     "description": "Designs secure, resilient, performant cloud topologies using reference architectures and Well-Architected pillars (AWS, Azure, GCP); selects compute, storage, and networking patterns aligned with business requirements.\n",
     "source_frameworks": [
-      "AWS Well-Architected Framework 2023"
+      "AWS Well-Architected Framework 2023 (vendor documentation; conceptual alignment only — equivalent cloud platform frameworks may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -20100,7 +20100,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Designs moderately complex cloud architectures using multiple services (compute, database, networking); implements best practices for performance and security; designs multi-tier VPCs/VNets, ALB/NLB, autoscaling."
+        "indicator": "Designs moderately complex cloud architectures using multiple services (compute, database, networking); implements best practices for performance and security; designs multi-tier VPCs/VNets, application and network load balancers (e.g., AWS ALB/NLB, Azure Application Gateway, GCP Cloud Load Balancing), autoscaling."
       },
       {
         "level": "Advanced",

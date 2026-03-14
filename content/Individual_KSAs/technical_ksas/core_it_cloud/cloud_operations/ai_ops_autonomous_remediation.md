@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Designs and operates AIOps pipelines that correlate telemetry, predict incidents, auto-scale workloads, and trigger self-healing runbooks (restart, rollback, config-tune) with minimal human intervention.
 source_frameworks:
-  - "Gartner Market Guide for AIOps Platforms 2024"
-  - "Google Cloud predictive-autoscaling overview 2025"
-  - "BigQuery Anomaly-Detection docs (cloud ops signals)"
+  - "Gartner Market Guide for AIOps Platforms 2024 (commercial analyst report; conceptual alignment only)"
+  - "Google Cloud predictive-autoscaling overview 2025 (vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)"
+  - "Cloud provider anomaly-detection documentation (e.g., BigQuery Anomaly Detection; vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains five AIOps characteristics (ingestion, topology, correlation, patterns, automation).

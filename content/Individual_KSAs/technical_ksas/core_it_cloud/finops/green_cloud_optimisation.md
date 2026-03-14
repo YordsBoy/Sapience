@@ -10,10 +10,10 @@ cluster_tags:
 description: >
   Measures and reduces cloud carbon footprint through carbon-aware workload placement, right-sizing, renewable-energy alignment, and FinOps-driven efficiency metrics (gCO₂e per vCPU-hr / per API call).
 source_frameworks:
-  - "Green Software Foundation – Carbon-Awareness principles (2024)"
-  - "Microsoft–UBS Carbon-Aware Computing white paper 2023"
-  - "FinOps Foundation State of FinOps 2025 – green-ops metrics"
-  - "EU Energy-Efficiency Directive 2023 data-center reporting"
+  - "Green Software Foundation – Carbon-Awareness principles (2024) (open-source foundation; publicly available)"
+  - "Microsoft–UBS Carbon-Aware Computing white paper 2023 (vendor white paper; conceptual alignment only)"
+  - "FinOps Foundation State of FinOps 2025 – green-ops metrics (nonprofit industry report; publicly available)"
+  - "EU Energy-Efficiency Directive 2023 data-center reporting (EU regulatory instrument; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads carbon dashboards; explains difference between embodied and operational emissions.

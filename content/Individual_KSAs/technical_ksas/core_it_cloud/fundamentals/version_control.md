@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Uses distributed version-control systems (Git) for branching, merging, tagging, and pull-request workflows; integrates commits with CI/CD pipelines.
 source_frameworks:
-  - "Git-SCM Pro Book"
-  - "GitHub Flow Best Practices"
-  - "onet:15-1253.00"
+  - "Git-SCM Pro Book (open-source documentation; CC BY-NC-SA 3.0; publicly available at git-scm.com)"
+  - "GitHub Flow Best Practices (vendor documentation; conceptual alignment only — equivalent branching workflows such as GitLab Flow or trunk-based development may demonstrate competency)"
+  - "O*NET-SOC 15-1253.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Clones repos; commits local changes; and resolves simple merge conflicts.

@@ -10,17 +10,17 @@ cluster_tags:
 description: >
   Ensures cloud data lifecycle, locality, privacy, and residency compliance (GDPR, CPRA, Schrems II); sets policies for classification, encryption, retention, and cross-border transfers.
 source_frameworks:
-  - "ISO/IEC 27018 Guidelines"
-  - "Google Cloud Security Foundations Guide 2025"
+  - "ISO/IEC 27018:2019 Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "Google Cloud Security Foundations Guide 2025 (vendor documentation; conceptual alignment only — equivalent platforms may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies Personally Identifiable Information (PII) classes; tags data locations; follows encryption‑at‑rest policies; labels sensitive vs non-sensitive data.
+    indicator: Identifies Personally Identifiable Information (PII) classes; tags data locations; follows encryption-at-rest policies; labels sensitive vs non-sensitive data.
   - level: Basic
     indicator: Configures region restrictions; sets Data Loss Prevention (DLP) inspection jobs; implements encryption at rest/in transit; sets retention tags; audits access roles.
   - level: Intermediate
-    indicator: Implements Customer‑Managed Encryption Keys (CMEK); maintains data‑processing agreements; integrates Cloud Data Catalog; audits residency controls; automates classification workflows.
+    indicator: Implements Customer-Managed Encryption Keys (CMEK); maintains data-processing agreements; integrates a cloud data catalog service (e.g., Google Cloud Data Catalog, AWS Glue Data Catalog, Azure Purview) for lineage and classification; audits residency controls; automates classification workflows.
   - level: Advanced
-    indicator: Designs cross‑border data‑replication strategies with pseudonymisation; monitors residency‑compliance dashboards.
+    indicator: Designs cross-border data-replication strategies with pseudonymisation; monitors residency-compliance dashboards.
   - level: Expert
-    indicator: Defines organizational data-governance policy; advises on global data‑protection regulations; architects sovereign‑cloud landing zones; leads third‑party assurance audits.
+    indicator: Defines organizational data-governance policy; advises on global data-protection regulations; architects sovereign-cloud landing zones; leads third-party assurance audits.
 ---

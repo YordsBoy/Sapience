@@ -10,8 +10,8 @@ cluster_tags:
 description: |
   Provides technical support to end-users; triages incidents via ITIL-aligned ticketing systems; troubleshoots hardware, software, and connectivity issues; documents resolutions and drives continuous knowledge-base improvement.
 source_frameworks:
-  - "ITIL® 4 Foundation Practices"
-  - "CompTIA A+ Core Skills Outline (2025)"
+  - "ITIL® 4 Foundation Practices (commercial framework; conceptual alignment only)"
+  - "CompTIA A+ Core Skills Outline 2025 (proprietary certification body; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Performs simple tasks with guidance (password resets, printer setup); logs tickets accurately.

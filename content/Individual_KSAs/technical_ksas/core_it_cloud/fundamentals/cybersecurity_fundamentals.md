@@ -10,8 +10,8 @@ cluster_tags:
 description: |
   Applies core security principles to safeguard confidentiality, integrity, and availability; recognizes threats, enforces least-privilege, patches systems, and participates in incident-response processes.
 source_frameworks:
-  - "SFIA v8 — SCTY"
-  - "NIST NICE Framework (Protect PR)"
+  - "SFIA v8 — SCTY (commercial framework; conceptual alignment only)"
+  - "NIST NICE Framework (Protect PR) (U.S. government publication; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common threats (phishing, malware) and follows basic security hygiene.

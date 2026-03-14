@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designs defense-in-depth cloud security aligned with NIST SP 800-207 Zero-Trust principles; integrates IAM, WAF, SIEM/SOAR, and CSPM across multi-cloud estates.
 source_frameworks:
-  - "NIST SP 800-207 Zero Trust Architecture"
-  - "ISO/IEC 27017 Cloud Security Controls"
+  - "NIST SP 800-207 Zero Trust Architecture (U.S. government publication; public domain)"
+  - "ISO/IEC 27017:2015 Cloud Security Controls (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies shared-responsibility model components.

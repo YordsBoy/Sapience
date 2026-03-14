@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Understands OSI/TCP-IP layers, IPv4/6 addressing, routing, switching, DNS, DHCP, and basic firewall concepts; uses packet-capture tools for troubleshooting.
 source_frameworks:
-  - "CompTIA Network+ Objectives 2025"
-  - "onet:15-1244.00"
+  - "CompTIA Network+ Objectives 2025 (proprietary certification body; conceptual alignment only)"
+  - "O*NET-SOC 15-1244.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common protocols (HTTP, DNS, SSH); identifies IP vs. DNS issues using ping or traceroute.

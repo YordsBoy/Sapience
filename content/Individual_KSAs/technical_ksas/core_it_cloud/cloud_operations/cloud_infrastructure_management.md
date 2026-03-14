@@ -10,15 +10,15 @@ cluster_tags:
 description: >
   Operates production cloud estates—patching, capacity, tagging, incident response, and change control—via DevOps pipelines and ITSM tooling. Deploys and administers virtual networks, compute, storage, and identity services on major cloud platforms.
 source_frameworks:
-  - "ITIL® 4 High-Velocity IT"
-  - "onet:15-1242.00"
+  - "ITIL® 4 High-Velocity IT (commercial framework; conceptual alignment only)"
+  - "O*NET-SOC 15-1242.00 (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
     indicator: Follows runbooks; opens incident tickets; launches basic instances; manages snapshots in a single region.
   - level: Basic
     indicator: Creates VPCs, security groups, and load balancers following best practices; uses monitoring dashboards; executes scripted changes.
   - level: Intermediate
-    indicator: Automates IaC with Terraform/CloudFormation, patching, backup, and scaling policies.
+    indicator: Automates IaC with infrastructure-as-code tools (e.g., Terraform, CloudFormation, Pulumi), patching, backup, and scaling policies.
   - level: Advanced
     indicator: Optimizes multi-region architectures for cost, latency, and resilience; enforces guardrails; implements service-level objectives and continuous improvement.
   - level: Expert
