@@ -2,7 +2,7 @@
 ksa_id: volumetric_capture_pipeline
 label: Volumetric-Capture Pipeline
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: emerging
 cluster_tags:
   - "Volumetric Capture"
@@ -10,7 +10,7 @@ cluster_tags:
 description: |
   Captures, reconstructs, and streams dynamic 3-D humans or environments via multi-camera arrays, depth sensors, and neural-radiance-field post-processing; optimizes mesh fidelity vs bandwidth.
 source_frameworks:
-  - "ISO/IEC 23090-12 MPEG Immersive Video (MIV)"
+  - "ISO/IEC 23090-12 MPEG Immersive Video (MIV) standard — ISO/IEC proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Describes light-stage vs depth-sensor capture methods.

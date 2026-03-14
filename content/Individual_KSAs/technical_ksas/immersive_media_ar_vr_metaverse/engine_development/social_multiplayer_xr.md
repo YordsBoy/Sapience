@@ -2,7 +2,7 @@
 ksa_id: social_multiplayer_xr
 label: Social & Multiplayer XR Networking
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: emerging
 cluster_tags:
   - "Social XR"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Designs synchronous and asynchronous multiplayer experiences with spatial voice, avatars, and shared object-state; addresses latency, moderation, and safety per IEEE P3079 VR-sickness reduction.
 source_frameworks:
-  - "Meta Presence Platform Social SDK"
-  - "normcore:Realtime"
-  - "epic:OnlineSubsystem"
+  - "Meta Presence Platform Social SDK documentation — vendor documentation — Meta Platforms; conceptual alignment only — equivalent social XR SDKs may demonstrate competency"
+  - "Normcore real-time multiplayer SDK documentation — vendor documentation — Normal; conceptual alignment only — equivalent XR multiplayer networking platforms may demonstrate competency"
+  - "Unreal Engine Online Subsystem documentation — vendor documentation — Epic Games; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Integrates basic lobby/room systems; enables VoIP defaults.

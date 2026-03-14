@@ -2,7 +2,7 @@
 ksa_id: xr_accessibility_safety
 label: XR Accessibility & Safety Engineering
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: core
 cluster_tags:
   - "Accessibility"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Applies inclusive-design, motion-comfort, and privacy principles to minimize cybersickness, ensure physical safety, and accommodate diverse abilities.
 source_frameworks:
-  - "XR Association Accessibility Guidelines 2023"
-  - "w3c:XRAccessibility"
-  - "iso:9241-391"
+  - "XR Association (XRA) Accessibility Best Practices and Recommendations (2023) — commercial industry association — XR Association; conceptual alignment only"
+  - "W3C XR Accessibility User Requirements — international standards consortium — W3C; publicly available"
+  - "ISO 9241-391:2016 Ergonomics of Human-System Interaction — ISO proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common barriers (motion, text size, reach); follows headset guardian guidelines; offers seated/standing modes.

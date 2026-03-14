@@ -2,7 +2,7 @@
 ksa_id: interaction_design_xr
 label: XR Interaction Design & HCI
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: core
 cluster_tags:
   - "Interaction Design"
@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Architects intuitive gesture, controller, voice, and eye-tracking interactions- while minimizing motion sickness and cognitive load. Applies established patterns—dwell, drag, teleport, object-manipulation, spatial menus—and evaluates affordances using Nielsen heuristics adapted to 3-D.
 source_frameworks:
-  - "OpenXR UX Guidelines"
-  - "iso:9241-210"
+  - "OpenXR UX Guidelines — Khronos Group open specification; publicly available"
+  - "ISO 9241-210:2019 Ergonomics of Human-System Interaction: Human-Centred Design for Interactive Systems — ISO proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists common locomotion and manipulation techniques; follows platform input guidelines; avoids teleport-motion mismatch.

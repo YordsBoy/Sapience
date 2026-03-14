@@ -2,7 +2,7 @@
 ksa_id: immersive_interaction_ux_design
 label: Immersive Interaction & UX Design
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: core
 cluster_tags:
   - "UX Design"
@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designing intuitive, accessible user interactions—gestural, voice, eye‑tracking—in immersive environments, applying ergonomics, affordances, and spatial‑UX heuristics to minimise discomfort and maximise engagement.
 source_frameworks:
-  - "XRA XR Interaction Design Guidelines"
-  - "Apple visionOS Human Interface Guidelines"
+  - "XR Association (XRA) Developers Guide and Interaction Design Guidelines — commercial industry association — XR Association; conceptual alignment only"
+  - "Apple visionOS Human Interface Guidelines — vendor documentation — Apple Inc.; conceptual alignment only — equivalent spatial computing platform guidelines may apply"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises common XR gestures; explains comfort vs. presence trade‑offs; uses default interaction prefabs.

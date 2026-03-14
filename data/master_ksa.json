@@ -11574,7 +11574,7 @@
     "ksa_id": "webxr_frontend_development",
     "label": "WebXR Frontend Development",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
       "WebXR",
@@ -11582,7 +11582,7 @@
     ],
     "description": "Builds immersive web experiences using WebXR Device API, Three.js, and WebGPU; ensures performance, security, and progressive fallback on non-XR browsers.\n",
     "source_frameworks": [
-      "W3C WebXR Device API Recommendation 2025"
+      "W3C WebXR Device API Recommendation — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11611,7 +11611,7 @@
     "ksa_id": "interaction_design_xr",
     "label": "XR Interaction Design & HCI",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Interaction Design",
@@ -11619,8 +11619,8 @@
     ],
     "description": "Architects intuitive gesture, controller, voice, and eye-tracking interactions- while minimizing motion sickness and cognitive load. Applies established patterns—dwell, drag, teleport, object-manipulation, spatial menus—and evaluates affordances using Nielsen heuristics adapted to 3-D.\n",
     "source_frameworks": [
-      "OpenXR UX Guidelines",
-      "iso:9241-210"
+      "OpenXR UX Guidelines — Khronos Group open specification; publicly available",
+      "ISO 9241-210:2019 Ergonomics of Human-System Interaction: Human-Centred Design for Interactive Systems — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11649,7 +11649,7 @@
     "ksa_id": "immersive_interaction_ux_design",
     "label": "Immersive Interaction & UX Design",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "UX Design",
@@ -11657,8 +11657,8 @@
     ],
     "description": "Designing intuitive, accessible user interactions—gestural, voice, eye‑tracking—in immersive environments, applying ergonomics, affordances, and spatial‑UX heuristics to minimise discomfort and maximise engagement.\n",
     "source_frameworks": [
-      "XRA XR Interaction Design Guidelines",
-      "Apple visionOS Human Interface Guidelines"
+      "XR Association (XRA) Developers Guide and Interaction Design Guidelines — commercial industry association — XR Association; conceptual alignment only",
+      "Apple visionOS Human Interface Guidelines — vendor documentation — Apple Inc.; conceptual alignment only — equivalent spatial computing platform guidelines may apply"
     ],
     "proficiency_levels": [
       {
@@ -11687,7 +11687,7 @@
     "ksa_id": "xr_production_workflow_asset_optimization",
     "label": "XR Production Workflow & Asset Optimization",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Production Workflow",
@@ -11695,15 +11695,14 @@
     ],
     "description": "Managing end‑to‑end extended‑reality (XR) content pipelines—3D asset creation, optimization, versioning—to deliver high‑performance experiences across mobile, standalone, and tethered devices.\n",
     "source_frameworks": [
-      "Epic Unreal Virtual Production Pipeline",
-      "OpenXR Specification",
-      "Unity XR Production Guidelines",
-      "Epic Games Unreal Engine VR Optimization Guide"
+      "Unreal Engine Virtual Production Pipeline documentation — vendor documentation — Epic Games; conceptual alignment only",
+      "OpenXR 1.0 Specification — Khronos Group open specification; publicly available",
+      "Unity XR Production Guidelines and documentation — vendor documentation — Unity Technologies; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Describes stages from concept to release; imports models into game engines; recognizes polygon‑count versus performance trade‑offs; understands basic baking."
+        "indicator": "Describes stages from concept to release; imports models into game engines; recognizes polygon-count versus performance trade-offs; applies basic lightmap baking to pre-compute static lighting."
       },
       {
         "level": "Basic",
@@ -11727,7 +11726,7 @@
     "ksa_id": "performance_optimization_xr",
     "label": "XR Performance Optimization & Profiling",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Performance",
@@ -11735,9 +11734,9 @@
     ],
     "description": "Diagnoses and resolves CPU/GPU/thermal bottlenecks to maintain target FPS, low motion-to-photon latency, and user comfort across devices.\n",
     "source_frameworks": [
-      "Unity XR Performance Guidelines (HDRP 2024)",
-      "oculus:PerfGuidelines",
-      "arm:MaliGPUXR"
+      "Unity XR Performance and Optimization Guidelines (HDRP 2024) — vendor documentation — Unity Technologies; conceptual alignment only",
+      "Meta Quest (formerly Oculus) Performance Guidelines — vendor documentation — Meta Platforms; conceptual alignment only — equivalent XR hardware platform guidelines may apply",
+      "Arm Mali GPU Optimization Guide for XR — vendor documentation — Arm Holdings; conceptual alignment only — equivalent GPU profiling resources may apply"
     ],
     "proficiency_levels": [
       {
@@ -11766,7 +11765,7 @@
     "ksa_id": "xr_hardware_prototyping",
     "label": "XR Hardware Integration & Prototyping",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
       "Hardware",
@@ -11774,9 +11773,9 @@
     ],
     "description": "Integrates depth cameras, haptic wearables, eye-tracking, and custom controllers via firmware, SDKs, and rapid-prototyping toolchains.\n",
     "source_frameworks": [
-      "IEEE 3079-2020 VR Sickness Reduction Tech",
-      "arduino:HapticsLib",
-      "openxr:Extensions"
+      "IEEE 3079-2020 Head-Mounted Display Based VR Sickness Reduction Technology — IEEE proprietary standard; conceptual alignment only",
+      "Arduino Haptics Library documentation — open-source project — Arduino LLC; publicly available",
+      "OpenXR Extensions specification — Khronos Group open specification; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11805,7 +11804,7 @@
     "ksa_id": "volumetric_capture_pipeline",
     "label": "Volumetric-Capture Pipeline",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
       "Volumetric Capture",
@@ -11813,7 +11812,7 @@
     ],
     "description": "Captures, reconstructs, and streams dynamic 3-D humans or environments via multi-camera arrays, depth sensors, and neural-radiance-field post-processing; optimizes mesh fidelity vs bandwidth.\n",
     "source_frameworks": [
-      "ISO/IEC 23090-12 MPEG Immersive Video (MIV)"
+      "ISO/IEC 23090-12 MPEG Immersive Video (MIV) standard — ISO/IEC proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11842,7 +11841,7 @@
     "ksa_id": "haptics_interface_design_xr",
     "label": "Haptics-Interface Design for XR",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
       "Haptics",
@@ -11850,7 +11849,7 @@
     ],
     "description": "Designs tactile and force-feedback patterns using actuators (LRAs, ERMs, piezo, pneumatic) mapped to XR interactions; validates latency, intensity, and user comfort.\n",
     "source_frameworks": [
-      "ISO 9241-960 Annex D Haptics"
+      "ISO 9241-960:2022 Annex D Haptic Feedback provisions — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11879,7 +11878,7 @@
     "ksa_id": "enterprise_xr_deployment_safety_management",
     "label": "Enterprise XR Deployment & Safety Management",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Enterprise XR",
@@ -11887,9 +11886,9 @@
     ],
     "description": "Plans and manages large-scale XR roll-outs—device fleet, user provisioning, IT-security, ergonomics, ISO 9241-960 locomotion safety, OSHA workplace guidelines, training, and design reviews— while ensuring physical safety, cybersecurity, and organizational change‑management.\n",
     "source_frameworks": [
-      "ISO/IEC 23844:2021 Ergonomics of XR Displays",
-      "ISO 9241-960 Ergonomics of XR Interaction",
-      "IEEE P2048.1 XR Safety Framework"
+      "ISO/IEC 23844:2021 Information Technology: User Interfaces — Ergonomics of VR Systems — ISO/IEC proprietary standard; conceptual alignment only",
+      "ISO 9241-960:2022 Ergonomics of Human-System Interaction: Guidance on Extended Reality — ISO proprietary standard; conceptual alignment only",
+      "IEEE P2048.1 Standard for VR and AR: Device and System Interfaces — IEEE proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11918,7 +11917,7 @@
     "ksa_id": "spatial_audio_engineering",
     "label": "Spatial Audio Engineering",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Spatial Audio",
@@ -11926,9 +11925,9 @@
     ],
     "description": "Captures, mixes, and renders dynamic ambisonic or object-based soundscapes that respond to head tracking and environment geometry; integrates dynamic occlusion and reverb zones.\n",
     "source_frameworks": [
-      "AES69-2022 Object-Based Audio",
-      "facebook:ResonanceAudio",
-      "dolby:AtmosImmersive"
+      "AES69-2022 Object-Based Audio standard — Audio Engineering Society proprietary standard; conceptual alignment only",
+      "Google Resonance Audio SDK documentation — vendor documentation — Google; conceptual alignment only — equivalent spatial audio middleware may demonstrate competency",
+      "Dolby Atmos Immersive Audio documentation — vendor documentation — Dolby Laboratories; conceptual alignment only — equivalent object-based audio workflows may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -11949,7 +11948,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Develops proprietary spatialization plugins; Crafts mixed-reality adaptive mixes; publishes perceptual-audio research; mentors cross-team audio pipelines."
+        "indicator": "Develops proprietary spatialization plugins; crafts mixed-reality adaptive mixes; publishes perceptual-audio research; mentors cross-team audio pipelines."
       }
     ]
   },
@@ -11957,7 +11956,7 @@
     "ksa_id": "social_multiplayer_xr",
     "label": "Social & Multiplayer XR Networking",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
       "Social XR",
@@ -11965,9 +11964,9 @@
     ],
     "description": "Designs synchronous and asynchronous multiplayer experiences with spatial voice, avatars, and shared object-state; addresses latency, moderation, and safety per IEEE P3079 VR-sickness reduction.\n",
     "source_frameworks": [
-      "Meta Presence Platform Social SDK",
-      "normcore:Realtime",
-      "epic:OnlineSubsystem"
+      "Meta Presence Platform Social SDK documentation — vendor documentation — Meta Platforms; conceptual alignment only — equivalent social XR SDKs may demonstrate competency",
+      "Normcore real-time multiplayer SDK documentation — vendor documentation — Normal; conceptual alignment only — equivalent XR multiplayer networking platforms may demonstrate competency",
+      "Unreal Engine Online Subsystem documentation — vendor documentation — Epic Games; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11996,7 +11995,7 @@
     "ksa_id": "realtime_engine_development",
     "label": "Real-Time Engine Development (Unity/Unreal)",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Realtime Engine",
@@ -12004,8 +12003,8 @@
     ],
     "description": "Engineers performant AR/VR applications using engine subsystems—rendering, physics, XR plugin management, shaders, and build pipelines.\n",
     "source_frameworks": [
-      "unity:URP",
-      "unreal:XRTemplate"
+      "Unity Universal Render Pipeline (URP) documentation — vendor documentation — Unity Technologies; conceptual alignment only — equivalent real-time engines may demonstrate competency",
+      "Unreal Engine XR development template documentation — vendor documentation — Epic Games; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12034,7 +12033,7 @@
     "ksa_id": "xr_storytelling",
     "label": "XR Storytelling & Narrative Design",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Storytelling",
@@ -12042,9 +12041,9 @@
     ],
     "description": "Designs multi-path, spatial narratives that exploit presence, agency, and environmental cues to drive emotional engagement in AR/VR experiences.\n",
     "source_frameworks": [
-      "Schell Games Immersive Narrative Framework",
-      "gdc:VRLevelDesign",
-      "unity:XRInteractionToolkit"
+      "Schell Games immersive narrative design principles (Schell, The Art of Game Design, 2020) — commercial proprietary methodology; conceptual alignment only",
+      "Game Developers Conference (GDC) VR level design presentations and resources — commercial industry conference — GDCF/Informa; conceptual alignment only",
+      "Unity XR Interaction Toolkit documentation — vendor documentation — Unity Technologies; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12073,7 +12072,7 @@
     "ksa_id": "asset_pipeline_3d_optimization",
     "label": "3-D Asset Pipeline & Optimization",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "3D Assets",
@@ -12081,9 +12080,9 @@
     ],
     "description": "Produces low-latency 3-D assets—modeling, UV, baking, LODs, lightmaps—optimized for real-time engines and mobile XR hardware constraints.\n",
     "source_frameworks": [
-      "Meta Quest Performance Guidelines",
-      "autodesk:MayaLT",
-      "epic:UEPerformanceGuide"
+      "Meta Quest Performance Guidelines — vendor documentation — Meta Platforms; conceptual alignment only — equivalent XR hardware platform guidelines may apply",
+      "Autodesk Maya documentation and optimization guides — vendor documentation — Autodesk; conceptual alignment only — equivalent 3D modelling platforms may demonstrate competency",
+      "Unreal Engine Performance and Profiling Guide — vendor documentation — Epic Games; conceptual alignment only — equivalent real-time engine platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -12109,10 +12108,10 @@
     ]
   },
   {
-    "ksa_id": "ar_cloud_geospatial",
+    "ksa_id": "ar_cloud_geospatial_anchoring",
     "label": "AR Cloud & Geospatial Anchoring",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
       "AR Cloud",
@@ -12120,9 +12119,9 @@
     ],
     "description": "Builds world-scale augmented-reality (AR) experiences using VPS (Visual Positioning System) and SLAM; manages GPS drift, latency, and crowdsourced environmental meshes to enable persistent anchors across sessions and devices.\n",
     "source_frameworks": [
-      "Google ARCore Geospatial API",
-      "Niantic Lightship VPS",
-      "openarcloud:OARCSpec"
+      "Google ARCore Geospatial API documentation — vendor documentation — Google; conceptual alignment only — equivalent AR cloud platforms may demonstrate competency",
+      "Niantic Lightship Visual Positioning System (VPS) documentation — vendor documentation — Niantic; conceptual alignment only — equivalent VPS platforms may demonstrate competency",
+      "Open AR Cloud (OARC) Open Spatial Computing Platform (OSCP) specification — open consortium; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -12151,7 +12150,7 @@
     "ksa_id": "xr_analytics_telemetry",
     "label": "XR Analytics & Telemetry",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Analytics",
@@ -12159,9 +12158,9 @@
     ],
     "description": "Captures, visualizes, and interprets frame-time, input, and spatial user-behavior data (gaze, movement, drop-offs); respects privacy rules (GDPR, COPPA) and visualises KPIs to drive design and monetization decisions.\n",
     "source_frameworks": [
-      "OpenXR Layer Analytics Best Practices",
-      "unity:AnalyticsXR",
-      "openmct:Telemetry"
+      "OpenXR Layer Analytics best practices — Khronos Group open specification; publicly available",
+      "Unity Analytics for XR documentation — vendor documentation — Unity Technologies; conceptual alignment only — equivalent XR analytics platforms may demonstrate competency",
+      "Open MCT (Mission Control Technologies) telemetry framework — open-source project — NASA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -12190,7 +12189,7 @@
     "ksa_id": "xr_ethics_privacy",
     "label": "XR Ethics & Privacy Governance",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
       "Ethics",
@@ -12198,9 +12197,9 @@
     ],
     "description": "Establishes ethical guidelines, consent flows, and data-governance models for biometric capture, spatial mapping, and user identity in immersive systems.\n",
     "source_frameworks": [
-      "IEEE P7030 XR Ethical Assessment",
-      "xrsi:PrivacyFramework",
-      "iso:27001"
+      "IEEE P7030 Standard for XR Ethical Assessment (draft) — IEEE proprietary standard; conceptual alignment only",
+      "XR Safety Initiative (XRSI) Privacy Framework — commercial non-profit organization; conceptual alignment only",
+      "ISO/IEC 27001:2022 Information Security Management Systems — ISO/IEC proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12229,7 +12228,7 @@
     "ksa_id": "xr_accessibility_safety",
     "label": "XR Accessibility & Safety Engineering",
     "category": "Technical",
-    "sector": "immersive_media_arvr",
+    "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "core",
     "cluster_tags": [
       "Accessibility",
@@ -12237,9 +12236,9 @@
     ],
     "description": "Applies inclusive-design, motion-comfort, and privacy principles to minimize cybersickness, ensure physical safety, and accommodate diverse abilities.\n",
     "source_frameworks": [
-      "XR Association Accessibility Guidelines 2023",
-      "w3c:XRAccessibility",
-      "iso:9241-391"
+      "XR Association (XRA) Accessibility Best Practices and Recommendations (2023) — commercial industry association — XR Association; conceptual alignment only",
+      "W3C XR Accessibility User Requirements — international standards consortium — W3C; publicly available",
+      "ISO 9241-391:2016 Ergonomics of Human-System Interaction — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {

@@ -2,7 +2,7 @@
 ksa_id: xr_storytelling
 label: XR Storytelling & Narrative Design
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: core
 cluster_tags:
   - "Storytelling"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Designs multi-path, spatial narratives that exploit presence, agency, and environmental cues to drive emotional engagement in AR/VR experiences.
 source_frameworks:
-  - "Schell Games Immersive Narrative Framework"
-  - "gdc:VRLevelDesign"
-  - "unity:XRInteractionToolkit"
+  - "Schell Games immersive narrative design principles (Schell, The Art of Game Design, 2020) — commercial proprietary methodology; conceptual alignment only"
+  - "Game Developers Conference (GDC) VR level design presentations and resources — commercial industry conference — GDCF/Informa; conceptual alignment only"
+  - "Unity XR Interaction Toolkit documentation — vendor documentation — Unity Technologies; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies basic story beats, triggers, environmental cues, and spatial flow.

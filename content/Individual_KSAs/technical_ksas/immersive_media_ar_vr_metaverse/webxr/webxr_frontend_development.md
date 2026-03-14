@@ -2,7 +2,7 @@
 ksa_id: webxr_frontend_development
 label: WebXR Frontend Development
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: emerging
 cluster_tags:
   - "WebXR"
@@ -10,7 +10,7 @@ cluster_tags:
 description: |
   Builds immersive web experiences using WebXR Device API, Three.js, and WebGPU; ensures performance, security, and progressive fallback on non-XR browsers.
 source_frameworks:
-  - "W3C WebXR Device API Recommendation 2025"
+  - "W3C WebXR Device API Recommendation — international standards consortium — W3C; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Enables immersive-vr session; displays simple scene.

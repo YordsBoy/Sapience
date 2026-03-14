@@ -2,7 +2,7 @@
 ksa_id: enterprise_xr_deployment_safety_management
 label: Enterprise XR Deployment & Safety Management
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: core
 cluster_tags:
   - "Enterprise XR"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Plans and manages large-scale XR roll-outs—device fleet, user provisioning, IT-security, ergonomics, ISO 9241-960 locomotion safety, OSHA workplace guidelines, training, and design reviews— while ensuring physical safety, cybersecurity, and organizational change‑management.
 source_frameworks:
-  - "ISO/IEC 23844:2021 Ergonomics of XR Displays"
-  - "ISO 9241-960 Ergonomics of XR Interaction"
-  - "IEEE P2048.1 XR Safety Framework"
+  - "ISO/IEC 23844:2021 Information Technology: User Interfaces — Ergonomics of VR Systems — ISO/IEC proprietary standard; conceptual alignment only"
+  - "ISO 9241-960:2022 Ergonomics of Human-System Interaction: Guidance on Extended Reality — ISO proprietary standard; conceptual alignment only"
+  - "IEEE P2048.1 Standard for VR and AR: Device and System Interfaces — IEEE proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies trip hazards; performs basic device hygiene; configures guardian boundaries; follows headset‑cleaning protocols.

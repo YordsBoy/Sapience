@@ -2,7 +2,7 @@
 ksa_id: xr_hardware_prototyping
 label: XR Hardware Integration & Prototyping
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: emerging
 cluster_tags:
   - "Hardware"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Integrates depth cameras, haptic wearables, eye-tracking, and custom controllers via firmware, SDKs, and rapid-prototyping toolchains.
 source_frameworks:
-  - "IEEE 3079-2020 VR Sickness Reduction Tech"
-  - "arduino:HapticsLib"
-  - "openxr:Extensions"
+  - "IEEE 3079-2020 Head-Mounted Display Based VR Sickness Reduction Technology — IEEE proprietary standard; conceptual alignment only"
+  - "Arduino Haptics Library documentation — open-source project — Arduino LLC; publicly available"
+  - "OpenXR Extensions specification — Khronos Group open specification; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies display panels, lenses, and tracking sensors; connects off-the-shelf peripherals; verifies driver installation.

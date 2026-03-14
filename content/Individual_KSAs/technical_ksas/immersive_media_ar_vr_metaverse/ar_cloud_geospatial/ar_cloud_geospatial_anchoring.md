@@ -1,8 +1,8 @@
 ---
-ksa_id: ar_cloud_geospatial
+ksa_id: ar_cloud_geospatial_anchoring
 label: AR Cloud & Geospatial Anchoring
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: emerging
 cluster_tags:
   - "AR Cloud"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Builds world-scale augmented-reality (AR) experiences using VPS (Visual Positioning System) and SLAM; manages GPS drift, latency, and crowdsourced environmental meshes to enable persistent anchors across sessions and devices.
 source_frameworks:
-  - "Google ARCore Geospatial API"
-  - "Niantic Lightship VPS"
-  - "openarcloud:OARCSpec"
+  - "Google ARCore Geospatial API documentation — vendor documentation — Google; conceptual alignment only — equivalent AR cloud platforms may demonstrate competency"
+  - "Niantic Lightship Visual Positioning System (VPS) documentation — vendor documentation — Niantic; conceptual alignment only — equivalent VPS platforms may demonstrate competency"
+  - "Open AR Cloud (OARC) Open Spatial Computing Platform (OSCP) specification — open consortium; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Places local anchors using platform API defaults; observes drift over time.

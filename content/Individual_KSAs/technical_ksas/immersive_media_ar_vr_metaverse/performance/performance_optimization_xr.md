@@ -2,7 +2,7 @@
 ksa_id: performance_optimization_xr
 label: XR Performance Optimization & Profiling
 category: Technical
-sector: immersive_media_arvr
+sector: immersive_media_ar_vr_metaverse
 horizon: core
 cluster_tags:
   - "Performance"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Diagnoses and resolves CPU/GPU/thermal bottlenecks to maintain target FPS, low motion-to-photon latency, and user comfort across devices.
 source_frameworks:
-  - "Unity XR Performance Guidelines (HDRP 2024)"
-  - "oculus:PerfGuidelines"
-  - "arm:MaliGPUXR"
+  - "Unity XR Performance and Optimization Guidelines (HDRP 2024) — vendor documentation — Unity Technologies; conceptual alignment only"
+  - "Meta Quest (formerly Oculus) Performance Guidelines — vendor documentation — Meta Platforms; conceptual alignment only — equivalent XR hardware platform guidelines may apply"
+  - "Arm Mali GPU Optimization Guide for XR — vendor documentation — Arm Holdings; conceptual alignment only — equivalent GPU profiling resources may apply"
 proficiency_levels:
   - level: Awareness
     indicator: Reads frame-time budgets; identifies CPU vs GPU bottleneck; uses built-in profiler to spot frame drops.
