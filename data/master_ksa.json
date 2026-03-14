@@ -15785,7 +15785,7 @@
     ],
     "description": "Designs grey-water reuse, rainwater harvesting, and WaterSense fixtures; calculates savings, energy co-benefits, and regulatory compliance.\n",
     "source_frameworks": [
-      "EPA WaterSense Program"
+      "EPA WaterSense Program specifications and product labeling standards (U.S. government — Environmental Protection Agency; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -15794,19 +15794,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Configures rain‑barrel or cistern collection for irrigation; installs aerators and low-flow toilets."
+        "indicator": "Configures rain-barrel or cistern collection for irrigation; installs aerators and low-flow toilets."
       },
       {
         "level": "Intermediate",
-        "indicator": "Models water-energy nexus; designs gray‑water plumbing loops and treatment units."
+        "indicator": "Models water-energy nexus; designs gray-water plumbing loops and treatment units."
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates smart irrigation, leak detection,  AMI data, and water‑reuse strategies into building management systems."
+        "indicator": "Integrates smart irrigation, leak detection, AMI data, and water-reuse strategies into building management systems."
       },
       {
         "level": "Expert",
-        "indicator": "Leads district-scale water reuse strategies; Engineers district‑scale water‑conservation programs and sets policy; secures permits and funding."
+        "indicator": "Leads district-scale water reuse strategies; engineers district-scale water-conservation programs and sets policy; secures permits and funding."
       }
     ]
   },
@@ -15822,7 +15822,7 @@
     ],
     "description": "Deploys demand-flexibility technologies (BEMS, V2G, thermal storage) that interact with markets and microgrids; uses transactive controls to optimize cost, carbon, and resilience.\n",
     "source_frameworks": [
-      "DOE Grid-Interactive Efficient Buildings"
+      "U.S. DOE Grid-Interactive Efficient Buildings (GEB) program resources and technical reports (U.S. government — U.S. Department of Energy; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -15859,12 +15859,12 @@
     ],
     "description": "Designs and deploys lithium-ion, flow, and emerging battery systems for grid and behind-the-meter applications; models sizing, charge-discharge profiles, and economics to support renewable integration and peak-shaving.\n",
     "source_frameworks": [
-      "IEC 62933-2-1 Safety Requirements"
+      "IEC 62933-2-1:2021 Electrical Energy Storage (EES) Systems — Unit Parameters and Testing Methods — Part 2-1: Safety Requirements for Grid-Integrated EES Systems (IEC proprietary standard — International Electrotechnical Commission; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Follows basic battery safety protocols (avoids short circuits, uses PPE); understands at a high level how batteries can store energy from solar or grid; explains basic kWh vs kW concepts; reads datasheets."
+        "indicator": "Follows basic battery safety protocols (avoids short circuits, uses PPE); describes how batteries store and discharge energy from solar or grid sources; explains the distinction between power capacity (kW) and energy capacity (kWh); reads battery datasheets."
       },
       {
         "level": "Basic",
@@ -15896,12 +15896,12 @@
     ],
     "description": "Installs, commissions, and maintains rooftop and ground-mount PV systems; adheres to NEC, IEC, and OSHA safety; performs testing and troubleshooting.\n",
     "source_frameworks": [
-      "NABCEP PV Installation Professional"
+      "NABCEP PV Installation Professional certification program (North American Board of Certified Energy Practitioners — commercial certification body; conceptual alignment only — the certification domain scope informs competency boundaries, not the certification itself as a requirement)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies basic PV components and tools; Mounts panels and connects DC wiring under supervision."
+        "indicator": "Identifies basic PV components and tools; mounts panels and connects DC wiring under supervision."
       },
       {
         "level": "Basic",
@@ -15933,12 +15933,12 @@
     ],
     "description": "Implements and manages renewable energy technologies (solar, wind, etc.) and integrates them with existing systems to advance sustainability and efficiency; studies power-quality, inertia, and flexibility; designs EMS and forecasting.  \n",
     "source_frameworks": [
-      "IEEE 1547-2018 DER Interconnection"
+      "IEEE 1547-2018 Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces (proprietary standard — Institute of Electrical and Electronics Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes common renewable energy components like solar panels, wind turbines, and basic storage batteries; lists curtailment, ramp-rate, and voltage-ride-through terms"
+        "indicator": "Identifies common renewable energy components (solar panels, wind turbines, battery storage) and their roles in a power system; defines key grid-integration terms including curtailment, ramp-rate, and voltage-ride-through."
       },
       {
         "level": "Basic",
@@ -15970,36 +15970,36 @@
     ],
     "description": "Performs resource assessment, sizing, and electrical design for solar PV, wind, and hybrid plants; uses tools (PV*SOL, WindPRO) and codes (IEC 62548).\n",
     "source_frameworks": [
-      "IEC 62548 PV Array Design",
-      "IEC 61724 PV Performance Monitoring",
-      "IEC 61400 Wind Turbine Standards"
+      "IEC 62548:2023 Photovoltaic (PV) Arrays — Design Requirements (IEC proprietary standard — International Electrotechnical Commission; conceptual alignment only)",
+      "IEC 61724-1:2021 Photovoltaic System Performance — Part 1: Monitoring (IEC proprietary standard — International Electrotechnical Commission; conceptual alignment only)",
+      "IEC 61400 series Wind Energy Generation Systems (IEC proprietary standard series — International Electrotechnical Commission; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Reads solar irradiance maps; identifies wind‑class zones; understands basic components."
+        "indicator": "Reads solar irradiance maps; identifies wind-class zones; names the primary components of a PV array and wind turbine system and explains their functions."
       },
       {
         "level": "Basic",
-        "indicator": "Uses PVsyst/SAM models; sizes inverters; calculates capacity factors."
+        "indicator": "Uses solar energy simulation software (e.g., PVsyst, SAM, or equivalent); sizes inverters; calculates capacity factors."
       },
       {
         "level": "Intermediate",
-        "indicator": "Conducts site assessments; designs electrical layouts, protections, and grounding; models wake effects; develops single‑line diagrams."
+        "indicator": "Conducts site assessments; designs electrical layouts, protections, and grounding; models wake effects; develops single-line diagrams."
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates battery storage; performs grid‑impact studies; optimizes levelized cost of energy (LCOE); secures permits."
+        "indicator": "Integrates battery storage; performs grid-impact studies; optimizes levelized cost of energy (LCOE); secures permits."
       },
       {
         "level": "Expert",
-        "indicator": "Leads utility‑scale project design; secures interconnection approvals; publishes renewable‑design research."
+        "indicator": "Leads utility-scale project design; secures interconnection approvals; publishes renewable-design research."
       }
     ]
   },
   {
     "ksa_id": "renewable_hydrogen_supply_chain_management",
-    "label": "Renewable‑Hydrogen Supply‑Chain Management",
+    "label": "Renewable-Hydrogen Supply-Chain Management",
     "category": "Technical",
     "sector": "env_energy_advanced",
     "horizon": "emerging",
@@ -16007,31 +16007,31 @@
       "Hydrogen",
       "Supply Chain"
     ],
-    "description": "Planning, coordinating, and optimizing the production, storage, transport, and distribution of renewable‑based hydrogen—from electrolyser siting to end‑use delivery—ensuring cost efficiency, safety, and carbon‑intensity targets.\n",
+    "description": "Planning, coordinating, and optimizing the production, storage, transport, and distribution of renewable-based hydrogen — from electrolyser siting to end-use delivery — ensuring cost efficiency, safety, and carbon-intensity targets.\n",
     "source_frameworks": [
-      "International Renewable Energy Agency (IRENA) Green Hydrogen Supply Chain Report 2025",
-      "IRENA Green Hydrogen Policies"
+      "IRENA Green Hydrogen Supply Chain and Cost Studies (International Renewable Energy Agency — intergovernmental organization; publicly available)",
+      "IRENA Green Hydrogen Policy and Investment Outlook publications (International Renewable Energy Agency — intergovernmental organization; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Describes key supply‑chain stages and grey vs green vs blue hydrogen; distinguishes compressed‑gas vs. liquid hydrogen; notes transport modes."
+        "indicator": "Describes key supply-chain stages and grey vs green vs blue hydrogen; distinguishes compressed-gas vs. liquid hydrogen; notes transport modes."
       },
       {
         "level": "Basic",
-        "indicator": "Calculates levelised electrolyser sizing,  capacity factor, and supply‑chain costs; tracks pressure‑vessel certifications; schedules trailer deliveries."
+        "indicator": "Calculates levelised electrolyser sizing, capacity factor, and supply-chain costs; tracks pressure-vessel certifications; schedules trailer deliveries."
       },
       {
         "level": "Intermediate",
-        "indicator": "Optimises logistics routes; assesses pipeline‑blend feasibility; applies ISO 19880‑1 safety requirements."
+        "indicator": "Optimises logistics routes; assesses pipeline-blend feasibility; applies ISO 19880-1 safety requirements."
       },
       {
         "level": "Advanced",
-        "indicator": "Performs LCOH analysis; manages H₂ certification and offtake; coordinates port export terminals; secures power‑purchase agreements; implements digital‑twin logistics models."
+        "indicator": "Performs LCOH analysis; manages H₂ certification and offtake; coordinates port export terminals; secures power-purchase agreements; implements digital-twin logistics models."
       },
       {
         "level": "Expert",
-        "indicator": "Designs global renewable‑hydrogen corridors; advises governments on supply‑chain policy; publishes cost‑reduction roadmaps."
+        "indicator": "Designs global renewable-hydrogen corridors; advises governments on supply-chain policy; publishes cost-reduction roadmaps."
       }
     ]
   },
@@ -16045,16 +16045,16 @@
       "Green Finance",
       "ESG"
     ],
-    "description": "Structuring green bonds, sustainability‑linked loans, and ESG disclosures, aligning with EU Taxonomy, Green Bond Principles, and Global Reporting Initiative (GRI) standards.\n",
+    "description": "Structuring green bonds, sustainability-linked loans, and ESG disclosures, aligning with EU Taxonomy, Green Bond Principles, and Global Reporting Initiative (GRI) standards.\n",
     "source_frameworks": [
-      "ICMA Green Bond Principles",
-      "EU Taxonomy Climate Delegated Act",
-      "GRI Standards 2024"
+      "ICMA Green Bond Principles (International Capital Market Association — commercial industry body; conceptual alignment only)",
+      "EU Taxonomy Climate Delegated Act (Regulation (EU) 2020/852 and delegated acts) (European Union regulation; publicly available)",
+      "GRI Standards 2024 (Global Reporting Initiative — nonprofit standards body; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines green‑finance instruments; lists ESG metrics; recognizes investor expectations."
+        "indicator": "Defines green-finance instruments; lists ESG metrics; recognizes investor expectations."
       },
       {
         "level": "Basic",
@@ -16062,15 +16062,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Aligns projects to EU Taxonomy; engages second‑party opinions; reports GHG reductions; manages bond frameworks."
+        "indicator": "Aligns projects to EU Taxonomy; engages second-party opinions; reports GHG reductions; manages bond frameworks."
       },
       {
         "level": "Advanced",
-        "indicator": "Structures sustainability‑linked loans; manages ongoing disclosure; assesses impact KPIs."
+        "indicator": "Structures sustainability-linked loans; manages ongoing disclosure; assesses impact KPIs."
       },
       {
         "level": "Expert",
-        "indicator": "Leads corporate green‑finance strategy; advises regulators; publishes ESG‑finance research."
+        "indicator": "Leads corporate green-finance strategy; advises regulators; publishes ESG-finance research."
       }
     ]
   },
@@ -16086,7 +16086,9 @@
     ],
     "description": "Applies LEED, BREEAM, and WELL frameworks to optimize energy, water, materials, and indoor-environment quality in buildings.\n",
     "source_frameworks": [
-      "USGBC LEED v4.1"
+      "USGBC LEED v4.1 Building Design and Construction and Operations and Maintenance rating systems (proprietary certification system — U.S. Green Building Council; conceptual alignment only)",
+      "BREEAM New Construction and In-Use assessment methodology (proprietary certification system — BRE Global; conceptual alignment only)",
+      "WELL Building Standard (proprietary certification system — International WELL Building Institute; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -16123,16 +16125,16 @@
     ],
     "description": "Conducts ASHRAE Level 1-3 audits; benchmarks facilities, identifies ECMs (energy-conservation measures), calculates ROI, and verifies M&V results.\n",
     "source_frameworks": [
-      "ASHRAE Standard 211-2018"
+      "ASHRAE Standard 211-2018 Commercial Building Energy Audits (proprietary standard — American Society of Heating, Refrigerating and Air-Conditioning Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies obvious energy wastes (e.g. lights left on, poor insulation) and suggests basic remedies; familiar with the concept of an energy audit; reads utility bills and basic ENERGY STAR scores."
+        "indicator": "Identifies obvious energy wastes (e.g., lights left on, poor insulation) and suggests basic remedies; explains what an energy audit measures and what a building's ENERGY STAR score indicates."
       },
       {
         "level": "Basic",
-        "indicator": "Performs walk-through audit; uses simple tools (e.g. energy meters or IR thermometers) to measure usage; documents findings; ; lists low-cost ECMs and recommends straightforward fixes."
+        "indicator": "Performs walk-through audit; uses simple tools (e.g., energy meters or IR thermometers) to measure usage; documents findings; lists low-cost ECMs and recommends straightforward fixes."
       },
       {
         "level": "Intermediate",
@@ -16158,11 +16160,11 @@
       "Climate Risk",
       "Scenario Analysis"
     ],
-    "description": "Modelling physical and transition climate risks using climate-economic models (GCAM, REMIND), network-based stress tests, downscaled climate data, and Task Force on Climate‑related Financial Disclosures (TCFD) frameworks.\n",
+    "description": "Modelling physical and transition climate risks using climate-economic models (GCAM, REMIND), network-based stress tests, downscaled climate data, and Task Force on Climate-related Financial Disclosures (TCFD) frameworks.\n",
     "source_frameworks": [
-      "NGFS Climate Scenario Handbook",
-      "TCFD Guidance 2023",
-      "IPCC CMIP6 Data Protocols"
+      "NGFS Climate Scenarios for Central Banks and Supervisors (Network for Greening the Financial System — central bank and supervisor coalition; publicly available)",
+      "TCFD Recommendations and guidance publications (Task Force on Climate-related Financial Disclosures — Financial Stability Board initiative; now integrated into IFRS S2 under ISSB; guidance documents publicly available)",
+      "IPCC CMIP6 (Coupled Model Intercomparison Project Phase 6) climate data protocols (Intergovernmental Panel on Climate Change / WCRP — intergovernmental; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -16183,7 +16185,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads enterprise climate‑risk analytics; shapes reporting standards; publishes scenario‑analysis research."
+        "indicator": "Leads enterprise climate-risk analytics; shapes reporting standards; publishes scenario-analysis research."
       }
     ]
   },
@@ -16199,9 +16201,9 @@
     ],
     "description": "Integrates climate-hazard projections into infrastructure siting, design, and O&M; applies nature-based solutions, resilience metrics, and financing models.\n",
     "source_frameworks": [
-      "UNEP Adaptation Gap Report",
-      "UNEP NbS Guidelines",
-      "ASCE 7‑22 Climate Load Provisions"
+      "UNEP Adaptation Gap Report (United Nations Environment Programme — intergovernmental organization; publicly available)",
+      "UNEP Nature-based Solutions for Climate Adaptation guidelines (United Nations Environment Programme — intergovernmental organization; publicly available)",
+      "ASCE 7-22 Minimum Design Loads and Associated Criteria for Buildings and Other Structures (proprietary standard — American Society of Civil Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -16214,7 +16216,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Uses downscaled data for design loads; conducts cost‑benefit adaptation analysis; integrates NbS; coordinates stakeholder workshops."
+        "indicator": "Uses downscaled data for design loads; conducts cost-benefit adaptation analysis; integrates NbS; coordinates stakeholder workshops."
       },
       {
         "level": "Advanced",
@@ -16222,13 +16224,13 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads national or portfolio-level adaptation strategies; shapes climate‑resilient codes; publishes adaptation research."
+        "indicator": "Leads national or portfolio-level adaptation strategies; shapes climate-resilient codes; publishes adaptation research."
       }
     ]
   },
   {
     "ksa_id": "sustainable_materials_life_cycle_assessment",
-    "label": "Sustainable Materials & Life‑Cycle Assessment (LCA)",
+    "label": "Sustainable Materials & Life-Cycle Assessment (LCA)",
     "category": "Technical",
     "sector": "env_energy_advanced",
     "horizon": "core",
@@ -16238,9 +16240,8 @@
     ],
     "description": "Evaluates material choices using embodied-carbon, toxicity, and circularity metrics; selects low-impact alternatives and supplier EPDs (environmental product declarations).\n",
     "source_frameworks": [
-      "EN 15804 Sustainable Construction",
-      "ISO 14040/44 LCA Standards",
-      "EN 15804+A2 Building EPD"
+      "EN 15804:2012+A2:2019 Sustainability of Construction Works — Environmental Product Declarations — Core Rules for the Product Category of Construction Products (CEN proprietary standard — European Committee for Standardization; conceptual alignment only)",
+      "ISO 14040:2006 / ISO 14044:2006 Environmental Management — Life Cycle Assessment — Principles, Framework, Requirements and Guidelines (ISO proprietary standard series; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -16249,7 +16250,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Compares materials via EPD databases; uses LCA tools (SimaPro/OpenLCA); collects inventory data; calculates global‑warming potential (GWP)."
+        "indicator": "Compares materials via EPD databases; uses LCA tools (e.g., SimaPro, OpenLCA, or equivalent); collects inventory data; calculates global-warming potential (GWP)."
       },
       {
         "level": "Intermediate",
@@ -16261,7 +16262,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Develops material-circularity targets;; leads corporate LCA programs; shapes product‑category rules; publishes LCA methodology advancements."
+        "indicator": "Develops material-circularity targets; leads corporate LCA programs; shapes product-category rules; publishes LCA methodology advancements."
       }
     ]
   },
@@ -16277,36 +16278,35 @@
     ],
     "description": "Applies cradle-to-cradle principles to product and infrastructure design; prioritises reuse, remanufacturing, recycling, and regenerative materials.\n",
     "source_frameworks": [
-      "Ellen MacArthur Foundation CE Principles",
-      "Ellen MacArthur Foundation Circular Design Guide",
-      "ISO 59010:2023 Circular Economy Guidelines"
+      "Ellen MacArthur Foundation Circular Economy principles and Circular Design Guide (nonprofit organization — Ellen MacArthur Foundation; conceptual alignment only)",
+      "ISO 59010:2023 Circular Economy — Guidance on the Transition of Business Models and Related Activities (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines linear vs circular models; identifies waste streams; calculates recyclability; recognizes take‑back schemes."
+        "indicator": "Defines linear vs circular models; identifies waste streams; calculates recyclability; recognizes take-back schemes."
       },
       {
         "level": "Basic",
-        "indicator": "Applies design‑for‑disassembly principles; selects recyclable materials; designs for disassembly; analyses end‑of‑life pathways."
+        "indicator": "Applies design-for-disassembly principles; selects recyclable materials; maps and analyses end-of-life pathways."
       },
       {
         "level": "Intermediate",
-        "indicator": "Develops product‑as‑service models; quantifies circularity indicators; conducts reverse‑logistics studies."
+        "indicator": "Develops product-as-service models; quantifies circularity indicators; conducts reverse-logistics studies."
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates circularity into product development stage‑gates; measures economic returns; secures certification (Cradle to Cradle)."
+        "indicator": "Integrates circularity into product development stage-gates; measures economic returns; secures certification (Cradle to Cradle)."
       },
       {
         "level": "Expert",
-        "indicator": "Leads systemic CE transitions at city or sector scale and/or multi‑product circular portfolios; shapes circular‑economy standards; publishes design‑engineering research."
+        "indicator": "Leads systemic CE transitions at city or sector scale and/or multi-product circular portfolios; shapes circular-economy standards; publishes design-engineering research."
       }
     ]
   },
   {
     "ksa_id": "lifecycle_ghg_accounting_lca",
-    "label": "Lifecycle GHG Accounting & Life‑Cycle Assessment (LCA)",
+    "label": "Lifecycle GHG Accounting & Life-Cycle Assessment (LCA)",
     "category": "Technical",
     "sector": "env_energy_advanced",
     "horizon": "core",
@@ -16316,30 +16316,30 @@
     ],
     "description": "Conducts cradle-to-grave life-cycle assessments per ISO 14040/44; models embodied carbon, energy, and environmental impacts using databases (Ecoinvent, GREET) and tools (SimaPro, OpenLCA).\n",
     "source_frameworks": [
-      "ISO 14040/44 Standards",
-      "ISO 14044:2020 Life‑Cycle Assessment",
-      "GHG Protocol Product Standard"
+      "ISO 14040:2006 Environmental Management — Life Cycle Assessment — Principles and Framework (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "ISO 14044:2006/Amd 2:2020 Environmental Management — Life Cycle Assessment — Requirements and Guidelines (ISO proprietary standard; conceptual alignment only)",
+      "GHG Protocol Product Life Cycle Accounting and Reporting Standard (World Resources Institute / World Business Council for Sustainable Development — nonprofit partnership; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines functional unit and system boundary terms; identifies scope 1, 2, 3 emissions; gathers activity data; utilizes emission‑factor databases."
+        "indicator": "Defines functional unit and system boundary terms; identifies scope 1, 2, 3 emissions; gathers activity data; utilizes emission-factor databases."
       },
       {
         "level": "Basic",
-        "indicator": "Builds simple process‑flow diagrams; selects secondary data; calculates cradle‑to‑gate emissions; reports midpoint impacts; documents data quality."
+        "indicator": "Builds simple process-flow diagrams; selects secondary data; calculates cradle-to-gate emissions; reports midpoint impacts; documents data quality."
       },
       {
         "level": "Intermediate",
-        "indicator": "Conducts sensitivity analyses; applies allocation methods; uses LCA software (SimaPro, OpenLCA)."
+        "indicator": "Conducts sensitivity analyses; applies allocation methods; uses LCA software (e.g., SimaPro, OpenLCA, or equivalent)."
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates consequential LCA; validates results with third‑party review; aligns disclosures to IFRS S2."
+        "indicator": "Integrates consequential LCA; validates results with third-party review; aligns disclosures to IFRS S2."
       },
       {
         "level": "Expert",
-        "indicator": "Leads corporate‑wide GHG inventories; develops sector‑specific guidance; publishes peer‑reviewed LCA studies."
+        "indicator": "Leads corporate-wide GHG inventories; develops sector-specific guidance; publishes peer-reviewed LCA studies."
       }
     ]
   },
@@ -16347,7 +16347,7 @@
     "ksa_id": "direct_air_capture_operations_management",
     "label": "Direct-Air Capture Operations Management",
     "category": "Technical",
-    "sector": "Environmental_Energy_Advanced",
+    "sector": "env_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Direct Air Capture",
@@ -16355,7 +16355,7 @@
     ],
     "description": "Runs solid-sorbent or liquid-solvent DAC systems; optimises energy-to-capture ratio; manages CO₂ conditioning and offtake for sequestration or utilisation.\n",
     "source_frameworks": [
-      "DOE Carbon Negative Shot Roadmap 2025"
+      "U.S. DOE Carbon Negative Shot initiative and roadmap publications (U.S. government — U.S. Department of Energy; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -16390,32 +16390,31 @@
       "CCUS",
       "Monitoring"
     ],
-    "description": "Operating post‑combustion and pre‑combustion carbon‑capture systems, managing CO₂ utilization pathways, and monitoring geological storage sites to ensure safe, long‑term containment and regulatory compliance.\n",
+    "description": "Operating post-combustion and pre-combustion carbon-capture systems, managing CO₂ utilization pathways, and monitoring geological storage sites to ensure safe, long-term containment and regulatory compliance.\n",
     "source_frameworks": [
-      "ISO 27914:2017 CO₂ Geological Storage",
-      "ISO 27914:2022 Carbon Dioxide Storage",
-      "Global CCS Institute Operations Manual"
+      "ISO 27914:2017 Carbon Dioxide Capture, Transportation and Geological Storage — Geological Storage (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: verify whether a 2022 revision has been published; if confirmed, update year and remove duplicate entry)",
+      "Global CCS Institute operational guidance and best-practice publications (Global CCS Institute — nonprofit research organization; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains absorption vs. adsorption capture; identifies amine‑scrubbing components; recognizes basic monitoring methods, process variables, and alarms."
+        "indicator": "Explains absorption vs. adsorption capture; identifies amine-scrubbing components; recognizes basic monitoring methods, process variables, and alarms."
       },
       {
         "level": "Basic",
-        "indicator": "Tracks capture‑efficiency metrics; collects flue‑gas samples; follows injection‑well safety protocols; logs compression data."
+        "indicator": "Tracks capture-efficiency metrics; collects flue-gas samples; follows injection-well safety protocols; logs compression data."
       },
       {
         "level": "Intermediate",
-        "indicator": "Calibrates gas‑analysis instrumentation; analyses plume‑migration models; adjusts operations; reports to environmental regulators."
+        "indicator": "Calibrates gas-analysis instrumentation; analyses plume-migration models; adjusts operations; reports to environmental regulators."
       },
       {
         "level": "Advanced",
-        "indicator": "Optimises solvent regeneration; integrates carbon‑utilization reactors; implements real‑time seismic monitoring; Implements digital twins and predictive maintenance."
+        "indicator": "Optimises solvent regeneration; integrates carbon-utilization reactors; implements real-time seismic monitoring; implements digital twins and predictive maintenance."
       },
       {
         "level": "Expert",
-        "indicator": "Designs multi‑facility CCUS hubs; leads measurement‑verification programs; Establishes MRV protocols for regulatory compliance; influences international CCUS standards."
+        "indicator": "Designs multi-facility CCUS hubs; leads measurement-verification programs; establishes MRV protocols for regulatory compliance; influences international CCUS standards."
       }
     ]
   },
@@ -16433,9 +16432,9 @@
     ],
     "description": "Designs post-combustion, pre-combustion, and direct-contact CO₂ capture processes; evaluates transport, utilization, saline and EOR storage options; navigates permitting and MRV (monitoring, reporting, verification).\n",
     "source_frameworks": [
-      "IEA CCUS Project Guidelines",
-      "DOE NETL Carbon Capture Handbook",
-      "ISO 27914:2017 Geological Storage"
+      "IEA CCUS Project Guidelines (International Energy Agency — intergovernmental organization; publicly available)",
+      "DOE NETL Carbon Capture Handbook (U.S. government — National Energy Technology Laboratory / U.S. Department of Energy; public domain)",
+      "ISO 27914:2017 Carbon Dioxide Capture, Transportation and Geological Storage — Geological Storage (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -16472,8 +16471,8 @@
     ],
     "description": "Quantifies Scope 1-3 greenhouse-gas emissions using ISO 14064 and GHG Protocol standards; manages data quality, boundary setting, and verification for corporate or municipal inventories.\n",
     "source_frameworks": [
-      "GHG Protocol Corporate Standard",
-      "ISO 14064‑1:2018"
+      "GHG Protocol Corporate Accounting and Reporting Standard (World Resources Institute / World Business Council for Sustainable Development — nonprofit partnership; conceptual alignment only)",
+      "ISO 14064-1:2018 Greenhouse Gases — Part 1: Specification with Guidance at the Organization Level for Quantification and Reporting of GHG Emissions and Removals (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -16486,15 +16485,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Utilises LCA databases (e.g., ecoinvent); calculates scope‑3 categories; manages QA/QC and uncertainty; drafts inventory reports."
+        "indicator": "Utilises LCA databases (e.g., ecoinvent); calculates scope-3 categories; manages QA/QC and uncertainty; drafts inventory reports."
       },
       {
         "level": "Advanced",
-        "indicator": "Implements software platforms; applies market‑based electricity factors; manages third‑party verification."
+        "indicator": "Implements software platforms; applies market-based electricity factors; manages third-party verification."
       },
       {
         "level": "Expert",
-        "indicator": "Designs enterprise carbon-management strategy; leads corporate GHG programs; shapes carbon‑accounting standards; publishes inventory methodologies."
+        "indicator": "Designs enterprise carbon-management strategy; leads corporate GHG programs; shapes carbon-accounting standards; publishes inventory methodologies."
       }
     ]
   },
@@ -16510,7 +16509,7 @@
     ],
     "description": "Utilises blockchain or distributed-ledger platforms for peer-to-peer renewable energy certificates (RECs), carbon credits, and micro-transactions; ensures traceability, verification, and regulatory compliance.\n",
     "source_frameworks": [
-      "Energy Web Chain Standards"
+      "Energy Web Chain distributed-ledger platform and associated standards (Energy Web Foundation — nonprofit organization; conceptual alignment only — equivalent distributed-ledger and blockchain platforms for renewable energy certificate trading may demonstrate competency)"
     ],
     "proficiency_levels": [
       {

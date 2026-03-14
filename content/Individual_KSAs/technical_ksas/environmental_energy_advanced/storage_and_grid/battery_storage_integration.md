@@ -10,10 +10,10 @@ cluster_tags:
 description: >
   Designs and deploys lithium-ion, flow, and emerging battery systems for grid and behind-the-meter applications; models sizing, charge-discharge profiles, and economics to support renewable integration and peak-shaving.
 source_frameworks:
-  - "IEC 62933-2-1 Safety Requirements"
+  - "IEC 62933-2-1:2021 Electrical Energy Storage (EES) Systems — Unit Parameters and Testing Methods — Part 2-1: Safety Requirements for Grid-Integrated EES Systems (IEC proprietary standard — International Electrotechnical Commission; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Follows basic battery safety protocols (avoids short circuits, uses PPE); understands at a high level how batteries can store energy from solar or grid; explains basic kWh vs kW concepts; reads datasheets.  
+    indicator: Follows basic battery safety protocols (avoids short circuits, uses PPE); describes how batteries store and discharge energy from solar or grid sources; explains the distinction between power capacity (kW) and energy capacity (kWh); reads battery datasheets.
   - level: Basic  
     indicator: Assists in installing residential or small commercial battery backup units; connects inverters and configures simple settings under guidance.  
   - level: Intermediate  

@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Deploys demand-flexibility technologies (BEMS, V2G, thermal storage) that interact with markets and microgrids; uses transactive controls to optimize cost, carbon, and resilience.
 source_frameworks:
-  - "DOE Grid-Interactive Efficient Buildings"
+  - "U.S. DOE Grid-Interactive Efficient Buildings (GEB) program resources and technical reports (U.S. government — U.S. Department of Energy; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines demand response and flexible load concepts.

@@ -10,10 +10,10 @@ cluster_tags:
 description: >
   Installs, commissions, and maintains rooftop and ground-mount PV systems; adheres to NEC, IEC, and OSHA safety; performs testing and troubleshooting.
 source_frameworks:
-  - "NABCEP PV Installation Professional"
+  - "NABCEP PV Installation Professional certification program (North American Board of Certified Energy Practitioners — commercial certification body; conceptual alignment only — the certification domain scope informs competency boundaries, not the certification itself as a requirement)"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies basic PV components and tools; Mounts panels and connects DC wiring under supervision.
+    indicator: Identifies basic PV components and tools; mounts panels and connects DC wiring under supervision.
   - level: Basic
     indicator: Calculates string voltage, current, and inverter sizing.
   - level: Intermediate

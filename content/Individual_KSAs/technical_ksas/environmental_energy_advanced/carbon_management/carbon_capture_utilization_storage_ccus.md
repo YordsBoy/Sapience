@@ -14,9 +14,9 @@ description: >
   processes; evaluates transport, utilization, saline and EOR storage options;
   navigates permitting and MRV (monitoring, reporting, verification).
 source_frameworks:
-  - "IEA CCUS Project Guidelines"
-  - "DOE NETL Carbon Capture Handbook"
-  - "ISO 27914:2017 Geological Storage"
+  - "IEA CCUS Project Guidelines (International Energy Agency — intergovernmental organization; publicly available)"
+  - "DOE NETL Carbon Capture Handbook (U.S. government — National Energy Technology Laboratory / U.S. Department of Energy; public domain)"
+  - "ISO 27914:2017 Carbon Dioxide Capture, Transportation and Geological Storage — Geological Storage (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains capture pathways; lists sorbent types; recognizes storage reservoirs.

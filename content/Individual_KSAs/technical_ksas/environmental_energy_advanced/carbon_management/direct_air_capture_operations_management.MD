@@ -2,7 +2,7 @@
 ksa_id: direct_air_capture_operations_management
 label: Direct-Air Capture Operations Management
 category: Technical
-sector: Environmental_Energy_Advanced
+sector: env_energy_advanced
 horizon: emerging
 cluster_tags:
   - "Direct Air Capture"
@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Runs solid-sorbent or liquid-solvent DAC systems; optimises energy-to-capture ratio; manages CO₂ conditioning and offtake for sequestration or utilisation.
 source_frameworks:
-  - "DOE Carbon Negative Shot Roadmap 2025"
+  - "U.S. DOE Carbon Negative Shot initiative and roadmap publications (U.S. government — U.S. Department of Energy; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: States ppm CO₂ in air and basic DAC principles.

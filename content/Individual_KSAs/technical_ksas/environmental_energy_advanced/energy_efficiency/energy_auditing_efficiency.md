@@ -10,12 +10,12 @@ cluster_tags:
 description: >
   Conducts ASHRAE Level 1-3 audits; benchmarks facilities, identifies ECMs (energy-conservation measures), calculates ROI, and verifies M&V results.
 source_frameworks:
-  - "ASHRAE Standard 211-2018"
+  - "ASHRAE Standard 211-2018 Commercial Building Energy Audits (proprietary standard — American Society of Heating, Refrigerating and Air-Conditioning Engineers; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Identifies obvious energy wastes (e.g. lights left on, poor insulation) and suggests basic remedies; familiar with the concept of an energy audit; reads utility bills and basic ENERGY STAR scores.  
+    indicator: Identifies obvious energy wastes (e.g., lights left on, poor insulation) and suggests basic remedies; explains what an energy audit measures and what a building's ENERGY STAR score indicates.
   - level: Basic  
-    indicator: Performs walk-through audit; uses simple tools (e.g. energy meters or IR thermometers) to measure usage; documents findings; ; lists low-cost ECMs and recommends straightforward fixes.  
+    indicator: Performs walk-through audit; uses simple tools (e.g., energy meters or IR thermometers) to measure usage; documents findings; lists low-cost ECMs and recommends straightforward fixes.
   - level: Intermediate  
     indicator: Conducts detailed energy audits of facilities, analyzing HVAC, electrical, and building envelope performance; uses data-loggers and BMS exports; calculates ROI for efficiency upgrades such as equipment retrofits or improved controls.  
   - level: Advanced  
