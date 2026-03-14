@@ -11,8 +11,8 @@ description: >
   Interprets and implements FERC, NERC, EPA, and state utility-commission
   regulations covering operations, reliability, and environmental performance.
 source_frameworks:
-  - "FERC regulations"
-  - "NERC Reliability Standards"
+  - "FERC regulations — applicable Orders, rules, and tariff requirements governing electric utility operations (U.S. federal government — Federal Energy Regulatory Commission; public domain)"
+  - "NERC Reliability Standards — applicable Operations and Planning reliability requirements (regulatory standards — North American Electric Reliability Corporation; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes basic FERC/NERC roles; follows document-control.

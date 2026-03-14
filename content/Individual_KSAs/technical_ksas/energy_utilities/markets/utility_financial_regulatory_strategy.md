@@ -12,7 +12,8 @@ description: >
   capital-expenditure plans, and regulatory filings to secure revenue
   requirements and align with policy objectives.
 source_frameworks:
-  - "Public Utility Financial-Management textbooks"
+  - "NARUC Utility Rate Case Filing and Cost-of-Service resources (government association — National Association of Regulatory Utility Commissioners; publicly available)"
+  - "Academic and professional references on utility economics (e.g., Kahn 'The Economics of Regulation'; Bonbright 'Principles of Public Utility Rates') (academic publication; conceptual alignment only — equivalent utility financial management literature may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads rate-case dockets; recognizes revenue requisites.

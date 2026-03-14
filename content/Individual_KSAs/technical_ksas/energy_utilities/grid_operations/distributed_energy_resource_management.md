@@ -14,7 +14,7 @@ description: >
   routines and `demand_side_management_energy_efficiency` for customer-program
   coordination.
 source_frameworks:
-  - "FERC Order 2222"
+  - "FERC Order 2222 — Participation of Distributed Energy Resource Aggregations in Markets Operated by Regional Transmission Organizations (U.S. federal government regulation — Federal Energy Regulatory Commission; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains DER aggregation concept; tracks basic telemetry.

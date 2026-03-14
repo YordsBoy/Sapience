@@ -14,7 +14,7 @@ description: >
   dispatch and `asset_integrity_management` 
   for ISO 55000 asset-management governance .
 source_frameworks:
-  - "IEC 62933 battery-storage safety standard"
+  - "IEC 62933 series — Electrical Energy Storage (EES) Systems (IEC proprietary standard series — International Electrotechnical Commission; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Monitors state-of-charge and temperature; follows E-stop procedures.

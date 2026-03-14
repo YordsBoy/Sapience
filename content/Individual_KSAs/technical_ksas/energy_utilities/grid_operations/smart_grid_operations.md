@@ -11,10 +11,10 @@ description: >
   Monitors and controls smart grid systems with advanced metering infrastructure (AMI);  
   coordinates demand response programs and distributed energy resources (DERs) to maintain grid stability and optimize energy distribution.  
 source_frameworks:  
-  - "IEEE 2030 Smart Grid Interoperability Standards"  
+  - "IEEE 2030 series — Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (proprietary standard — Institute of Electrical and Electronics Engineers; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands the concept of smart grids versus traditional grids; knows that smart meters and IoT devices provide real-time data.  
+    indicator: Describes the key differences between smart grids and traditional power grids; explains how advanced metering infrastructure (AMI) and IoT devices enable real-time data collection and two-way communication.
   - level: Basic  
     indicator: Uses software to read AMI data and execute simple demand response actions under instruction (e.g., remote meter connect/disconnect).  
   - level: Intermediate  

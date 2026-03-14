@@ -11,7 +11,7 @@ description: >
   Collects, cleans, and analyses SCADA, AMI, and market data to inform asset
   optimization and forecasting across generation, grid, and storage assets.
 source_frameworks:
-  - "ISO 50001 energy-management guidance"
+  - "ISO 50001:2018 Energy Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Runs basic queries; visualises KPIs.

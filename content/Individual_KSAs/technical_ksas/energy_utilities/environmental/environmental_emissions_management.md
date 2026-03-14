@@ -11,10 +11,10 @@ description: >
   Monitors and controls NOₓ, SO₂, particulate, and greenhouse-gas emissions;
   maintains ISO 14064 inventory and ensures EPA and state-permit compliance.
 source_frameworks:
-  - "ISO 14064 GHG accounting standard"
+  - "ISO 14064 series — Greenhouse Gases — Quantification, Monitoring, Reporting, and Verification (ISO proprietary standard series; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies regulated pollutants; understands permit limits.
+    indicator: Identifies regulated air pollutants (NOₓ, SO₂, particulate matter, CO₂e); explains the function of operating permit limits and why exceedances trigger reporting obligations.
   - level: Basic
     indicator: Operates CEMS; logs deviations; submits quarterly reports.
   - level: Intermediate

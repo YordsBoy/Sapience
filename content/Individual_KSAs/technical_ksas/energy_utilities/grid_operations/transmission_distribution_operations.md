@@ -12,7 +12,7 @@ description: >
   Operations & Planning (O&P) standards, managing contingencies, and issuing
   switching orders.
 source_frameworks:
-  - "NERC Reliability Standards"
+  - "NERC Operations and Planning (O&P) Reliability Standards (regulatory standards — North American Electric Reliability Corporation; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads one-line diagrams; recognizes alarm priorities.

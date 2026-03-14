@@ -12,7 +12,7 @@ source_frameworks:
   - "Adapted from ONET Nuclear Power Reactor Operator competencies (USDOL/ETA, public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Knows fundamental concepts of nuclear fission and the purpose of reactor control rods and cooling systems.
+    indicator: Describes the fundamental principles of nuclear fission and explains the roles of reactor control rods, coolant systems, and containment structures in managing reactor power and safety.
   - level: Basic
     indicator: Monitors reactor instruments under supervision; follows standard operating procedures and can perform basic tasks like adjusting control rod positions or coolant flow with guidance.
   - level: Intermediate

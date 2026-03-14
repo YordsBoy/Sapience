@@ -11,7 +11,7 @@ description: >
   Quantifies Scope 1 emissions, completes EPA GHGRP reports, and develops
   mitigation plans (CCS, offsets) for utility operations.
 source_frameworks:
-  - "EPA GHGRP Subparts D & W"
+  - "EPA Greenhouse Gas Reporting Program (GHGRP) — Subparts D (Electricity Generation) and W (Petroleum and Natural Gas Systems), 40 CFR Part 98 (U.S. government regulation — Environmental Protection Agency; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies reportable GHG sources; collects fuel-use data.

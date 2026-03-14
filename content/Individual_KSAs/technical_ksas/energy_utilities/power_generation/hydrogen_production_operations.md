@@ -12,7 +12,7 @@ description: >
   meeting DOE H₂-standard purity and ISO safety requirements. See also
   `hydrogen_storage_safety` for high-pressure storage and dispensing controls.
 source_frameworks:
-  - "DOE Hydrogen Program 2025 roadmap"
+  - "U.S. DOE Hydrogen Program Plan and Hydrogen Shot roadmap (U.S. government publication — U.S. Department of Energy; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies key equipment (electrolyser stacks, compressors).

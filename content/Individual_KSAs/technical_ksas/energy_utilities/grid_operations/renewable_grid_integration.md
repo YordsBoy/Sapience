@@ -13,7 +13,7 @@ description: >
   and grid-forming inverters.  See also `distributed_energy_resource_management`
   and `battery_energy_storage_operations`.
 source_frameworks:
-  - "NREL grid-integration research 2025"
+  - "NREL Grid Integration research portfolio and technical reports (U.S. government laboratory — National Renewable Energy Laboratory / U.S. Department of Energy; public domain — specific report titles available at nrel.gov/grid)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes variability impacts; reads curtailment reports.

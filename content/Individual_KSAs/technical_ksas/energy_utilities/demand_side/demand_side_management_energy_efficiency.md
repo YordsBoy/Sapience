@@ -12,7 +12,8 @@ description: >
   energy-efficiency incentives—to shift or reduce customer load in compliance
   with FERC Orders 719 and 2222.  Cross-reference `distributed_energy_resource_management`.
 source_frameworks:
-  - "FERC Order 719 demand-response reforms"
+  - "FERC Order 719 — Wholesale Competition in Regions with Organized Electric Markets (demand-response provisions) (U.S. federal government regulation — Federal Energy Regulatory Commission; public domain)"
+  - "FERC Order 2222 — Participation of Distributed Energy Resource Aggregations in Markets Operated by Regional Transmission Organizations (U.S. federal government regulation — Federal Energy Regulatory Commission; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains DSM vs. supply-side; tracks kWh savings.

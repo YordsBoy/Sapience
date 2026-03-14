@@ -11,7 +11,7 @@ description: >
   Implements OSHA 29 CFR, EPA, and ISO 45001 requirements for occupational
   safety, health, and environmental protection across utility operations.
 source_frameworks:
-  - "ISO 45001 occupational-health-and-safety standard"
+  - "ISO 45001:2018 Occupational Health and Safety Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Follows PPE and hazard-communication rules.

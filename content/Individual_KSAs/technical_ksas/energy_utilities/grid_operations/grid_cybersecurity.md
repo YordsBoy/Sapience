@@ -1,5 +1,5 @@
 ---  
-ksa_id: energy_cybersecurity_resilience  
+ksa_id: grid_cybersecurity  
 label: Energy Infrastructure Cybersecurity  
 category: Technical  
 sector: energy_utilities
@@ -12,11 +12,11 @@ description: >
   Protects energy generation, transmission, and distribution systems from cyber threats;  
   secures SCADA and ICS networks, implements NERC CIP compliance, and responds to incidents to maintain resilient utility operations.  
 source_frameworks:  
-  - "NERC CIP Standards"
-  - "NIST Cybersecurity Framework"
+  - "NERC CIP (Critical Infrastructure Protection) Reliability Standards (regulatory standards — North American Electric Reliability Corporation; publicly available)"
+  - "NIST Cybersecurity Framework (CSF) (U.S. government publication — National Institute of Standards and Technology; public domain)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Recognizes basic cyber threats to utilities (malware, phishing, etc.) and knows that critical systems need special protection (SCADA).  
+    indicator: Identifies common cyber threat vectors targeting utility IT and OT environments (malware, phishing, unauthorized remote access); explains why SCADA and industrial control systems require security controls distinct from standard IT systems.
   - level: Basic  
     indicator: Follows cybersecurity protocols for system access; helps maintain up-to-date patches on utility IT/OT systems under supervision.  
   - level: Intermediate  

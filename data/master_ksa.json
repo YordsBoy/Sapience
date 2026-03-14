@@ -2864,7 +2864,7 @@
     "source_frameworks": [
       "3GPP TS 38.821 — Solutions for NR to support Non-Terrestrial Networks (3GPP standards body; publicly available)",
       "3GPP TS 23.122 Release 17 — Non-Access-Stratum functions related to NTN (3GPP standards body; publicly available)",
-      "ETSI EN 301 549 — Accessibility requirements for ICT products and services (note: ETSI EN 301 549 covers accessibility; if the intended reference is to HAPS standards, this should be ETSI TR 103 611 or ITU-R F.2502 — verify during execution)",
+      "ETSI TR 103 611 — Satellite Earth Stations and Systems (SES): Seamless integration of satellite and/or HAPS systems into 5G and related architecture options (European Telecommunications Standards Institute; publicly available)",
       "ITU-R S.2460 — Propagation prediction methods for satellite communication systems (International Telecommunication Union; publicly available)"
     ],
     "proficiency_levels": [
@@ -16547,8 +16547,8 @@
     ],
     "description": "Interprets and implements FERC, NERC, EPA, and state utility-commission regulations covering operations, reliability, and environmental performance.\n",
     "source_frameworks": [
-      "FERC regulations",
-      "NERC Reliability Standards"
+      "FERC regulations — applicable Orders, rules, and tariff requirements governing electric utility operations (U.S. federal government — Federal Energy Regulatory Commission; public domain)",
+      "NERC Reliability Standards — applicable Operations and Planning reliability requirements (regulatory standards — North American Electric Reliability Corporation; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -16585,7 +16585,7 @@
     ],
     "description": "Implements OSHA 29 CFR, EPA, and ISO 45001 requirements for occupational safety, health, and environmental protection across utility operations.\n",
     "source_frameworks": [
-      "ISO 45001 occupational-health-and-safety standard"
+      "ISO 45001:2018 Occupational Health and Safety Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -16622,7 +16622,7 @@
     ],
     "description": "Operates and optimizes steam-cycle or combined-cycle power units, controlling boilers, turbines, heat-recovery steam generators (HRSG), and emissions systems to meet load while complying with NERC and EPA requirements.  See also `utility_regulatory_compliance`.\n",
     "source_frameworks": [
-      "NERC Reliability Standards"
+      "NERC Reliability Standards — Operations and Planning (O&P) and Generating Availability Data System (GADS) requirements (regulatory standards — North American Electric Reliability Corporation; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -16659,12 +16659,12 @@
     ],
     "description": "Monitors, analyses, and dispatches utility-scale wind and photovoltaic assets, maximising availability and integrating with ISO/RTO market signals.  See also `distributed_energy_resource_management` for behind-the-meter DERs.\n",
     "source_frameworks": [
-      "IEEE 1547 interconnection standard"
+      "IEEE 1547-2018 Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces (proprietary standard — Institute of Electrical and Electronics Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands basic SCADA metrics (kW, availability); performs visual inspections."
+        "indicator": "Reads basic SCADA performance metrics (kW output, availability factor, alarm status) for wind and solar assets; performs routine visual inspections and documents findings."
       },
       {
         "level": "Basic",
@@ -16696,7 +16696,7 @@
     ],
     "description": "Operates electrolysers or reformers with carbon capture to produce hydrogen, meeting DOE H₂-standard purity and ISO safety requirements. See also `hydrogen_storage_safety` for high-pressure storage and dispensing controls.\n",
     "source_frameworks": [
-      "DOE Hydrogen Program 2025 roadmap"
+      "U.S. DOE Hydrogen Program Plan and Hydrogen Shot roadmap (U.S. government publication — U.S. Department of Energy; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -16738,7 +16738,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows fundamental concepts of nuclear fission and the purpose of reactor control rods and cooling systems."
+        "indicator": "Describes the fundamental principles of nuclear fission and explains the roles of reactor control rods, coolant systems, and containment structures in managing reactor power and safety."
       },
       {
         "level": "Basic",
@@ -16770,7 +16770,8 @@
     ],
     "description": "Develops cost-of-service studies, performance-based ratemaking (PBR) models, capital-expenditure plans, and regulatory filings to secure revenue requirements and align with policy objectives.\n",
     "source_frameworks": [
-      "Public Utility Financial-Management textbooks"
+      "NARUC Utility Rate Case Filing and Cost-of-Service resources (government association — National Association of Regulatory Utility Commissioners; publicly available)",
+      "Academic and professional references on utility economics (e.g., Kahn 'The Economics of Regulation'; Bonbright 'Principles of Public Utility Rates') (academic publication; conceptual alignment only — equivalent utility financial management literature may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -16807,12 +16808,12 @@
     ],
     "description": "Executes day-ahead and real-time energy, capacity, and ancillary-service bids; manages risk and settlement in ISO/RTO markets such as ERCOT, PJM, and CAISO.\n",
     "source_frameworks": [
-      "ERCOT Wholesale Markets training catalog"
+      "ERCOT Wholesale Markets training and market guide resources (market operator — Electric Reliability Council of Texas; conceptual alignment only — equivalent ISO/RTO wholesale market training from PJM, CAISO, MISO, SPP, NYISO, or ISO-NE may demonstrate competency in non-ERCOT market contexts)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Reads LMP dashboards; understands offer curves."
+        "indicator": "Reads locational marginal price (LMP) dashboards; explains the structure and purpose of energy offer curves and how they determine dispatch order."
       },
       {
         "level": "Basic",
@@ -16833,39 +16834,42 @@
     ]
   },
   {
-    "ksa_id": "nuclear_operations_safety",
-    "label": "Nuclear Energy Operations & Safety",
+    "ksa_id": "hydrogen_storage_safety",
+    "label": "Hydrogen Storage & Safety",
     "category": "Technical",
     "sector": "energy_utilities",
-    "horizon": "core",
+    "horizon": "emerging",
     "cluster_tags": [
-      "Nuclear",
-      "Safety"
+      "Hydrogen",
+      "Process Safety"
     ],
-    "description": "Operates reactor and balance-of-plant systems, implements IAEA and NRC safety fundamentals, and maintains emergency-preparedness and radiation-protection programs.\n",
+    "description": "Operates and maintains high-pressure compressed and cryogenic liquid hydrogen storage systems in compliance with NFPA 2 and ISO 19880-1 safety requirements, including leak detection, pressure-relief management, dispensing controls, and emergency response. See also `hydrogen_production_operations` for electrolyser and reformer operations upstream of storage.\n",
     "source_frameworks": [
-      "IAEA Conduct of Operations Safety Guide"
+      "ISO 19880-1:2020 Gaseous Hydrogen — Fuelling Stations — General Requirements (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "NFPA 2 Hydrogen Technologies Code (proprietary standard — National Fire Protection Association; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: NFPA 2 is a copyrighted private-organization standard; it is not public domain despite regulatory adoption.)",
+      "OSHA 29 CFR 1910.103 — Hydrogen (U.S. government regulation — Occupational Safety and Health Administration; public domain)",
+      "U.S. DOE Hydrogen Safety Best Practices resources (U.S. government publication — U.S. Department of Energy; public domain)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains defense-in-depth; reads reactor status indicators."
+        "indicator": "Describes the key hazard properties of hydrogen (flammability range 4–75% v/v, low ignition energy, buoyancy, invisible flame); identifies the major storage vessel types (Type I–IV composite cylinders, cryogenic dewars) and distinguishes compressed-gas from liquid hydrogen storage configurations."
       },
       {
         "level": "Basic",
-        "indicator": "Performs normal operations and surveillance tests; follows ALARA principles."
+        "indicator": "Inspects high-pressure storage vessels, piping, and fittings per scheduled maintenance procedures; verifies pressure-relief device settings and documentation; executes lock-out/tag-out on hydrogen systems; responds to fixed-point gas detector alarms per site emergency response plan."
       },
       {
         "level": "Intermediate",
-        "indicator": "Manages transient response; interprets core-physics data."
+        "indicator": "Conducts leak surveys using portable electrochemical and catalytic gas detectors; manages dispensing operations including pre-cooling checks and break-away coupling integrity; maintains storage inventory records and calculates quantity-on-hand; performs and documents functional tests of pressure-relief and excess-flow valves."
       },
       {
         "level": "Advanced",
-        "indicator": "Leads outage & refuelling; analyses operational events; coordinates with NRC."
+        "indicator": "Designs storage area layouts in compliance with NFPA 2 setback, ventilation, and ignition-source exclusion requirements; leads facility Hazard and Operability (HAZOP) studies and quantitative risk assessments for hydrogen storage systems; develops site emergency response plans and drills; evaluates material compatibility for hydrogen service (hydrogen embrittlement screening per ASME standards)."
       },
       {
         "level": "Expert",
-        "indicator": "Oversees fleet operations; mentors licensees; engages with IAEA peer reviews."
+        "indicator": "Leads enterprise hydrogen safety programs across multi-site operations; contributes to standards development (ISO TC 197, NFPA 2 revision cycles); mentors safety engineers and first responders; advises on emerging storage modalities including solid-state metal-hydride, cryo-compressed, and underground cavern storage."
       }
     ]
   },
@@ -16881,7 +16885,7 @@
     ],
     "description": "Monitors and controls high-voltage networks, ensuring reliability per NERC Operations & Planning (O&P) standards, managing contingencies, and issuing switching orders.\n",
     "source_frameworks": [
-      "NERC Reliability Standards"
+      "NERC Operations and Planning (O&P) Reliability Standards (regulatory standards — North American Electric Reliability Corporation; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -16918,12 +16922,12 @@
     ],
     "description": "Monitors and controls smart grid systems with advanced metering infrastructure (AMI);   coordinates demand response programs and distributed energy resources (DERs) to maintain grid stability and optimize energy distribution.  \n",
     "source_frameworks": [
-      "IEEE 2030 Smart Grid Interoperability Standards"
+      "IEEE 2030 series — Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (proprietary standard — Institute of Electrical and Electronics Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands the concept of smart grids versus traditional grids; knows that smart meters and IoT devices provide real-time data."
+        "indicator": "Describes the key differences between smart grids and traditional power grids; explains how advanced metering infrastructure (AMI) and IoT devices enable real-time data collection and two-way communication."
       },
       {
         "level": "Basic",
@@ -16955,7 +16959,7 @@
     ],
     "description": "Plans and operates transmission and distribution systems with high shares of variable renewable energy (VRE), using forecasting, congestion management, and grid-forming inverters.  See also `distributed_energy_resource_management` and `battery_energy_storage_operations`.\n",
     "source_frameworks": [
-      "NREL grid-integration research 2025"
+      "NREL Grid Integration research portfolio and technical reports (U.S. government laboratory — National Renewable Energy Laboratory / U.S. Department of Energy; public domain — specific report titles available at nrel.gov/grid)"
     ],
     "proficiency_levels": [
       {
@@ -16981,7 +16985,7 @@
     ]
   },
   {
-    "ksa_id": "energy_cybersecurity_resilience",
+    "ksa_id": "grid_cybersecurity",
     "label": "Energy Infrastructure Cybersecurity",
     "category": "Technical",
     "sector": "energy_utilities",
@@ -16993,13 +16997,13 @@
     ],
     "description": "Protects energy generation, transmission, and distribution systems from cyber threats;   secures SCADA and ICS networks, implements NERC CIP compliance, and responds to incidents to maintain resilient utility operations.  \n",
     "source_frameworks": [
-      "NERC CIP Standards",
-      "NIST Cybersecurity Framework"
+      "NERC CIP (Critical Infrastructure Protection) Reliability Standards (regulatory standards — North American Electric Reliability Corporation; publicly available)",
+      "NIST Cybersecurity Framework (CSF) (U.S. government publication — National Institute of Standards and Technology; public domain)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes basic cyber threats to utilities (malware, phishing, etc.) and knows that critical systems need special protection (SCADA)."
+        "indicator": "Identifies common cyber threat vectors targeting utility IT and OT environments (malware, phishing, unauthorized remote access); explains why SCADA and industrial control systems require security controls distinct from standard IT systems."
       },
       {
         "level": "Basic",
@@ -17031,7 +17035,7 @@
     ],
     "description": "Aggregates and dispatches rooftop PV, batteries, EV chargers, and demand-side assets in compliance with FERC Order 2222 and IEEE 1547 interconnection requirements. See also `battery_energy_storage_operations` for BESS control routines and `demand_side_management_energy_efficiency` for customer-program coordination.\n",
     "source_frameworks": [
-      "FERC Order 2222"
+      "FERC Order 2222 — Participation of Distributed Energy Resource Aggregations in Markets Operated by Regional Transmission Organizations (U.S. federal government regulation — Federal Energy Regulatory Commission; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -17068,7 +17072,7 @@
     ],
     "description": "Quantifies Scope 1 emissions, completes EPA GHGRP reports, and develops mitigation plans (CCS, offsets) for utility operations.\n",
     "source_frameworks": [
-      "EPA GHGRP Subparts D & W"
+      "EPA Greenhouse Gas Reporting Program (GHGRP) — Subparts D (Electricity Generation) and W (Petroleum and Natural Gas Systems), 40 CFR Part 98 (U.S. government regulation — Environmental Protection Agency; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -17105,12 +17109,12 @@
     ],
     "description": "Monitors and controls NOₓ, SO₂, particulate, and greenhouse-gas emissions; maintains ISO 14064 inventory and ensures EPA and state-permit compliance.\n",
     "source_frameworks": [
-      "ISO 14064 GHG accounting standard"
+      "ISO 14064 series — Greenhouse Gases — Quantification, Monitoring, Reporting, and Verification (ISO proprietary standard series; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies regulated pollutants; understands permit limits."
+        "indicator": "Identifies regulated air pollutants (NOₓ, SO₂, particulate matter, CO₂e); explains the function of operating permit limits and why exceedances trigger reporting obligations."
       },
       {
         "level": "Basic",
@@ -17142,7 +17146,7 @@
     ],
     "description": "Operates grid-scale lithium-ion or flow-battery systems per IEC 62933 safety requirements, optimizing state-of-charge for arbitrage and grid-services value. See also `distributed_energy_resource_management` for aggregation dispatch and `asset_integrity_management`  for ISO 55000 asset-management governance .\n",
     "source_frameworks": [
-      "IEC 62933 battery-storage safety standard"
+      "IEC 62933 series — Electrical Energy Storage (EES) Systems (IEC proprietary standard series — International Electrotechnical Commission; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -17179,7 +17183,8 @@
     ],
     "description": "Designs and administers utility programs—demand response, time-of-use rates, energy-efficiency incentives—to shift or reduce customer load in compliance with FERC Orders 719 and 2222.  Cross-reference `distributed_energy_resource_management`.\n",
     "source_frameworks": [
-      "FERC Order 719 demand-response reforms"
+      "FERC Order 719 — Wholesale Competition in Regions with Organized Electric Markets (demand-response provisions) (U.S. federal government regulation — Federal Energy Regulatory Commission; public domain)",
+      "FERC Order 2222 — Participation of Distributed Energy Resource Aggregations in Markets Operated by Regional Transmission Organizations (U.S. federal government regulation — Federal Energy Regulatory Commission; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -17216,7 +17221,7 @@
     ],
     "description": "Collects, cleans, and analyses SCADA, AMI, and market data to inform asset optimization and forecasting across generation, grid, and storage assets.\n",
     "source_frameworks": [
-      "ISO 50001 energy-management guidance"
+      "ISO 50001:2018 Energy Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {

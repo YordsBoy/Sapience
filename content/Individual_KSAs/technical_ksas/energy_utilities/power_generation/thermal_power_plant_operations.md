@@ -13,7 +13,7 @@ description: >
   systems to meet load while complying with NERC and EPA requirements.  See
   also `utility_regulatory_compliance`.
 source_frameworks:
-  - "NERC Reliability Standards"
+  - "NERC Reliability Standards — Operations and Planning (O&P) and Generating Availability Data System (GADS) requirements (regulatory standards — North American Electric Reliability Corporation; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Monitors key pressures, temperatures, and flows; follows start-up checklists.

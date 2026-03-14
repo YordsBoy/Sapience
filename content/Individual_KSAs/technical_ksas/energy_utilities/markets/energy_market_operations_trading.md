@@ -12,10 +12,10 @@ description: >
   bids; manages risk and settlement in ISO/RTO markets such as ERCOT, PJM,
   and CAISO.
 source_frameworks:
-  - "ERCOT Wholesale Markets training catalog" 
+  - "ERCOT Wholesale Markets training and market guide resources (market operator — Electric Reliability Council of Texas; conceptual alignment only — equivalent ISO/RTO wholesale market training from PJM, CAISO, MISO, SPP, NYISO, or ISO-NE may demonstrate competency in non-ERCOT market contexts)"
 proficiency_levels:
   - level: Awareness
-    indicator: Reads LMP dashboards; understands offer curves.
+    indicator: Reads locational marginal price (LMP) dashboards; explains the structure and purpose of energy offer curves and how they determine dispatch order.
   - level: Basic
     indicator: Submits DA energy offers; reconciles settlements.
   - level: Intermediate
