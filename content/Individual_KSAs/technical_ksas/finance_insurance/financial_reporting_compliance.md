@@ -6,7 +6,10 @@ sector: finance_insurance
 horizon: core
 cluster_tags: ["GAAP", "IFRS", "Statutory"]
 description: Prepares and reviews financial statements in alignment with GAAP, IFRS, and statutory-insurance accounting rules; ensures transparent, accurate, and timely disclosures.
-source_frameworks: ["ifrs:9", "fasb:ASC", "naic:SAP"]
+source_frameworks:
+  - "IFRS 9 Financial Instruments (IASB/IFRS Foundation standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "FASB Accounting Standards Codification (ASC) (U.S. nonprofit standard-setting body; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "NAIC Statutory Accounting Principles (SAP) (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Compiles basic journal entries and reconciliations under supervision.

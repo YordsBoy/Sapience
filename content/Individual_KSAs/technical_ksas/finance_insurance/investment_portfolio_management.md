@@ -6,7 +6,9 @@ sector: finance_insurance
 horizon: core
 cluster_tags: ["ALM", "Fixed-Income", "ESG"]
 description: Constructs and manages multi-asset portfolios for insurers and financial institutions, balancing yield, duration, liquidity, and regulatory capital considerations.
-source_frameworks: ["cfa:PM", "gips:Standards"]
+source_frameworks:
+  - "CFA Institute Portfolio Management curriculum (commercial professional certification body — CFA Institute; conceptual alignment only)"
+  - "CFA Institute Global Investment Performance Standards (GIPS) 2020 (commercial professional certification body — CFA Institute; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Executes trade tickets, reconciles positions, and tracks benchmarks.

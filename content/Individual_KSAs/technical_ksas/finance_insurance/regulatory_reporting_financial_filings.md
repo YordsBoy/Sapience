@@ -6,7 +6,9 @@ sector: finance_insurance
 horizon: core
 cluster_tags: ["SEC", "NAIC", "IFRS17"]
 description: Prepares and files mandated regulatory reports (e.g., NAIC Blank, 10-K/Q, Solvency II QRTs) ensuring accuracy, timeliness, and compliance with evolving rules.
-source_frameworks: ["sec:RegS-K", "naic:HealthBlank"]
+source_frameworks:
+  - "SEC Regulation S-K — Standard Instructions for Filing Forms (U.S. government regulation — Securities and Exchange Commission; public domain)"
+  - "NAIC Health Annual Statement Blank (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Compiles schedules and footnotes as instructed, following checklists.

@@ -6,10 +6,12 @@ sector: finance_insurance
 horizon: perennial  
 cluster_tags: ["Finance", "Risk Analysis", "Compliance"]  
 description: Identifies, assesses, and mitigates financial risks (market, credit, operational, etc.) to protect assets, ensure stability, and maintain compliance with financial regulations.  
-source_frameworks: []  
+source_frameworks:
+  - "ISO 31000:2018 Risk Management Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "COSO Enterprise Risk Management Framework 2017 (commercial nonprofit standard-setting body — Committee of Sponsoring Organizations of the Treadway Commission; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands basic financial terms and follows guidelines to monitor simple budgets or transactions.  
+    indicator: Identifies basic financial risk categories (market, credit, liquidity, operational); follows established guidelines to monitor simple budgets or transactions.
   - level: Basic  
     indicator: Uses standard risk checklists or tools to evaluate straightforward financial scenarios under supervision.  
   - level: Intermediate  

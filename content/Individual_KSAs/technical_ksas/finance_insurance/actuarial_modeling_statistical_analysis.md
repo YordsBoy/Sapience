@@ -6,7 +6,9 @@ sector: finance_insurance
 horizon: core
 cluster_tags: ["Pricing", "Reserving", "Predictive-Analytics"]
 description: Builds and validates actuarial models for pricing, reserving, and forecasting; applies advanced statistical and machine-learning techniques to improve loss-ratio performance.
-source_frameworks: ["soa:ERM", "cas:Predictive"]
+source_frameworks:
+  - "Society of Actuaries (SOA) Enterprise Risk Management Framework (professional membership association; conceptual alignment only)"
+  - "Casualty Actuarial Society (CAS) Predictive Modeling Committee research publications (professional membership association; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Utilizes actuarial software to run standard triangles and basic GLMs.

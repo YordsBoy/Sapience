@@ -3,10 +3,12 @@ ksa_id: fintech_digital_payments_innovation
 label: FinTech & Digital-Payments Innovation
 category: Technical
 sector: finance_insurance
-horizon: watch_2030
+horizon: emerging
 cluster_tags: ["Open-Banking", "CBDC", "APIs"]
 description: Designs, evaluates, and implements emerging digital-payment technologies, open-banking APIs, and central-bank digital-currency (CBDC) use cases.
-source_frameworks: ["iso:20022", "psd2:OpenAPI"]
+source_frameworks:
+  - "ISO 20022 Universal Financial Industry Message Scheme (ISO proprietary standard; open messaging standard — specification publicly available)"
+  - "EU Revised Payment Services Directive (PSD2) Open Banking API standards (EU regulatory instrument; publicly available — equivalent open banking frameworks such as UK Open Banking Standard or Australia CDR may demonstrate competency in non-EU contexts)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains basic digital-wallet and API concepts and observes security protocols.

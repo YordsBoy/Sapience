@@ -6,7 +6,9 @@ sector: finance_insurance
 horizon: core
 cluster_tags: ["AML", "KYC", "Insurance-Fraud"]
 description: Detects, investigates, and prevents fraudulent activities and financial crimes, ensuring compliance with anti-money-laundering (AML) and know-your-customer (KYC) regulations.
-source_frameworks: ["finra:AML", "fatf:40"]
+source_frameworks:
+  - "FINRA Anti-Money Laundering (AML) Template for Small and Mid-Size Firms (U.S. self-regulatory organization — FINRA; conceptual alignment only)"
+  - "FATF 40 Recommendations on Anti-Money Laundering and Counter-Financing of Terrorism (intergovernmental organization — Financial Action Task Force; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Flags suspicious transactions and completes mandatory training.

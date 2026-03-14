@@ -10,11 +10,11 @@ cluster_tags:
 description: >  
   Develops and manages insurance products leveraging digital technologies (telematics, AI/ML for underwriting, digital platforms);  
   analyzes telemetric data (e.g. driver behavior for auto insurance), personalizes coverage, and improves claims processes through automation.  
-source_frameworks:  
-  - "NAIC InsurTech Principles (2024)"  
+source_frameworks:
+  - "NAIC InsurTech Principles (2024) (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Aware of trends like usage-based insurance and basic automation in claims; knows examples (like driver monitoring devices).  
+    indicator: Identifies current InsurTech trends (e.g., usage-based insurance, automated claims triage); describes the role of telematics and monitoring devices in data-driven underwriting.
   - level: Basic  
     indicator: Supports an InsurTech initiative, e.g. setting up a pilot for telematics-based policy pricing; uses software to collect and review relevant data under guidance.  
   - level: Intermediate  
