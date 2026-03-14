@@ -12,7 +12,7 @@ description: >
   funding; manages vendor scorecards on fill-rate, on-time, in-full (OTIF),
   and compliance fines.
 source_frameworks:
-  - "ISM CPSM Sourcing Body of Knowledge"
+  - "ISM Certified Professional in Supply Management (CPSM) Body of Knowledge (commercial professional association — Institute for Supply Management; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Prepares request-for-quote (RFQ); tracks basic lead times.

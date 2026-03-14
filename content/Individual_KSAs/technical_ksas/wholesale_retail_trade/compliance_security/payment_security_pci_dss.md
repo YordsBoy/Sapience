@@ -12,10 +12,10 @@ description: >
   controls—network segmentation, tokenization, multifactor authentication—to
   safeguard cardholder data.
 source_frameworks:
-  - "PCI DSS 4.0 Standard"
+  - "PCI DSS v4.0 Payment Card Industry Data Security Standard (proprietary industry standard — PCI Security Standards Council, a commercial consortium of payment brands; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognizes cardholder-data environment (CDE); completes security awareness training.
+    indicator: Identifies the components of the cardholder-data environment (CDE) and explains why payment data requires segregated controls; completes required security awareness training.
   - level: Basic
     indicator: Maintains SAQ (A) or SAQ D; installs PA-DSS compliant payment app.
   - level: Intermediate

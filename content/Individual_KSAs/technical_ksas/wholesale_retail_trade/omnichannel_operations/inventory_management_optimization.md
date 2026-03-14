@@ -13,7 +13,7 @@ description: >
   management systems (WMS) to achieve target service levels at lowest carrying
   cost.
 source_frameworks:
-  - "APICS Inventory Management Body of Knowledge"
+  - "ASCM/APICS Inventory Management Body of Knowledge and CPIM certification curriculum (commercial professional association — Association for Supply Chain Management; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Calculates days-of-supply; identifies stock-outs vs. overstocks.

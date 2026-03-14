@@ -12,7 +12,7 @@ description: >
   refresh, end-of-life—using PLM software and stage-gate governance to hit
   target cost and time-to-market.
 source_frameworks:
-  - "Stage-Gate® Product Development Institute"
+  - "Stage-Gate® product development process framework (proprietary registered methodology — Product Development Institute Inc.; conceptual alignment only — Stage-Gate® is a registered trademark; CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists lifecycle stages; logs item setup data in PIM.

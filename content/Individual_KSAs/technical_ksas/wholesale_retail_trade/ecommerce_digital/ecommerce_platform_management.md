@@ -12,7 +12,7 @@ description: >
   (formerly Magento)—covering product catalogs, payment gateways, and
   performance SEO.
 source_frameworks:
-  - "Shopify Plus Merchant Guide 2025"
+  - "Shopify Plus merchant documentation and developer guides (vendor documentation — Shopify Inc.; conceptual alignment only — equivalent e-commerce platform documentation such as Adobe Commerce, BigCommerce, or Salesforce Commerce Cloud may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Navigates admin dashboard; updates product pages.

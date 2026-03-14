@@ -12,10 +12,10 @@ description: >
   forecast staffing needs, auto-generate schedules, and comply with Fair
   Workweek laws while boosting employee engagement.
 source_frameworks:
-  - "Shyft Retail Scheduling Best Practices 2025"
+  - "Shyft retail scheduling and workforce management best-practice resources (commercial workforce management software vendor — Shyft; conceptual alignment only — equivalent labor scheduling platform documentation may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands labor KPIs (sales per labor hour, schedule variance); explains gig shift concept.
+    indicator: Identifies key labor KPIs (sales per labor hour, schedule adherence, schedule variance); explains how gig-shift marketplaces supplement permanent staff to fill coverage gaps.
   - level: Basic
     indicator: Inputs availabilities; publishes schedules two weeks ahead per Fair Workweek ordinance.
   - level: Intermediate

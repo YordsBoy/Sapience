@@ -12,8 +12,8 @@ description: >
   drop-off—using disposition algorithms (resell, refurbish, recycle) to cut
   cost-to-return and environmental impact.
 source_frameworks:
-  - "E-commerce reverse-logistics optimization study 2024"
-  - "Acta Technologia 2024 paper on reverse logistics"
+  - "NRF and Happy Returns Consumer Returns in Retail 2024 report — annual retail return-rate and reverse-logistics benchmarks (National Retail Federation / Happy Returns; publicly available)"
+  - "Sivasankaran, P. (2024). Study on reverse logistics and its significant importance \u2013 review. Acta Tecnolog\u00eda, 10(4), 131\u2013139. https://doi.org/10.22306/atec.v10i4.225 (peer-reviewed academic journal; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains RMA (Return Merchandise Authorization) flow; recognizes serial/lot controls.

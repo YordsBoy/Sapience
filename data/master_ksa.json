@@ -561,12 +561,12 @@
     ],
     "description": "Uses advanced labor-optimization software and gig-worker marketplaces to forecast staffing needs, auto-generate schedules, and comply with Fair Workweek laws while boosting employee engagement.\n",
     "source_frameworks": [
-      "Shyft Retail Scheduling Best Practices 2025"
+      "Shyft retail scheduling and workforce management best-practice resources (commercial workforce management software vendor — Shyft; conceptual alignment only — equivalent labor scheduling platform documentation may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands labor KPIs (sales per labor hour, schedule variance); explains gig shift concept."
+        "indicator": "Identifies key labor KPIs (sales per labor hour, schedule adherence, schedule variance); explains how gig-shift marketplaces supplement permanent staff to fill coverage gaps."
       },
       {
         "level": "Basic",
@@ -598,8 +598,8 @@
     ],
     "description": "Sources products and packaging using circular-economy principles—reuse, recycle, regenerate—aligned with Sedex and World Business Council for Sustainable Development (WBCSD) indicators.\n",
     "source_frameworks": [
-      "Sedex circular-economy best practice 2025",
-      "CarbonTrail Guide to Sustainable Retail 2025"
+      "Sedex supply chain transparency and circular-economy guidance resources (commercial/nonprofit supply chain transparency network — Sedex; conceptual alignment only)",
+      "CarbonTrail sustainable retail guidance publications (commercial sustainability software vendor — CarbonTrail; conceptual alignment only — equivalent sustainable sourcing guidance may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -636,8 +636,8 @@
     ],
     "description": "Deploys edge computing, Radio-Frequency Identification (RFID), and computer-vision analytics to detect theft, scan avoidance, and operational anomalies in real time while preserving customer privacy.\n",
     "source_frameworks": [
-      "BizTech NRF 2025 computer-vision use-cases",
-      "Spot.ai AI-camera retail guide 2025"
+      "BizTech Magazine / NRF 2025 computer-vision retail use-case coverage (commercial technology media / NRF trade association; conceptual alignment only)",
+      "Spot.ai AI camera analytics retail documentation (commercial AI video analytics vendor — Spot AI; conceptual alignment only — equivalent computer-vision and edge-analytics platform documentation may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -674,7 +674,7 @@
     ],
     "description": "Manages inbound, storage, picking, packing, and outbound processes in a distribution center (DC) using Warehouse Management System (WMS) and material-handling automation.\n",
     "source_frameworks": [
-      "ASCM Warehouse Management Guide"
+      "ASCM Warehouse Management guides and distribution-center operations publications (commercial professional association — Association for Supply Chain Management; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -711,8 +711,8 @@
     ],
     "description": "Designs and manages returns flows—including in-store, mail, and third-party drop-off—using disposition algorithms (resell, refurbish, recycle) to cut cost-to-return and environmental impact.\n",
     "source_frameworks": [
-      "E-commerce reverse-logistics optimization study 2024",
-      "Acta Technologia 2024 paper on reverse logistics"
+      "NRF and Happy Returns Consumer Returns in Retail 2024 report — annual retail return-rate and reverse-logistics benchmarks (National Retail Federation / Happy Returns; publicly available)",
+      "Sivasankaran, P. (2024). Study on reverse logistics and its significant importance – review. Acta Tecnología, 10(4), 131–139. https://doi.org/10.22306/atec.v10i4.225 (peer-reviewed academic journal; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -750,8 +750,8 @@
     ],
     "description": "Executes Buy Online Pick-Up In Store (BOPIS), ship-from-store, curbside, and drop-ship models; configures Order-Management System (OMS) sourcing and routing rules to balance speed, cost-to-serve, and inventory health while delivering on customer promise dates.\n",
     "source_frameworks": [
-      "NRF Omnichannel Retail Playbook",
-      "Forrester Wave: OMS 2025"
+      "NRF Omnichannel Retail Playbook and fulfillment best-practice publications (commercial trade association — National Retail Federation; conceptual alignment only)",
+      "Forrester Wave Order Management Systems evaluation and research (commercial research and advisory firm — Forrester Research; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -788,7 +788,7 @@
     ],
     "description": "Balances inventory levels across warehouses, stores, and drop-ship partners using Economic Order Quantity (EOQ), safety-stock formulas, and warehouse management systems (WMS) to achieve target service levels at lowest carrying cost.\n",
     "source_frameworks": [
-      "APICS Inventory Management Body of Knowledge"
+      "ASCM/APICS Inventory Management Body of Knowledge and CPIM certification curriculum (commercial professional association — Association for Supply Chain Management; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -825,7 +825,7 @@
     ],
     "description": "Generates sales forecasts using time-series, causal, and machine-learning models; drives automated store and DC replenishment with forecast accuracy bias < ±5 %.\n",
     "source_frameworks": [
-      "HBR Retail Demand Forecasting Case Study"
+      "Harvard Business Review retail demand forecasting and supply chain analytics publications (commercial academic/business media — Harvard Business Publishing; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -862,7 +862,7 @@
     ],
     "description": "Sources products, negotiates cost-of-goods-sold (COGS), terms, and trade funding; manages vendor scorecards on fill-rate, on-time, in-full (OTIF), and compliance fines.\n",
     "source_frameworks": [
-      "ISM CPSM Sourcing Body of Knowledge"
+      "ISM Certified Professional in Supply Management (CPSM) Body of Knowledge (commercial professional association — Institute for Supply Management; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -899,7 +899,7 @@
     ],
     "description": "Manages concept-to-retire lifecycle—ideation, design, sourcing, launch, refresh, end-of-life—using PLM software and stage-gate governance to hit target cost and time-to-market.\n",
     "source_frameworks": [
-      "Stage-Gate® Product Development Institute"
+      "Stage-Gate® product development process framework (proprietary registered methodology — Product Development Institute Inc.; conceptual alignment only — Stage-Gate® is a registered trademark; CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -936,7 +936,7 @@
     ],
     "description": "Builds localized assortment plans using sales, space, and shopper data; balances breadth, depth, and gross-margin return on inventory investment (GMROII).  Acronyms such as Stock-Keeping Unit (SKU) are spelled out at first use.\n",
     "source_frameworks": [
-      "NRF Merchandising Best Practices"
+      "NRF merchandising and category management best-practice publications (commercial trade association — National Retail Federation; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -973,7 +973,7 @@
     ],
     "description": "Designs a single technology stack that unifies Point-of-Sale (POS), E-commerce, Order-Management System (OMS), Customer-Relationship Management (CRM), and Inventory into one data layer for real-time customer view.\n",
     "source_frameworks": [
-      "NRF Unified Commerce Blueprint"
+      "NRF Unified Commerce Blueprint and technology vision publications (commercial trade association — National Retail Federation; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -1010,8 +1010,7 @@
     ],
     "description": "Curates accurate product content—titles, images, attributes—via Product Information Management (PIM) systems and distributes to e-commerce, in-store kiosks, and marketplaces using GS1 standards.\n",
     "source_frameworks": [
-      "GS1 Global Standards repository",
-      "GS1 Product Image Specification Standard"
+      "GS1 Global Data Synchronisation Network (GDSN) standards and product image specifications (nonprofit standards body — GS1 Global; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -1048,12 +1047,12 @@
     ],
     "description": "Coordinates retail operations across multiple channels (physical store, online store, mobile app, etc.);   ensures consistent inventory management (syncing stock between online and in-store), handles online order fulfillment and in-store pickup, aligns promotions and customer experience across channels, and utilizes retail tech (POS systems, order management software) to run a seamless omnichannel business.  \n",
     "source_frameworks": [
-      "NRF Omnichannel Retail Playbook"
+      "NRF Omnichannel Retail Playbook and unified-commerce publications (commercial trade association — National Retail Federation; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows that a store can also sell online; has seen things like “buy online pick up in store” (BOPIS) as a concept."
+        "indicator": "Describes how retail operations span physical and digital channels; identifies common omnichannel fulfillment models including Buy Online Pick Up In Store (BOPIS), ship-from-store, and curbside pickup."
       },
       {
         "level": "Basic",
@@ -1085,7 +1084,7 @@
     ],
     "description": "Implements Global Trade Item Number (GTIN) barcodes, GS1-128 case labels, and Electronic Product Code (EPC)-enabled RFID tags for end-to-end item visibility per GS1 Sunrise 2027 roadmap.\n",
     "source_frameworks": [
-      "GS1 Barcodes & Sunrise 2027 Initiative"
+      "GS1 General Specifications, barcode standards, and Sunrise 2027 2-D barcode migration initiative (nonprofit standards body — GS1 Global; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -1122,7 +1121,7 @@
     ],
     "description": "Configures and optimizes e-commerce platforms—Shopify Plus, Adobe Commerce (formerly Magento)—covering product catalogs, payment gateways, and performance SEO.\n",
     "source_frameworks": [
-      "Shopify Plus Merchant Guide 2025"
+      "Shopify Plus merchant documentation and developer guides (vendor documentation — Shopify Inc.; conceptual alignment only — equivalent e-commerce platform documentation such as Adobe Commerce, BigCommerce, or Salesforce Commerce Cloud may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -1159,8 +1158,8 @@
     ],
     "description": "Maps end-to-end customer journeys, designs seamless store and digital touchpoints, and deploys Artificial-Intelligence-driven personalization engines that raise Net Promoter Score (NPS) and Customer Satisfaction (CSAT) while protecting privacy.\n",
     "source_frameworks": [
-      "McKinsey Service Design Toolkit",
-      "Forrester Personalization Playbook 2025"
+      "McKinsey & Company service design methodology and customer experience publications (commercial management consulting — McKinsey & Company; conceptual alignment only)",
+      "Forrester Research personalization and CX playbooks (commercial research and advisory firm — Forrester Research; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -1197,7 +1196,7 @@
     ],
     "description": "Establishes a Security Management System per ISO 28000 to protect cargo, facilities, and information throughout the supply chain, including C-TPAT criteria and incident response.\n",
     "source_frameworks": [
-      "ISO 28000:2007 Supply-Chain Security Standard"
+      "ISO 28000:2022 Security and Resilience — Security Management Systems — Requirements (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: ISO 28000 was updated in 2022; verify whether the 2007 or 2022 edition governs current competency indicators.)"
     ],
     "proficiency_levels": [
       {
@@ -1234,12 +1233,12 @@
     ],
     "description": "Implements Payment Card Industry Data Security Standard (PCI DSS) 4.0 controls—network segmentation, tokenization, multifactor authentication—to safeguard cardholder data.\n",
     "source_frameworks": [
-      "PCI DSS 4.0 Standard"
+      "PCI DSS v4.0 Payment Card Industry Data Security Standard (proprietary industry standard — PCI Security Standards Council, a commercial consortium of payment brands; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes cardholder-data environment (CDE); completes security awareness training."
+        "indicator": "Identifies the components of the cardholder-data environment (CDE) and explains why payment data requires segregated controls; completes required security awareness training."
       },
       {
         "level": "Basic",
@@ -1271,7 +1270,7 @@
     ],
     "description": "Applies OSHA 29 CFR 1910 requirements—walking-working surfaces, ergonomics, powered industrial trucks—to mitigate retail workplace injuries.\n",
     "source_frameworks": [
-      "OSHA 1910 Retail Safety Guidelines"
+      "OSHA 29 CFR Part 1910 — Occupational Safety and Health Standards for General Industry (U.S. government regulation — Occupational Safety and Health Administration; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -1308,8 +1307,10 @@
     ],
     "description": "Ensures compliance with the California Consumer Privacy Act (CCPA) and the European Union’s General Data Protection Regulation (GDPR) by governing data collection, consent, deletion, and breach-response processes, thereby safeguarding consumer trust.\n",
     "source_frameworks": [
-      "CCPA Compliance Checklist (Scytale 2025)",
-      "GDPR/CCPA Best-Practice Guide (Kanerika 2024)"
+      "California Consumer Privacy Act (CCPA) as amended by CPRA — California Civil Code §1798.100 et seq. (U.S. state law — California Attorney General; publicly available)",
+      "EU General Data Protection Regulation (GDPR) — Regulation (EU) 2016/679 (European Union law; publicly available)",
+      "Scytale CCPA compliance guidance resources (commercial compliance vendor — Scytale; conceptual alignment only — cited for practical implementation context)",
+      "Kanerika GDPR/CCPA best-practice guidance (commercial technology consulting firm — Kanerika; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -1346,9 +1347,9 @@
     ],
     "description": "Builds and scales a Retail Media Network (RMN) that sells on-site, in-app, and in-store ad inventory, leveraging first-party data clean rooms to deliver return on ad spend (ROAS) and closed-loop attribution.\n",
     "source_frameworks": [
-      "Forbes RMN best-practice article 2025",
-      "Equativ Retail Media Guide 2025",
-      "Deloitte RMN survey 2024"
+      "Forbes retail media network industry analysis and best-practice reporting (commercial media — Forbes; conceptual alignment only)",
+      "Equativ Retail Media guide publications (commercial adtech vendor — Equativ; conceptual alignment only — equivalent retail media platforms may demonstrate competency)",
+      "Deloitte Retail Media Network industry survey and insights (commercial management consulting — Deloitte; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -1385,12 +1386,12 @@
     ],
     "description": "Leverages sales data, customer data (loyalty programs, CRM), and market trends to inform retail decisions;   analyzes point-of-sale reports and KPIs (like conversion rate, average basket size), monitors inventory turnover, identifies top-selling vs. slow-moving products, and uses customer insights to optimize merchandising, personalize marketing (targeted promotions), and improve store layout or product assortment.  \n",
     "source_frameworks": [
-      "Shopper Insights & Analytics (NRF Guidelines)"
+      "NRF Shopper Insights and Analytics guidelines and publications (commercial trade association — National Retail Federation; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Sees daily sales numbers and basic reports at store meetings; understands if sales are up or down generally and hears simple reasons (e.g., holiday, weather)."
+        "indicator": "Identifies key sales metrics presented at store meetings (daily revenue, units sold); explains common drivers of sales variance (e.g., holidays, weather, promotions)."
       },
       {
         "level": "Basic",
@@ -1422,7 +1423,7 @@
     ],
     "description": "Collects and analyzes point-of-sale (POS), e-commerce, and loyalty data; builds dashboards and predictive models to drive basket size, margin, and customer lifetime value (CLV).\n",
     "source_frameworks": [
-      "MIT Retail Analytics Research"
+      "MIT Center for Transportation and Logistics and MIT Sloan retail analytics research publications (academic research — Massachusetts Institute of Technology; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {

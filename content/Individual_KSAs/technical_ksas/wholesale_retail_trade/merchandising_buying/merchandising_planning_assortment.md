@@ -13,7 +13,7 @@ description: >
   (GMROII).  Acronyms such as Stock-Keeping Unit (SKU) are spelled out at first
   use.
 source_frameworks:
-  - "NRF Merchandising Best Practices"
+  - "NRF merchandising and category management best-practice publications (commercial trade association — National Retail Federation; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads planograms; identifies high-velocity SKUs and long-tail items.

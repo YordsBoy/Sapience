@@ -12,9 +12,9 @@ description: >
   in-store ad inventory, leveraging first-party data clean rooms to deliver
   return on ad spend (ROAS) and closed-loop attribution.
 source_frameworks:
-  - "Forbes RMN best-practice article 2025"
-  - "Equativ Retail Media Guide 2025"
-  - "Deloitte RMN survey 2024"
+  - "Forbes retail media network industry analysis and best-practice reporting (commercial media — Forbes; conceptual alignment only)"
+  - "Equativ Retail Media guide publications (commercial adtech vendor — Equativ; conceptual alignment only — equivalent retail media platforms may demonstrate competency)"
+  - "Deloitte Retail Media Network industry survey and insights (commercial management consulting — Deloitte; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines RMN, ROAS, and on-site vs. off-site placements.

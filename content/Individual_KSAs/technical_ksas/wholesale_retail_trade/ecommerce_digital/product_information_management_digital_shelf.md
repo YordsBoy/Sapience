@@ -12,8 +12,7 @@ description: >
   Information Management (PIM) systems and distributes to e-commerce, in-store
   kiosks, and marketplaces using GS1 standards.
 source_frameworks:
-  - "GS1 Global Standards repository"
-  - "GS1 Product Image Specification Standard"
+  - "GS1 Global Data Synchronisation Network (GDSN) standards and product image specifications (nonprofit standards body — GS1 Global; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies Global Trade Item Number (GTIN); recognizes GS1 image naming.

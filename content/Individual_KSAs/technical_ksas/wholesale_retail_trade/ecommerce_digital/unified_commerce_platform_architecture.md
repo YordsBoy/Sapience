@@ -12,7 +12,7 @@ description: >
   E-commerce, Order-Management System (OMS), Customer-Relationship Management
   (CRM), and Inventory into one data layer for real-time customer view.
 source_frameworks:
-  - "NRF Unified Commerce Blueprint"
+  - "NRF Unified Commerce Blueprint and technology vision publications (commercial trade association — National Retail Federation; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines unified vs. omnichannel; identifies core systems.

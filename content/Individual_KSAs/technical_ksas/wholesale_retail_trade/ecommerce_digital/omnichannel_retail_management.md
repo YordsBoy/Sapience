@@ -11,10 +11,10 @@ description: >
   Coordinates retail operations across multiple channels (physical store, online store, mobile app, etc.);  
   ensures consistent inventory management (syncing stock between online and in-store), handles online order fulfillment and in-store pickup, aligns promotions and customer experience across channels, and utilizes retail tech (POS systems, order management software) to run a seamless omnichannel business.  
 source_frameworks:  
-  - "NRF Omnichannel Retail Playbook"  
+  - "NRF Omnichannel Retail Playbook and unified-commerce publications (commercial trade association — National Retail Federation; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Knows that a store can also sell online; has seen things like “buy online pick up in store” (BOPIS) as a concept.  
+    indicator: Describes how retail operations span physical and digital channels; identifies common omnichannel fulfillment models including Buy Online Pick Up In Store (BOPIS), ship-from-store, and curbside pickup.  
   - level: Basic  
     indicator: Uses a POS system that also processes online orders; assists with packing online orders for shipment or setting aside pickup orders; updates inventory counts when something is sold or returned in either channel as instructed.  
   - level: Intermediate  

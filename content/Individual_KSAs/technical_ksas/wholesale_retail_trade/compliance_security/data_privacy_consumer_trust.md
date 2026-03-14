@@ -13,8 +13,10 @@ description: >
   collection, consent, deletion, and breach-response processes, thereby
   safeguarding consumer trust.
 source_frameworks:
-  - "CCPA Compliance Checklist (Scytale 2025)"
-  - "GDPR/CCPA Best-Practice Guide (Kanerika 2024)"
+  - "California Consumer Privacy Act (CCPA) as amended by CPRA — California Civil Code §1798.100 et seq. (U.S. state law — California Attorney General; publicly available)"
+  - "EU General Data Protection Regulation (GDPR) — Regulation (EU) 2016/679 (European Union law; publicly available)"
+  - "Scytale CCPA compliance guidance resources (commercial compliance vendor — Scytale; conceptual alignment only — cited for practical implementation context)"
+  - "Kanerika GDPR/CCPA best-practice guidance (commercial technology consulting firm — Kanerika; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines personal data; locates privacy-policy link on site; explains consumer opt-out right.

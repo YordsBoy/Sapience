@@ -11,7 +11,7 @@ description: >
   Applies OSHA 29 CFR 1910 requirements—walking-working surfaces, ergonomics,
   powered industrial trucks—to mitigate retail workplace injuries.
 source_frameworks:
-  - "OSHA 1910 Retail Safety Guidelines"
+  - "OSHA 29 CFR Part 1910 — Occupational Safety and Health Standards for General Industry (U.S. government regulation — Occupational Safety and Health Administration; public domain)"
   
 proficiency_levels:
   - level: Awareness

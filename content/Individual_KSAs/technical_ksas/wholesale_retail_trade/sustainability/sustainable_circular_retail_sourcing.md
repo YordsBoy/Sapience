@@ -12,8 +12,8 @@ description: >
   recycle, regenerate—aligned with Sedex and World Business Council for
   Sustainable Development (WBCSD) indicators.
 source_frameworks:
-  - "Sedex circular-economy best practice 2025"
-  - "CarbonTrail Guide to Sustainable Retail 2025"
+  - "Sedex supply chain transparency and circular-economy guidance resources (commercial/nonprofit supply chain transparency network — Sedex; conceptual alignment only)"
+  - "CarbonTrail sustainable retail guidance publications (commercial sustainability software vendor — CarbonTrail; conceptual alignment only — equivalent sustainable sourcing guidance may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies eco-labels (FSC, GRS); records supplier ESG scores.

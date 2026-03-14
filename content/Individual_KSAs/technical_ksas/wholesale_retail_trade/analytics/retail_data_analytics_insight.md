@@ -12,7 +12,7 @@ description: >
   builds dashboards and predictive models to drive basket size, margin, and
   customer lifetime value (CLV).
 source_frameworks:
-  - "MIT Retail Analytics Research"
+  - "MIT Center for Transportation and Logistics and MIT Sloan retail analytics research publications (academic research — Massachusetts Institute of Technology; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Pulls POS reports; plots basic KPIs (sales, units, margin).

@@ -11,7 +11,7 @@ description: >
   Manages inbound, storage, picking, packing, and outbound processes in a
   distribution center (DC) using Warehouse Management System (WMS) and material-handling automation.
 source_frameworks:
-  - "ASCM Warehouse Management Guide"
+  - "ASCM Warehouse Management guides and distribution-center operations publications (commercial professional association — Association for Supply Chain Management; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Follows 5S; understands put-away locations.

@@ -14,8 +14,8 @@ description: >
   routing rules to balance speed, cost-to-serve, and inventory health while
   delivering on customer promise dates.
 source_frameworks:
-  - "NRF Omnichannel Retail Playbook"
-  - "Forrester Wave: OMS 2025"
+  - "NRF Omnichannel Retail Playbook and fulfillment best-practice publications (commercial trade association — National Retail Federation; conceptual alignment only)"
+  - "Forrester Wave Order Management Systems evaluation and research (commercial research and advisory firm — Forrester Research; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains basic flows for BOPIS, ship-from-store, and drop-ship; locates order status in OMS dashboard and verifies Service-Level Agreement (SLA) timers.

@@ -11,10 +11,10 @@ description: >
   Leverages sales data, customer data (loyalty programs, CRM), and market trends to inform retail decisions;  
   analyzes point-of-sale reports and KPIs (like conversion rate, average basket size), monitors inventory turnover, identifies top-selling vs. slow-moving products, and uses customer insights to optimize merchandising, personalize marketing (targeted promotions), and improve store layout or product assortment.  
 source_frameworks:  
-  - "Shopper Insights & Analytics (NRF Guidelines)"  
+  - "NRF Shopper Insights and Analytics guidelines and publications (commercial trade association — National Retail Federation; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Sees daily sales numbers and basic reports at store meetings; understands if sales are up or down generally and hears simple reasons (e.g., holiday, weather).  
+    indicator: Identifies key sales metrics presented at store meetings (daily revenue, units sold); explains common drivers of sales variance (e.g., holidays, weather, promotions).  
   - level: Basic  
     indicator: Reviews daily/weekly sales figures and foot traffic; assists in basic inventory counts or checks due to data indicating low stock; uses loyalty program info to recognize frequent customers and ensure their usual products are in stock.  
   - level: Intermediate  

@@ -12,8 +12,8 @@ description: >
   computer-vision analytics to detect theft, scan avoidance, and operational
   anomalies in real time while preserving customer privacy.
 source_frameworks:
-  - "BizTech NRF 2025 computer-vision use-cases"
-  - "Spot.ai AI-camera retail guide 2025"
+  - "BizTech Magazine / NRF 2025 computer-vision retail use-case coverage (commercial technology media / NRF trade association; conceptual alignment only)"
+  - "Spot.ai AI camera analytics retail documentation (commercial AI video analytics vendor — Spot AI; conceptual alignment only — equivalent computer-vision and edge-analytics platform documentation may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies shrink categories; explains difference between CCTV and AI cameras.

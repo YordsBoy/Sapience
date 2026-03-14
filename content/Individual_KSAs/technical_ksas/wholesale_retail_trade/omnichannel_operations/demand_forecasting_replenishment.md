@@ -12,7 +12,7 @@ description: >
   models; drives automated store and DC replenishment with forecast accuracy
   bias < ±5 %.
 source_frameworks:
-  - "HBR Retail Demand Forecasting Case Study"
+  - "Harvard Business Review retail demand forecasting and supply chain analytics publications (commercial academic/business media — Harvard Business Publishing; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads forecast error metrics (MAPE, Bias); understands seasonality.

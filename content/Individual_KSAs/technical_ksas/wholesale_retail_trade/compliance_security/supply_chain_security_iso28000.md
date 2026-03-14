@@ -12,7 +12,7 @@ description: >
   facilities, and information throughout the supply chain, including C-TPAT
   criteria and incident response.
 source_frameworks:
-  - "ISO 28000:2007 Supply-Chain Security Standard"
+  - "ISO 28000:2022 Security and Resilience — Security Management Systems — Requirements (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: ISO 28000 was updated in 2022; verify whether the 2007 or 2022 edition governs current competency indicators.)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common cargo-theft risks; verifies seal numbers.

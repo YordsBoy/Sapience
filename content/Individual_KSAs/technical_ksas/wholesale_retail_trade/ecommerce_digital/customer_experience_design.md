@@ -13,8 +13,8 @@ description: >
   engines that raise Net Promoter Score (NPS) and Customer Satisfaction
   (CSAT) while protecting privacy.
 source_frameworks:
-  - "McKinsey Service Design Toolkit"
-  - "Forrester Personalization Playbook 2025"
+  - "McKinsey & Company service design methodology and customer experience publications (commercial management consulting — McKinsey & Company; conceptual alignment only)"
+  - "Forrester Research personalization and CX playbooks (commercial research and advisory firm — Forrester Research; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies primary personas and pain-points through observation and mystery shopping; defines baseline NPS and CSAT metrics.
