@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Deploys AMR/AGV fleets under ANSI MH29.1 safety standard and IEC 63315 AGV cyber-security guideline.
 source_frameworks:
-  - "ANSI MH29.1-2012"
-  - "IEC 63315 Draft"
+  - "ANSI MH29.1-2012 Safety Standard for Driverless, Automatic Guided Industrial Vehicles and Automated Functions of Manned Industrial Vehicles (proprietary standard — MHI / American National Standards Institute; conceptual alignment only)"
+  - "IEC 63315 Automated guided vehicle (AGV) systems — Part 1: Safety requirements (IEC proprietary standard — International Electrotechnical Commission; note: draft status at time of filing; verify current publication status)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists robot types; defines safety zones.

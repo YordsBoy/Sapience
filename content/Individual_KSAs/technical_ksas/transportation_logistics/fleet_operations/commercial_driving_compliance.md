@@ -9,11 +9,11 @@ cluster_tags:
   - "Hours-of-Service" 
 description: "Operates commercial vehicles in compliance with transportation safety regulations and best driving practices."  
 source_frameworks:
-  - "FMCSA 49 CFR Part 395"
-  - "ISO 39001 RTS"
+  - "49 CFR Part 395 — Hours of Service of Drivers (U.S. government regulation — Federal Motor Carrier Safety Administration; public domain)"
+  - "ISO 39001:2012 Road Traffic Safety (RTS) Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands basic traffic laws and CDL requirements; ; describes HOS limits; maintains a valid commercial license.  
+    indicator: Identifies basic CDL licensing requirements and the traffic laws applicable to commercial vehicle operations; describes federal Hours of Service (HOS) limits and the consequences of non-compliance.
   - level: Basic  
     indicator: Installs ELD; performs pre-trip inspections and logs hours of service correctly; follows all safety signals and road signs; resolves violations.  
   - level: Intermediate  

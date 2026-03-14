@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Calculates Scope 1–3 freight emissions using GLEC Framework 3.0 and reports to CDP/Science Based Targets initiative (SBTi).
 source_frameworks:
-  - "GLEC Framework 3.0"
-  - "SBTi Transport Guidance"
+  - "GLEC Framework 3.0 for Logistics Emissions Accounting and Reporting (Smart Freight Centre — nonprofit organization; conceptual alignment only)"
+  - "SBTi Transport Sector Guidance (Science Based Targets initiative — nonprofit initiative; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines Well-to-Wheel, TTW; lists pollutants.

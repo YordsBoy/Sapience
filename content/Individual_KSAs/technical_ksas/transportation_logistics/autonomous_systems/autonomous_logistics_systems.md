@@ -11,12 +11,12 @@ description: >
   Works with autonomous and semi-autonomous transportation technologies in logistics operations;  
   monitors and dispatches autonomous delivery vehicles or drones, interacts with warehouse robots/AGVs, and implements protocols for safety and efficiency when humans and autonomous systems work in tandem in supply chain processes.  
 source_frameworks:
-  - "SAE J3016:2021"
-  - "ISO 39001:2012"
-  - "DOT Autonomous Vehicle Guidelines (2024)"  
+  - "SAE J3016:2021 Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles (SAE proprietary standard — SAE International; conceptual alignment only)"
+  - "ISO 39001:2012 Road Traffic Safety (RTS) Management Systems — Requirements with Guidance for Use (ISO proprietary standard; conceptual alignment only)"
+  - "U.S. DOT Automated Vehicles guidance publications (U.S. government — U.S. Department of Transportation; public domain)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Has heard of self-driving trucks or delivery drones; knows they are being tested or used in some places; explains ADS levels; lists sensor suites.
+    indicator: Identifies examples of autonomous logistics applications (self-driving trucks, delivery drones, warehouse AGVs); explains SAE ADS automation levels; lists common sensor suites used in autonomous systems.
   - level: Basic  
     indicator: Operates alongside basic warehouse automation (e.g., picks items that a robot brings); follows SOPs when an autonomous vehicle is moving in a facility (like yielding right of way); might use a simple interface to start/stop a delivery drone or robot under supervision; Configures geofence; performs safety driver protocol.
   - level: Intermediate  

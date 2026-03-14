@@ -9,10 +9,10 @@ cluster_tags:
   - "Incoterms"
 description: Managing cross‑border logistics, classifying goods, filing customs documentation, and allocating risk/costs using Incoterms® 2020, World Customs Organization (WCO) Harmonized System, and Automated Commercial Environment (ACE) filings.
 source_frameworks:
-  - "ICC Incoterms 2020"
-  - "GS1 Logistics Standards"
-  - "WCO Harmonized System"
-  - "U.S. Customs ACE Guide"
+  - "ICC Incoterms® 2020 (International Chamber of Commerce — commercial trade association; proprietary publication; conceptual alignment only)"
+  - "GS1 global logistics and supply chain standards including EPCIS and transport labels (GS1 — nonprofit standards body; conceptual alignment only)"
+  - "WCO Harmonized System (HS) Nomenclature (World Customs Organization — intergovernmental organization; publicly available)"
+  - "U.S. CBP Automated Commercial Environment (ACE) filing guides and procedures (U.S. government — U.S. Customs and Border Protection; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies Incoterms; differentiates EXW vs DDP; finds HS codes; lists basic customs forms; checks tariff codes.

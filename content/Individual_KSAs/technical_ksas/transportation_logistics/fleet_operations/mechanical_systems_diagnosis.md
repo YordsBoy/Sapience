@@ -9,8 +9,8 @@ cluster_tags:
   - "Maintenance"
 description: Troubleshoots engines, gear trains, or motors to restore optimal performance.
 source_frameworks:
-  - "SAE J1939"
-  - "ISO 14229 UDS"
+  - "SAE J1939 Heavy Duty Vehicle Network serial communications standard series (SAE proprietary standard — SAE International; conceptual alignment only)"
+  - "ISO 14229 series Unified Diagnostic Services (UDS) — Road Vehicles (ISO proprietary standard; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies simple wear or leak symptoms; reads DTC; identifies critical vs advisory.

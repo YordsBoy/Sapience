@@ -11,14 +11,14 @@ description: >
   Utilizes advanced software and data analytics to optimize transportation routes and supply chain efficiency;  
   interprets data from GPS tracking, telematics, and inventory systems to improve routing, reduce fuel consumption and delivery times, predict delays, and enhance overall supply chain visibility and responsiveness.  
 source_frameworks:
-  - "GS1 EPCIS 2.0"
-  - "ISO 19115"
-  - "CSCMP Supply Chain Analytics Standards"  
+  - "GS1 EPCIS 2.0 (Electronic Product Code Information Services) standard (GS1 — nonprofit standards body; conceptual alignment only)"
+  - "ISO 19115-1:2014 Geographic Information — Metadata (ISO proprietary standard; conceptual alignment only)"
+  - "CSCMP Supply Chain Management definitions and analytics frameworks (Council of Supply Chain Management Professionals — commercial professional association; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands that logistics uses GPS and tracking; has seen a basic route map or schedule printout; lists master-data fields; notes data quality KPIs.  
+    indicator: Identifies core logistics data types (GPS location, delivery status, inventory levels, fuel consumption) and explains how real-time tracking improves supply chain visibility; lists common master-data fields and data quality KPIs.
   - level: Basic  
-    indicator: Uses a routing software or GPS app to follow given routes; reports simple metrics (on-time deliveries, mileage) to supervisors; can interpret a basic dashboard (green/red indicators for delays); removes duplicates; standardizes codes;.  
+    indicator: Uses a routing software or GPS app to follow given routes; reports simple metrics (on-time deliveries, mileage) to supervisors; interprets a basic dashboard (green/red indicators for delays); removes duplicates; standardizes codes.
   - level: Intermediate  
     indicator: Runs ML demand forecast; adjusts routes based on real-time information (traffic, weather) using TMS (Transport Management System) tools; analyzes data from past deliveries (e.g., average delays on certain routes) to suggest schedule changes; monitors fuel or vehicle data to schedule maintenance or driver coaching; improves forecast accuracy %.  
   - level: Advanced  

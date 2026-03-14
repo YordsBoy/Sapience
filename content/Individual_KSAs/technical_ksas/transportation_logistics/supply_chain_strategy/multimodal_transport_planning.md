@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Plans door-to-door moves using rail, truck, sea, and air legs with UN/CEFACT multimodal transport reference data model and ISO 6346 container codes.
 source_frameworks:
-  - "UN/CEFACT MMT RDM"
-  - "ISO 6346 Container Codes"
+  - "UN/CEFACT Multimodal Transport Reference Data Model (MMT RDM) (UN Centre for Trade Facilitation and Electronic Business — intergovernmental; publicly available)"
+  - "ISO 6346:1995 Freight Containers — Coding, Identification and Marking (ISO proprietary standard; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises modes; lists key documents (B/L, CMR).

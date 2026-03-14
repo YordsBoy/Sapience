@@ -9,8 +9,8 @@ cluster_tags:
   - "Battery Systems"
 description: Understands high‑voltage safety, battery management, and electric drivetrains in hybrid or full‑electric vehicles.
 source_frameworks:
-  - "SAE J1772"
-  - "IEC 62840-1"
+  - "SAE J1772:2017 SAE Electric Vehicle and Plug-in Hybrid Electric Vehicle Conductive Charge Coupler (SAE proprietary standard — SAE International; conceptual alignment only)"
+  - "IEC 62840-1:2016 Electric Vehicle Battery Swap System — Part 1: General and Guidance (IEC proprietary standard — International Electrotechnical Commission; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Performs visual inspections; follows HV lock‑out procedures; observes PPE.

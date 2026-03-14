@@ -9,11 +9,11 @@ cluster_tags:
   - "Safety"
 description: "Loads, secures, and handles cargo safely to prevent damage during transit and ensure compliance with transport regulations."  
 source_frameworks:
-  - "FMCSA 49 CFR Part 393"
-  - "CTU Code 2023"  
+  - "49 CFR Part 393 — Parts and Accessories Necessary for Safe Operation (Subpart I: Cargo Securement) (U.S. government regulation — Federal Motor Carrier Safety Administration; public domain)"
+  - "IMO/ILO/UNECE Code of Practice for Packing of Cargo Transport Units (CTU Code) 2023 (intergovernmental — International Maritime Organization / International Labour Organization / UN Economic Commission for Europe; publicly available)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Recognizes the importance of proper load tie-downs and weight distribution; assists in basic loading tasks under supervision.  
+    indicator: Identifies required tie-down equipment (straps, chains, binders, blocking) for common cargo types; explains the effects of improper weight distribution on vehicle stability and regulatory compliance.
   - level: Basic  
     indicator: Uses straps, chains, or binders to secure typical loads; evenly distributes weight on vehicles and operates pallet jacks safely; inspects deck; adheres CTU blocking.  
   - level: Intermediate  

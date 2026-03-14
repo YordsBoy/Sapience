@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Ships hazardous materials by road and air under IATA Dangerous Goods Regulations (DGR) and ADR 2023.
 source_frameworks:
-  - "IATA DGR 65th"
-  - "UNECE ADR 2023"
+  - "IATA Dangerous Goods Regulations (DGR) 65th Edition (International Air Transport Association — commercial trade association; proprietary annual publication; conceptual alignment only)"
+  - "UNECE ADR 2023 — European Agreement Concerning the International Carriage of Dangerous Goods by Road (UN Economic Commission for Europe — intergovernmental; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines UN numbers; lists packing groups.

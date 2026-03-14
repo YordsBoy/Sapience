@@ -9,11 +9,11 @@ cluster_tags:
   - "Routing"  
 description: "Utilizes GPS-based telematics systems and planning software to optimize delivery routes and monitor fleet performance."  
 source_frameworks:
-  - "ISO 15638-21:2018"
-  - "Google OR-Tools VRP" 
+  - "ISO 15638-21:2018 Intelligent Transport Systems — Framework for Collaborative Telematics Applications for Regulated Commercial Freight Vehicles (ISO proprietary standard; conceptual alignment only)"
+  - "Google OR-Tools Vehicle Routing Problem solver library (vendor software — Google; conceptual alignment only — equivalent open-source or commercial VRP optimization libraries may demonstrate competency)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Uses basic GPS navigation for routes; is aware of onboard telematics devices (e.g. electronic logging devices) and their purpose; explains Haversine distance.  
+    indicator: Uses basic GPS navigation for route following; identifies onboard telematics devices (e.g., electronic logging devices, GPS trackers) and explains their operational purpose in fleet management; describes the Haversine distance formula and its application in routing calculations.
   - level: Basic  
     indicator: Follows routing suggestions from dispatch or apps; inputs data into an ELD or fleet app and responds to simple real-time traffic alerts; installs OBU; streams GPS; sets geofence.  
   - level: Intermediate  

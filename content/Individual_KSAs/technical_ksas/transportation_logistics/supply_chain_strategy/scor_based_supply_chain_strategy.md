@@ -9,8 +9,8 @@ cluster_tags:
   - "Strategy"
 description: Designing and optimizing end‑to‑end supply‑chain processes—Plan, Source, Make, Deliver, Return—using the APICS Supply‑Chain Operations Reference (SCOR) model and digital‑twin simulation to align KPIs with business objectives.
 source_frameworks:
-  - "APICS SCOR DS 12.0"
-  - "Council of Supply Chain Management Professionals (CSCMP) Standards"
+  - "ASCM Supply Chain Operations Reference (SCOR) Digital Standard 12.0 (Association for Supply Chain Management — commercial professional association; conceptual alignment only)"
+  - "CSCMP Supply Chain Management definitions and professional standards (Council of Supply Chain Management Professionals — commercial professional association; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies SCOR process categories; collects basic cycle‑time metrics; maps high‑level process flows; lists KPI families.

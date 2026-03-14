@@ -9,11 +9,11 @@ cluster_tags:
   - "Safety"
 description: Operating Level‑4/5 autonomous or connected delivery fleets, implementing SAE J3016 autonomy taxonomy, safety‑case development, and cybersecurity measures per ISO 21448 (SOTIF) and AVSC best practices.
 source_frameworks:
-  - "UN ECE R155"
-  - "FMCSA ADS Pilot Program"
-  - "SAE J3016 Autonomy Levels"
-  - "ISO 21448 Safety Of The Intended Functionality"
-  - "SAE AVSC000012 Fleet Operations"
+  - "UN ECE Regulation No. 155 — Cybersecurity and Cybersecurity Management Systems for Motor Vehicles (UN Economic Commission for Europe — intergovernmental; publicly available)"
+  - "FMCSA Automated Driving Systems pilot program and exemption guidance (U.S. government — Federal Motor Carrier Safety Administration; public domain)"
+  - "SAE J3016:2021 Taxonomy and Definitions for Terms Related to Driving Automation Systems (SAE proprietary standard — SAE International; conceptual alignment only)"
+  - "ISO 21448:2022 Road Vehicles — Safety of the Intended Functionality (SOTIF) (ISO proprietary standard; conceptual alignment only)"
+  - "SAE AVSC00012 Recommended Practice for Operational Safety During Testing of On-Road Automated Driving Systems (SAE AVSC best-practice document — SAE International; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains autonomy levels; monitors tele‑operation dashboards; recognizes fail‑safe states; describes CSMS; logs ODD.

@@ -9,8 +9,8 @@ cluster_tags:
   - "HD Diagnostics"
 description: Uses scan tools and test equipment to identify mechanical, electrical, and electronic faults in passenger or commercial vehicles.
 source_frameworks:
-  - "SAE J1979"
-  - "EPA OBD regs"
+  - "SAE J1979:2019 / SAE J1979-2:2021 E/E Diagnostic Test Modes — On-Board Diagnostic (OBD) services (SAE proprietary standard — SAE International; conceptual alignment only)"
+  - "EPA On-Board Diagnostics regulations under 40 CFR Part 86 and Part 1068 (U.S. government regulation — Environmental Protection Agency; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists OBD modes; explains MIL logic; retrieves basic OBD‑II trouble codes.
