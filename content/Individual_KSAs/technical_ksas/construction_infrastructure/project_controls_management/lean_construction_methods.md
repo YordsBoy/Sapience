@@ -12,7 +12,7 @@ description: >
   planning, Last Planner System, and waste elimination—to maximise flow and
   stakeholder value.
 source_frameworks:
-  - "Lean Construction Institute 6 Tenets framework"
+  - "Lean Construction Institute 6 Tenets and Last Planner System methodology (nonprofit organization — Lean Construction Institute; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines eight wastes; attends daily huddles.

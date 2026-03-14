@@ -12,7 +12,7 @@ description: >
   tracks change orders, claims, and statutory requirements (lien, certified
   payroll).
 source_frameworks:
-  - "AIA Document A201 – General Conditions of the Contract for Construction"
+  - "AIA Document A201 — General Conditions of the Contract for Construction (copyrighted document — American Institute of Architects; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads contract clauses; logs RFIs and submittals.

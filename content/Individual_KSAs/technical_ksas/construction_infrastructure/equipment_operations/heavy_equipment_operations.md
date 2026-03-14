@@ -10,8 +10,8 @@ cluster_tags:
   - "Safety"  
 description: "Operates heavy construction machinery (e.g. excavators, bulldozers, cranes) safely and efficiently for earthmoving, material handling, and site operations."  
 source_frameworks: 
-  - "Occupational Safety and Health Administration (OSHA) Subpart N – Cranes & Derricks"
-  - "National Center for Construction Education & Research (NCCER) Heavy Equipment Curriculum"
+  - "OSHA 29 CFR 1926 Subpart N — Cranes, Derricks, Hoists, Elevators, and Conveyors (U.S. government regulation — Occupational Safety and Health Administration; public domain)"
+  - "NCCER Heavy Equipment Operation curriculum (nonprofit credentialing organization — National Center for Construction Education and Research; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Identifies types of heavy equipment and their basic uses; observes proper hand signals and safety procedures around operating machinery.  

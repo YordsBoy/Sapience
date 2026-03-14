@@ -13,7 +13,7 @@ description: >
   and storage assets.  See also `battery_energy_storage_operations` for
   BESS-specific routines.
 source_frameworks:
-  - "ISO 55000 asset-management standard"  
+  - "ISO 55000:2024 Asset Management — Overview, Principles and Terminology (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Follows basic work-order and safety-tagging procedures.

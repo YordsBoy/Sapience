@@ -12,7 +12,8 @@ description: >
   including symbols, scale, section cuts, and coordinate grids, to guide field
   layout and quality checks.
 source_frameworks:
-  - "CSI MasterFormat & ANSI Y14.1 drawing conventions"
+  - "CSI MasterFormat document classification system (proprietary standard — Construction Specifications Institute; conceptual alignment only)"
+  - "ANSI Y14.1 Drawing Sheet Size and Format (proprietary standard — American National Standards Institute / American Society of Mechanical Engineers; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Locates title block, north arrow, and scale.

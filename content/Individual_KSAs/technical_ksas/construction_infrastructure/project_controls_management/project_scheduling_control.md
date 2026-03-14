@@ -11,7 +11,7 @@ description: >
   Develops critical-path schedules, earned-value baselines, and look-ahead
   plans per PMI Construction Extension to the PMBOK Guide.
 source_frameworks:
-  - "PMI Construction Extension to PMBOK"
+  - "PMI Construction Extension to the PMBOK Guide (commercial professional association — Project Management Institute; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads Gantt charts; recognizes float.

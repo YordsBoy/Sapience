@@ -12,11 +12,11 @@ description: >
   information exchange—to create, coordinate, and deliver federated 3-D/4-D
   models through design, construction, and hand-over.
 source_frameworks:
-  - "ISO 19650 series for BIM information management"
-  - "US National BIM Standard–United States (NBIMS-US)"
+  - "ISO 19650 series — Organization and Digitization of Information About Buildings and Civil Engineering Works, Including Building Information Modelling (ISO proprietary standard series; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "National BIM Standard — United States (NBIMS-US) (nonprofit standard — buildingSMART Alliance / National Institute of Building Sciences; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands what BIM is and can navigate 3D models to view basic building elements.  
+    indicator: Describes what BIM is and navigates 3-D model environments to locate and query basic building elements.
   - level: Basic  
     indicator: Modifies simple components in a BIM model under supervision; participates in model review meetings.  
   - level: Intermediate  

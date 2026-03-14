@@ -13,7 +13,7 @@ description: >
   sizing, and inspections.  See also `building_information_modeling` for model
   coordination.
 source_frameworks:
-  - "NFPA 70 National Electrical Code (NEC)"
+  - "NFPA 70 National Electrical Code (NEC) (proprietary standard — National Fire Protection Association; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: NFPA 70 is a copyrighted private-organization standard; it is not public domain despite its regulatory adoption by jurisdictions.)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies conductor colors; follows lock-out/tag-out.

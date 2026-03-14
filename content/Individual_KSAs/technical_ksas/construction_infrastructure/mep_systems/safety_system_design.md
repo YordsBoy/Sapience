@@ -12,10 +12,10 @@ description: >
   accordance with NFPA 72, coordinating detection zones, power supplies, and
   supervision circuits.
 source_frameworks:
-  - "NFPA 72 National Fire Alarm and Signaling Code"
+  - "NFPA 72 National Fire Alarm and Signaling Code (proprietary standard — National Fire Protection Association; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: NFPA 72 is a copyrighted private-organization standard; it is not public domain despite regulatory adoption.)"
 proficiency_levels:
   - level: Awareness
-    indicator: Locates detector symbols on drawings; understands initiation devices.
+    indicator: Locates detector and notification-appliance symbols on fire-alarm drawings; identifies the types and functions of initiation devices (smoke, heat, manual pull).
   - level: Basic
     indicator: Calculates circuit voltage drop; places appliances per candela rules.
   - level: Intermediate

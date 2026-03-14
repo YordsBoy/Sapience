@@ -12,10 +12,10 @@ description: >
   efficiency, material transparency—while aligning with Whole Building Design
   Guide sustainability principles.
 source_frameworks:
-  - "USGBC LEED v4 Building Design + Construction"
+  - "USGBC LEED v4 BD+C (Building Design and Construction) rating system (proprietary certification system — U.S. Green Building Council; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Recognizes basic concepts of sustainable building (solar orientation, insulation, low-VOC materials).  
+    indicator: Identifies key sustainable building strategies (e.g., passive solar orientation, insulation levels, low-VOC material selection) and explains their contribution to energy and environmental performance.
   - level: Basic  
     indicator: Participates in a green building project team; helps track LEED points or local green code compliance under guidance.  
   - level: Intermediate  

@@ -12,7 +12,7 @@ description: >
   IoT sensors, and asset-management systems per ISO 23247 to enable predictive
   maintenance and performance optimization.  See also `asset_integrity_management`.
 source_frameworks:
-  - "ISO 23247 Digital-Twin Framework"
+  - "ISO 23247 series — Digital Twin Framework for Manufacturing (ISO proprietary standard; conceptual alignment only — note: ISO 23247 addresses manufacturing digital twins; application to built-asset operations is analogical rather than direct)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains difference between BIM and digital twin; synchronises basic sensor data feeds.

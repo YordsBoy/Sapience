@@ -13,14 +13,14 @@ description: >
   flooding.  Cross-reference `green_building_practices` for low-impact
   development credits.
 source_frameworks:
-  - "ASCE 12-05 / 13-05 / 14-05 Subsurface-Drainage Standards"
+  - "ASCE 12-05 / ASCE 13-05 / ASCE 14-05 Subsurface Drainage Standard series (proprietary standard — American Society of Civil Engineers; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads catch-basin and invert elevations on plans.
   - level: Basic
     indicator: Computes rational-method peak flow; selects pipe slope.
   - level: Intermediate
-    indicator: Uses SWMM or HydroCAD models; designs detention basins.
+    indicator: Uses stormwater modelling software (e.g., EPA SWMM, HydroCAD, or equivalent); designs detention basins.
   - level: Advanced
     indicator: Coordinates green-infrastructure (bioswales); performs H&H studies.
   - level: Expert

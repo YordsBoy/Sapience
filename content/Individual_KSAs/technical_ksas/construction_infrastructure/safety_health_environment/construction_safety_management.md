@@ -12,7 +12,7 @@ description: >
   scaffolding, PPE, and hazard communication—to prevent incidents and ensure
   regulatory compliance.
 source_frameworks:
-  - "OSHA 29 CFR 1926 construction safety regulations"
+  - "OSHA 29 CFR 1926 — Construction Industry Safety and Health Standards (U.S. government regulation — Occupational Safety and Health Administration; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common site hazards; wears required PPE.

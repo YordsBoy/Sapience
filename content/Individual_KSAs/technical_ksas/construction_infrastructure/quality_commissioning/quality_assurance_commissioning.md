@@ -11,10 +11,10 @@ description: >
   Implements Whole Building Design Guide and GSA Commissioning Guide processes
   for verification, functional performance testing, and turnover documentation.
 source_frameworks:
-  - "GSA Building Commissioning Guide (WBDG)"
+  - "GSA Building Commissioning Guide (published via Whole Building Design Guide — U.S. General Services Administration, federal government; public domain)"
 proficiency_levels:
   - level: Awareness
-    indicator: Maintains RFIs/submittals; observes inspections.
+    indicator: Maintains RFI and submittal logs; participates in site inspections and documents observations.
   - level: Basic
     indicator: Executes pre-functional checklists; logs NCRs.
   - level: Intermediate

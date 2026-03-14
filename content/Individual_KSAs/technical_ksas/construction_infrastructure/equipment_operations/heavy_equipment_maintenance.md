@@ -15,9 +15,9 @@ description: >
   specifications and ISO 55000 asset-management principles.  See also
   `asset_integrity_management` for organization-wide maintenance governance.
 source_frameworks:
-  - "ISO 55000 Asset-Management framework"
-  - "OEM heavy-equipment service manuals (e.g., Caterpillar, Komatsu)"
-  - "NCCER Heavy Equipment Maintenance curriculum"
+  - "ISO 55000:2024 Asset Management — Overview, Principles and Terminology (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "OEM heavy-equipment service manuals (vendor documentation — e.g., Caterpillar, Komatsu, Volvo CE, and equivalent manufacturers; conceptual alignment only — any manufacturer's service documentation may demonstrate competency)"
+  - "NCCER Heavy Equipment Maintenance curriculum (nonprofit credentialing organization — National Center for Construction Education and Research; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies lubrication points and daily inspection items; follows lock-out/tag-out during basic servicing.

@@ -12,7 +12,7 @@ description: >
   and ASTM C standards, ensuring durability, alignment, and structural
   integrity.
 source_frameworks:
-  - "ACI 318 Building Code Requirements for Structural Concrete" 
+  - "ACI 318 Building Code Requirements for Structural Concrete (proprietary standard — American Concrete Institute; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Mixes concrete or mortar under supervision; assists journeymen in basic tasks like carrying bricks and setting up forms.  

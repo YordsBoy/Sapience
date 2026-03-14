@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Creates and operates digital-twin models that synchronise real-time sensor data with BIM geometry to support predictive maintenance, lifecycle costing, and sustainability reporting across built assets.
 source_frameworks:
-  - "ISO 19650 series – Information Management with BIM"
-  - "ISO 55000:2024 – Asset-Management Principles"
-  - "Matterport Digital-Twin Asset-Management Guide (2024)"
+  - "ISO 19650 series — Information Management for the Lifecycle of Built Assets (ISO proprietary standard series; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "ISO 55000:2024 Asset Management — Overview, Principles and Terminology (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "Matterport Digital Twin and Asset Management use-case resources (vendor documentation — Matterport; conceptual alignment only — equivalent digital twin and 3-D scanning platform documentation may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes what a digital twin is and how it differs from BIM; recognizes basic data flows (IoT → twin dashboard).

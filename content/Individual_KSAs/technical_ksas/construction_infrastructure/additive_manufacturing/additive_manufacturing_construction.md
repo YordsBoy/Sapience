@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Plans, sets up, and executes on-site or factory-based concrete and composite 3-D-printing operations; calibrates mix design, printing parameters, quality  assurance, and code compliance for structural and non-structural elements.
 source_frameworks:
-  - "ISO/ASTM 52900:2021 – Additive-Manufacturing Terminology"
-  - "ISO/ASTM 52930:2023 – Qualification of AM Processes for Construction"
-  - "ANSI Blog on AM Standards (2023) – overview for civil applications"
+  - "ISO/ASTM 52900:2021 Additive Manufacturing — General Principles — Fundamentals and Vocabulary (ISO/ASTM joint standard; proprietary; conceptual alignment only)"
+  - "ISO/ASTM 52930:2023 Additive Manufacturing for Construction — Qualification of Printing and Processes (ISO/ASTM joint standard; proprietary; conceptual alignment only)"
+  - "ISO/ASTM 52939:2023 Additive Manufacturing for Construction — Quality Assurance (ISO/ASTM joint standard; proprietary; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists major AM processes (extrusion, shotcrete) and material properties (slump flow, set time).

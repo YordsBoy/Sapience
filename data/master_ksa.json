@@ -20129,12 +20129,12 @@
     ],
     "description": "Designs and builds to LEED v4 BD+C credits—energy optimization, water efficiency, material transparency—while aligning with Whole Building Design Guide sustainability principles.\n",
     "source_frameworks": [
-      "USGBC LEED v4 Building Design + Construction"
+      "USGBC LEED v4 BD+C (Building Design and Construction) rating system (proprietary certification system — U.S. Green Building Council; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes basic concepts of sustainable building (solar orientation, insulation, low-VOC materials)."
+        "indicator": "Identifies key sustainable building strategies (e.g., passive solar orientation, insulation levels, low-VOC material selection) and explains their contribution to energy and environmental performance."
       },
       {
         "level": "Basic",
@@ -20166,13 +20166,15 @@
     ],
     "description": "Understands fundamental structural principles (loads, forces, material strength) and can read structural plans to ensure construction projects meet engineering requirements for stability and safety.\n",
     "source_frameworks": [
-      "NCCER Curriculum & O*NET Civil Engineer Tech Competencies",
-      "AISC Steel Manual & Wood Design Standards"
+      "NCCER Core Curriculum and civil/structural trade curricula (nonprofit credentialing organization — National Center for Construction Education and Research; conceptual alignment only)",
+      "O*NET Civil Engineering Technician competency profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)",
+      "AISC Steel Construction Manual (proprietary reference — American Institute of Steel Construction; conceptual alignment only)",
+      "AWC National Design Specification (NDS) for Wood Construction (proprietary standard — American Wood Council; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes common structural elements (beams, columns, foundations) on blueprints and knows they support loads."
+        "indicator": "Identifies common structural elements (beams, columns, foundations, shear walls) on blueprints and explains their primary load-bearing functions."
       },
       {
         "level": "Basic",
@@ -20204,7 +20206,7 @@
     ],
     "description": "Places formwork, reinforcement, and masonry units in compliance with ACI 318 and ASTM C standards, ensuring durability, alignment, and structural integrity.\n",
     "source_frameworks": [
-      "ACI 318 Building Code Requirements for Structural Concrete"
+      "ACI 318 Building Code Requirements for Structural Concrete (proprietary standard — American Concrete Institute; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20241,7 +20243,7 @@
     ],
     "description": "Implements OSHA 29 CFR 1926 Subparts C thru P — including fall protection, trenching, scaffolding, PPE, and hazard communication—to prevent incidents and ensure regulatory compliance.\n",
     "source_frameworks": [
-      "OSHA 29 CFR 1926 construction safety regulations"
+      "OSHA 29 CFR 1926 — Construction Industry Safety and Health Standards (U.S. government regulation — Occupational Safety and Health Administration; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -20278,12 +20280,12 @@
     ],
     "description": "Implements Whole Building Design Guide and GSA Commissioning Guide processes for verification, functional performance testing, and turnover documentation.\n",
     "source_frameworks": [
-      "GSA Building Commissioning Guide (WBDG)"
+      "GSA Building Commissioning Guide (published via Whole Building Design Guide — U.S. General Services Administration, federal government; public domain)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Maintains RFIs/submittals; observes inspections."
+        "indicator": "Maintains RFI and submittal logs; participates in site inspections and documents observations."
       },
       {
         "level": "Basic",
@@ -20315,7 +20317,7 @@
     ],
     "description": "Implements ISO 55000-aligned systems for inspection, preventive and predictive maintenance, and risk-based asset-lifecycle planning across generation, grid, and storage assets.  See also `battery_energy_storage_operations` for BESS-specific routines.\n",
     "source_frameworks": [
-      "ISO 55000 asset-management standard"
+      "ISO 55000:2024 Asset Management — Overview, Principles and Terminology (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -20352,7 +20354,7 @@
     ],
     "description": "Plans lay-down areas, crane picks, hoisting, and just-in-time deliveries to optimize site flow and minimise congestion in dense urban projects.\n",
     "source_frameworks": [
-      "Whole Building Design Guide—Construction Site Logistics best practice"
+      "Whole Building Design Guide (WBDG) — Construction Site Logistics best practices (U.S. government-funded web portal — National Institute of Building Sciences, with federal agency content; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -20389,7 +20391,7 @@
     ],
     "description": "Develops critical-path schedules, earned-value baselines, and look-ahead plans per PMI Construction Extension to the PMBOK Guide.\n",
     "source_frameworks": [
-      "PMI Construction Extension to PMBOK"
+      "PMI Construction Extension to the PMBOK Guide (commercial professional association — Project Management Institute; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20426,13 +20428,13 @@
     ],
     "description": "Plans, fabricates, transports, and installs volumetric or panelised modules, coordinating factory QA, logistics, and on-site assembly per Modular Building Institute best practices.  See also `site_logistics_material_handling`.\n",
     "source_frameworks": [
-      "Modular Building Institute best-practice guides",
-      "McKinsey (2025) Modular Construction Report"
+      "Modular Building Institute best-practice guides and industry standards (commercial trade association — Modular Building Institute; conceptual alignment only)",
+      "McKinsey & Company modular construction research and industry reports (commercial management consulting firm; conceptual alignment only — equivalent industry research may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies volumetric vs. panelised modules; follows factory quality‑assurance (QA) checklists."
+        "indicator": "Identifies volumetric vs. panelised modules; follows factory quality-assurance (QA) checklists."
       },
       {
         "level": "Basic",
@@ -20440,11 +20442,11 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Integrates modular design into project charter; applies lean takt‑time planning; tracks on‑site assembly metrics."
+        "indicator": "Integrates modular design into project charter; applies lean takt-time planning; tracks on-site assembly metrics."
       },
       {
         "level": "Advanced",
-        "indicator": "Leads integrated project delivery (IPD) contracts; manages multi‑trade modular fabrication; conducts life‑cycle cost analysis."
+        "indicator": "Leads integrated project delivery (IPD) contracts; manages multi-trade modular fabrication; conducts life-cycle cost analysis."
       },
       {
         "level": "Expert",
@@ -20464,7 +20466,7 @@
     ],
     "description": "Applies Lean Construction Institute (LCI) tenets—value definition, pull planning, Last Planner System, and waste elimination—to maximise flow and stakeholder value.\n",
     "source_frameworks": [
-      "Lean Construction Institute 6 Tenets framework"
+      "Lean Construction Institute 6 Tenets and Last Planner System methodology (nonprofit organization — Lean Construction Institute; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20501,7 +20503,7 @@
     ],
     "description": "Administers construction contracts under AIA A201 general conditions, tracks change orders, claims, and statutory requirements (lien, certified payroll).\n",
     "source_frameworks": [
-      "AIA Document A201 – General Conditions of the Contract for Construction"
+      "AIA Document A201 — General Conditions of the Contract for Construction (copyrighted document — American Institute of Architects; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -20538,7 +20540,7 @@
     ],
     "description": "Designs and commissions residential automation systems using KNX, Matter, or similar protocols, integrating lighting, HVAC, security, and energy management devices.  See also `hvac_system_fundamentals_troubleshooting`.\n",
     "source_frameworks": [
-      "KNX Certified Professional training framework"
+      "KNX Standard (EN 50090 / ISO/IEC 14543-3) and KNX Association certification framework (international open standard — KNX Association; conceptual alignment only — equivalent smart-home and building-automation protocol frameworks such as Matter, Zigbee, or Z-Wave may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -20547,7 +20549,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Programs scenes in ETS software; sets IP addressing."
+        "indicator": "Programs scenes in KNX engineering software (e.g., ETS or equivalent); configures device IP addressing."
       },
       {
         "level": "Intermediate",
@@ -20575,12 +20577,12 @@
     ],
     "description": "Designs fire-alarm, mass-notification, and smoke-control systems in accordance with NFPA 72, coordinating detection zones, power supplies, and supervision circuits.\n",
     "source_frameworks": [
-      "NFPA 72 National Fire Alarm and Signaling Code"
+      "NFPA 72 National Fire Alarm and Signaling Code (proprietary standard — National Fire Protection Association; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: NFPA 72 is a copyrighted private-organization standard; it is not public domain despite regulatory adoption.)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Locates detector symbols on drawings; understands initiation devices."
+        "indicator": "Locates detector and notification-appliance symbols on fire-alarm drawings; identifies the types and functions of initiation devices (smoke, heat, manual pull)."
       },
       {
         "level": "Basic",
@@ -20612,7 +20614,7 @@
     ],
     "description": "Measures, cuts, threads, welds, and assembles pipe systems following ASME B31.3 process piping requirements, ensuring proper supports, expansion loops, and pressure tests.\n",
     "source_frameworks": [
-      "ASME B31.3 Process Piping Code"
+      "ASME B31.3 Process Piping Code (proprietary standard — American Society of Mechanical Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20625,7 +20627,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Uses precision instruments to ensure proper slope and alignment; performs GTAW/SMAW welds; hydrostatic testing.."
+        "indicator": "Uses precision instruments to ensure proper slope and alignment; performs GTAW/SMAW welds; executes hydrostatic pressure tests."
       },
       {
         "level": "Advanced",
@@ -20649,7 +20651,7 @@
     ],
     "description": "Applies ASHRAE Handbook principles to size, commission, and troubleshoot HVAC equipment, including refrigeration cycle diagnostics, airflow balancing, and thermal-system optimization.\n",
     "source_frameworks": [
-      "ASHRAE Handbook—HVAC Applications & Refrigeration"
+      "ASHRAE Handbook — HVAC Applications and ASHRAE Handbook — Refrigeration (proprietary reference — American Society of Heating, Refrigerating and Air-Conditioning Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20686,7 +20688,7 @@
     ],
     "description": "Installs branch circuits, raceways, and service equipment in accordance with the National Electrical Code (NFPA 70), performing load calculations, conduit sizing, and inspections.  See also `building_information_modeling` for model coordination.\n",
     "source_frameworks": [
-      "NFPA 70 National Electrical Code (NEC)"
+      "NFPA 70 National Electrical Code (NEC) (proprietary standard — National Fire Protection Association; conceptual alignment only — CaliberPath does not assert reproduction rights. Note: NFPA 70 is a copyrighted private-organization standard; it is not public domain despite its regulatory adoption by jurisdictions.)"
     ],
     "proficiency_levels": [
       {
@@ -20712,46 +20714,6 @@
     ]
   },
   {
-    "ksa_id": "heavy_equipment_maintenance",
-    "label": "Heavy Equipment Maintenance",
-    "category": "Technical",
-    "sector": "construction_infrastructure",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Equipment",
-      "Maintenance",
-      "Reliability"
-    ],
-    "description": "Performs preventive, predictive, and corrective maintenance on heavy construction machinery—excavators, cranes, bulldozers, loaders—ensuring safe operation, maximum availability, and compliance with manufacturer specifications and ISO 55000 asset-management principles.  See also `asset_integrity_management` for organization-wide maintenance governance.\n",
-    "source_frameworks": [
-      "ISO 55000 Asset-Management framework",
-      "OEM heavy-equipment service manuals (e.g., Caterpillar, Komatsu)",
-      "NCCER Heavy Equipment Maintenance curriculum"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Identifies lubrication points and daily inspection items; follows lock-out/tag-out during basic servicing."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Performs routine services (fluid changes, filter replacement); documents work orders and parts usage."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Diagnoses common faults (hydraulic leaks, sensor alerts); utilizes telematics data to schedule repairs; conducts torque checks."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Implements predictive-maintenance tools (vibration, thermography); analyses downtime trends; coordinates warranty/recall work with OEMs."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Designs fleet-wide maintenance programs aligned with ISO 55000; mentors technicians; optimizes lifecycle cost through overhaul vs. replacement strategies."
-      }
-    ]
-  },
-  {
     "ksa_id": "heavy_equipment_operation",
     "label": "Heavy Equipment Operation",
     "category": "Technical",
@@ -20764,8 +20726,8 @@
     ],
     "description": "Operates heavy construction machinery (e.g. excavators, bulldozers, cranes) safely and efficiently for earthmoving, material handling, and site operations.",
     "source_frameworks": [
-      "Occupational Safety and Health Administration (OSHA) Subpart N – Cranes & Derricks",
-      "National Center for Construction Education & Research (NCCER) Heavy Equipment Curriculum"
+      "OSHA 29 CFR 1926 Subpart N — Cranes, Derricks, Hoists, Elevators, and Conveyors (U.S. government regulation — Occupational Safety and Health Administration; public domain)",
+      "NCCER Heavy Equipment Operation curriculum (nonprofit credentialing organization — National Center for Construction Education and Research; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20791,6 +20753,46 @@
     ]
   },
   {
+    "ksa_id": "heavy_equipment_maintenance",
+    "label": "Heavy Equipment Maintenance",
+    "category": "Technical",
+    "sector": "construction_infrastructure",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Equipment",
+      "Maintenance",
+      "Reliability"
+    ],
+    "description": "Performs preventive, predictive, and corrective maintenance on heavy construction machinery—excavators, cranes, bulldozers, loaders—ensuring safe operation, maximum availability, and compliance with manufacturer specifications and ISO 55000 asset-management principles.  See also `asset_integrity_management` for organization-wide maintenance governance.\n",
+    "source_frameworks": [
+      "ISO 55000:2024 Asset Management — Overview, Principles and Terminology (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "OEM heavy-equipment service manuals (vendor documentation — e.g., Caterpillar, Komatsu, Volvo CE, and equivalent manufacturers; conceptual alignment only — any manufacturer's service documentation may demonstrate competency)",
+      "NCCER Heavy Equipment Maintenance curriculum (nonprofit credentialing organization — National Center for Construction Education and Research; conceptual alignment only)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies lubrication points and daily inspection items; follows lock-out/tag-out during basic servicing."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Performs routine services (fluid changes, filter replacement); documents work orders and parts usage."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Diagnoses common faults (hydraulic leaks, sensor alerts); utilizes telematics data to schedule repairs; conducts torque checks."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Implements predictive-maintenance tools (vibration, thermography); analyses downtime trends; coordinates warranty/recall work with OEMs."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs fleet-wide maintenance programs aligned with ISO 55000; mentors technicians; optimizes lifecycle cost through overhaul vs. replacement strategies."
+      }
+    ]
+  },
+  {
     "ksa_id": "digital_twin_operations_built_assets",
     "label": "Digital Twin Operations for Built Assets",
     "category": "Technical",
@@ -20802,7 +20804,7 @@
     ],
     "description": "Creates and maintains operational digital twins post-handover, linking BIM, IoT sensors, and asset-management systems per ISO 23247 to enable predictive maintenance and performance optimization.  See also `asset_integrity_management`.\n",
     "source_frameworks": [
-      "ISO 23247 Digital-Twin Framework"
+      "ISO 23247 series — Digital Twin Framework for Manufacturing (ISO proprietary standard; conceptual alignment only — note: ISO 23247 addresses manufacturing digital twins; application to built-asset operations is analogical rather than direct)"
     ],
     "proficiency_levels": [
       {
@@ -20839,9 +20841,9 @@
     ],
     "description": "Creates and operates digital-twin models that synchronise real-time sensor data with BIM geometry to support predictive maintenance, lifecycle costing, and sustainability reporting across built assets.\n",
     "source_frameworks": [
-      "ISO 19650 series – Information Management with BIM",
-      "ISO 55000:2024 – Asset-Management Principles",
-      "Matterport Digital-Twin Asset-Management Guide (2024)"
+      "ISO 19650 series — Information Management for the Lifecycle of Built Assets (ISO proprietary standard series; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "ISO 55000:2024 Asset Management — Overview, Principles and Terminology (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "Matterport Digital Twin and Asset Management use-case resources (vendor documentation — Matterport; conceptual alignment only — equivalent digital twin and 3-D scanning platform documentation may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -20878,13 +20880,13 @@
     ],
     "description": "Applies ISO 19650 information-management processes—CDE, container numbering, information exchange—to create, coordinate, and deliver federated 3-D/4-D models through design, construction, and hand-over.\n",
     "source_frameworks": [
-      "ISO 19650 series for BIM information management",
-      "US National BIM Standard–United States (NBIMS-US)"
+      "ISO 19650 series — Organization and Digitization of Information About Buildings and Civil Engineering Works, Including Building Information Modelling (ISO proprietary standard series; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "National BIM Standard — United States (NBIMS-US) (nonprofit standard — buildingSMART Alliance / National Institute of Building Sciences; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands what BIM is and can navigate 3D models to view basic building elements."
+        "indicator": "Describes what BIM is and navigates 3-D model environments to locate and query basic building elements."
       },
       {
         "level": "Basic",
@@ -20916,7 +20918,8 @@
     ],
     "description": "Reads and interprets architectural, structural, MEP, and civil drawings, including symbols, scale, section cuts, and coordinate grids, to guide field layout and quality checks.\n",
     "source_frameworks": [
-      "CSI MasterFormat & ANSI Y14.1 drawing conventions"
+      "CSI MasterFormat document classification system (proprietary standard — Construction Specifications Institute; conceptual alignment only)",
+      "ANSI Y14.1 Drawing Sheet Size and Format (proprietary standard — American National Standards Institute / American Society of Mechanical Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20953,7 +20956,7 @@
     ],
     "description": "Designs stormwater and subsurface drainage following ASCE 12/13/14 standards, calculating flow, pipe sizing, and infiltration to prevent erosion and flooding.  Cross-reference `green_building_practices` for low-impact development credits.\n",
     "source_frameworks": [
-      "ASCE 12-05 / 13-05 / 14-05 Subsurface-Drainage Standards"
+      "ASCE 12-05 / ASCE 13-05 / ASCE 14-05 Subsurface Drainage Standard series (proprietary standard — American Society of Civil Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -20966,7 +20969,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Uses SWMM or HydroCAD models; designs detention basins."
+        "indicator": "Uses stormwater modelling software (e.g., EPA SWMM, HydroCAD, or equivalent); designs detention basins."
       },
       {
         "level": "Advanced",
@@ -20990,9 +20993,9 @@
     ],
     "description": "Plans, sets up, and executes on-site or factory-based concrete and composite 3-D-printing operations; calibrates mix design, printing parameters, quality  assurance, and code compliance for structural and non-structural elements.\n",
     "source_frameworks": [
-      "ISO/ASTM 52900:2021 – Additive-Manufacturing Terminology",
-      "ISO/ASTM 52930:2023 – Qualification of AM Processes for Construction",
-      "ANSI Blog on AM Standards (2023) – overview for civil applications"
+      "ISO/ASTM 52900:2021 Additive Manufacturing — General Principles — Fundamentals and Vocabulary (ISO/ASTM joint standard; proprietary; conceptual alignment only)",
+      "ISO/ASTM 52930:2023 Additive Manufacturing for Construction — Qualification of Printing and Processes (ISO/ASTM joint standard; proprietary; conceptual alignment only)",
+      "ISO/ASTM 52939:2023 Additive Manufacturing for Construction — Quality Assurance (ISO/ASTM joint standard; proprietary; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {

@@ -11,7 +11,7 @@ description: >
   Plans lay-down areas, crane picks, hoisting, and just-in-time deliveries to
   optimize site flow and minimise congestion in dense urban projects.
 source_frameworks:
-  - "Whole Building Design Guide—Construction Site Logistics best practice"
+  - "Whole Building Design Guide (WBDG) — Construction Site Logistics best practices (U.S. government-funded web portal — National Institute of Building Sciences, with federal agency content; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads logistics plans; follows traffic paths.

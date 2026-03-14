@@ -12,7 +12,7 @@ description: >
   equipment, including refrigeration cycle diagnostics, airflow balancing, and
   thermal-system optimization.
 source_frameworks:
-  - "ASHRAE Handbook—HVAC Applications & Refrigeration"
+  - "ASHRAE Handbook — HVAC Applications and ASHRAE Handbook — Refrigeration (proprietary reference — American Society of Heating, Refrigerating and Air-Conditioning Engineers; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies refrigeration components; reads gauges.
