@@ -11,12 +11,12 @@ description: >
   Develops compelling grant proposals and fundraising campaigns to secure funding for non-profit initiatives;  
   researches grant opportunities, aligns proposals with donor goals and requirements, builds relationships with donors, and uses fundraising data (donor databases, CRM) to guide strategy and reporting.  
 source_frameworks:  
-  - "CFRE International Competencies"  
+  - "CFRE International Competency-Based Job Analysis (commercial certification body — Certified Fund Raising Executive International; publicly available)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Defines pipeline stages; logs opportunity ID.
+    indicator: Identifies funder priorities and eligibility criteria; reads grant guidelines; recognizes the difference between restricted and unrestricted funding opportunities.
   - level: Basic  
-    indicator: Scores fit; develops capture calendar; assigns writers. 
+    indicator: Aligns project objectives to funder priorities; drafts need statements and program narratives; prepares basic line-item budgets following funder guidelines.
   - level: Intermediate  
     indicator: Orchestrates small fundraising events or online campaigns; uses a donor database/CRM to track interactions and giving history; tracks win rate; analyses average ask; updates decision tree.
   - level: Advanced  

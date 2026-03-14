@@ -9,9 +9,9 @@ cluster_tags:
   - "Campaign"
 description: Plans and executes advocacy campaigns to shift public policy or opinion, leveraging evidence, storytelling, and coalition power.
 source_frameworks:
-  - "Blueprint for Advocacy Evaluation"
-  - "Action Network How-To"
-  - "icnl:AdvocacyToolkit"
+  - "Blueprint for Advocacy Evaluation (nonprofit evaluation resource — ORS Impact / Monitor Institute; conceptual alignment only)"
+  - "Action Network platform documentation and organizing guides (vendor/advocacy platform documentation; conceptual alignment only — equivalent organizing platform guides may demonstrate competency)"
+  - "International Center for Not-for-Profit Law (ICNL) Advocacy Toolkit (international nonprofit law organization; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Maps stakeholders; collects baseline policy data; states policy ask.

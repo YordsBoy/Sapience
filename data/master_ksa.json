@@ -6434,9 +6434,9 @@
     ],
     "description": "Sourcing, onboarding, supervising, and recognizing volunteers to maximise mission impact and retention, following Council for Certification in Volunteer Administration (CCVA) competencies.",
     "source_frameworks": [
-      "Points of Light Service Enterprise",
-      "VolunteerPro Screening Checklist",
-      "CCVA Volunteer Administration Competency Framework"
+      "Points of Light Service Enterprise program standards (nonprofit organization; conceptual alignment only)",
+      "VolunteerPro volunteer screening and management resources (vendor documentation — VolunteerPro commercial platform; conceptual alignment only — equivalent volunteer management platform screening resources may demonstrate competency)",
+      "CCVA Volunteer Administration Competency Framework (professional certification body — Council for Certification in Volunteer Administration; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -6457,7 +6457,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads large volunteer corps; directs enterprise volunteer strategies; secures corporate volunteer partnerships; publishes volunteer‑management research."
+        "indicator": "Leads large volunteer corps; directs enterprise volunteer strategies; secures corporate volunteer partnerships; publishes volunteer-management research."
       }
     ]
   },
@@ -6473,8 +6473,8 @@
     ],
     "description": "Assigns tasks, supervises performance, and recognizes volunteers using VMS, Slack, and micro-learning modules.\n",
     "source_frameworks": [
-      "Volunteer Canada Coordination Guide",
-      "Humentum Project Vol App"
+      "Volunteer Canada coordination and best-practice resources (nonprofit organization; conceptual alignment only)",
+      "Humentum volunteer program management resources (nonprofit capacity-building organization; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -6511,8 +6511,8 @@
     ],
     "description": "Designs inclusive volunteer recruitment, onboarding, and retention strategies following Race Equity and Inclusion (REI) Action Guide and UN Volunteer diversity standards.\n",
     "source_frameworks": [
-      "REI Action Guide (Annie E. Casey Foundation)",
-      "UNV Volunteer Diversity Guidelines"
+      "Race Equity and Inclusion (REI) Action Guide — Annie E. Casey Foundation (private foundation publication; publicly available)",
+      "United Nations Volunteers (UNV) Diversity and Inclusion guidelines (intergovernmental organization — United Nations; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -6549,10 +6549,9 @@
     ],
     "description": "Applying Project Management Institute (PMI) methodologies and adaptive approaches to design, execute, and monitor nonprofit initiatives, aligning scope, budget, timeline, and impact metrics within a Program Management Office (PMO) structure.",
     "source_frameworks": [
-      "PM4NGOs Project DPro Guide",
-      "PMI Portfolio Management Standard",
-      "PMI PMD Pro Guide",
-      "PMI Standard for Program Management 4th Ed."
+      "PM4NGOs / Humentum Project DPro (PMD Pro) Guide (nonprofit capacity-building organization — Humentum; publicly available)",
+      "PMI Standard for Portfolio Management (commercial professional association — Project Management Institute; conceptual alignment only)",
+      "PMI Standard for Program Management 4th Edition (commercial professional association — Project Management Institute; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -6565,15 +6564,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements adaptive iteration cycles; aligns key performance indicators (KPIs) to donor agreements; manages resource matrix; facilitates lessons‑learned reviews."
+        "indicator": "Implements adaptive iteration cycles; aligns key performance indicators (KPIs) to donor agreements; manages resource matrix; facilitates lessons-learned reviews."
       },
       {
         "level": "Advanced",
-        "indicator": "Establishes PMO governance; integrates agile and results‑based management (RBM); optimizes resource allocation across programs; optimizes portfolio alignment; automates dashboards."
+        "indicator": "Establishes PMO governance; integrates agile and results-based management (RBM); optimizes resource allocation across programs; optimizes portfolio alignment; automates dashboards."
       },
       {
         "level": "Expert",
-        "indicator": "Directs multi‑country program portfolios; shapes sector PM standards; publishes nonprofit PM research."
+        "indicator": "Directs multi-country program portfolios; shapes sector PM standards; publishes nonprofit PM research."
       }
     ]
   },
@@ -6589,14 +6588,14 @@
     ],
     "description": "Designs and implements monitoring and evaluation frameworks to assess the effectiveness and impact of non-profit programs; defines KPIs/metrics, collects data (surveys, interviews, observations), analyzes outcomes against objectives, and produces reports for stakeholders and continuous improvement.  \n",
     "source_frameworks": [
-      "MEASURE Evaluation DQA Toolkit",
-      "DHIS2 Implementation Guide",
-      "UN Project M&E Guidelines"
+      "MEASURE Evaluation Data Quality Assurance (DQA) Toolkit (U.S. government-funded evaluation program — USAID/UNC Chapel Hill; publicly available)",
+      "DHIS2 Implementation Guide (open-source health information platform — University of Oslo / HISP; open access; publicly available)",
+      "UN Project Management and M&E Guidelines (intergovernmental organization — United Nations; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands that projects need to be evaluated; knows basic terms like \"outcome\", \"indicator\", \"baseline\"; defines indicator metadata; schedules data collection."
+        "indicator": "Defines core M&E terminology (outcome, indicator, baseline); describes why project evaluation is necessary; defines indicator metadata; schedules data collection."
       },
       {
         "level": "Basic",
@@ -6628,10 +6627,10 @@
     ],
     "description": "Translates community needs and strategic mandates into evidence-based program blueprints with clear outputs, outcomes, and impact indicators.",
     "source_frameworks": [
-      "IDEO Design Kit for Social Impact",
-      "PDIA Field Guide (Harvard CID)",
-      "pmdpro:2",
-      "usaid:TOC"
+      "IDEO Design Kit for Social Impact (commercial design consultancy resource — IDEO.org; conceptual alignment only — equivalent human-centered design toolkits may demonstrate competency)",
+      "Problem Driven Iterative Adaptation (PDIA) Field Guide — Harvard Center for International Development (academic institution publication; publicly available)",
+      "PM4NGOs / Humentum Project DPro (PMD Pro) Guide v2 (nonprofit capacity-building organization — Humentum; publicly available)",
+      "USAID Theory of Change resources and program-design guidance (U.S. government publication — U.S. Agency for International Development; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -6668,9 +6667,9 @@
     ],
     "description": "Designs MEL frameworks, collects reliable data, and drives adaptive management to maximize program effectiveness.",
     "source_frameworks": [
-      "PMD Pro Guide",
-      "USAID CLA Framework",
-      "usaid:MELToolkit"
+      "PM4NGOs / Humentum Project DPro (PMD Pro) Guide (nonprofit capacity-building organization — Humentum; publicly available)",
+      "USAID Collaborating, Learning, and Adapting (CLA) Framework (U.S. government publication — U.S. Agency for International Development; public domain)",
+      "USAID Monitoring, Evaluation, and Learning (MEL) Toolkit resources (U.S. government publication — U.S. Agency for International Development; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -6707,9 +6706,9 @@
     ],
     "description": "Synthesizes quantitative and qualitative results into compelling reports and multimedia stories that demonstrate mission impact to donors, beneficiaries, and regulators.",
     "source_frameworks": [
-      "GRI Nonprofit Impact Disclosures",
-      "Storytelling with Data Toolkit",
-      "socialvalue:intl"
+      "GRI Standards — Sector-agnostic sustainability reporting framework (nonprofit standard-setting organization — Global Reporting Initiative; publicly available; conceptual alignment only)",
+      "Data visualization and storytelling guidance resources (e.g., Storytelling with Data resources by Cole Nussbaumer Knaflic; commercial practitioner resources; conceptual alignment only)",
+      "Social Value International impact reporting principles (international nonprofit network; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -6736,7 +6735,7 @@
   },
   {
     "ksa_id": "impact_measurement_theory_of_change",
-    "label": "Impact Measurement & Theory‑of‑Change Design",
+    "label": "Impact Measurement & Theory-of-Change Design",
     "category": "Technical",
     "sector": "nonprofit_ngos",
     "horizon": "core",
@@ -6744,24 +6743,24 @@
       "Impact",
       "M&E"
     ],
-    "description": "Developing theories of change, indicators, and data‑collection plans to measure social impact, applying OECD Development Assistance Committee (DAC) evaluation criteria and Social Return on Investment (SROI) frameworks.",
+    "description": "Developing theories of change, indicators, and data-collection plans to measure social impact, applying OECD Development Assistance Committee (DAC) evaluation criteria and Social Return on Investment (SROI) frameworks.",
     "source_frameworks": [
-      "OECD-DAC Evaluation Criteria",
-      "IATI Vocabularies for Results",
-      "SROI Guide by Social Value UK"
+      "OECD-DAC Criteria for Evaluating Development Assistance (intergovernmental publication — OECD Development Assistance Committee; publicly available)",
+      "IATI Results Vocabularies and Reporting Standard (international nonprofit standard — International Aid Transparency Initiative; publicly available)",
+      "A Guide to Social Return on Investment (SROI) by Social Value UK (nonprofit organization; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Draws basic inputs‑outputs‑outcomes chain; lists quantitative vs. qualitative indicators; records participant feedback; draws logic model."
+        "indicator": "Draws basic inputs-outputs-outcomes chain; lists quantitative vs. qualitative indicators; records participant feedback; draws logic model."
       },
       {
         "level": "Basic",
-        "indicator": "Drafts theory‑of‑change diagrams; articulates assumptions; designs indicator matrices; collects baseline data."
+        "indicator": "Drafts theory-of-change diagrams; articulates assumptions; designs indicator matrices; collects baseline data."
       },
       {
         "level": "Intermediate",
-        "indicator": "Applies mixed‑methods evaluation; sets targets; calculates outcome‑level change; visualises impact dashboards."
+        "indicator": "Applies mixed-methods evaluation; sets targets; calculates outcome-level change; visualises impact dashboards."
       },
       {
         "level": "Advanced",
@@ -6769,7 +6768,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads organization‑wide impact frameworks; influences sector impact‑measurement standards; publishes peer‑reviewed evaluations."
+        "indicator": "Leads organization-wide impact frameworks; influences sector impact-measurement standards; publishes peer-reviewed evaluations."
       }
     ]
   },
@@ -6785,8 +6784,8 @@
     ],
     "description": "Launches earned-income ventures—training services, fair-trade goods—using Social Enterprise Alliance (SEA) business-model canvas and Internal Revenue Service (IRS) Unrelated Business Income (UBI) rules.\n",
     "source_frameworks": [
-      "SEA Business Model Toolkit",
-      "IRS Form 990 UBI Guidance"
+      "Social Enterprise Alliance (SEA) Business Model Toolkit and resources (nonprofit professional association; conceptual alignment only)",
+      "IRS Form 990 Schedule A and Unrelated Business Income (UBI) guidance (U.S. government — Internal Revenue Service; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -6823,8 +6822,8 @@
     ],
     "description": "Identifies, negotiates, and manages partnerships with government, private sector, and civil society to amplify mission impact.",
     "source_frameworks": [
-      "Stanford Collective Impact Model",
-      "UN SDG Partnership Platform"
+      "Stanford Social Innovation Review Collective Impact framework (academic/nonprofit publication — Stanford University; publicly available)",
+      "UN SDG Partnership Platform (intergovernmental organization — United Nations; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -6837,7 +6836,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Coordinates joint work-plans; monitors deliverables; establishes backbone org; manages data-sharing; secures co-funding.."
+        "indicator": "Coordinates joint work-plans; monitors deliverables; establishes backbone organization; manages data-sharing; secures co-funding."
       },
       {
         "level": "Advanced",
@@ -6861,9 +6860,9 @@
     ],
     "description": "Plans and executes advocacy campaigns to shift public policy or opinion, leveraging evidence, storytelling, and coalition power.",
     "source_frameworks": [
-      "Blueprint for Advocacy Evaluation",
-      "Action Network How-To",
-      "icnl:AdvocacyToolkit"
+      "Blueprint for Advocacy Evaluation (nonprofit evaluation resource — ORS Impact / Monitor Institute; conceptual alignment only)",
+      "Action Network platform documentation and organizing guides (vendor/advocacy platform documentation; conceptual alignment only — equivalent organizing platform guides may demonstrate competency)",
+      "International Center for Not-for-Profit Law (ICNL) Advocacy Toolkit (international nonprofit law organization; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -6900,8 +6899,8 @@
     ],
     "description": "Implements safeguarding policy and risk registers in line with the Sphere Handbook Protection Principles and ISO 31000 risk guidelines, preventing exploitation, abuse, fraud, and corruption.\n",
     "source_frameworks": [
-      "Sphere Handbook Protection Principles",
-      "ISO 31000:2018 Risk Management"
+      "Sphere Handbook Protection Principles (international humanitarian consortium — Sphere Association; publicly available)",
+      "ISO 31000:2018 Risk Management Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -6938,9 +6937,9 @@
     ],
     "description": "Ensures effective board governance, adherence to bylaws, and timely regulatory filings to maintain public trust and legal standing.",
     "source_frameworks": [
-      "IRS Charities & Non-Profits Governance Checklist",
-      "Independent Sector Principles for Good Governance",
-      "boardSource:Governance"
+      "IRS Charities and Non-Profits governance and compliance resources (U.S. government — Internal Revenue Service; public domain)",
+      "Independent Sector Principles for Good Governance and Ethical Practice (nonprofit coalition; publicly available)",
+      "BoardSource governance resources and frameworks (nonprofit organization; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -6977,10 +6976,10 @@
     ],
     "description": "Applies fund-accounting rules, manages restricted grants, and ensures compliance with donor and regulatory requirements.",
     "source_frameworks": [
-      "FASB ASC 958 & ASU 2016-14",
-      "Charity Finance Group Internal Controls",
-      "gaap:Nonprofit",
-      "ifrs:IAS20"
+      "FASB ASC 958 (Not-for-Profit Entities) and ASU 2016-14 presentation update (U.S. nonprofit standard-setting body — Financial Accounting Standards Board; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "Charity Finance Group Internal Controls guidance (UK nonprofit professional organization; conceptual alignment only)",
+      "U.S. GAAP nonprofit accounting standards (U.S. nonprofit standard-setting body — FASB; conceptual alignment only)",
+      "IAS 20 Accounting for Government Grants and Disclosure of Government Assistance (IASB/IFRS Foundation; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -7017,8 +7016,8 @@
     ],
     "description": "Establishes donor-data governance aligned with GDPR, California Consumer Privacy Act (CCPA), and HIPAA where applicable, using ISO 27701 privacy controls.\n",
     "source_frameworks": [
-      "ISO/IEC 27701 Privacy Information Management",
-      "GDPR Compliance Guide for Non-profits"
+      "ISO/IEC 27701:2019 Privacy Information Management Systems (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "GDPR compliance guidance for nonprofit organizations (EU regulatory instrument — GDPR 2016/679; publicly available — sector-specific implementation guides published by nonprofit umbrella bodies such as NCVO or TechSoup are conceptually equivalent)"
     ],
     "proficiency_levels": [
       {
@@ -7055,10 +7054,10 @@
     ],
     "description": "Guiding nonprofit boards in fulfilling legal, ethical, and fiduciary responsibilities—duty of care, loyalty, obedience—while setting strategy, overseeing financials, and ensuring mission alignment.",
     "source_frameworks": [
-      "National Council of Nonprofits Board Basics",
-      "Sarbanes-Oxley §1107 Whistle-blower",
-      "BoardSource Ten Basic Responsibilities",
-      "IRS Form 990 Governance Checklist"
+      "National Council of Nonprofits Board Basics and governance resources (nonprofit membership organization; publicly available)",
+      "Sarbanes-Oxley Act Section 1107 whistleblower provisions — applied nonprofit governance best practice (U.S. government statute; public domain — directly applicable to publicly traded companies; nonprofit sector adopts as best practice)",
+      "BoardSource Ten Basic Responsibilities of Nonprofit Boards (nonprofit organization; conceptual alignment only)",
+      "IRS Form 990 governance questions and compliance checklist (U.S. government document — Internal Revenue Service; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -7067,7 +7066,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Participates in committee work; approves budgets; completes conflict‑of‑interest forms."
+        "indicator": "Participates in committee work; approves budgets; completes conflict-of-interest forms."
       },
       {
         "level": "Intermediate",
@@ -7075,11 +7074,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Leads strategic retreat; ensures diversity matrix; implements board self‑assessments; manages risk‑governance matrix; mentors new trustees."
+        "indicator": "Leads strategic retreat; ensures diversity matrix; implements board self-assessments; manages risk-governance matrix; mentors new trustees."
       },
       {
         "level": "Expert",
-        "indicator": "Chairs multi‑board coalitions; leads governance reform initiatives; publishes board‑governance articles; advocates sector policy."
+        "indicator": "Chairs multi-board coalitions; leads governance reform initiatives; publishes board-governance articles; advocates sector policy."
       }
     ]
   },
@@ -7095,16 +7094,16 @@
     ],
     "description": "Develops compelling grant proposals and fundraising campaigns to secure funding for non-profit initiatives;   researches grant opportunities, aligns proposals with donor goals and requirements, builds relationships with donors, and uses fundraising data (donor databases, CRM) to guide strategy and reporting.  \n",
     "source_frameworks": [
-      "CFRE International Competencies"
+      "CFRE International Competency-Based Job Analysis (commercial certification body — Certified Fund Raising Executive International; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines pipeline stages; logs opportunity ID."
+        "indicator": "Identifies funder priorities and eligibility criteria; reads grant guidelines; recognizes the difference between restricted and unrestricted funding opportunities."
       },
       {
         "level": "Basic",
-        "indicator": "Scores fit; develops capture calendar; assigns writers."
+        "indicator": "Aligns project objectives to funder priorities; drafts need statements and program narratives; prepares basic line-item budgets following funder guidelines."
       },
       {
         "level": "Intermediate",
@@ -7132,9 +7131,9 @@
     ],
     "description": "Crafts compelling grant proposals, case statements, and budget justifications that align with funder guidelines and organizational strategy.",
     "source_frameworks": [
-      "Grantsmanship Center Proposal Guide",
-      "Logic Model Builder (W.K. Kellogg)",
-      "candid:ProposalBasics"
+      "Grantsmanship Center Proposal Writing resources (nonprofit training organization; conceptual alignment only)",
+      "W.K. Kellogg Foundation Logic Model Development Guide (private foundation publication; publicly available)",
+      "Candid (GuideStar/Foundation Center) Grant Proposal Basics (nonprofit information organization; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -7161,7 +7160,7 @@
   },
   {
     "ksa_id": "grant_writing_compliance",
-    "label": "Grant‑Writing & Compliance",
+    "label": "Grant-Writing & Compliance",
     "category": "Technical",
     "sector": "nonprofit_ngos",
     "horizon": "core",
@@ -7169,11 +7168,11 @@
       "Grant Compliance",
       "Reporting"
     ],
-    "description": "Researching funding opportunities, crafting compelling grant proposals, and ensuring post‑award financial and programmatic compliance with donor regulations such as Uniform Guidance (2 CFR 200) and EU PRAG.",
+    "description": "Researching funding opportunities, crafting compelling grant proposals, and ensuring post-award financial and programmatic compliance with donor regulations such as Uniform Guidance (2 CFR 200) and EU PRAG.",
     "source_frameworks": [
-      "U.S. Uniform Guidance 2 CFR 200",
-      "USAID ADS 303",
-      "Grants.gov Community Blog"
+      "U.S. Uniform Guidance 2 CFR 200 — Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (U.S. government regulation; public domain)",
+      "USAID Automated Directives System (ADS) Chapter 303 — Grants and Cooperative Agreements (U.S. government publication; public domain)",
+      "Grants.gov resources and applicant guidance (U.S. government platform — HHS/GSA; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -7182,19 +7181,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Aligns project goals to donor priorities; drafts narratives; prepares line‑item budgets; maps budget to SF-424; logs sub-awards; schedules reports."
+        "indicator": "Aligns project goals to donor priorities; drafts narratives; prepares line-item budgets; maps budget to SF-424; logs sub-awards; schedules reports."
       },
       {
         "level": "Intermediate",
-        "indicator": "Coordinates multi‑partner proposals; manages compliance checklists; tracks timekeeping; maintains procurement files; responds to donor audits."
+        "indicator": "Coordinates multi-partner proposals; manages compliance checklists; tracks timekeeping; maintains procurement files; responds to donor audits."
       },
       {
         "level": "Advanced",
-        "indicator": "Negotiates indirect‑cost rates; implements grant management systems; oversees financial reporting; calculates NICRA fringe; closes grants; recovers indirect cost."
+        "indicator": "Negotiates indirect-cost rates; implements grant management systems; oversees financial reporting; calculates NICRA fringe; closes grants; recovers indirect cost."
       },
       {
         "level": "Expert",
-        "indicator": "Directs compliance unit;; leads grant‑acquisition strategy; audits compliance across portfolio; trains grant professionals."
+        "indicator": "Directs compliance unit; leads grant-acquisition strategy; audits compliance across portfolio; trains grant professionals."
       }
     ]
   },
@@ -7210,15 +7209,15 @@
     ],
     "description": "Planning and executing diversified fundraising strategies—annual giving, major gifts, corporate sponsorships—while cultivating donor relationships, acknowledging gifts, and retaining supporters according to Association of Fundraising Professionals (AFP) best practices.",
     "source_frameworks": [
-      "AFP Code of Ethical Standards",
-      "AFP Ethical Fundraising Principles",
-      "Case for Support Framework (CASE)",
-      "CFRE Exam Content Outline"
+      "AFP Code of Ethical Standards (professional membership association — Association of Fundraising Professionals; publicly available)",
+      "AFP Ethical Fundraising Principles (professional membership association — Association of Fundraising Professionals; publicly available)",
+      "CASE Case for Support framework (nonprofit educational association — Council for Advancement and Support of Education; conceptual alignment only)",
+      "CFRE International Exam Content Outline (commercial certification body — Certified Fund Raising Executive International; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains fundraising terminology; follows gift‑acknowledgment timelines; updates donor records; Lists gift pyramid; identifies prospect research sources."
+        "indicator": "Explains fundraising terminology; follows gift-acknowledgment timelines; updates donor records; lists gift pyramid levels; identifies prospect research sources."
       },
       {
         "level": "Basic",
@@ -7226,15 +7225,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Coordinates gift agreements; designs campaign dashboard; designs multi‑channel campaigns; conducts donor‑advised fund outreach; recognizes donors; analyses donor‑lifecycle metrics."
+        "indicator": "Coordinates gift agreements; designs campaign dashboard; designs multi-channel campaigns; conducts donor-advised fund outreach; recognizes donors; analyses donor-lifecycle metrics."
       },
       {
         "level": "Advanced",
-        "indicator": "Leads quiet phase; manages major‑gift pipelines; deploys donor‑relationship‑management (DRM) software; oversees stewardship events."
+        "indicator": "Leads quiet phase; manages major-gift pipelines; deploys donor-relationship-management (DRM) software; oversees stewardship events."
       },
       {
         "level": "Expert",
-        "indicator": "Leads integrated capital campaigns; mentors fundraising teams; publishes donor‑engagement research."
+        "indicator": "Leads integrated capital campaigns; mentors fundraising teams; publishes donor-engagement research."
       }
     ]
   },
@@ -7250,9 +7249,9 @@
     ],
     "description": "Cultivates, stewards, and upgrades donor relationships through personalized engagement, impact reporting, and data-driven segmentation.",
     "source_frameworks": [
-      "Salesforce NPSP Workbook",
-      "AFP Donor Lifecycle Map",
-      "afp:FundraisingPrinciples"
+      "Salesforce Nonprofit Success Pack (NPSP) implementation documentation (vendor documentation — Salesforce; conceptual alignment only — equivalent nonprofit CRM platform documentation may demonstrate competency)",
+      "AFP Donor Lifecycle Map (professional membership association — Association of Fundraising Professionals; publicly available)",
+      "AFP Fundraising Principles and Standards (professional membership association — Association of Fundraising Professionals; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -7289,8 +7288,8 @@
     ],
     "description": "Designs email, social, and peer-to-peer campaigns in Salesforce NPSP or EveryAction, ensuring General Data Protection Regulation (GDPR) consent and CFRE accountability standards.\n",
     "source_frameworks": [
-      "CFRE Accountability Standards",
-      "GDPR Donor-Data Compliance Guide"
+      "CFRE International Accountability Standards (commercial certification body — Certified Fund Raising Executive International; conceptual alignment only)",
+      "GDPR donor-data compliance guidance (EU regulatory instrument; publicly available — nonprofit-specific implementation guides published by organizations such as NCVO and NTEN are conceptually equivalent)"
     ],
     "proficiency_levels": [
       {
@@ -7325,21 +7324,20 @@
       "Digital Campaign",
       "Strategy"
     ],
-    "description": "Planning, executing, and optimizing multi‑channel digital campaigns—email, social media, peer‑to‑peer—to raise awareness, drive advocacy, and convert supporters, using data analytics and A/B testing.",
+    "description": "Planning, executing, and optimizing multi-channel digital campaigns—email, social media, peer-to-peer—to raise awareness, drive advocacy, and convert supporters, using data analytics and A/B testing.",
     "source_frameworks": [
-      "Google Ad Grants Policy Guide",
-      "Google Ad Grants Online Marketing Guide",
-      "Meta Nonprofit Ads Best Practices",
-      "NTEN Digital Strategy Framework"
+      "Google Ad Grants Policy and Online Marketing guides (vendor documentation — Google; conceptual alignment only — equivalent digital advertising platform guidelines may demonstrate competency)",
+      "Meta Nonprofit Ads best-practice resources (vendor documentation — Meta; conceptual alignment only — equivalent social advertising platform guidance may demonstrate competency)",
+      "NTEN Digital Strategy Framework (nonprofit technology membership organization; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines CTR, CPC, ROAS; selects channels; schedules social posts; crafts basic calls to action (CTAs); tracks click‑through rates."
+        "indicator": "Defines CTR, CPC, ROAS; selects channels; schedules social posts; crafts basic calls to action (CTAs); tracks click-through rates."
       },
       {
         "level": "Basic",
-        "indicator": "Segments mailing lists; sets up landing pages; runs A/B tests on subject lines; sets up UTM tracking; launches ad set; measures reach.."
+        "indicator": "Segments mailing lists; sets up landing pages; runs A/B tests on subject lines; sets up UTM tracking; launches ad set; measures reach."
       },
       {
         "level": "Intermediate",
@@ -7347,11 +7345,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates analytics; deploys marketing automation; applies predictive lead‑scoring; aligns digital KPIs with fundraising goals."
+        "indicator": "Integrates analytics; deploys marketing automation; applies predictive lead-scoring; aligns digital KPIs with fundraising goals."
       },
       {
         "level": "Expert",
-        "indicator": "Architects omni‑channel journeys; manages six‑figure ad grants; leads multi-million acquisition program; mentors digital teams; publishes digital‑campaign benchmark studies."
+        "indicator": "Architects omni-channel journeys; manages six-figure ad grants; leads multi-million acquisition program; mentors digital teams; publishes digital-campaign benchmark studies."
       }
     ]
   },

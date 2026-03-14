@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designs inclusive volunteer recruitment, onboarding, and retention strategies following Race Equity and Inclusion (REI) Action Guide and UN Volunteer diversity standards.
 source_frameworks:
-  - "REI Action Guide (Annie E. Casey Foundation)"
-  - "UNV Volunteer Diversity Guidelines"
+  - "Race Equity and Inclusion (REI) Action Guide — Annie E. Casey Foundation (private foundation publication; publicly available)"
+  - "United Nations Volunteers (UNV) Diversity and Inclusion guidelines (intergovernmental organization — United Nations; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines equity vs equality; tracks demographics.

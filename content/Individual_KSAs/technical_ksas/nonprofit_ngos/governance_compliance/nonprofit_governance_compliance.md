@@ -9,9 +9,9 @@ cluster_tags:
   - "Governance"
 description: Ensures effective board governance, adherence to bylaws, and timely regulatory filings to maintain public trust and legal standing.
 source_frameworks:
-  - "IRS Charities & Non-Profits Governance Checklist"
-  - "Independent Sector Principles for Good Governance"
-  - "boardSource:Governance"
+  - "IRS Charities and Non-Profits governance and compliance resources (U.S. government — Internal Revenue Service; public domain)"
+  - "Independent Sector Principles for Good Governance and Ethical Practice (nonprofit coalition; publicly available)"
+  - "BoardSource governance resources and frameworks (nonprofit organization; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Tracks filing deadlines (Form 990, annual returns); lists required policies.

@@ -9,15 +9,15 @@ cluster_tags:
   - "Collaboration"
 description: Identifies, negotiates, and manages partnerships with government, private sector, and civil society to amplify mission impact.
 source_frameworks:
-  - "Stanford Collective Impact Model"
-  - "UN SDG Partnership Platform"
+  - "Stanford Social Innovation Review Collective Impact framework (academic/nonprofit publication — Stanford University; publicly available)"
+  - "UN SDG Partnership Platform (intergovernmental organization — United Nations; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Maps potential partners; gathers basic intel; identifies common goals; drafts MoU outline.
   - level: Basic
     indicator: Convenes partners; defines shared KPI; signs MoU.
   - level: Intermediate
-    indicator: Coordinates joint work-plans; monitors deliverables; establishes backbone org; manages data-sharing; secures co-funding..
+    indicator: Coordinates joint work-plans; monitors deliverables; establishes backbone organization; manages data-sharing; secures co-funding.
   - level: Advanced
     indicator: Manages multi-partner governance structures and shared metrics; publishes joint outcomes; scales regionally.
   - level: Expert

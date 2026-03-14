@@ -10,12 +10,12 @@ cluster_tags:
 description: >  
   Designs and implements monitoring and evaluation frameworks to assess the effectiveness and impact of non-profit programs; defines KPIs/metrics, collects data (surveys, interviews, observations), analyzes outcomes against objectives, and produces reports for stakeholders and continuous improvement.  
 source_frameworks:
-  - "MEASURE Evaluation DQA Toolkit"
-  - "DHIS2 Implementation Guide" 
-  - "UN Project M&E Guidelines"  
+  - "MEASURE Evaluation Data Quality Assurance (DQA) Toolkit (U.S. government-funded evaluation program — USAID/UNC Chapel Hill; publicly available)"
+  - "DHIS2 Implementation Guide (open-source health information platform — University of Oslo / HISP; open access; publicly available)"
+  - "UN Project Management and M&E Guidelines (intergovernmental organization — United Nations; publicly available)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands that projects need to be evaluated; knows basic terms like "outcome", "indicator", "baseline"; defines indicator metadata; schedules data collection.
+    indicator: Defines core M&E terminology (outcome, indicator, baseline); describes why project evaluation is necessary; defines indicator metadata; schedules data collection.
   - level: Basic  
     indicator: Helps in data collection (distributes surveys, enters data); keeps simple records of activities versus plan; configures Kobo form; trains enumerators; uploads data; assists in basic reporting by providing numbers and anecdotes.  
   - level: Intermediate  

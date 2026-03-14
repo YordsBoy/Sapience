@@ -9,9 +9,9 @@ cluster_tags:
   - "Learning"
 description: Designs MEL frameworks, collects reliable data, and drives adaptive management to maximize program effectiveness.
 source_frameworks:
-  - "PMD Pro Guide"
-  - "USAID CLA Framework"
-  - "usaid:MELToolkit"
+  - "PM4NGOs / Humentum Project DPro (PMD Pro) Guide (nonprofit capacity-building organization — Humentum; publicly available)"
+  - "USAID Collaborating, Learning, and Adapting (CLA) Framework (U.S. government publication — U.S. Agency for International Development; public domain)"
+  - "USAID Monitoring, Evaluation, and Learning (MEL) Toolkit resources (U.S. government publication — U.S. Agency for International Development; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists MEL cycle; records indicator values; uses basic data-collection tools and verifies completeness.

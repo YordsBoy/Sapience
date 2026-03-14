@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Launches earned-income ventures—training services, fair-trade goods—using Social Enterprise Alliance (SEA) business-model canvas and Internal Revenue Service (IRS) Unrelated Business Income (UBI) rules.
 source_frameworks:
-  - "SEA Business Model Toolkit"
-  - "IRS Form 990 UBI Guidance"
+  - "Social Enterprise Alliance (SEA) Business Model Toolkit and resources (nonprofit professional association; conceptual alignment only)"
+  - "IRS Form 990 Schedule A and Unrelated Business Income (UBI) guidance (U.S. government — Internal Revenue Service; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Distinguishes mission-related vs unrelated income; lists venture ideas.

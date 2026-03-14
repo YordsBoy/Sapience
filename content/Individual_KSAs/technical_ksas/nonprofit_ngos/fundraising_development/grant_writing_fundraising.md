@@ -9,9 +9,9 @@ cluster_tags:
   - "Fundraising"
 description: Crafts compelling grant proposals, case statements, and budget justifications that align with funder guidelines and organizational strategy.
 source_frameworks:
-  - "Grantsmanship Center Proposal Guide"
-  - "Logic Model Builder (W.K. Kellogg)"
-  - "candid:ProposalBasics"
+  - "Grantsmanship Center Proposal Writing resources (nonprofit training organization; conceptual alignment only)"
+  - "W.K. Kellogg Foundation Logic Model Development Guide (private foundation publication; publicly available)"
+  - "Candid (GuideStar/Foundation Center) Grant Proposal Basics (nonprofit information organization; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads guidelines; identifies funder priorities; follows RFP instructions; assembles attachments.

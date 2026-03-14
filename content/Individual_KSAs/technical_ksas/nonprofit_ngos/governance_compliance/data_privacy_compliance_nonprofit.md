@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Establishes donor-data governance aligned with GDPR, California Consumer Privacy Act (CCPA), and HIPAA where applicable, using ISO 27701 privacy controls.
 source_frameworks:
-  - "ISO/IEC 27701 Privacy Information Management"
-  - "GDPR Compliance Guide for Non-profits"
+  - "ISO/IEC 27701:2019 Privacy Information Management Systems (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "GDPR compliance guidance for nonprofit organizations (EU regulatory instrument — GDPR 2016/679; publicly available — sector-specific implementation guides published by nonprofit umbrella bodies such as NCVO or TechSoup are conceptually equivalent)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises personal vs sensitive data; lists legal bases.

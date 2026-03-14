@@ -9,10 +9,10 @@ cluster_tags:
   - "Impact"
 description: Translates community needs and strategic mandates into evidence-based program blueprints with clear outputs, outcomes, and impact indicators.
 source_frameworks:
-  - "IDEO Design Kit for Social Impact"
-  - "PDIA Field Guide (Harvard CID)"
-  - "pmdpro:2"
-  - "usaid:TOC"
+  - "IDEO Design Kit for Social Impact (commercial design consultancy resource — IDEO.org; conceptual alignment only — equivalent human-centered design toolkits may demonstrate competency)"
+  - "Problem Driven Iterative Adaptation (PDIA) Field Guide — Harvard Center for International Development (academic institution publication; publicly available)"
+  - "PM4NGOs / Humentum Project DPro (PMD Pro) Guide v2 (nonprofit capacity-building organization — Humentum; publicly available)"
+  - "USAID Theory of Change resources and program-design guidance (U.S. government publication — U.S. Agency for International Development; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: States target group; drafts problem statement; drafts simple objectives aligned to mission.

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designs email, social, and peer-to-peer campaigns in Salesforce NPSP or EveryAction, ensuring General Data Protection Regulation (GDPR) consent and CFRE accountability standards.
 source_frameworks:
-  - "CFRE Accountability Standards"
-  - "GDPR Donor-Data Compliance Guide"
+  - "CFRE International Accountability Standards (commercial certification body — Certified Fund Raising Executive International; conceptual alignment only)"
+  - "GDPR donor-data compliance guidance (EU regulatory instrument; publicly available — nonprofit-specific implementation guides published by organizations such as NCVO and NTEN are conceptually equivalent)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains donor journey; identifies opt-in fields.

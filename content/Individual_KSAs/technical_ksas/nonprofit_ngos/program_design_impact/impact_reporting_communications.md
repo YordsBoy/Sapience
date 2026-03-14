@@ -9,9 +9,9 @@ cluster_tags:
   - "Comms"
 description: Synthesizes quantitative and qualitative results into compelling reports and multimedia stories that demonstrate mission impact to donors, beneficiaries, and regulators.
 source_frameworks:
-  - "GRI Nonprofit Impact Disclosures"
-  - "Storytelling with Data Toolkit"
-  - "socialvalue:intl"
+  - "GRI Standards — Sector-agnostic sustainability reporting framework (nonprofit standard-setting organization — Global Reporting Initiative; publicly available; conceptual alignment only)"
+  - "Data visualization and storytelling guidance resources (e.g., Storytelling with Data resources by Cole Nussbaumer Knaflic; commercial practitioner resources; conceptual alignment only)"
+  - "Social Value International impact reporting principles (international nonprofit network; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists key audiences; selects visuals vs stories; collects output data and beneficiary quotes.

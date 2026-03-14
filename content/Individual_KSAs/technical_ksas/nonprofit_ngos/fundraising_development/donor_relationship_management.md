@@ -9,9 +9,9 @@ cluster_tags:
   - "CRM"
 description: Cultivates, stewards, and upgrades donor relationships through personalized engagement, impact reporting, and data-driven segmentation.
 source_frameworks:
-  - "Salesforce NPSP Workbook"
-  - "AFP Donor Lifecycle Map"
-  - "afp:FundraisingPrinciples"
+  - "Salesforce Nonprofit Success Pack (NPSP) implementation documentation (vendor documentation — Salesforce; conceptual alignment only — equivalent nonprofit CRM platform documentation may demonstrate competency)"
+  - "AFP Donor Lifecycle Map (professional membership association — Association of Fundraising Professionals; publicly available)"
+  - "AFP Fundraising Principles and Standards (professional membership association — Association of Fundraising Professionals; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines LYBUNT, SYBUNT; captures gift data; sends acknowledgment letters within required timelines.

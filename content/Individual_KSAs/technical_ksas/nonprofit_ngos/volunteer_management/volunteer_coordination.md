@@ -11,8 +11,8 @@ description: >
   Assigns tasks, supervises performance, and recognizes volunteers using VMS,
   Slack, and micro-learning modules.
 source_frameworks:
-  - "Volunteer Canada Coordination Guide"
-  - "Humentum Project Vol App"
+  - "Volunteer Canada coordination and best-practice resources (nonprofit organization; conceptual alignment only)"
+  - "Humentum volunteer program management resources (nonprofit capacity-building organization; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Sets shift roster; tracks attendance.
