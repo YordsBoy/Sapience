@@ -54,7 +54,7 @@
         "informal_gray_economy",
         "unpaid_caregiving_domestic_work",
         "maker_economy_creative_crafts",
-        "digital_content_creator_economy",
+        "digital_content_creation_creator_economy",
         "cross_sector" ] },
     "horizon":            { "type": "string", "enum": ["core","emerging","watch_2030","perennial","peripheral","legacy"] },
     "proficiency_levels": {

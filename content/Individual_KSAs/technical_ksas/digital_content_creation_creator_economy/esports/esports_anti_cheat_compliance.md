@@ -1,8 +1,8 @@
 ---
 ksa_id: esports_anti_cheat_compliance
-label: eSports Anti‑Cheat Compliance
+label: eSports Anti-Cheat Compliance
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: emerging
 cluster_tags:
   - "Esports"
@@ -10,18 +10,17 @@ cluster_tags:
 description: >
   Implements and audits anti-cheat systems, player verification, and competitive integrity protocols for esports tournaments and online leagues.
 source_frameworks:
-  - "Esports Integrity Commission (ESIC) Standards"
-  - "ESIC Anti‑Corruption Code"
-  - "Valve Anti‑Cheat (VAC) Guidelines"
+  - "Esports Integrity Commission (ESIC) Anti-Corruption Code and competition integrity standards — commercial industry integrity body — ESIC; conceptual alignment only"
+  - "Valve Anti-Cheat (VAC) system guidelines — vendor documentation — Valve Corporation; conceptual alignment only — equivalent anti-cheat systems may demonstrate competency"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognises cheat signatures; conducts device checks; enforces code‑of‑conduct.
+    indicator: Recognises cheat signatures; conducts device checks; enforces code-of-conduct.
   - level: Basic
-    indicator: Utilises anti‑cheat software; monitors network packets; verifies player IDs; documents infractions.
+    indicator: Utilises anti-cheat software; monitors network packets; verifies player IDs; documents infractions.
   - level: Intermediate
     indicator: Runs integrity panels; investigates suspicious stats; applies escalating penalties.
   - level: Advanced
     indicator: Designs integrity policies; integrates server-side analytics; integrates biometric verification; collaborates with game publishers; reports to governing bodies.
   - level: Expert
-    indicator: Designs global anti‑cheat frameworks; leads disciplinary tribunals; publishes integrity‑risk research.
+    indicator: Designs global anti-cheat frameworks; leads disciplinary tribunals; publishes integrity-risk research.
 ---

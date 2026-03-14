@@ -2,7 +2,7 @@
 ksa_id: ai_assisted_content_generation
 label: AI-Assisted Content Generation & Prompting
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: emerging
 cluster_tags:
   - "Generative AI"
@@ -10,7 +10,7 @@ cluster_tags:
 description: |
   Uses large-language and multimodal models to ideate scripts, images, music, and effects; engineers prompts, refines outputs, and ensures originality and IP compliance.
 source_frameworks:
-  - "OpenAI Prompt Engineering Guide (2024)"
+  - "OpenAI Prompt Engineering Guide (2024) — vendor documentation — OpenAI; conceptual alignment only — equivalent large-language model platforms and prompting guides may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Generates basic text or images with default prompts; recognizes AI content disclosure rules.

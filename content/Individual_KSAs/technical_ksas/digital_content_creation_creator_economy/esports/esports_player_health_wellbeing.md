@@ -2,7 +2,7 @@
 ksa_id: esports_player_health_wellbeing
 label: eSports Player Health & Well‑Being
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: core
 cluster_tags:
   - "Esports"
@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Promoting physical and mental wellness among professional gamers through ergonomic practice routines, nutrition planning, exercise, and stress‑management techniques aligned with International eSports Federation (IESF) player‑health guidelines.
 source_frameworks:
-  - "WHO Physical Activity Guidelines"
-  - "IESF Player Health Manual"
-  - "American College of Sports Medicine (ACSM) Esports Guidelines"
+  - "WHO Global Action Plan on Physical Activity guidelines — intergovernmental organization — WHO (UN); publicly available"
+  - "International eSports Federation (IESF) Player Health Manual — commercial professional association — IESF; conceptual alignment only"
+  - "American College of Sports Medicine (ACSM) esports health and performance guidelines — commercial professional association — ACSM; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Describes common overuse injuries; follows screen‑break schedules; hydrates regularly.

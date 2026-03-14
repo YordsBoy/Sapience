@@ -2,7 +2,7 @@
 ksa_id: creator_legal_ip_management
 label: Creator Legal & Intellectual-Property Management
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: core
 cluster_tags:
   - "Copyright"
@@ -10,9 +10,8 @@ cluster_tags:
 description: >
   Protects and monetises creative works; registers copyrights, manages licenses, resolves takedowns, and navigates fair-use and DMCA compliance across platforms.
 source_frameworks:
-  - "World Intellectual Property Organization (WIPO) Guides"
-  - "WIPO Copyright Toolkit"
-  - "YouTube Content ID Guidelines"
+  - "WIPO intellectual property guides and resources — intergovernmental organization — WIPO (UN); publicly available"
+  - "YouTube Content ID developer documentation and guidelines — vendor documentation — Google/YouTube; conceptual alignment only — equivalent digital rights management platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises copyright symbols and ownership basics; adds copyright notices; files basic DMCA counter‑claims; recognizes fair‑use factors.

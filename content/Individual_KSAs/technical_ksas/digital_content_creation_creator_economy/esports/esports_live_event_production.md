@@ -2,7 +2,7 @@
 ksa_id: esports_live_event_production
 label: eSports Live‑Event Production
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: core
 cluster_tags:
   - "Esports"
@@ -11,9 +11,9 @@ description: >
   Plans and executes broadcast-quality esports events; coordinates staging,
   observer feeds, shout-casting, lighting, and multi-platform streaming.
 source_frameworks:
-  - "NAB Live-Production Workflow Guides"
-  - "Broadcast Engineers Association Live Production Guide"
-  - "Riot Games Event Operations Manual"
+  - "National Association of Broadcasters (NAB) live production workflow guides — commercial professional association — NAB; conceptual alignment only"
+  - "Society of Broadcast Engineers (SBE) live production guidance — commercial professional association — SBE; conceptual alignment only"
+  - "Esports live event production best practices (e.g., Riot Games event operations frameworks) — vendor documentation; conceptual alignment only — equivalent esports event production standards may apply"
 proficiency_levels:
   - level: Awareness
     indicator: Lists roles (producer, caster, observer) in an event; sets up capture cards; checks audio levels; runs basic overlays.

@@ -2,7 +2,7 @@
 ksa_id: revenue_diversification_for_creators
 label: Creator Revenue Diversification
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: core
 cluster_tags:
   - "Monetization"
@@ -10,11 +10,11 @@ cluster_tags:
 description: >
   Builds multiple income channels—ads, subscriptions, merch, crowdfunding, NFTs, licensing, and live events—to stabilise earnings and scale creator businesses.
 source_frameworks:
-  - "Patreon Creator Success Framework"
-  - "IAB Influencer Marketing Standards"
+  - "Patreon Creator Success resources and framework — vendor documentation — Patreon; conceptual alignment only — equivalent membership and subscription platforms may demonstrate competency"
+  - "IAB Influencer Marketing Standards — commercial professional association — Interactive Advertising Bureau; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists common revenue streams; sets basic AdSense; recognizes sponsorship offers.
+    indicator: Lists common revenue streams; sets up basic display advertising (e.g., Google AdSense); recognizes sponsorship offer structures.
   - level: Basic
     indicator: Negotiates flat‑fee deals; launches membership tiers; tracks monthly recurring revenue (MRR).
   - level: Intermediate

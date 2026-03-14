@@ -2,7 +2,7 @@
 ksa_id: esports_team_operations_coaching
 label: eSports Team Operations & Coaching
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: emerging
 cluster_tags:
   - "Esports"
@@ -10,12 +10,12 @@ cluster_tags:
 description: >
   Manages roster selection, scrim schedules, data-driven strategy, and player contracts; leads coaching sessions and performance review.
 source_frameworks:
-  - "Esports Coaching Framework (ISC 2024)"
-  - "Esports Coaching Association Competency Model"
-  - "International eSports Federation (IESF) Team Handbook"
+  - "Esports coaching competency frameworks (e.g., International Sports Coaching Association esports-adapted resources; ISC 2024 guidance) — commercial professional association; conceptual alignment only"
+  - "Esports Coaching Association (ECA) Competency Model — commercial professional association — ECA; conceptual alignment only"
+  - "International eSports Federation (IESF) Team Operations Handbook — commercial professional association — IESF; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands game meta; schedules scrims; tracks basic stats (KDA, win rate) during scrims; reviews VODs.
+    indicator: Identifies current game meta and strategic patterns; schedules practice scrims; tracks basic performance statistics (KDA, win rate); reviews match VODs for improvement opportunities.
   - level: Basic
     indicator: Uses analytics tools; plans practice blocks and sets training objectives; monitors player burnout.
   - level: Intermediate

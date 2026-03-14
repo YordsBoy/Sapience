@@ -2,7 +2,7 @@
 ksa_id: platform_algorithm_engagement_optimization
 label: Platform Algorithm & Engagement Optimisation
 category: Technical
-sector: digital_content_creator_economy
+sector: digital_content_creation_creator_economy
 horizon: core
 cluster_tags:
   - "Algorithm Strategy"
@@ -10,10 +10,9 @@ cluster_tags:
 description: >
   Analysing and adapting to content‑platform recommendation algorithms—YouTube, TikTok, Instagram—using watch‑time metrics, retention curves, and A/B testing to maximise reach and engagement. Deciphers social-platform ranking factors; crafts content cadence, metadata, and interaction tactics to maximise reach and retention ethically.
 source_frameworks:
-  - "YouTube Creator Insider Playbook 2024"
-  - "YouTube Creator Academy Analytics"
-  - "TikTok Creator Guide 2025"
-  - "HubSpot Social Media Benchmarks"
+  - "YouTube Creator resources and Creator Insider documentation (2024) — vendor documentation — Google/YouTube; conceptual alignment only — equivalent video platform creator guidance may demonstrate competency"
+  - "TikTok Creator Guide (2025) — vendor documentation — ByteDance/TikTok; conceptual alignment only — equivalent short-form video platform creator guidance may demonstrate competency"
+  - "HubSpot Social Media Benchmarks report — vendor documentation — HubSpot; conceptual alignment only — equivalent social media analytics platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Reads basic analytics; identifies click‑through rate (CTR); recognizes audience‑retention charts.

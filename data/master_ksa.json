@@ -17897,7 +17897,7 @@
     "ksa_id": "platform_algorithm_engagement_optimization",
     "label": "Platform Algorithm & Engagement Optimisation",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Algorithm Strategy",
@@ -17905,10 +17905,9 @@
     ],
     "description": "Analysing and adapting to content‑platform recommendation algorithms—YouTube, TikTok, Instagram—using watch‑time metrics, retention curves, and A/B testing to maximise reach and engagement. Deciphers social-platform ranking factors; crafts content cadence, metadata, and interaction tactics to maximise reach and retention ethically.\n",
     "source_frameworks": [
-      "YouTube Creator Insider Playbook 2024",
-      "YouTube Creator Academy Analytics",
-      "TikTok Creator Guide 2025",
-      "HubSpot Social Media Benchmarks"
+      "YouTube Creator resources and Creator Insider documentation (2024) — vendor documentation — Google/YouTube; conceptual alignment only — equivalent video platform creator guidance may demonstrate competency",
+      "TikTok Creator Guide (2025) — vendor documentation — ByteDance/TikTok; conceptual alignment only — equivalent short-form video platform creator guidance may demonstrate competency",
+      "HubSpot Social Media Benchmarks report — vendor documentation — HubSpot; conceptual alignment only — equivalent social media analytics platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -17937,7 +17936,7 @@
     "ksa_id": "revenue_diversification_for_creators",
     "label": "Creator Revenue Diversification",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Monetization",
@@ -17945,13 +17944,13 @@
     ],
     "description": "Builds multiple income channels—ads, subscriptions, merch, crowdfunding, NFTs, licensing, and live events—to stabilise earnings and scale creator businesses.\n",
     "source_frameworks": [
-      "Patreon Creator Success Framework",
-      "IAB Influencer Marketing Standards"
+      "Patreon Creator Success resources and framework — vendor documentation — Patreon; conceptual alignment only — equivalent membership and subscription platforms may demonstrate competency",
+      "IAB Influencer Marketing Standards — commercial professional association — Interactive Advertising Bureau; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists common revenue streams; sets basic AdSense; recognizes sponsorship offers."
+        "indicator": "Lists common revenue streams; sets up basic display advertising (e.g., Google AdSense); recognizes sponsorship offer structures."
       },
       {
         "level": "Basic",
@@ -17973,9 +17972,9 @@
   },
   {
     "ksa_id": "merchandise_ecommerce_operations",
-    "label": "Merchandise & E‑commerce Operations",
+    "label": "Merchandise & E-commerce Operations",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Merchandising",
@@ -17983,9 +17982,8 @@
     ],
     "description": "Designs, sources, and fulfills creator merchandise; manages storefronts, inventory, shipping logistics, and customer support; analyses sales metrics.\n",
     "source_frameworks": [
-      "Shopify Plus Partner Playbook",
-      "Shopify Print‑on‑Demand Guide",
-      "Fair Labor Association (FLA) Apparel Sourcing Code"
+      "Shopify Plus Partner Playbook — vendor documentation — Shopify Inc.; conceptual alignment only — equivalent e-commerce platforms may demonstrate competency",
+      "Fair Labor Association (FLA) Apparel Sourcing code of conduct — commercial non-profit — Fair Labor Association; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -17998,7 +17996,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Manages inventory forecasting; negotiates supplier terms; ; integrates fulfillment APIs and CRM; oversees quality control."
+        "indicator": "Manages inventory forecasting; negotiates supplier terms; integrates fulfillment APIs and CRM; oversees quality control."
       },
       {
         "level": "Advanced",
@@ -18006,7 +18004,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads multi‑brand merch lines; optimizes omnichannel conversion; ensures ethical sourcing compliance; publishes merch‑operations playbooks."
+        "indicator": "Leads multi-brand merch lines; optimizes omnichannel conversion; ensures ethical sourcing compliance; publishes merch-operations playbooks."
       }
     ]
   },
@@ -18014,7 +18012,7 @@
     "ksa_id": "creator_tax_compliance_finance",
     "label": "Creator Tax Compliance & Finance",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Tax Compliance",
@@ -18022,30 +18020,30 @@
     ],
     "description": "Manages revenue tracking, deductible expenses, quarterly estimated taxes, and financial planning for creators operating as sole proprietors or entities.\n",
     "source_frameworks": [
-      "IRS Schedule-C Guidelines (U.S.)",
-      "IRS Small‑Business Tax Guide",
-      "OECD VAT Digital Services Guidelines"
+      "IRS Schedule C (Profit or Loss from Business) instructions and guidelines — U.S. government — IRS/Treasury; public domain",
+      "IRS Small Business and Self-Employed Tax Center guidance — U.S. government — IRS/Treasury; public domain",
+      "OECD Mechanisms for the Effective Collection of VAT/GST on Digital Sales guidance — intergovernmental organization — OECD; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands income vs expense; tracks revenue sources; saves expense receipts; recognizes deductible categories."
+        "indicator": "Distinguishes income from deductible business expenses; tracks revenue sources across platforms; saves and organizes expense receipts; identifies common deductible categories for self-employed creators."
       },
       {
         "level": "Basic",
-        "indicator": "Categorises income streams; calculates basic tax withholding; files Schedule C; pays quarterly taxes; calculates self‑employment tax."
+        "indicator": "Categorises income streams; calculates basic tax withholding; files Schedule C; pays quarterly taxes; calculates self-employment tax."
       },
       {
         "level": "Intermediate",
-        "indicator": "Prepares quarterly filings; separates business accounts; claims home‑office deductions; leverages depreciation."
+        "indicator": "Prepares quarterly filings; separates business accounts; claims home-office deductions; leverages depreciation."
       },
       {
         "level": "Advanced",
-        "indicator": "Plans tax strategy with LLC/S‑Corp; handles international VAT; manages multi‑currency income; automates bookkeeping software."
+        "indicator": "Plans tax strategy with LLC/S-Corp; handles international VAT; manages multi-currency income; automates bookkeeping software."
       },
       {
         "level": "Expert",
-        "indicator": "Crafts long-term wealth, retirement, and tax-deferral strategies; advises creator collectives; mitigates audit risks; publishes creator tax‑compliance guides."
+        "indicator": "Crafts long-term wealth, retirement, and tax-deferral strategies; advises creator collectives; mitigates audit risks; publishes creator tax-compliance guides."
       }
     ]
   },
@@ -18053,7 +18051,7 @@
     "ksa_id": "creator_legal_ip_management",
     "label": "Creator Legal & Intellectual-Property Management",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Copyright",
@@ -18061,9 +18059,8 @@
     ],
     "description": "Protects and monetises creative works; registers copyrights, manages licenses, resolves takedowns, and navigates fair-use and DMCA compliance across platforms.\n",
     "source_frameworks": [
-      "World Intellectual Property Organization (WIPO) Guides",
-      "WIPO Copyright Toolkit",
-      "YouTube Content ID Guidelines"
+      "WIPO intellectual property guides and resources — intergovernmental organization — WIPO (UN); publicly available",
+      "YouTube Content ID developer documentation and guidelines — vendor documentation — Google/YouTube; conceptual alignment only — equivalent digital rights management platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -18092,7 +18089,7 @@
     "ksa_id": "esports_team_operations_coaching",
     "label": "eSports Team Operations & Coaching",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "emerging",
     "cluster_tags": [
       "Esports",
@@ -18100,14 +18097,14 @@
     ],
     "description": "Manages roster selection, scrim schedules, data-driven strategy, and player contracts; leads coaching sessions and performance review.\n",
     "source_frameworks": [
-      "Esports Coaching Framework (ISC 2024)",
-      "Esports Coaching Association Competency Model",
-      "International eSports Federation (IESF) Team Handbook"
+      "Esports coaching competency frameworks (e.g., International Sports Coaching Association esports-adapted resources; ISC 2024 guidance) — commercial professional association; conceptual alignment only",
+      "Esports Coaching Association (ECA) Competency Model — commercial professional association — ECA; conceptual alignment only",
+      "International eSports Federation (IESF) Team Operations Handbook — commercial professional association — IESF; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands game meta; schedules scrims; tracks basic stats (KDA, win rate) during scrims; reviews VODs."
+        "indicator": "Identifies current game meta and strategic patterns; schedules practice scrims; tracks basic performance statistics (KDA, win rate); reviews match VODs for improvement opportunities."
       },
       {
         "level": "Basic",
@@ -18131,7 +18128,7 @@
     "ksa_id": "esports_player_health_wellbeing",
     "label": "eSports Player Health & Well‑Being",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Esports",
@@ -18139,9 +18136,9 @@
     ],
     "description": "Promoting physical and mental wellness among professional gamers through ergonomic practice routines, nutrition planning, exercise, and stress‑management techniques aligned with International eSports Federation (IESF) player‑health guidelines.\n",
     "source_frameworks": [
-      "WHO Physical Activity Guidelines",
-      "IESF Player Health Manual",
-      "American College of Sports Medicine (ACSM) Esports Guidelines"
+      "WHO Global Action Plan on Physical Activity guidelines — intergovernmental organization — WHO (UN); publicly available",
+      "International eSports Federation (IESF) Player Health Manual — commercial professional association — IESF; conceptual alignment only",
+      "American College of Sports Medicine (ACSM) esports health and performance guidelines — commercial professional association — ACSM; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18170,7 +18167,7 @@
     "ksa_id": "esports_live_event_production",
     "label": "eSports Live‑Event Production",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Esports",
@@ -18178,9 +18175,9 @@
     ],
     "description": "Plans and executes broadcast-quality esports events; coordinates staging, observer feeds, shout-casting, lighting, and multi-platform streaming.\n",
     "source_frameworks": [
-      "NAB Live-Production Workflow Guides",
-      "Broadcast Engineers Association Live Production Guide",
-      "Riot Games Event Operations Manual"
+      "National Association of Broadcasters (NAB) live production workflow guides — commercial professional association — NAB; conceptual alignment only",
+      "Society of Broadcast Engineers (SBE) live production guidance — commercial professional association — SBE; conceptual alignment only",
+      "Esports live event production best practices (e.g., Riot Games event operations frameworks) — vendor documentation; conceptual alignment only — equivalent esports event production standards may apply"
     ],
     "proficiency_levels": [
       {
@@ -18207,9 +18204,9 @@
   },
   {
     "ksa_id": "esports_anti_cheat_compliance",
-    "label": "eSports Anti‑Cheat Compliance",
+    "label": "eSports Anti-Cheat Compliance",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "emerging",
     "cluster_tags": [
       "Esports",
@@ -18217,18 +18214,17 @@
     ],
     "description": "Implements and audits anti-cheat systems, player verification, and competitive integrity protocols for esports tournaments and online leagues.\n",
     "source_frameworks": [
-      "Esports Integrity Commission (ESIC) Standards",
-      "ESIC Anti‑Corruption Code",
-      "Valve Anti‑Cheat (VAC) Guidelines"
+      "Esports Integrity Commission (ESIC) Anti-Corruption Code and competition integrity standards — commercial industry integrity body — ESIC; conceptual alignment only",
+      "Valve Anti-Cheat (VAC) system guidelines — vendor documentation — Valve Corporation; conceptual alignment only — equivalent anti-cheat systems may demonstrate competency"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognises cheat signatures; conducts device checks; enforces code‑of‑conduct."
+        "indicator": "Recognises cheat signatures; conducts device checks; enforces code-of-conduct."
       },
       {
         "level": "Basic",
-        "indicator": "Utilises anti‑cheat software; monitors network packets; verifies player IDs; documents infractions."
+        "indicator": "Utilises anti-cheat software; monitors network packets; verifies player IDs; documents infractions."
       },
       {
         "level": "Intermediate",
@@ -18240,7 +18236,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Designs global anti‑cheat frameworks; leads disciplinary tribunals; publishes integrity‑risk research."
+        "indicator": "Designs global anti-cheat frameworks; leads disciplinary tribunals; publishes integrity-risk research."
       }
     ]
   },
@@ -18248,7 +18244,7 @@
     "ksa_id": "short_form_video_production_workflow",
     "label": "Short‑Form Video Production Workflow",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Video Production",
@@ -18256,18 +18252,17 @@
     ],
     "description": "Plans, shoots, edits, and distributes <60-second videos optimized for vertical\nformats (TikTok, Reels, Shorts); integrates captions, effects, and rapid iteration.\n",
     "source_frameworks": [
-      "Adobe Premiere Rush Workflow Guide",
-      "TikTok Creative Center Best Practices",
-      "TikTok Video Production Playbook"
+      "Adobe Premiere Rush Workflow Guide — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent video editing platforms may demonstrate competency",
+      "TikTok Creative Center best practices documentation — vendor documentation — ByteDance/TikTok; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Uses native camera/app tools; Sets vertical aspect ratio; uses phone stabilisers; trims basic clips."
+        "indicator": "Uses native camera and app tools; sets vertical aspect ratio; uses phone stabilisers; trims basic clips."
       },
       {
         "level": "Basic",
-        "indicator": "Edits clips; Syncs cuts to beats; adds captions; selects trending audio; uploads with tags."
+        "indicator": "Edits clips; syncs cuts to beats; adds captions; selects trending audio; uploads with tags."
       },
       {
         "level": "Intermediate",
@@ -18287,7 +18282,7 @@
     "ksa_id": "ai_assisted_content_generation",
     "label": "AI-Assisted Content Generation & Prompting",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "emerging",
     "cluster_tags": [
       "Generative AI",
@@ -18295,7 +18290,7 @@
     ],
     "description": "Uses large-language and multimodal models to ideate scripts, images, music, and effects; engineers prompts, refines outputs, and ensures originality and IP compliance.\n",
     "source_frameworks": [
-      "OpenAI Prompt Engineering Guide (2024)"
+      "OpenAI Prompt Engineering Guide (2024) — vendor documentation — OpenAI; conceptual alignment only — equivalent large-language model platforms and prompting guides may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -18324,7 +18319,7 @@
     "ksa_id": "brand_partnership_negotiation",
     "label": "Brand Partnership Negotiation",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Brand Partnerships",
@@ -18332,13 +18327,13 @@
     ],
     "description": "Sources, negotiates, and manages sponsorships, affiliate deals, and branded content; aligns creator values with advertiser goals; drafts deliverables, KPIs, and legal terms.\n",
     "source_frameworks": [
-      "IAB Influencer Marketing Standards",
-      "FTC Endorsement Guides 2023"
+      "IAB Influencer Marketing Standards — commercial professional association — Interactive Advertising Bureau; conceptual alignment only",
+      "FTC Endorsement Guides (2023 revision), 16 CFR Part 255 — U.S. government — FTC; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies potential sponsors; understands basic CPM / CPA models; reads campaign briefs; inserts disclosure hashtags; tracks basic deliverables."
+        "indicator": "Identifies potential sponsors; distinguishes CPM and CPA advertising pricing models; reads campaign briefs; inserts required disclosure hashtags; tracks basic deliverables."
       },
       {
         "level": "Basic",
@@ -18350,7 +18345,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Manages multi-channel, multi-year exclusive partnerships; defends pricing with data; ; manages disputes and SLA."
+        "indicator": "Manages multi-channel, multi-year exclusive partnerships; defends pricing with data; manages disputes and SLAs."
       },
       {
         "level": "Expert",
@@ -18362,7 +18357,7 @@
     "ksa_id": "audience_analytics_community_management",
     "label": "Audience Analytics & Community Management",
     "category": "Technical",
-    "sector": "digital_content_creator_economy",
+    "sector": "digital_content_creation_creator_economy",
     "horizon": "core",
     "cluster_tags": [
       "Audience Analytics",
@@ -18370,9 +18365,9 @@
     ],
     "description": "Uses social-platform insights, web metrics, and sentiment analysis to understand audience behavior; designs engagement strategies, moderates communities, and cultivates loyalty across multiple channels.\n",
     "source_frameworks": [
-      "Hootsuite Social Marketing Certification",
-      "Discord Community Guidelines",
-      "CMX Community Engagement Framework"
+      "Hootsuite Social Marketing Certification — vendor documentation — Hootsuite; conceptual alignment only — equivalent social media management platforms may demonstrate competency",
+      "Discord Community Guidelines and developer documentation — vendor documentation — Discord Inc.; conceptual alignment only — equivalent community platforms may demonstrate competency",
+      "CMX Community Engagement Framework — commercial professional association — CMX (Community Managers Exchange); conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18389,7 +18384,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Designs gamification loops; implements funnel analysis; launches community programs (Discord, Patreon); manages crises; analyses churn; aligns community KPIs with business goals."
+        "indicator": "Designs gamification loops; implements funnel analysis; launches community programs (e.g., Discord servers, Patreon memberships); manages crises; analyses churn; aligns community KPIs with business goals."
       },
       {
         "level": "Expert",
