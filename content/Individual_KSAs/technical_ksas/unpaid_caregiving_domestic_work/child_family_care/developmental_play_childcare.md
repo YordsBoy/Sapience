@@ -9,10 +9,10 @@ cluster_tags:
   - "Play"
 description: Supporting early childhood development through age‑appropriate play, positive discipline, and safe environments aligned with American Academy of Pediatrics (AAP) guidance.
 source_frameworks:
-  - "CDC Developmental Milestones"
-  - "AAP The Power of Play"
-  - "AAP Caring for Our Children"
-  - "UNICEF Early Childhood Development Toolkit"
+  - "CDC Learn the Signs. Act Early. developmental milestones resources — U.S. government — CDC/HHS; public domain"
+  - "AAP The Power of Play clinical report (Yogman et al. 2018, Pediatrics) — commercial professional association — American Academy of Pediatrics; conceptual alignment only"
+  - "AAP/APHA Caring for Our Children: National Health and Safety Performance Standards — commercial professional association — American Academy of Pediatrics; conceptual alignment only"
+  - "UNICEF Early Childhood Development programme toolkit — intergovernmental organization — UNICEF (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies milestones; recognizes play types; selects safe toys; follows safe‑sleep practices.

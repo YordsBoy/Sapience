@@ -9,10 +9,10 @@ cluster_tags:
   - "Remote Monitoring"
 description: Setting up and managing remote monitoring systems—wearables, fall detectors, medication dispensers—to track health metrics and enhance safety.
 source_frameworks:
-  - "CMS RPM Billing Rules"
-  - "Telehealth Caregiver Outcomes Review"
-  - "ISO/IEEE 11073 Personal Health Data"
-  - "FDA Digital Health Guidance"
+  - "CMS Remote Patient Monitoring (RPM) billing and coverage rules — U.S. government — CMS/HHS; public domain"
+  - "Telehealth caregiver outcomes research literature (e.g., Laver et al. Cochrane Review; AHRQ Telehealth Evidence Report) — academic/government literature; conceptual alignment only"
+  - "ISO/IEEE 11073 Personal Health Data standards — ISO/IEEE joint proprietary standard; conceptual alignment only"
+  - "FDA Digital Health Center of Excellence guidance — U.S. government — FDA/HHS; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Selects basic sensors; pairs Bluetooth devices; understands privacy basics; describes remote-patient monitoring (RPM) basics; recognizes privacy rules (HIPAA).

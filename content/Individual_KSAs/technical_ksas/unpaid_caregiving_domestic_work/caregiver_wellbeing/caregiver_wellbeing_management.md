@@ -10,12 +10,12 @@ cluster_tags:
 description: >  
   Manages personal stress and utilizes available support systems while providing unpaid care; practices self-care routines (time management, respite breaks), recognizes signs of burnout, seeks out community resources (respite services, support groups, counseling), and balances caregiving responsibilities with personal health needs to sustain long-term caregiving capacity.  
 source_frameworks:
-  - "HHS National Strategy for Family Caregivers"
-  - "APA Caregiver Stress Toolkit" 
-  - "AARP Caregiver Support Guidelines"  
+  - "HHS National Strategy to Support Family Caregivers — U.S. government — HHS/ACL; public domain"
+  - "APA Caregiver Stress resources — commercial professional association — American Psychological Association; conceptual alignment only"
+  - "AARP Caregiver Support resources and guidelines — non-profit organization — AARP; publicly available"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Realizes that caregiving can be stressful; has heard that taking breaks or asking for help is important; recognizes burnout signs; lists local resources.  
+    indicator: Identifies signs of caregiver stress and burnout; lists local respite and support resources; recognizes the importance of scheduled breaks in sustaining caregiving capacity.  
   - level: Basic  
     indicator: Takes short breaks when others can watch the care recipient; occasionally talks about challenges with a friend or family member; tries simple stress relief activities (a walk, hobby when possible); practices breathing.  
   - level: Intermediate  

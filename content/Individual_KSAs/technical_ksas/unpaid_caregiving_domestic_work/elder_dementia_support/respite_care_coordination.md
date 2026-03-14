@@ -9,9 +9,9 @@ cluster_tags:
   - "Coordination"
 description: Arranging temporary relief care, navigating service providers, and leveraging community resources to prevent caregiver burnout.
 source_frameworks:
-  - "ARCH National Respite Network Standards"
-  - "Zarit Respite Outcomes Meta-analysis"
-  - "Family Caregiver Alliance Best Practices"
+  - "ARCH National Respite Network respite care standards and guidelines — non-profit organization — ARCH National Respite Network; publicly available"
+  - "Zarit respite care outcomes research (Zarit et al. 1980; meta-analytic literature) — academic literature; conceptual alignment only"
+  - "Family Caregiver Alliance caregiver resources and best practices — non-profit organization — Family Caregiver Alliance/National Center on Caregiving; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises burnout signs; lists respite options; identifies eligibility; gathers contact info.

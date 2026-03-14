@@ -1450,7 +1450,7 @@
   },
   {
     "ksa_id": "meal_planning_nutrition_domestic",
-    "label": "Meal Planning & Nutrition (DOmestic))",
+    "label": "Meal Planning & Nutrition (Domestic)",
     "category": "Technical",
     "sector": "unpaid_caregiving_domestic_work",
     "horizon": "core",
@@ -1460,9 +1460,9 @@
     ],
     "description": "Creating balanced, budget‑friendly meal plans, accommodating dietary restrictions, and practising safe food handling per USDA guidelines.",
     "source_frameworks": [
-      "USDA MyPlate Older Adults",
-      "NIH MIND Diet Resources",
-      "FDA Food Safety Basics"
+      "USDA MyPlate for Older Adults nutrition guidance — U.S. government — USDA; public domain",
+      "NIH MIND Diet research resources (Morris et al. 2015; NIH National Institute on Aging) — U.S. government — NIH; public domain",
+      "FDA food safety resources and FoodSafety.gov guidance — U.S. government — FDA/HHS; public domain"
     ],
     "proficiency_levels": [
       {
@@ -1499,9 +1499,9 @@
     ],
     "description": "Creating and maintaining household budgets, tracking expenses, and planning for emergencies using basic accounting principles.",
     "source_frameworks": [
-      "AARP Tech Tools for Financial Caregiving",
-      "Consumer Financial Protection Bureau Guides",
-      "FDIC Money Smart Curriculum"
+      "AARP Tech Tools for Financial Caregiving resources — non-profit organization — AARP; publicly available",
+      "Consumer Financial Protection Bureau (CFPB) financial management guides — U.S. government — CFPB; public domain",
+      "FDIC Money Smart financial education curriculum — U.S. government — FDIC; public domain"
     ],
     "proficiency_levels": [
       {
@@ -1510,7 +1510,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Sets budget categories; balances checkbook; saves receipts; sets reminders; dyncs bank feeds; analyses variances; flags anomalies."
+        "indicator": "Sets budget categories; balances checkbook; saves receipts; sets payment reminders; tracks income and expenses."
       },
       {
         "level": "Intermediate",
@@ -1538,8 +1538,8 @@
     ],
     "description": "Utilises gait belts, slide sheets, and mechanical lifts to move care recipients safely, following OSHA Safe Patient Handling guidelines and AOTA caregiver ergonomics recommendations.\n",
     "source_frameworks": [
-      "OSHA Safe Patient Handling",
-      "AOTA Caregiver Ergonomics"
+      "OSHA Safe Patient Handling and Mobility guidelines — U.S. government — DOL/OSHA; public domain",
+      "AOTA (American Occupational Therapy Association) caregiver ergonomics and safe mobility resources — commercial professional association — AOTA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -1576,8 +1576,8 @@
     ],
     "description": "Applies CDC hand-hygiene, PPE, and environmental-cleaning guidance in the household, preventing cross-contamination for immunocompromised care recipients.\n",
     "source_frameworks": [
-      "CDC Core IPC Practices",
-      "WHO Five Moments for Hand Hygiene"
+      "CDC Core Infection Prevention and Control (IPC) Practices — U.S. government — CDC/HHS; public domain",
+      "WHO Five Moments for Hand Hygiene framework — intergovernmental organization — WHO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -1614,14 +1614,14 @@
     ],
     "description": "Performs essential at-home healthcare tasks for a dependent family member or friend;   monitors vital signs, manages medication schedules, provides proper nutrition and hygiene care, assists with mobility and exercises, and knows how to perform basic first aid or when to seek professional medical help.  \n",
     "source_frameworks": [
-      "CDC Core Infection-Prevention Practices",
-      "State Nurse Practice Acts (delegation)",
-      "Red Cross Family Caregiving Guide"
+      "CDC Core Infection Prevention and Control Practices for Safe Healthcare — U.S. government — CDC/HHS; public domain",
+      "State Nurse Practice Acts — delegation provisions — state government regulatory bodies; publicly available",
+      "American Red Cross Family Caregiving training curriculum — non-profit organization — American Red Cross; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows basic caregiving needs (keeping patient clean, fed, on meds); aware that things like blood pressure or sugar levels might need checking; states normal BP/HR ranges; lists medication rights."
+        "indicator": "Identifies essential caregiving tasks including hygiene maintenance, scheduled feeding, and medication administration; recognizes vital signs that require routine monitoring (blood pressure, heart rate, blood glucose); states normal adult BP and HR ranges; lists the five medication rights."
       },
       {
         "level": "Basic",
@@ -1653,9 +1653,9 @@
     ],
     "description": "Arranging temporary relief care, navigating service providers, and leveraging community resources to prevent caregiver burnout.",
     "source_frameworks": [
-      "ARCH National Respite Network Standards",
-      "Zarit Respite Outcomes Meta-analysis",
-      "Family Caregiver Alliance Best Practices"
+      "ARCH National Respite Network respite care standards and guidelines — non-profit organization — ARCH National Respite Network; publicly available",
+      "Zarit respite care outcomes research (Zarit et al. 1980; meta-analytic literature) — academic literature; conceptual alignment only",
+      "Family Caregiver Alliance caregiver resources and best practices — non-profit organization — Family Caregiver Alliance/National Center on Caregiving; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -1692,10 +1692,10 @@
     ],
     "description": "Assisting older adults with Activities of Daily Living (ADLs)—bathing, grooming, toileting—while maintaining dignity, infection‑control, and safety per CDC and World Health Organization (WHO) guidelines.",
     "source_frameworks": [
-      "CDC Skin Care for Older Adults",
-      "CDC Infection Control for Long‑Term Care",
-      "WHO Integrated Care for Older People (ICOPE)",
-      "WHO Healthy Ageing Hygiene Recommendations"
+      "CDC skin care and wound prevention resources for older adults — U.S. government — CDC/HHS; public domain",
+      "CDC Infection Control in Long-Term Care Facilities guidance — U.S. government — CDC/HHS; public domain",
+      "WHO Integrated Care for Older People (ICOPE) framework — intergovernmental organization — WHO (UN); publicly available",
+      "WHO Healthy Ageing hygiene and personal care guidance — intergovernmental organization — WHO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -1712,7 +1712,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Implements individualized care plans; trains family members; Adapts bathroom with grab bars; consults OT; monitors infection indicators; reduces UTI incidence."
+        "indicator": "Implements individualized care plans; trains family members; adapts bathroom with grab bars; consults occupational therapist (OT); monitors infection indicators; reduces UTI incidence."
       },
       {
         "level": "Expert",
@@ -1732,10 +1732,10 @@
     ],
     "description": "Communicating with persons living with dementia using validation, reminiscence, and Montessori‑based activities to reduce agitation and enhance quality of life.",
     "source_frameworks": [
-      "Alzheimer’s Association Communication Guide",
-      "Alzheimer's Association Dementia Care Practice Recommendations",
-      "Teepa Snow Positive Approach to Care",
-      "Validation Therapy Principles"
+      "Alzheimer’s Association Communication Tips and guidance — non-profit organization — Alzheimer’s Association; publicly available",
+      "Alzheimer’s Association Dementia Care Practice Recommendations — non-profit organization — Alzheimer’s Association; publicly available",
+      "Teepa Snow Positive Approach to Care® training methodology — commercial proprietary methodology — Positive Approach, LLC; conceptual alignment only",
+      "Validation Therapy principles (Feil 1982, 1993) — commercial proprietary methodology — Validation Training Institute; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -1744,7 +1744,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Employs visual cues; uses reality-orientation cues; maintains eye contactvalidates emotions; leads simple reminiscence."
+        "indicator": "Employs visual cues; uses reality-orientation cues; maintains eye contact; validates emotions; leads simple reminiscence activities."
       },
       {
         "level": "Intermediate",
@@ -1772,10 +1772,10 @@
     ],
     "description": "Supporting early childhood development through age‑appropriate play, positive discipline, and safe environments aligned with American Academy of Pediatrics (AAP) guidance.",
     "source_frameworks": [
-      "CDC Developmental Milestones",
-      "AAP The Power of Play",
-      "AAP Caring for Our Children",
-      "UNICEF Early Childhood Development Toolkit"
+      "CDC Learn the Signs. Act Early. developmental milestones resources — U.S. government — CDC/HHS; public domain",
+      "AAP The Power of Play clinical report (Yogman et al. 2018, Pediatrics) — commercial professional association — American Academy of Pediatrics; conceptual alignment only",
+      "AAP/APHA Caring for Our Children: National Health and Safety Performance Standards — commercial professional association — American Academy of Pediatrics; conceptual alignment only",
+      "UNICEF Early Childhood Development programme toolkit — intergovernmental organization — UNICEF (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -1812,14 +1812,14 @@
     ],
     "description": "Manages personal stress and utilizes available support systems while providing unpaid care; practices self-care routines (time management, respite breaks), recognizes signs of burnout, seeks out community resources (respite services, support groups, counseling), and balances caregiving responsibilities with personal health needs to sustain long-term caregiving capacity.  \n",
     "source_frameworks": [
-      "HHS National Strategy for Family Caregivers",
-      "APA Caregiver Stress Toolkit",
-      "AARP Caregiver Support Guidelines"
+      "HHS National Strategy to Support Family Caregivers — U.S. government — HHS/ACL; public domain",
+      "APA Caregiver Stress resources — commercial professional association — American Psychological Association; conceptual alignment only",
+      "AARP Caregiver Support resources and guidelines — non-profit organization — AARP; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Realizes that caregiving can be stressful; has heard that taking breaks or asking for help is important; recognizes burnout signs; lists local resources."
+        "indicator": "Identifies signs of caregiver stress and burnout; lists local respite and support resources; recognizes the importance of scheduled breaks in sustaining caregiving capacity."
       },
       {
         "level": "Basic",
@@ -1851,10 +1851,10 @@
     ],
     "description": "Setting up and managing remote monitoring systems—wearables, fall detectors, medication dispensers—to track health metrics and enhance safety.",
     "source_frameworks": [
-      "CMS RPM Billing Rules",
-      "Telehealth Caregiver Outcomes Review",
-      "ISO/IEEE 11073 Personal Health Data",
-      "FDA Digital Health Guidance"
+      "CMS Remote Patient Monitoring (RPM) billing and coverage rules — U.S. government — CMS/HHS; public domain",
+      "Telehealth caregiver outcomes research literature (e.g., Laver et al. Cochrane Review; AHRQ Telehealth Evidence Report) — academic/government literature; conceptual alignment only",
+      "ISO/IEEE 11073 Personal Health Data standards — ISO/IEEE joint proprietary standard; conceptual alignment only",
+      "FDA Digital Health Center of Excellence guidance — U.S. government — FDA/HHS; public domain"
     ],
     "proficiency_levels": [
       {
@@ -1891,10 +1891,10 @@
     ],
     "description": "Selecting and configuring assistive devices—grab bars, smart speakers, telepresence robots—to enhance independence and safety.",
     "source_frameworks": [
-      "WHO Age-friendly Environments Framework",
-      "Age Space Assistive-Tech Guide",
-      "RESNA Assistive Technology Standards",
-      "AARP HomeFit Guide"
+      "WHO Age-friendly Environments Framework — intergovernmental organization — WHO (UN); publicly available",
+      "Age Space Assistive Technology Guide — commercial information service — Age Space; conceptual alignment only",
+      "RESNA Assistive Technology Standards — commercial professional association — Rehabilitation Engineering and Assistive Technology Society of North America; conceptual alignment only",
+      "AARP HomeFit Guide — non-profit organization — AARP; publicly available"
     ],
     "proficiency_levels": [
       {

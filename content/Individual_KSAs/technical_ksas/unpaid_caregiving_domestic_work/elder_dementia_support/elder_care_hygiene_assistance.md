@@ -9,10 +9,10 @@ cluster_tags:
   - "Hygiene"
 description: Assisting older adults with Activities of Daily Living (ADLs)—bathing, grooming, toileting—while maintaining dignity, infection‑control, and safety per CDC and World Health Organization (WHO) guidelines.
 source_frameworks:
-  - "CDC Skin Care for Older Adults"
-  - "CDC Infection Control for Long‑Term Care"
-  - "WHO Integrated Care for Older People (ICOPE)"
-  - "WHO Healthy Ageing Hygiene Recommendations"
+  - "CDC skin care and wound prevention resources for older adults — U.S. government — CDC/HHS; public domain"
+  - "CDC Infection Control in Long-Term Care Facilities guidance — U.S. government — CDC/HHS; public domain"
+  - "WHO Integrated Care for Older People (ICOPE) framework — intergovernmental organization — WHO (UN); publicly available"
+  - "WHO Healthy Ageing hygiene and personal care guidance — intergovernmental organization — WHO (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Explains ADL categories; lists hygiene tasks; respects privacy; gathers supplies; washes hands properly.
@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Adapts techniques for limited mobility; uses gait belts; recognizes skin‑breakdown risks; prevents pressure sores; supports toileting schedule; documents changes.
   - level: Advanced
-    indicator: Implements individualized care plans; trains family members; Adapts bathroom with grab bars; consults OT; monitors infection indicators; reduces UTI incidence.
+    indicator: Implements individualized care plans; trains family members; adapts bathroom with grab bars; consults occupational therapist (OT); monitors infection indicators; reduces UTI incidence.
   - level: Expert
     indicator: Leads caregiver support groups; advocates policy improvements; publishes elder‑hygiene best practices.
 ---

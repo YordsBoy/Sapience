@@ -1,6 +1,6 @@
 ---
 ksa_id: meal_planning_nutrition_domestic
-label: Meal Planning & Nutrition (DOmestic))
+label: Meal Planning & Nutrition (Domestic)
 category: Technical
 sector: unpaid_caregiving_domestic_work
 horizon: core
@@ -9,9 +9,9 @@ cluster_tags:
   - "Meal Planning"
 description: Creating balanced, budget‑friendly meal plans, accommodating dietary restrictions, and practising safe food handling per USDA guidelines.
 source_frameworks:
-  - "USDA MyPlate Older Adults"
-  - "NIH MIND Diet Resources"
-  - "FDA Food Safety Basics"
+  - "USDA MyPlate for Older Adults nutrition guidance — U.S. government — USDA; public domain"
+  - "NIH MIND Diet research resources (Morris et al. 2015; NIH National Institute on Aging) — U.S. government — NIH; public domain"
+  - "FDA food safety resources and FoodSafety.gov guidance — U.S. government — FDA/HHS; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Reads nutrition labels; separates raw vs. cooked foods; sets portion sizes.

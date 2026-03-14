@@ -11,12 +11,12 @@ description: >
   Performs essential at-home healthcare tasks for a dependent family member or friend;  
   monitors vital signs, manages medication schedules, provides proper nutrition and hygiene care, assists with mobility and exercises, and knows how to perform basic first aid or when to seek professional medical help.  
 source_frameworks:
-  - "CDC Core Infection-Prevention Practices"
-  - "State Nurse Practice Acts (delegation)"  
-  - "Red Cross Family Caregiving Guide"  
+  - "CDC Core Infection Prevention and Control Practices for Safe Healthcare — U.S. government — CDC/HHS; public domain"
+  - "State Nurse Practice Acts — delegation provisions — state government regulatory bodies; publicly available"
+  - "American Red Cross Family Caregiving training curriculum — non-profit organization — American Red Cross; publicly available"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Knows basic caregiving needs (keeping patient clean, fed, on meds); aware that things like blood pressure or sugar levels might need checking; states normal BP/HR ranges; lists medication rights.  
+    indicator: Identifies essential caregiving tasks including hygiene maintenance, scheduled feeding, and medication administration; recognizes vital signs that require routine monitoring (blood pressure, heart rate, blood glucose); states normal adult BP and HR ranges; lists the five medication rights.  
   - level: Basic  
     indicator: Can safely assist someone with bathing and dressing; measures temperature or blood pressure with household devices; follows a medication list as instructed by a doctor; applies simple first aid (cleaning minor cuts, using bandages); measures vitals; records in log; recognizes red-flags.  
   - level: Intermediate  

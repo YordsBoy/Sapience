@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Utilises gait belts, slide sheets, and mechanical lifts to move care recipients safely, following OSHA Safe Patient Handling guidelines and AOTA caregiver ergonomics recommendations.
 source_frameworks:
-  - "OSHA Safe Patient Handling"
-  - "AOTA Caregiver Ergonomics"
+  - "OSHA Safe Patient Handling and Mobility guidelines — U.S. government — DOL/OSHA; public domain"
+  - "AOTA (American Occupational Therapy Association) caregiver ergonomics and safe mobility resources — commercial professional association — AOTA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies high-risk tasks; lists assistive devices.

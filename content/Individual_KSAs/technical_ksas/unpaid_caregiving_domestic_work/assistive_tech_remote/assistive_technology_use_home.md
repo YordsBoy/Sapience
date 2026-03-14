@@ -9,10 +9,10 @@ cluster_tags:
   - "Home Care"
 description: Selecting and configuring assistive devices—grab bars, smart speakers, telepresence robots—to enhance independence and safety.
 source_frameworks:
-  - "WHO Age-friendly Environments Framework"
-  - "Age Space Assistive-Tech Guide"
-  - "RESNA Assistive Technology Standards"
-  - "AARP HomeFit Guide"
+  - "WHO Age-friendly Environments Framework — intergovernmental organization — WHO (UN); publicly available"
+  - "Age Space Assistive Technology Guide — commercial information service — Age Space; conceptual alignment only"
+  - "RESNA Assistive Technology Standards — commercial professional association — Rehabilitation Engineering and Assistive Technology Society of North America; conceptual alignment only"
+  - "AARP HomeFit Guide — non-profit organization — AARP; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies AT categories; measures doorways; recognizes fall‑risk areas; lists common devices; recognizes safety benefits.

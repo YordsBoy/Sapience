@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Applies CDC hand-hygiene, PPE, and environmental-cleaning guidance in the household, preventing cross-contamination for immunocompromised care recipients.
 source_frameworks:
-  - "CDC Core IPC Practices"
-  - "WHO Five Moments for Hand Hygiene"
+  - "CDC Core Infection Prevention and Control (IPC) Practices — U.S. government — CDC/HHS; public domain"
+  - "WHO Five Moments for Hand Hygiene framework — intergovernmental organization — WHO (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Explains transmission routes; identifies high-touch surfaces.

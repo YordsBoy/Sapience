@@ -9,15 +9,15 @@ cluster_tags:
   - "Communication"
 description: Communicating with persons living with dementia using validation, reminiscence, and Montessori‑based activities to reduce agitation and enhance quality of life.
 source_frameworks:
-  - "Alzheimer’s Association Communication Guide"
-  - "Alzheimer's Association Dementia Care Practice Recommendations"
-  - "Teepa Snow Positive Approach to Care"
-  - "Validation Therapy Principles"
+  - "Alzheimer’s Association Communication Tips and guidance — non-profit organization — Alzheimer’s Association; publicly available"
+  - "Alzheimer’s Association Dementia Care Practice Recommendations — non-profit organization — Alzheimer’s Association; publicly available"
+  - "Teepa Snow Positive Approach to Care® training methodology — commercial proprietary methodology — Positive Approach, LLC; conceptual alignment only"
+  - "Validation Therapy principles (Feil 1982, 1993) — commercial proprietary methodology — Validation Training Institute; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies dementia stages; uses calm tone; avoids argumentation; identifies communication changes; practices slow speech.
   - level: Basic
-    indicator: Employs visual cues; uses reality-orientation cues; maintains eye contactvalidates emotions; leads simple reminiscence.
+    indicator: Employs visual cues; uses reality-orientation cues; maintains eye contact; validates emotions; leads simple reminiscence activities.
   - level: Intermediate
     indicator: Designs Montessori tasks; redirects challenging behaviors; tracks mood changes; employs validation phrases; manages sundowning behaviors.
   - level: Advanced
