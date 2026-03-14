@@ -9,11 +9,11 @@ cluster_tags:
   - "Mobility"
 description: "Utilizes digital platforms and software (e.g. scheduling apps, CRM systems) to coordinate field service work, manage appointments,  parts logistics, on-site customer experience, and document service delivery."  
 source_frameworks:
-  - "Gartner Field Service Management Market Guide"
-  - "International Association of Field Service Managers (IAFSM) Body of Knowledge" 
+  - "Gartner Field Service Management Market Guide — commercial research — Gartner; conceptual alignment only"
+  - "IAFSM Body of Knowledge — commercial professional association; conceptual alignment only"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Is aware of common field service apps and digital scheduling; uses a smartphone or tablet for basic communication and lookup.  
+    indicator: Identifies commonly used field service applications and digital scheduling tools; uses a smartphone or tablet for basic task lookup and status communication.
   - level: Basic  
     indicator: Logs service jobs in a mobile app (time in/out, simple notes); follows a digital schedule and updates job status for dispatcher visibility.  
   - level: Intermediate  

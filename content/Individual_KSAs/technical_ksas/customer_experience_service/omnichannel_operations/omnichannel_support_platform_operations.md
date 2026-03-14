@@ -12,8 +12,8 @@ cluster_tags:
   - "Contact Centre"
 description: Configuring, optimizing, and maintaining omnichannel support platforms—voice, chat, messaging, social, and self‑service—to deliver seamless customer experiences and real‑time context hand‑offs.
 source_frameworks:
-  - "ITIL 4 Incident Management"
-  - "COPC CX Standard – Technology Management"
+  - "ITIL 4 Incident Management Practice — commercial IT service management framework — PeopleCert/AXELOS; conceptual alignment only"
+  - "COPC CX Standard Technology Management — commercial CX standards body — COPC Inc.; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies supported channels; navigates agent desktop; recognizes customer‑identity pop‑ups.

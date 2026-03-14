@@ -12,8 +12,8 @@ description: >
   chatbots, voice bots, and autonomous agents—to resolve queries, escalate
   complex cases, and boost first-contact resolution.
 source_frameworks:
-  - "COPC CX Standard – Automation Toolkit"
-  - "Salesforce Einstein & Agentforce AI Guides"
+  - "COPC CX Standard Automation Toolkit — commercial CX standards body — COPC Inc.; conceptual alignment only"
+  - "Salesforce Einstein and Agentforce AI documentation — vendor documentation — Salesforce; conceptual alignment only — equivalent AI customer service platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Explains natural-language-understanding (NLU) vs. large-language-model (LLM) approaches; identifies use cases.

@@ -11,10 +11,10 @@ description: >
   Manages and utilizes Customer Relationship Management (CRM) software to track interactions and sales funnels;  
   analyses customer data and feedback (using dashboards, KPIs, sentiment analysis) to inform service improvements and personalized outreach.  
 source_frameworks:  
-  - "Salesforce Admin Competencies"  
+  - "Salesforce Administrator Competency Framework — vendor documentation — Salesforce; conceptual alignment only — equivalent CRM platforms may demonstrate competency"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Can navigate basic CRM interface; understands key CRM fields (lead, case, opportunity) and simple reports.  
+    indicator: Navigates basic CRM interface; identifies key CRM record types including leads, cases, and opportunities; runs simple pre-built reports.
   - level: Basic  
     indicator: Logs customer interactions in CRM properly; pulls pre-built reports on customer satisfaction or sales metrics.  
   - level: Intermediate  

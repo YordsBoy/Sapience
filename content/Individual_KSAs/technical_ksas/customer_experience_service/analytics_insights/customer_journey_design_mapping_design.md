@@ -12,8 +12,8 @@ description: >
   then prioritises improvements based on effort/impact analysis and real-world
   analytics.
 source_frameworks:
-  - "Qualtrics Journey-Mapping Guide"
-  - "UXPressia Journey-Mapping Framework"
+  - "Qualtrics Journey Mapping Guide — vendor documentation — Qualtrics; conceptual alignment only — equivalent platforms may demonstrate competency"
+  - "UXPressia Journey Mapping Framework — vendor documentation — UXPressia; conceptual alignment only — equivalent platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Lists journey stages; notes channels and personas.

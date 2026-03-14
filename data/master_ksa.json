@@ -18411,8 +18411,8 @@
     ],
     "description": "Executes structured recovery protocols to turn service failures into loyalty opportunities, leveraging the Service-Recovery Paradox (SRP) framework and principles of procedural, distributive, and interactional justice.\n",
     "source_frameworks": [
-      "Harvard Business Review – Profitable Art of Service Recovery",
-      "Service Recovery Paradox Research"
+      "Hart, Heskett & Sasser (1990), 'The Profitable Art of Service Recovery,' Harvard Business Review — academic/commercial publication; conceptual alignment only",
+      "Service Recovery Paradox research literature (McCollough & Bharadwaj 1992; Magnini et al. 2007) — academic literature; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18449,9 +18449,9 @@
     ],
     "description": "Mapping end‑to‑end service processes—including front‑stage, back‑stage, and support systems—to identify pain points and prototype improved interactions using journey‑mapping and low‑fidelity mock‑ups.",
     "source_frameworks": [
-      "Interaction Design Foundation (IxDF) Blueprint Method",
-      "Design Council Double Diamond",
-      "Nielsen Norman Group Service Design Guidelines"
+      "IxDF Service Blueprint Method — commercial design education platform — IxDF; conceptual alignment only",
+      "Design Council Double Diamond framework — U.K. public design body; publicly available",
+      "Nielsen Norman Group Service Design Guidelines — commercial UX research firm; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18491,8 +18491,8 @@
     ],
     "description": "Configuring, optimizing, and maintaining omnichannel support platforms—voice, chat, messaging, social, and self‑service—to deliver seamless customer experiences and real‑time context hand‑offs.",
     "source_frameworks": [
-      "ITIL 4 Incident Management",
-      "COPC CX Standard – Technology Management"
+      "ITIL 4 Incident Management Practice — commercial IT service management framework — PeopleCert/AXELOS; conceptual alignment only",
+      "COPC CX Standard Technology Management — commercial CX standards body — COPC Inc.; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18529,13 +18529,13 @@
     ],
     "description": "Designs and manages an integrated customer support experience across channels (phone, email, live chat, social media, chatbots); ensures consistency in service quality, tracks cross-channel customer journeys, and deploys appropriate tools (helpdesk software, AI assistants) for unified support.  \n",
     "source_frameworks": [
-      "ITU Customer Contact Center Guidelines",
-      "COPC CX Standard 7.0"
+      "ITU Customer Contact Centre Guidelines — intergovernmental organization — ITU (UN); publicly available",
+      "COPC CX Standard 7.0 — commercial CX standards body — COPC Inc.; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands the concept of multiple service channels and why consistency is important."
+        "indicator": "Identifies the primary customer service channels — phone, email, live chat, social media, and chatbot — and explains how cross-channel inconsistency affects the customer experience."
       },
       {
         "level": "Basic",
@@ -18567,13 +18567,13 @@
     ],
     "description": "Utilizes digital platforms and software (e.g. scheduling apps, CRM systems) to coordinate field service work, manage appointments,  parts logistics, on-site customer experience, and document service delivery.",
     "source_frameworks": [
-      "Gartner Field Service Management Market Guide",
-      "International Association of Field Service Managers (IAFSM) Body of Knowledge"
+      "Gartner Field Service Management Market Guide — commercial research — Gartner; conceptual alignment only",
+      "IAFSM Body of Knowledge — commercial professional association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Is aware of common field service apps and digital scheduling; uses a smartphone or tablet for basic communication and lookup."
+        "indicator": "Identifies commonly used field service applications and digital scheduling tools; uses a smartphone or tablet for basic task lookup and status communication."
       },
       {
         "level": "Basic",
@@ -18605,8 +18605,8 @@
     ],
     "description": "Delivers clear, empathetic, and brand-aligned communications across voice, chat, and social channels, adhering to ISO 18295-1 customer-contact requirements and privacy regulations.\n",
     "source_frameworks": [
-      "ISO 18295-1 Customer Contact Centres",
-      "Customer Experience Professionals Association (CXPA) Competency Framework"
+      "ISO 18295-1:2017 Customer Contact Centres: Requirements for the Provision of Service — ISO proprietary standard; conceptual alignment only",
+      "CXPA Competency Framework — commercial professional association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18643,8 +18643,8 @@
     ],
     "description": "Designs, deploys, and governs artificial-intelligence (AI) bots—generative AI chatbots, voice bots, and autonomous agents—to resolve queries, escalate complex cases, and boost first-contact resolution.\n",
     "source_frameworks": [
-      "COPC CX Standard – Automation Toolkit",
-      "Salesforce Einstein & Agentforce AI Guides"
+      "COPC CX Standard Automation Toolkit — commercial CX standards body — COPC Inc.; conceptual alignment only",
+      "Salesforce Einstein and Agentforce AI documentation — vendor documentation — Salesforce; conceptual alignment only — equivalent AI customer service platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -18681,9 +18681,9 @@
     ],
     "description": "Collecting, integrating, and analyzing multi‑channel Voice‑of‑Customer data—surveys, social listening, support transcripts—to generate actionable insights and drive continuous CX improvements.",
     "source_frameworks": [
-      "Medallia VoC Program Guide",
-      "Qualtrics XM Institute Best Practices",
-      "Customer Experience Professionals Association (CXPA) CCXP Exam Blueprint"
+      "Medallia VoC Program Guide — vendor documentation — Medallia; conceptual alignment only — equivalent platforms may demonstrate competency",
+      "Qualtrics XM Institute Best Practices — vendor documentation — Qualtrics; conceptual alignment only — equivalent platforms may demonstrate competency",
+      "CXPA CCXP Exam Blueprint — commercial professional association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18720,8 +18720,8 @@
     ],
     "description": "Defining, tracking, and communicating Customer Experience performance—with metrics such as Customer Satisfaction (CSAT), Customer Effort Score (CES), Customer Lifetime Value (CLV)—and linking improvements to financial outcomes.",
     "source_frameworks": [
-      "Bain Net Promoter System",
-      "Forrester CX Index"
+      "Bain & Company Net Promoter System methodology — commercial consulting methodology; conceptual alignment only",
+      "Forrester Customer Experience Index — commercial research framework — Forrester Research; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18758,8 +18758,8 @@
     ],
     "description": "Visualises end-to-end customer journeys, mapping emotions and touchpoints, then prioritises improvements based on effort/impact analysis and real-world analytics.\n",
     "source_frameworks": [
-      "Qualtrics Journey-Mapping Guide",
-      "UXPressia Journey-Mapping Framework"
+      "Qualtrics Journey Mapping Guide — vendor documentation — Qualtrics; conceptual alignment only — equivalent platforms may demonstrate competency",
+      "UXPressia Journey Mapping Framework — vendor documentation — UXPressia; conceptual alignment only — equivalent platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -18796,12 +18796,12 @@
     ],
     "description": "Manages and utilizes Customer Relationship Management (CRM) software to track interactions and sales funnels;   analyses customer data and feedback (using dashboards, KPIs, sentiment analysis) to inform service improvements and personalized outreach.  \n",
     "source_frameworks": [
-      "Salesforce Admin Competencies"
+      "Salesforce Administrator Competency Framework — vendor documentation — Salesforce; conceptual alignment only — equivalent CRM platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Can navigate basic CRM interface; understands key CRM fields (lead, case, opportunity) and simple reports."
+        "indicator": "Navigates basic CRM interface; identifies key CRM record types including leads, cases, and opportunities; runs simple pre-built reports."
       },
       {
         "level": "Basic",

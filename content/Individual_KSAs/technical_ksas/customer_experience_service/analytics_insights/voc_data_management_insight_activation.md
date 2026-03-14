@@ -9,9 +9,9 @@ cluster_tags:
   - "Analytics"
 description: Collecting, integrating, and analyzing multi‑channel Voice‑of‑Customer data—surveys, social listening, support transcripts—to generate actionable insights and drive continuous CX improvements.
 source_frameworks:
-  - "Medallia VoC Program Guide"
-  - "Qualtrics XM Institute Best Practices"
-  - "Customer Experience Professionals Association (CXPA) CCXP Exam Blueprint"
+  - "Medallia VoC Program Guide — vendor documentation — Medallia; conceptual alignment only — equivalent platforms may demonstrate competency"
+  - "Qualtrics XM Institute Best Practices — vendor documentation — Qualtrics; conceptual alignment only — equivalent platforms may demonstrate competency"
+  - "CXPA CCXP Exam Blueprint — commercial professional association; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Collects survey responses; tags feedback themes; logs Net Promoter Score (NPS®) results.

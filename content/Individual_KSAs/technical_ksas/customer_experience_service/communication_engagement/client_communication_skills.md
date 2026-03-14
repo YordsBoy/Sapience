@@ -12,8 +12,8 @@ description: >
   chat, and social channels, adhering to ISO 18295-1 customer-contact
   requirements and privacy regulations.
 source_frameworks:
-  - "ISO 18295-1 Customer Contact Centres"
-  - "Customer Experience Professionals Association (CXPA) Competency Framework"
+  - "ISO 18295-1:2017 Customer Contact Centres: Requirements for the Provision of Service — ISO proprietary standard; conceptual alignment only"
+  - "CXPA Competency Framework — commercial professional association; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines tone-of-voice guidelines; recognizes data-privacy rules.

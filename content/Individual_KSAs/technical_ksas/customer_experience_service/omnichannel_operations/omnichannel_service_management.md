@@ -10,11 +10,11 @@ cluster_tags:
 description: >  
   Designs and manages an integrated customer support experience across channels (phone, email, live chat, social media, chatbots); ensures consistency in service quality, tracks cross-channel customer journeys, and deploys appropriate tools (helpdesk software, AI assistants) for unified support.  
 source_frameworks:  
-  - "ITU Customer Contact Center Guidelines"  
-  - "COPC CX Standard 7.0"
+  - "ITU Customer Contact Centre Guidelines — intergovernmental organization — ITU (UN); publicly available"
+  - "COPC CX Standard 7.0 — commercial CX standards body — COPC Inc.; conceptual alignment only"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands the concept of multiple service channels and why consistency is important.  
+    indicator: Identifies the primary customer service channels — phone, email, live chat, social media, and chatbot — and explains how cross-channel inconsistency affects the customer experience.
   - level: Basic  
     indicator: Handles customer inquiries on a couple of channels (e.g. phone and email) with guidance; uses basic helpdesk software features.  
   - level: Intermediate  

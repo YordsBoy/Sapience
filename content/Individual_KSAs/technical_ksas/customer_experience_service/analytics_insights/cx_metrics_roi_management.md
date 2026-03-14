@@ -9,8 +9,8 @@ cluster_tags:
   - "ROI"
 description: Defining, tracking, and communicating Customer Experience performance—with metrics such as Customer Satisfaction (CSAT), Customer Effort Score (CES), Customer Lifetime Value (CLV)—and linking improvements to financial outcomes.
 source_frameworks:
-  - "Bain Net Promoter System"
-  - "Forrester CX Index"  
+  - "Bain & Company Net Promoter System methodology — commercial consulting methodology; conceptual alignment only"
+  - "Forrester Customer Experience Index — commercial research framework — Forrester Research; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Calculates basic CSAT averages; recognizes key CX metrics definitions.

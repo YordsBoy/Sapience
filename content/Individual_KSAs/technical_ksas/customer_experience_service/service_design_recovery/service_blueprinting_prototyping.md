@@ -9,9 +9,9 @@ cluster_tags:
   - "Blueprinting"
 description: Mapping end‑to‑end service processes—including front‑stage, back‑stage, and support systems—to identify pain points and prototype improved interactions using journey‑mapping and low‑fidelity mock‑ups.
 source_frameworks: 
-  - "Interaction Design Foundation (IxDF) Blueprint Method"
-  - "Design Council Double Diamond"
-  - "Nielsen Norman Group Service Design Guidelines"
+  - "IxDF Service Blueprint Method — commercial design education platform — IxDF; conceptual alignment only"
+  - "Design Council Double Diamond framework — U.K. public design body; publicly available"
+  - "Nielsen Norman Group Service Design Guidelines — commercial UX research firm; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Sketches customer touchpoints; labels backstage actions; notes system dependencies.

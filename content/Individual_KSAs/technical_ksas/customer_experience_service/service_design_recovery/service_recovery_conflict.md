@@ -12,8 +12,8 @@ description: >
   opportunities, leveraging the Service-Recovery Paradox (SRP) framework and
   principles of procedural, distributive, and interactional justice.
 source_frameworks:
-  - "Harvard Business Review – Profitable Art of Service Recovery"
-  - "Service Recovery Paradox Research" 
+  - "Hart, Heskett & Sasser (1990), 'The Profitable Art of Service Recovery,' Harvard Business Review — academic/commercial publication; conceptual alignment only"
+  - "Service Recovery Paradox research literature (McCollough & Bharadwaj 1992; Magnini et al. 2007) — academic literature; conceptual alignment only" 
 proficiency_levels:  
   - level: Awareness  
     indicator: Recognizes when a customer is dissatisfied or an error has occurred; remains calm and courteous during difficult interactions.  
