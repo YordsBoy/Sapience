@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Integrates artificial-intelligence (AI) tools—adaptive tutors, generative content engines—into instruction while upholding UNESCO’s AI Competency Framework for Teachers ethics, transparency, and human-agency principles.
 source_frameworks:
-  - "UNESCO AI Competency Framework for Teachers"
-  - "ISTE Standards for Educators (Analyst, Designer)"
+  - "UNESCO AI Competency Framework for Teachers (intergovernmental organization framework; publicly available)"
+  - "ISTE Standards for Educators – Analyst, Designer (commercial professional association standards; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains basic AI concepts (machine learning, large language model) and associated ethical risks.

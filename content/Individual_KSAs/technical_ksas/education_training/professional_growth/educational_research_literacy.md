@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Critically reads, interprets, and applies educational research following American Educational Research Association (AERA) and evidence-based practice standards to enhance pedagogy.
 source_frameworks:
-  - "AERA Standards for Reporting Research"
-  - "What Works Clearinghouse (WWC) Procedures"
+  - "AERA Standards for Reporting Research (professional membership association standards — American Educational Research Association; publicly available; conceptual alignment only)"
+  - "What Works Clearinghouse (WWC) Procedures and Standards (U.S. Department of Education initiative; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines quantitative vs qualitative study; locates abstract and findings.

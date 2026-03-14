@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Guides learners through Kolb’s Experiential Learning Cycle—concrete experience, reflective observation, abstract conceptualisation, active experimentation—using simulations, fieldwork, and service-learning.
 source_frameworks:
-  - "Kolb Experiential Learning Theory (ELT)"
-  - "National Society for Experiential Education (NSEE) Principles"
+  - "Kolb Experiential Learning Theory (ELT) (academic theoretical framework; Kolb, 1984; widely published and available through academic literature)"
+  - "National Society for Experiential Education (NSEE) Eight Principles of Good Practice (nonprofit professional association principles; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: States the four ELT stages; identifies reflection prompts.

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Teaches students to navigate cyberbullying, screen-time balance, data privacy, and mental health online using Common Sense Education digital-citizenship curriculum and American Psychological Association (APA) guidelines.
 source_frameworks:
-  - "Common Sense Education Digital Citizenship Curriculum"
-  - "APA Digital Device Guidelines for Youth"
+  - "Common Sense Education Digital Citizenship Curriculum (nonprofit organization curriculum; conceptual alignment only — equivalent digital citizenship curricula may demonstrate competency)"
+  - "APA Digital Device Guidelines for Youth (professional membership association guidelines; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists core safety topics; recognizes signs of online harassment.

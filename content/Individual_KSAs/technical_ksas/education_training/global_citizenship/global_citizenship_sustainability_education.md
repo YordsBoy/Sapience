@@ -12,8 +12,8 @@ description: >
   (SDG) 4.7—knowledge, skills, and values for global citizenship, peace, and
   sustainable development.
 source_frameworks:
-  - "UNESCO SDG 4.7 Roadmap"
-  - "Oxfam Global Citizenship Education Framework"
+  - "UNESCO SDG 4.7 Roadmap (intergovernmental organization framework; publicly available)"
+  - "Oxfam Global Citizenship Education Framework (international nonprofit organization framework; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines SDG pillars; identifies local-to-global issues.

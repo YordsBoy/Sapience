@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designs learning experiences using Universal Design for Learning (UDL) 3.0 Guidelines—multiple means of engagement, representation, and action—to ensure accessibility for all learners, including those with disabilities and diverse linguistic backgrounds.
 source_frameworks:
-  - "CAST Universal Design for Learning Guidelines 3.0"
-  - "UNESCO Inclusive Education Policy Guidance"
+  - "CAST Universal Design for Learning Guidelines 3.0 (nonprofit educational research organization; open access at cast.org)"
+  - "UNESCO Inclusive Education Policy Guidance (intergovernmental organization framework; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: States the three UDL principles and basic accessibility laws (e.g., Americans with Disabilities Act).

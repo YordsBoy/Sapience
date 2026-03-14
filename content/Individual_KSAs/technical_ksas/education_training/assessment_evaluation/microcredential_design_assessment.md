@@ -10,15 +10,15 @@ cluster_tags:
 description: >
   Structures short, skills-verified micro-credentials with clear evidence requirements, blockchain-secure badges, and labor-market alignment.
 source_frameworks:
-  - "Quality Matters Micro-credential Standards"
-  - "European MOOC Consortium Common Micro-credential Framework"
+  - "Quality Matters Micro-credential Standards (commercial nonprofit quality-certification body; conceptual alignment only)"
+  - "European MOOC Consortium Common Micro-credential Framework (European institutional consortium; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Differentiates micro-credential vs certificate; lists badge metadata.
   - level: Basic
     indicator: Aligns outcomes to job skills; issues digital badge upon rubric mastery.
   - level: Intermediate
-    indicator: Validates evidence via peer review; embeds blockchain verification.
+    indicator: Validates evidence via peer review; issues digitally-verified badges using applicable verification technology (e.g., blockchain anchoring, Open Badges 3.0 verification, LMS-based credential issuance).
   - level: Advanced
     indicator: Maps credential pathways; secures industry endorsement; analyses employment impact.
   - level: Expert

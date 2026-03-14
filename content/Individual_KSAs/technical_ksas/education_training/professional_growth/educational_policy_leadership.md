@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Develops, implements, and evaluates education policies, accreditation processes, and change-management initiatives that advance equitable student outcomes.
 source_frameworks:
-  - "Council for the Accreditation of Educator Preparation (CAEP) Standards"
-  - "Kotter 8-Step Change Model"
+  - "Council for the Accreditation of Educator Preparation (CAEP) Standards (U.S. private educator-preparation accrediting body; conceptual alignment only — equivalent regional or international accreditation standards may demonstrate competency)"
+  - "Kotter 8-Step Change Model (commercial change-management framework — Kotter International; conceptual alignment only — equivalent change-management models may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes policy cycle; lists accrediting bodies.

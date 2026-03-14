@@ -12,8 +12,8 @@ description: >
   cooperative education aligned with industry standards, labor regulations, and
   learner outcomes.
 source_frameworks:
-  - "U.S. Department of Labor Apprenticeship Toolkit"
-  - "European Alliance for Apprenticeships Quality Framework"
+  - "U.S. Department of Labor Registered Apprenticeship Toolkit (U.S. government publication; public domain)"
+  - "European Alliance for Apprenticeships Quality Framework (EU institutional framework; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines placement types; identifies legal and safety requirements.

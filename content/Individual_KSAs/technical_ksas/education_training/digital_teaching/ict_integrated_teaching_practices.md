@@ -10,13 +10,13 @@ cluster_tags:
 description: > 
   Applying Information and Communication Technology (ICT) tools—learning‑management systems, collaborative apps, digital content—to design and facilitate learner‑centred instruction aligned with curriculum standards to enhance student engagement and personalize learning.
 source_frameworks:
-  - "ISTE Standards for Educators (Designer, Analyst)"
-  - "UNESCO ICT Competency Framework for Teachers"
+  - "ISTE Standards for Educators – Designer, Analyst (commercial professional association standards; conceptual alignment only)"
+  - "UNESCO ICT Competency Framework for Teachers (intergovernmental organization framework; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Uses presentation software; uploads resources to Learning Management System (LMS); follows basic digital‑safety rules.
   - level: Basic
-    indicator: Uses slides, videos, or an LMS to support lessons; assigns online resources to complement teaching;designs blended lessons; supports students in accessing digital materials.
+    indicator: Uses slides, videos, or an LMS to support lessons; assigns online resources to complement teaching; designs blended lessons; supports students in accessing digital materials.
   - level: Intermediate
     indicator: Applies Universal Design for Learning (UDL); integrates multiple ICT tools in teaching (quizzes, simulations, collaborative tools); adapts lessons based on e-learning analytics or feedback.
   - level: Advanced

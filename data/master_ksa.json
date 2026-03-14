@@ -17253,8 +17253,8 @@
     ],
     "description": "Designs, coordinates, and evaluates apprenticeships, internships, and cooperative education aligned with industry standards, labor regulations, and learner outcomes.\n",
     "source_frameworks": [
-      "U.S. Department of Labor Apprenticeship Toolkit",
-      "European Alliance for Apprenticeships Quality Framework"
+      "U.S. Department of Labor Registered Apprenticeship Toolkit (U.S. government publication; public domain)",
+      "European Alliance for Apprenticeships Quality Framework (EU institutional framework; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -17291,8 +17291,8 @@
     ],
     "description": "Facilitates reflective cycles (pre-observation, feedback, goal setting) to support colleagues’ growth, using the International Coaching Federation (ICF) core competencies and ISTE Educator Standard 7.\n",
     "source_frameworks": [
-      "International Coaching Federation Core Competencies",
-      "ISTE Standards for Educators – Collaborator"
+      "International Coaching Federation (ICF) Core Competencies (private professional association; core competencies publicly available — ICF certification and training programs are commercial; conceptual alignment only)",
+      "ISTE Standards for Educators – Collaborator (commercial professional association standards; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -17329,8 +17329,8 @@
     ],
     "description": "Critically reads, interprets, and applies educational research following American Educational Research Association (AERA) and evidence-based practice standards to enhance pedagogy.\n",
     "source_frameworks": [
-      "AERA Standards for Reporting Research",
-      "What Works Clearinghouse (WWC) Procedures"
+      "AERA Standards for Reporting Research (professional membership association standards — American Educational Research Association; publicly available; conceptual alignment only)",
+      "What Works Clearinghouse (WWC) Procedures and Standards (U.S. Department of Education initiative; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -17367,8 +17367,8 @@
     ],
     "description": "Develops, implements, and evaluates education policies, accreditation processes, and change-management initiatives that advance equitable student outcomes.\n",
     "source_frameworks": [
-      "Council for the Accreditation of Educator Preparation (CAEP) Standards",
-      "Kotter 8-Step Change Model"
+      "Council for the Accreditation of Educator Preparation (CAEP) Standards (U.S. private educator-preparation accrediting body; conceptual alignment only — equivalent regional or international accreditation standards may demonstrate competency)",
+      "Kotter 8-Step Change Model (commercial change-management framework — Kotter International; conceptual alignment only — equivalent change-management models may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -17405,13 +17405,13 @@
     ],
     "description": "Implements Content and Language Integrated Learning (CLIL), scaffolding, and translanguaging strategies to support multilingual learners and foster language equity.\n",
     "source_frameworks": [
-      "European Commission CLIL Guidelines",
-      "WIDA English Language Development Standards"
+      "European Commission CLIL Guidelines (EU institutional guidelines; publicly available)",
+      "WIDA English Language Development Standards (U.S. education consortium standards — University of Wisconsin–Madison; conceptual alignment only — equivalent English language development frameworks such as CEFR or TESOL Standards may demonstrate competency in non-U.S. contexts)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies levels of language proficiency; recognizes additive vs subtractive approaches."
+        "indicator": "Identifies levels of language proficiency; distinguishes additive from subtractive language approaches and their implications for learner outcomes."
       },
       {
         "level": "Basic",
@@ -17443,8 +17443,8 @@
     ],
     "description": "Applies ADDIE (Analyse-Design-Develop-Implement-Evaluate) and Universal Design for Learning (UDL 3.0) to build evidence-based, multimedia courses that motivate and develop diverse learners.\n",
     "source_frameworks": [
-      "CAST UDL Guidelines 3.0",
-      "ADDIE Model (US DoD)"
+      "CAST UDL Guidelines 3.0 (nonprofit educational research organization; open access at cast.org)",
+      "ADDIE Model (U.S. government-originated instructional design model; developed through DoD-contracted work at Florida State University; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -17481,8 +17481,8 @@
     ],
     "description": "Designs learning experiences using Universal Design for Learning (UDL) 3.0 Guidelines—multiple means of engagement, representation, and action—to ensure accessibility for all learners, including those with disabilities and diverse linguistic backgrounds.\n",
     "source_frameworks": [
-      "CAST Universal Design for Learning Guidelines 3.0",
-      "UNESCO Inclusive Education Policy Guidance"
+      "CAST Universal Design for Learning Guidelines 3.0 (nonprofit educational research organization; open access at cast.org)",
+      "UNESCO Inclusive Education Policy Guidance (intergovernmental organization framework; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -17519,8 +17519,8 @@
     ],
     "description": "Guides learners through Kolb’s Experiential Learning Cycle—concrete experience, reflective observation, abstract conceptualisation, active experimentation—using simulations, fieldwork, and service-learning.\n",
     "source_frameworks": [
-      "Kolb Experiential Learning Theory (ELT)",
-      "National Society for Experiential Education (NSEE) Principles"
+      "Kolb Experiential Learning Theory (ELT) (academic theoretical framework; Kolb, 1984; widely published and available through academic literature)",
+      "National Society for Experiential Education (NSEE) Eight Principles of Good Practice (nonprofit professional association principles; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -17557,17 +17557,17 @@
     ],
     "description": "Establishing positive learning environments through proactive behavior strategies, culturally responsive practices, and motivational techniques that maximise instructional time and learner engagement.",
     "source_frameworks": [
-      "UNESCO ICT Competency Framework for Teachers",
-      "Positive Behavioural Interventions and Supports (PBIS) Framework"
+      "UNESCO ICT Competency Framework for Teachers (intergovernmental organization framework; publicly available)",
+      "Positive Behavioural Interventions and Supports (PBIS) Framework (U.S. federally-supported educational framework; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Sets clear expectations; uses seating arrangements; recognizes off‑task behavior triggers."
+        "indicator": "Sets clear expectations; uses seating arrangements; recognizes off-task behavior triggers."
       },
       {
         "level": "Basic",
-        "indicator": "Applies praise‑to‑correction ratios; implements simple routines; leverages student interests."
+        "indicator": "Applies praise-to-correction ratios; implements simple routines; leverages student interests."
       },
       {
         "level": "Intermediate",
@@ -17575,17 +17575,17 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Coaches peers on behavior supports; integrates social‑emotional learning (SEL); analyses engagement analytics."
+        "indicator": "Coaches peers on behavior supports; integrates social-emotional learning (SEL); analyses engagement analytics."
       },
       {
         "level": "Expert",
-        "indicator": "Designs school‑wide behavior frameworks; coaches faculty in multi-tiered support; publishes engagement research; advises education ministries; influences policy."
+        "indicator": "Designs school-wide behavior frameworks; coaches faculty in multi-tiered support; publishes engagement research; advises education ministries; influences policy."
       }
     ]
   },
   {
     "ksa_id": "learning_analytics_data_informed_instruction",
-    "label": "Learning Analytics & Data‑Informed Instruction",
+    "label": "Learning Analytics & Data-Informed Instruction",
     "category": "Technical",
     "sector": "education_training",
     "horizon": "core",
@@ -17593,10 +17593,10 @@
       "Analytics",
       "Data-Driven"
     ],
-    "description": "Collecting, analyzing, and interpreting learner‑interaction data to personalise instruction, predict at‑risk students, and improve pedagogical decisions at classroom and institutional levels.",
+    "description": "Collecting, analyzing, and interpreting learner-interaction data to personalise instruction, predict at-risk students, and improve pedagogical decisions at classroom and institutional levels.",
     "source_frameworks": [
-      "Society for Learning Analytics Research (SoLAR) Practitioners Guide",
-      "Ed-Fi Learning-Analytics Suite"
+      "Society for Learning Analytics Research (SoLAR) Practitioners Guide (nonprofit academic society publication; publicly available)",
+      "Ed-Fi Alliance Learning-Analytics Suite (open data standard; Apache 2.0 license — specific implementation platforms vary)"
     ],
     "proficiency_levels": [
       {
@@ -17605,19 +17605,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Generates learning‑analytics dashboards; flags low‑participation patterns; implements simple interventions."
+        "indicator": "Generates learning-analytics dashboards; flags low-participation patterns; implements simple interventions."
       },
       {
         "level": "Intermediate",
-        "indicator": "Utilises predictive‑risk models; correlates engagement with achievement; applies anonymization protocols."
+        "indicator": "Utilises predictive-risk models; correlates engagement with achievement; applies anonymization protocols."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs randomised‑controlled trials; integrates multi‑source datasets; measures intervention efficacy."
+        "indicator": "Designs randomised-controlled trials; integrates multi-source datasets; measures intervention efficacy."
       },
       {
         "level": "Expert",
-        "indicator": "Leads institution‑wide learning‑analytics programs; publishes open datasets; advises on ethical AI in education."
+        "indicator": "Leads institution-wide learning-analytics programs; publishes open datasets; advises on ethical AI in education."
       }
     ]
   },
@@ -17633,8 +17633,8 @@
     ],
     "description": "Facilitates learning that advances United Nations Sustainable Development Goal (SDG) 4.7—knowledge, skills, and values for global citizenship, peace, and sustainable development.\n",
     "source_frameworks": [
-      "UNESCO SDG 4.7 Roadmap",
-      "Oxfam Global Citizenship Education Framework"
+      "UNESCO SDG 4.7 Roadmap (intergovernmental organization framework; publicly available)",
+      "Oxfam Global Citizenship Education Framework (international nonprofit organization framework; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -17669,20 +17669,20 @@
       "Online Learning",
       "Hybrid"
     ],
-    "description": "Develops and delivers effective instruction in fully online or hybrid (blended) learning environments; masters virtual classroom management, student engagement through video conferencing, discussion forums, and adaptive learning platforms, ensuring accessibility and inclusion.  \n",
+    "description": "Develops and delivers effective instruction in fully online or hybrid (blended) learning environments; masters virtual classroom management, student engagement through video conferencing, discussion forums, and adaptive learning platforms, ensuring accessibility and inclusion.\n",
     "source_frameworks": [
-      "Quality Matters Higher-Ed Rubric 7th Ed.",
-      "Community of Inquiry Framework",
-      "ISTE Educator Standards (2023)"
+      "Quality Matters Higher-Ed Rubric 7th Edition (commercial nonprofit quality-certification body; conceptual alignment only)",
+      "Community of Inquiry Framework (academic theoretical framework; Garrison, Anderson & Archer; publicly available through academic literature)",
+      "ISTE Educator Standards 2023 (commercial professional association standards; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands differences between face-to-face and online teaching; familiar with basic virtual classroom tools (video calls, forums)."
+        "indicator": "Distinguishes face-to-face from online teaching modalities; identifies basic virtual classroom tools (video conferencing, discussion forums) and their functions."
       },
       {
         "level": "Basic",
-        "indicator": "Conducts live virtual classes following a set lesson plan; utilizes simple features like screen-sharing, breakout rooms, polls, discussion boards and polls to engage students."
+        "indicator": "Conducts live virtual classes following a set lesson plan; utilizes simple features such as screen-sharing, breakout rooms, polls, and discussion boards to engage students."
       },
       {
         "level": "Intermediate",
@@ -17710,8 +17710,8 @@
     ],
     "description": "Applying Information and Communication Technology (ICT) tools—learning‑management systems, collaborative apps, digital content—to design and facilitate learner‑centred instruction aligned with curriculum standards to enhance student engagement and personalize learning.\n",
     "source_frameworks": [
-      "ISTE Standards for Educators (Designer, Analyst)",
-      "UNESCO ICT Competency Framework for Teachers"
+      "ISTE Standards for Educators – Designer, Analyst (commercial professional association standards; conceptual alignment only)",
+      "UNESCO ICT Competency Framework for Teachers (intergovernmental organization framework; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -17720,7 +17720,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Uses slides, videos, or an LMS to support lessons; assigns online resources to complement teaching;designs blended lessons; supports students in accessing digital materials."
+        "indicator": "Uses slides, videos, or an LMS to support lessons; assigns online resources to complement teaching; designs blended lessons; supports students in accessing digital materials."
       },
       {
         "level": "Intermediate",
@@ -17748,8 +17748,8 @@
     ],
     "description": "Teaches students to navigate cyberbullying, screen-time balance, data privacy, and mental health online using Common Sense Education digital-citizenship curriculum and American Psychological Association (APA) guidelines.\n",
     "source_frameworks": [
-      "Common Sense Education Digital Citizenship Curriculum",
-      "APA Digital Device Guidelines for Youth"
+      "Common Sense Education Digital Citizenship Curriculum (nonprofit organization curriculum; conceptual alignment only — equivalent digital citizenship curricula may demonstrate competency)",
+      "APA Digital Device Guidelines for Youth (professional membership association guidelines; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -17786,8 +17786,8 @@
     ],
     "description": "Integrates artificial-intelligence (AI) tools—adaptive tutors, generative content engines—into instruction while upholding UNESCO’s AI Competency Framework for Teachers ethics, transparency, and human-agency principles.\n",
     "source_frameworks": [
-      "UNESCO AI Competency Framework for Teachers",
-      "ISTE Standards for Educators (Analyst, Designer)"
+      "UNESCO AI Competency Framework for Teachers (intergovernmental organization framework; publicly available)",
+      "ISTE Standards for Educators – Analyst, Designer (commercial professional association standards; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -17824,8 +17824,8 @@
     ],
     "description": "Structures short, skills-verified micro-credentials with clear evidence requirements, blockchain-secure badges, and labor-market alignment.\n",
     "source_frameworks": [
-      "Quality Matters Micro-credential Standards",
-      "European MOOC Consortium Common Micro-credential Framework"
+      "Quality Matters Micro-credential Standards (commercial nonprofit quality-certification body; conceptual alignment only)",
+      "European MOOC Consortium Common Micro-credential Framework (European institutional consortium; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -17838,7 +17838,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Validates evidence via peer review; embeds blockchain verification."
+        "indicator": "Validates evidence via peer review; issues digitally-verified badges using applicable verification technology (e.g., blockchain anchoring, Open Badges 3.0 verification, LMS-based credential issuance)."
       },
       {
         "level": "Advanced",
@@ -17852,20 +17852,20 @@
   },
   {
     "ksa_id": "competency_based_assessment_design",
-    "label": "Competency‑Based Assessment Design",
+    "label": "Competency-Based Assessment Design",
     "category": "Technical",
     "sector": "education_training",
     "horizon": "core",
     "cluster_tags": [
       "Assessment",
-      "Competency‑Based Learning",
+      "Competency-Based Learning",
       "Rubrics"
     ],
-    "description": "Designing valid and reliable assessments—performance tasks, portfolios, rubrics—that measure mastery of defined competencies rather than seat‑time or rote knowledge.",
+    "description": "Designing valid and reliable assessments—performance tasks, portfolios, rubrics—that measure mastery of defined competencies rather than seat-time or rote knowledge.",
     "source_frameworks": [
-      "Quality Matters Higher-Education Rubric 7th Ed.",
-      "European Qualifications Framework (EQF)",
-      "IMS Global Competency Framework"
+      "Quality Matters Higher-Education Rubric 7th Edition (commercial nonprofit quality-certification body; conceptual alignment only)",
+      "European Qualifications Framework (EQF) (EU institutional framework; publicly available)",
+      "IMS Global / 1EdTech Competency and Academic Standards Exchange (CASE) Framework (industry standards consortium; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -17874,19 +17874,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Writes criterion‑referenced rubrics; aligns tasks to Bloom’s taxonomy; collects evidence of mastery."
+        "indicator": "Writes criterion-referenced rubrics; aligns tasks to Bloom's taxonomy; collects evidence of mastery."
       },
       {
         "level": "Intermediate",
-        "indicator": "Calibrates scoring with colleagues; analyses reliability statistics; maps evidence to frameworks (EQF, AQF); differentiates assessments for diverse learners."
+        "indicator": "Calibrates scoring with colleagues; analyses reliability statistics; maps evidence to regional or national competency frameworks (e.g., EQF, AQF, CAEP); differentiates assessments for diverse learners."
       },
       {
         "level": "Advanced",
-        "indicator": "Aligns competencies across programs; designs cross‑disciplinary performance tasks; implements e‑portfolio systems; validates construct alignment."
+        "indicator": "Aligns competencies across programs; designs cross-disciplinary performance tasks; implements e-portfolio systems; validates construct alignment."
       },
       {
         "level": "Expert",
-        "indicator": "Leads competency‑based accreditation; publishes assessment research; consults on policy for proficiency‑based progams; mentors assessment designers.."
+        "indicator": "Leads competency-based accreditation; publishes assessment research; consults on policy for proficiency-based programs; mentors assessment designers."
       }
     ]
   },

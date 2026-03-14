@@ -10,11 +10,11 @@ cluster_tags:
 description: >
   Implements Content and Language Integrated Learning (CLIL), scaffolding, and translanguaging strategies to support multilingual learners and foster language equity.
 source_frameworks:
-  - "European Commission CLIL Guidelines"
-  - "WIDA English Language Development Standards"
+  - "European Commission CLIL Guidelines (EU institutional guidelines; publicly available)"
+  - "WIDA English Language Development Standards (U.S. education consortium standards — University of Wisconsin–Madison; conceptual alignment only — equivalent English language development frameworks such as CEFR or TESOL Standards may demonstrate competency in non-U.S. contexts)"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies levels of language proficiency; recognizes additive vs subtractive approaches.
+    indicator: Identifies levels of language proficiency; distinguishes additive from subtractive language approaches and their implications for learner outcomes.
   - level: Basic
     indicator: Uses visuals, sentence frames, and first-language (L1) supports; checks comprehension.
   - level: Intermediate

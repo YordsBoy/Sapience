@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Applies ADDIE (Analyse-Design-Develop-Implement-Evaluate) and Universal Design for Learning (UDL 3.0) to build evidence-based, multimedia courses that motivate and develop diverse learners.
 source_frameworks:
-  - "CAST UDL Guidelines 3.0"
-  - "ADDIE Model (US DoD)"  
+  - "CAST UDL Guidelines 3.0 (nonprofit educational research organization; open access at cast.org)"
+  - "ADDIE Model (U.S. government-originated instructional design model; developed through DoD-contracted work at Florida State University; public domain)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Lists ADDIE phases; matches objectives to activities; presents information or instructions using provided materials and guidelines.  

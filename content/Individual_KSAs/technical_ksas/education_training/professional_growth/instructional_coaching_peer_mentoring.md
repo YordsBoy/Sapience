@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Facilitates reflective cycles (pre-observation, feedback, goal setting) to support colleagues’ growth, using the International Coaching Federation (ICF) core competencies and ISTE Educator Standard 7.
 source_frameworks:
-  - "International Coaching Federation Core Competencies"
-  - "ISTE Standards for Educators – Collaborator"
+  - "International Coaching Federation (ICF) Core Competencies (private professional association; core competencies publicly available — ICF certification and training programs are commercial; conceptual alignment only)"
+  - "ISTE Standards for Educators – Collaborator (commercial professional association standards; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Demonstrates active listening; builds rapport; sets confidentiality norms.
