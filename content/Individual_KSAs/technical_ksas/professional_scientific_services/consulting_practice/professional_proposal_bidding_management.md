@@ -11,8 +11,8 @@ description: >
   Leads end-to-end proposal lifecycle (capture, storyboarding, pricing) under Association of Proposal Management Professionals (APMP) Body of Knowledge and
   Shipley Proposal Guide.
 source_frameworks:
-  - "APMP BOK"
-  - "Shipley Capture Guide"
+  - "APMP Body of Knowledge (BOK) (professional membership association — Association of Proposal Management Professionals; conceptual alignment only)"
+  - "Shipley Proposal and Capture Guide (commercial consulting/training organization — Shipley Associates; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Reads RFP; records compliance matrix.

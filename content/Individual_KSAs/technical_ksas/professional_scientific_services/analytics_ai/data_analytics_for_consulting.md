@@ -7,12 +7,12 @@ horizon: core
 cluster_tags:
   - "Analytics"
   - "Consulting Toolkit"
-description: Leveraging descriptive, predictive, and prescriptive analytics—SQL, Python, visualisation—to generate client insights, model scenarios, and support evidence‑based recommendations.
+description: Leveraging descriptive, predictive, and prescriptive analytics—SQL, Python, visualisation—to generate client insights, model scenarios, and support evidence-based recommendations.
 source_frameworks:
-  - "IMC USA Code of Ethics"
-  - "Tableau Visual Analytics Best Practices"
-  - "INFORMS Certified Analytics Professional (CAP) Body of Knowledge"
-  - "Gartner Analytics & BI Best Practices"
+  - "IMC USA Code of Ethics (professional membership association — Institute of Management Consultants USA; publicly available)"
+  - "Tableau Visual Analytics Best Practices (vendor documentation — Tableau/Salesforce; conceptual alignment only — equivalent data visualization platform guidance may demonstrate competency)"
+  - "INFORMS Certified Analytics Professional (CAP) Body of Knowledge (professional membership association — Institute for Operations Research and the Management Sciences; conceptual alignment only)"
+  - "Gartner Analytics and Business Intelligence best-practice research (commercial analyst research — Gartner; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Extracts data from spreadsheets; creates basic charts; calculates descriptive stats; recognizes outliers.
@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Implements regression models; cleanses data pipelines; writes Python ETL script; builds interactive dashboard; automates refresh.
   - level: Advanced
-    indicator: Deploys machine‑learning predictions; Executes scenario modeling; applies statistical tests; links analytics to strategic options; presents insights to C-suite.
+    indicator: Deploys machine-learning predictions; executes scenario modeling; applies statistical tests; links analytics to strategic options; presents insights to C-suite.
   - level: Expert
     indicator: Designs data-governance model; leads analytics consulting practice; standardises data governance; publishes analytics case studies.
 ---

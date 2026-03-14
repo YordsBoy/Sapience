@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Orchestrates cloud migration, process automation, and change enablement using TOGAF Enterprise-Architecture and McKinsey 7-S digital-maturity assessments.
 source_frameworks:
-  - "TOGAF® 10 Standard"
-  - "McKinsey 7-S Framework"
+  - "TOGAF Standard 10th Edition — Enterprise Architecture Framework (proprietary commercial standard — The Open Group; conceptual alignment only)"
+  - "McKinsey 7-S Framework (commercial consulting framework — McKinsey & Company; conceptual alignment only — equivalent organizational-alignment frameworks may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines legacy vs target state; identifies value streams.

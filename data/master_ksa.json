@@ -4959,13 +4959,13 @@
     ],
     "description": "Advises organizations on sustainability and ESG (Environmental, Social, Governance) practices;   conducts sustainability assessments, helps develop ESG strategies (like carbon footprint reduction, ethical supply chains), ensures compliance with standards/regulations, and prepares sustainability reports or certifications (e.g., GRI, ISO 14001).  \n",
     "source_frameworks": [
-      "GRI Sustainability Reporting Standards",
-      "Science Based Targets Initiative"
+      "GRI Sustainability Reporting Standards (nonprofit standard-setting organization — Global Reporting Initiative; publicly available)",
+      "Science Based Targets initiative (SBTi) target-setting criteria and guidance (nonprofit initiative — Science Based Targets initiative; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes the importance of sustainability in business; knows a few basic terms (carbon footprint, recycling, etc.); Defines ESG pillars; cites Scope 1-3 emissions."
+        "indicator": "Identifies the relevance of sustainability in business contexts; defines core terms (carbon footprint, greenhouse gas emissions, recycling, circularity); defines ESG pillars; cites Scope 1, 2, and 3 emission categories."
       },
       {
         "level": "Basic",
@@ -4997,8 +4997,8 @@
     ],
     "description": "Translates complex research into accessible visuals and narratives using Alan Alda Center “Clear + Vivid” techniques and American Association for the Advancement of Science (AAAS) communication toolkit.\n",
     "source_frameworks": [
-      "AAAS Science Communication Toolkit",
-      "Alda Center Clear + Vivid Method"
+      "AAAS Center for Public Engagement with Science and Technology communication resources (nonprofit scientific society — American Association for the Advancement of Science; publicly available)",
+      "Alan Alda Center for Communicating Science — Clear+Vivid methodology (academic center — Stony Brook University; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -5033,26 +5033,26 @@
       "Research Methods",
       "Integrity"
     ],
-    "description": "Designing and conducting rigorous scientific studies while upholding research‑integrity principles—authorship, data transparency, avoidance of fabrication—per OECD *Frascati Manual* and Committee on Publication Ethics (COPE) guidelines.",
+    "description": "Designing and conducting rigorous scientific studies while upholding research-integrity principles—authorship, data transparency, avoidance of fabrication—per OECD Frascati Manual and Committee on Publication Ethics (COPE) guidelines.",
     "source_frameworks": [
-      "CONSORT 2010 Statement",
-      "FAIR Data Principles (GO FAIR)",
-      "OECD Frascati Manual 2015",
-      "COPE Core Practices",
-      "National Academies Research Integrity Report 2023"
+      "CONSORT 2010 Statement — Consolidated Standards of Reporting Trials (international reporting standard consortium; publicly available)",
+      "FAIR Data Principles — Findability, Accessibility, Interoperability, Reusability (GO FAIR international initiative; open-access community standard; publicly available)",
+      "OECD Frascati Manual 2015 — Proposed Standard Practice for Surveys on Research and Experimental Development (intergovernmental publication — OECD; publicly available)",
+      "COPE Core Practices (Committee on Publication Ethics; international nonprofit membership organization; publicly available)",
+      "National Academies of Sciences, Engineering, and Medicine report on Fostering Integrity in Research 2017 (U.S. national academies publication; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Formulates testable hypotheses; ; identifies bias types; distinguishes qualitative vs. quantitative methods; cites sources properly."
+        "indicator": "Formulates testable hypotheses; identifies bias types; distinguishes qualitative vs. quantitative methods; cites sources properly."
       },
       {
         "level": "Basic",
-        "indicator": "Designs sampling strategies; selects appropriate design; preregisters protocol; manages data‑collection protocols; registers studies on open registries."
+        "indicator": "Designs sampling strategies; selects appropriate design; preregisters protocol; manages data-collection protocols; registers studies on open registries."
       },
       {
         "level": "Intermediate",
-        "indicator": "Applies statistical‑power analysis; applies randomisation; maintains version‑controlled data; conducts peer debriefs."
+        "indicator": "Applies statistical-power analysis; applies randomisation; maintains version-controlled data; conducts peer debriefs."
       },
       {
         "level": "Advanced",
@@ -5060,7 +5060,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Chairs institutional review boards (IRBs); leads meta‑research initiatives; shapes national integrity policies."
+        "indicator": "Chairs institutional review boards (IRBs); leads meta-research initiatives; shapes national integrity policies."
       }
     ]
   },
@@ -5076,8 +5076,8 @@
     ],
     "description": "Upholds Committee on Publication Ethics (COPE) guidelines by detecting plagiarism, managing conflicts of interest, and ensuring transparent peer review and data availability.\n",
     "source_frameworks": [
-      "COPE Core Practices",
-      "ICMJE Recommendations"
+      "COPE Core Practices (Committee on Publication Ethics; international nonprofit membership organization; publicly available)",
+      "ICMJE Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals (International Committee of Medical Journal Editors; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -5114,8 +5114,8 @@
     ],
     "description": "Advises clients on ISO 31000 enterprise-risk management (ERM) or NIST Risk-Management Framework (RMF) for cybersecurity, including risk appetite, heat-maps, and treatment planning.\n",
     "source_frameworks": [
-      "ISO 31000:2018 Risk Management Guidelines",
-      "NIST SP 800-37 Rev.2 RMF"
+      "ISO 31000:2018 Risk Management Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "NIST SP 800-37 Rev. 2 Risk Management Framework for Information Systems (U.S. government publication — National Institute of Standards and Technology; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -5142,7 +5142,7 @@
   },
   {
     "ksa_id": "earned_value_project_controls",
-    "label": "Earned‑Value Project Controls",
+    "label": "Earned-Value Project Controls",
     "category": "Technical",
     "sector": "professional_scientific_services",
     "horizon": "core",
@@ -5150,11 +5150,11 @@
       "Earned Value",
       "Project Controls"
     ],
-    "description": "Implementing Earned Value Management (EVM) per ANSI/EIA‑748 guidelines to integrate scope, schedule, and cost, calculate performance indices, and forecast Estimate at Completion (EAC) for scientific and consulting projects.",
+    "description": "Implementing Earned Value Management (EVM) per ANSI/EIA-748 guidelines to integrate scope, schedule, and cost, calculate performance indices, and forecast Estimate at Completion (EAC) for scientific and consulting projects.",
     "source_frameworks": [
-      "ANSI/EIA-748-D EVMS Standard",
-      "NDIA IPMD Intent Guide",
-      "PMI Practice Standard for Earned Value Management 2nd Ed."
+      "ANSI/EIA-748-D Earned Value Management Systems Standard (U.S. standards body — ANSI / Electronic Industries Alliance; proprietary standard; conceptual alignment only)",
+      "NDIA Integrated Program Management Division Intent Guide (industry association — National Defense Industrial Association; publicly available)",
+      "PMI Practice Standard for Earned Value Management 2nd Edition (commercial professional association — Project Management Institute; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -5175,7 +5175,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads corporate EVM governance; Certifies EVMS compliance; interfaces with government compliance audits; publishes project‑controls research."
+        "indicator": "Leads corporate EVM governance; Certifies EVMS compliance; interfaces with government compliance audits; publishes project-controls research."
       }
     ]
   },
@@ -5191,8 +5191,8 @@
     ],
     "description": "Develops IP roadmaps aligning WIPO National/Enterprise IP Strategy toolkit with business objectives, including patent landscaping, freedom-to-operate, and licensing models.\n",
     "source_frameworks": [
-      "WIPO IP Strategy Guidelines",
-      "ISO 56005 IP Management"
+      "WIPO National IP Strategy Guidelines and Enterprise IP Strategy Toolkit (intergovernmental organization — World Intellectual Property Organization; publicly available)",
+      "ISO 56005:2020 Innovation Management — Intellectual Property Management (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -5229,8 +5229,8 @@
     ],
     "description": "Establishes processes to identify, protect, and exploit intellectual assets in line with ISO 56005 knowledge-and-IP-management standard, integrating with R&D stage-gate.\n",
     "source_frameworks": [
-      "ISO 56005:2020 Innovation Management",
-      "OECD Oslo Manual for Innovation"
+      "ISO 56005:2020 Innovation Management — Tools and Methods for Intellectual Property Management (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "OECD Oslo Manual for Innovation Measurement — Guidelines for Collecting, Reporting, and Using Data on Innovation (intergovernmental publication — OECD; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -5267,14 +5267,14 @@
     ],
     "description": "Runs the business side of skilled trade work (plumbing, carpentry, electrical contracting, etc.);   prepares job estimates and quotes, manages inventory of materials, handles scheduling and customer communication, issues invoices and takes payment, and ensures compliance with licensing and insurance requirements for the trade.  \n",
     "source_frameworks": [
-      "ISO 20700:2017 Management Consultancy",
-      "Deltek PSA Best Practices",
-      "NAHB Remodelers Business Management Guidelines"
+      "ISO 20700:2017 Guidelines for Management Consultancy Services (ISO proprietary standard; conceptual alignment only — note: this standard addresses professional service firm management broadly; its application to skilled-trade business operations is analogical rather than direct)",
+      "Deltek PSA best-practice resources (vendor documentation — Deltek commercial software; conceptual alignment only — equivalent professional services management resources may demonstrate competency)",
+      "NAHB Remodelers Business Management Guidelines (trade association guidance — National Association of Home Builders; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Realizes that beyond doing the trade work, there is a need to handle paperwork, money, and customers; knows very basic terms like “estimate” or “permit”; tracks billable hours; identifies engagement lifecycle."
+        "indicator": "Identifies the operational requirements of trade business management beyond technical work (documentation, invoicing, customer communication); defines core terms such as “estimate,” “permit,” and “invoice”; tracks billable hours; identifies engagement lifecycle stages."
       },
       {
         "level": "Basic",
@@ -5306,8 +5306,8 @@
     ],
     "description": "Leads end-to-end proposal lifecycle (capture, storyboarding, pricing) under Association of Proposal Management Professionals (APMP) Body of Knowledge and Shipley Proposal Guide.\n",
     "source_frameworks": [
-      "APMP BOK",
-      "Shipley Capture Guide"
+      "APMP Body of Knowledge (BOK) (professional membership association — Association of Proposal Management Professionals; conceptual alignment only)",
+      "Shipley Proposal and Capture Guide (commercial consulting/training organization — Shipley Associates; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -5344,31 +5344,31 @@
     ],
     "description": "Delivering advisory engagements in accordance with Institute of Management Consultants USA (IMC USA) Code of Ethics, ISO 20700 guidelines, and International Council of Management Consulting Institutes (ICMCI) Certified Management Consultant (CMC) competency framework.",
     "source_frameworks": [
-      "AICPA SSCS No. 1",
-      "ISO 20700:2017 Guidelines for Management Consultancy Services",
-      "IMC USA Code of Ethics",
-      "ICMCI CMC Competency Framework"
+      "AICPA Statements on Standards for Consulting Services (SSCS) No. 1 (U.S. professional membership association — American Institute of Certified Public Accountants; conceptual alignment only)",
+      "ISO 20700:2017 Guidelines for Management Consultancy Services (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "IMC USA Code of Ethics (professional membership association — Institute of Management Consultants USA; publicly available)",
+      "ICMCI Certified Management Consultant (CMC) Competency Framework (international professional federation — International Council of Management Consulting Institutes; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains consultant–client confidentiality; recognizes scope creep; drafts basic proposals."
+        "indicator": "Explains consultant-client confidentiality; recognizes scope creep; drafts basic proposals."
       },
       {
         "level": "Basic",
-        "indicator": "Conducts stakeholder interviews; drafts engagement letter; obtains client sign-off; keeps work-papers; applies root‑cause analysis; adheres to disclosure requirements."
+        "indicator": "Conducts stakeholder interviews; drafts engagement letter; obtains client sign-off; keeps work-papers; applies root-cause analysis; adheres to disclosure requirements."
       },
       {
         "level": "Intermediate",
-        "indicator": "Designs value propositions; manages engagement economics; mitigates conflict‑of‑interest risks; documents assumptions."
+        "indicator": "Designs value propositions; manages engagement economics; mitigates conflict-of-interest risks; documents assumptions."
       },
       {
         "level": "Advanced",
-        "indicator": "Leads multi‑stream transformation projects; negotiates statements of work (SOWs); oversees ethical‑risk assessments."
+        "indicator": "Leads multi-stream transformation projects; negotiates statements of work (SOWs); oversees ethical-risk assessments."
       },
       {
         "level": "Expert",
-        "indicator": "Chairs ethics committee; mentors CMC candidates; sets global consulting standards; publishes consulting‑ethics research."
+        "indicator": "Chairs ethics committee; mentors CMC candidates; sets global consulting standards; publishes consulting-ethics research."
       }
     ]
   },
@@ -5384,8 +5384,8 @@
     ],
     "description": "Orchestrates cloud migration, process automation, and change enablement using TOGAF Enterprise-Architecture and McKinsey 7-S digital-maturity assessments.\n",
     "source_frameworks": [
-      "TOGAF® 10 Standard",
-      "McKinsey 7-S Framework"
+      "TOGAF Standard 10th Edition — Enterprise Architecture Framework (proprietary commercial standard — The Open Group; conceptual alignment only)",
+      "McKinsey 7-S Framework (commercial consulting framework — McKinsey & Company; conceptual alignment only — equivalent organizational-alignment frameworks may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -5412,7 +5412,7 @@
   },
   {
     "ksa_id": "change_management_facilitation",
-    "label": "Change‑Management Facilitation",
+    "label": "Change-Management Facilitation",
     "category": "Technical",
     "sector": "professional_scientific_services",
     "horizon": "core",
@@ -5420,12 +5420,12 @@
       "Change Management",
       "Facilitation"
     ],
-    "description": "Guiding organizations through transition using Prosci ADKAR, Kotter 8‑Step, and Association of Change Management Professionals (ACMP) Standard to build stakeholder buy‑in and sustain adoption.",
+    "description": "Guiding organizations through transition using Prosci ADKAR, Kotter 8-Step, and Association of Change Management Professionals (ACMP) Standard to build stakeholder buy-in and sustain adoption.",
     "source_frameworks": [
-      "PMI Managing Change in Organizations",
-      "Prosci ADKAR Model",
-      "ACMP Standard for Change Management",
-      "Kotter 8‑Step Process"
+      "PMI Managing Change in Organizations practice guide (commercial professional association — Project Management Institute; conceptual alignment only)",
+      "Prosci ADKAR Model (commercial change-management framework — Prosci; conceptual alignment only)",
+      "ACMP Standard for Change Management (professional association standard — Association of Change Management Professionals; conceptual alignment only)",
+      "Kotter 8-Step Process for Leading Change (commercial change-management framework — Kotter International; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -5434,7 +5434,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Crafts change‑impact assessments; facilitates workshops; Facilitates kickoff; drafts change charter; maps stakeholders; tracks communication metrics."
+        "indicator": "Crafts change-impact assessments; facilitates kickoff workshops; drafts change charter; maps stakeholders; tracks communication metrics."
       },
       {
         "level": "Intermediate",
@@ -5446,7 +5446,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads enterprise change offices; certifies practitioners; publishes change‑management research."
+        "indicator": "Leads enterprise change offices; certifies practitioners; publishes change-management research."
       }
     ]
   },
@@ -5460,12 +5460,12 @@
       "Analytics",
       "Consulting Toolkit"
     ],
-    "description": "Leveraging descriptive, predictive, and prescriptive analytics—SQL, Python, visualisation—to generate client insights, model scenarios, and support evidence‑based recommendations.",
+    "description": "Leveraging descriptive, predictive, and prescriptive analytics—SQL, Python, visualisation—to generate client insights, model scenarios, and support evidence-based recommendations.",
     "source_frameworks": [
-      "IMC USA Code of Ethics",
-      "Tableau Visual Analytics Best Practices",
-      "INFORMS Certified Analytics Professional (CAP) Body of Knowledge",
-      "Gartner Analytics & BI Best Practices"
+      "IMC USA Code of Ethics (professional membership association — Institute of Management Consultants USA; publicly available)",
+      "Tableau Visual Analytics Best Practices (vendor documentation — Tableau/Salesforce; conceptual alignment only — equivalent data visualization platform guidance may demonstrate competency)",
+      "INFORMS Certified Analytics Professional (CAP) Body of Knowledge (professional membership association — Institute for Operations Research and the Management Sciences; conceptual alignment only)",
+      "Gartner Analytics and Business Intelligence best-practice research (commercial analyst research — Gartner; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -5482,7 +5482,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Deploys machine‑learning predictions; Executes scenario modeling; applies statistical tests; links analytics to strategic options; presents insights to C-suite."
+        "indicator": "Deploys machine-learning predictions; executes scenario modeling; applies statistical tests; links analytics to strategic options; presents insights to C-suite."
       },
       {
         "level": "Expert",
@@ -5502,14 +5502,14 @@
     ],
     "description": "Provides data analytics and AI-driven solutions as a professional service; works with clients to identify business problems that can be solved with data, applies statistical analysis or machine learning models, and communicates insights and recommendations in client-friendly terms while ensuring data ethics and privacy.  \n",
     "source_frameworks": [
-      "CRISP-DM 1.0",
-      "Google Cloud AI Architecture Framework",
-      "IBM Data Science Professional Guidelines"
+      "CRISP-DM 1.0 Cross-Industry Standard Process for Data Mining (industry consortium specification; publicly available through CRISP-DM community resources)",
+      "Google Cloud AI Architecture Framework (vendor documentation — Google; conceptual alignment only — equivalent cloud AI architecture frameworks may demonstrate competency)",
+      "IBM Data Science Methodology and professional practice resources (vendor/research documentation — IBM; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands basic concepts of data analysis and AI (e.g., knows what a trend or a prediction is); aware that businesses use data to make decisions; explains Cross-Industry Standard Process for Data Mining (CRISP-DM) phases; identifies supervised vs unsupervised ML."
+        "indicator": "Explains basic concepts of data analysis and AI (e.g., the purpose of a trend line or a prediction); identifies how businesses use data to support decisions; explains Cross-Industry Standard Process for Data Mining (CRISP-DM) phases; identifies supervised vs unsupervised ML."
       },
       {
         "level": "Basic",
@@ -5521,7 +5521,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Leads small analytics projects end-to-end; interacts directly with clients to scope problems; develops more complex models or simulations; quantifies the business impact of different scenarios; deploys MLOps pipeline (CI/CD); monitors drift; delivers change-management workshopincorporates responsible AI practices and interprets model results for executive audiences."
+        "indicator": "Leads small analytics projects end-to-end; interacts directly with clients to scope problems; develops more complex models or simulations; quantifies the business impact of different scenarios; deploys MLOps pipeline (CI/CD); monitors drift; delivers change-management workshops; incorporates responsible AI practices and interprets model results for executive audiences."
       },
       {
         "level": "Expert",

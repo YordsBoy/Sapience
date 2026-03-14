@@ -11,11 +11,11 @@ description: >
   Advises organizations on sustainability and ESG (Environmental, Social, Governance) practices;  
   conducts sustainability assessments, helps develop ESG strategies (like carbon footprint reduction, ethical supply chains), ensures compliance with standards/regulations, and prepares sustainability reports or certifications (e.g., GRI, ISO 14001).  
 source_frameworks:  
-  - "GRI Sustainability Reporting Standards"  
-  - "Science Based Targets Initiative"
+  - "GRI Sustainability Reporting Standards (nonprofit standard-setting organization — Global Reporting Initiative; publicly available)"
+  - "Science Based Targets initiative (SBTi) target-setting criteria and guidance (nonprofit initiative — Science Based Targets initiative; publicly available)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Recognizes the importance of sustainability in business; knows a few basic terms (carbon footprint, recycling, etc.); Defines ESG pillars; cites Scope 1-3 emissions.  
+    indicator: Identifies the relevance of sustainability in business contexts; defines core terms (carbon footprint, greenhouse gas emissions, recycling, circularity); defines ESG pillars; cites Scope 1, 2, and 3 emission categories.
   - level: Basic  
     indicator: Collects data for sustainability metrics (energy usage, waste, etc.) under guidance; familiar with one or two frameworks (heard of GRI or ISO 14001); helps create simple charts or documentation for reports; Performs materiality scan; maps SDGs; drafts KPI list.  
   - level: Intermediate  

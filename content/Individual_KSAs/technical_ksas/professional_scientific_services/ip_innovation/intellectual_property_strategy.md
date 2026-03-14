@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Develops IP roadmaps aligning WIPO National/Enterprise IP Strategy toolkit with business objectives, including patent landscaping, freedom-to-operate, and licensing models.
 source_frameworks:
-  - "WIPO IP Strategy Guidelines"
-  - "ISO 56005 IP Management"
+  - "WIPO National IP Strategy Guidelines and Enterprise IP Strategy Toolkit (intergovernmental organization — World Intellectual Property Organization; publicly available)"
+  - "ISO 56005:2020 Innovation Management — Intellectual Property Management (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists IP types; explains lifecycle.

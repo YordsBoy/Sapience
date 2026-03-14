@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Translates complex research into accessible visuals and narratives using Alan Alda Center “Clear + Vivid” techniques and American Association for the Advancement of Science (AAAS) communication toolkit.
 source_frameworks:
-  - "AAAS Science Communication Toolkit"
-  - "Alda Center Clear + Vivid Method"
+  - "AAAS Center for Public Engagement with Science and Technology communication resources (nonprofit scientific society — American Association for the Advancement of Science; publicly available)"
+  - "Alan Alda Center for Communicating Science — Clear+Vivid methodology (academic center — Stony Brook University; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies audience needs; avoids jargon.

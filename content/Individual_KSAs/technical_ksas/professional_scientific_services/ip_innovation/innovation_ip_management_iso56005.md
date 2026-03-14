@@ -11,8 +11,8 @@ description: >
   Establishes processes to identify, protect, and exploit intellectual assets in line with ISO 56005 knowledge-and-IP-management standard, integrating with
   R&D stage-gate.
 source_frameworks:
-  - "ISO 56005:2020 Innovation Management"
-  - "OECD Oslo Manual for Innovation"
+  - "ISO 56005:2020 Innovation Management — Tools and Methods for Intellectual Property Management (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "OECD Oslo Manual for Innovation Measurement — Guidelines for Collecting, Reporting, and Using Data on Innovation (intergovernmental publication — OECD; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Lists IP capture points; explains disclosure form.

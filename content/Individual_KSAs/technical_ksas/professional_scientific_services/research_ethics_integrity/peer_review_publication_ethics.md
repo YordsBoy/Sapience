@@ -12,8 +12,8 @@ description: >
   plagiarism, managing conflicts of interest, and ensuring transparent peer
   review and data availability.
 source_frameworks:
-  - "COPE Core Practices"
-  - "ICMJE Recommendations"
+  - "COPE Core Practices (Committee on Publication Ethics; international nonprofit membership organization; publicly available)"
+  - "ICMJE Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals (International Committee of Medical Journal Editors; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes authorship criteria; notes plagiarism tools.

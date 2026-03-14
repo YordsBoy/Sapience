@@ -11,8 +11,8 @@ description: >
   Advises clients on ISO 31000 enterprise-risk management (ERM) or NIST Risk-Management Framework (RMF) for cybersecurity, including risk appetite,
   heat-maps, and treatment planning.
 source_frameworks:
-  - "ISO 31000:2018 Risk Management Guidelines"
-  - "NIST SP 800-37 Rev.2 RMF"
+  - "ISO 31000:2018 Risk Management Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "NIST SP 800-37 Rev. 2 Risk Management Framework for Information Systems (U.S. government publication — National Institute of Standards and Technology; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Defines likelihood vs impact; lists risk categories.

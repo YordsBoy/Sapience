@@ -11,12 +11,12 @@ description: >
   Runs the business side of skilled trade work (plumbing, carpentry, electrical contracting, etc.);  
   prepares job estimates and quotes, manages inventory of materials, handles scheduling and customer communication, issues invoices and takes payment, and ensures compliance with licensing and insurance requirements for the trade.  
 source_frameworks:
-  - "ISO 20700:2017 Management Consultancy"
-  - "Deltek PSA Best Practices" 
-  - "NAHB Remodelers Business Management Guidelines"  
+  - "ISO 20700:2017 Guidelines for Management Consultancy Services (ISO proprietary standard; conceptual alignment only — note: this standard addresses professional service firm management broadly; its application to skilled-trade business operations is analogical rather than direct)"
+  - "Deltek PSA best-practice resources (vendor documentation — Deltek commercial software; conceptual alignment only — equivalent professional services management resources may demonstrate competency)"
+  - "NAHB Remodelers Business Management Guidelines (trade association guidance — National Association of Home Builders; conceptual alignment only)"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Realizes that beyond doing the trade work, there is a need to handle paperwork, money, and customers; knows very basic terms like “estimate” or “permit”; tracks billable hours; identifies engagement lifecycle.  
+    indicator: Identifies the operational requirements of trade business management beyond technical work (documentation, invoicing, customer communication); defines core terms such as “estimate,” “permit,” and “invoice”; tracks billable hours; identifies engagement lifecycle stages.
   - level: Basic  
     indicator: Writes simple estimates for small jobs using templates or past experience; keeps receipts and notes in a notebook; generates invoice; stores contract; checks export-control lists; schedules appointments in a basic calendar; communicates with clients by phone about work timing and cost in a courteous manner.  
   - level: Intermediate  
