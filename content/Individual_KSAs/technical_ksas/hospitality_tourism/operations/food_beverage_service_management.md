@@ -9,9 +9,9 @@ cluster_tags:
   - "Service"
 description: Plans, directs, and optimizes restaurant, bar, banqueting, and room-service operations—balancing guest experience, safety compliance, and profitability.
 source_frameworks:
-  - "FDA HACCP Guidelines"
-  - "ServSafe Manager Curriculum"
-  - "ahlei:F&B Management"
+  - "FDA HACCP (Hazard Analysis Critical Control Point) Guidelines — U.S. government — FDA; public domain"
+  - "ServSafe Manager certification curriculum — commercial professional association — National Restaurant Association Educational Foundation; conceptual alignment only"
+  - "AHLEI Food and Beverage Management curriculum — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies critical control points; explains FIFO (First-In, First-Out); follows safe-food handling and basic service etiquette.

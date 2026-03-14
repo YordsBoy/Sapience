@@ -9,13 +9,13 @@ cluster_tags:
   - "Meetings"
 description: Designs, sells, and executes on-site, hybrid, and virtual meetings meetings, incentives, conferences, and exhibitions (MICE) while coordinating vendors, budgets, and post-event evaluations.
 source_frameworks:
-  - "EIC Sustainable Event Standards"
-  - "ISO 20121 Event Sustainability"
-  - "pcma:CMP"
-  - "icc:aipc"
+  - "Events Industry Council (EIC) Sustainable Event Standards — commercial professional association — EIC; conceptual alignment only"
+  - "ISO 20121:2012 Event Sustainability Management Systems — ISO proprietary standard; conceptual alignment only"
+  - "PCMA Certified Meeting Professional (CMP) program — commercial professional association — PCMA; conceptual alignment only"
+  - "International Association of Convention Centres (AIPC) professional standards — commercial professional association — AIPC/ICC; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
-    indicator: Lists typical function-rooms layouts; understands basic AV; prepares basic function sheets; and conducts site tours.
+    indicator: Lists typical function-room layouts; identifies basic AV equipment types; prepares basic function sheets; and conducts site tours.
   - level: Basic
     indicator: Drafts  Banquet Event Orders (BEOs); negotiates simple vendor contracts; and manages on-site setups.
   - level: Intermediate

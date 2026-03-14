@@ -9,10 +9,10 @@ cluster_tags:
   - "Management"
 description: Prepares for, responds to, and recovers from crises—natural disasters, pandemics, security incidents—ensuring guest safety, operational continuity, and brand reputation.
 source_frameworks:
-  - "UNWTO Crisis Communications Toolbox"
-  - "ISO 22320:2018 Emergency Management"
-  - "iso:22301"
-  - "wtc:SafeTravels"
+  - "UNWTO Crisis Communications Toolbox — intergovernmental organization — UNWTO (UN); publicly available"
+  - "ISO 22320:2018 Security and Resilience: Emergency Management — ISO proprietary standard; conceptual alignment only"
+  - "ISO 22301:2019 Security and Resilience: Business Continuity Management Systems — ISO proprietary standard; conceptual alignment only"
+  - "WTTC Safe Travels Stamp protocols — commercial industry body — World Travel & Tourism Council; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies crisis types; knows emergency contacts; understands emergency response procedures and assists during drills.

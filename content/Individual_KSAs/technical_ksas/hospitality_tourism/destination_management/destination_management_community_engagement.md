@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Coordinates destination-management initiatives with local stakeholders using United Nations World Tourism Organization (UNWTO) sustainable-destination criteria and resident-sentiment tracking.
 source_frameworks:
-  - "UNWTO Sustainable Destinations"
-  - "Global Sustainable Tourism Council Destination Criteria"
+  - "UNWTO Sustainable Tourism Destinations framework — intergovernmental organization — UNWTO (UN); publicly available"
+  - "Global Sustainable Tourism Council (GSTC) Destination Criteria — commercial/intergovernmental standards body; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises overtourism indicators; lists key stakeholders.

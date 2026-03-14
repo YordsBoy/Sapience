@@ -9,10 +9,10 @@ cluster_tags:
   - "Service"
 description: Applying proactive listening, empathetic communication, and service‑recovery frameworks—such as HEART (Hear, Empathise, Apologise, Resolve, Thank)—to turn service failures into loyalty‑building experiences.
 source_frameworks:
-  - "Forbes Travel Guide Five-Star Standards"
-  - "Harvard Business Review SRP Research"
-  - "American Hotel & Lodging Educational Institute (AHLEI) Guest Service Gold Curriculum"
-  - "Micah Solomon Guest Recovery Model"
+  - "Forbes Travel Guide Five-Star Standards — commercial rating system — Forbes Travel Guide; conceptual alignment only"
+  - "Service Recovery Paradox research literature (McCollough & Bharadwaj 1992; Hart, Heskett & Sasser 1990 via Harvard Business Review) — academic literature; conceptual alignment only"
+  - "AHLEI Guest Service Gold curriculum — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only"
+  - "Micah Solomon Guest Recovery Model — commercial proprietary methodology; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Acknowledges guest issues; follows basic apology scripts; escalates unresolved problems.

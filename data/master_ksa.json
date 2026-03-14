@@ -12276,8 +12276,8 @@
     ],
     "description": "Implements environmental-management systems and achieves eco-certifications by reducing energy, water, and waste footprints and engaging guests in sustainable practices.",
     "source_frameworks": [
-      "unwto:GSTC",
-      "iso:14001"
+      "Global Sustainable Tourism Council (GSTC) Criteria — commercial/intergovernmental standards body; publicly available",
+      "ISO 14001:2015 Environmental Management Systems — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12314,8 +12314,8 @@
     ],
     "description": "Collects and discloses Environmental, Social, and Governance (ESG) metrics per Global Reporting Initiative (GRI) 302/305, Sustainable Hospitality Alliance Pathway, and forthcoming Corporate Sustainability Reporting Directive (CSRD).\n",
     "source_frameworks": [
-      "GRI Standards 302/305",
-      "Sustainable Hospitality Alliance Hotel Pathway"
+      "GRI Standards 302 (Energy) and 305 (Emissions) — commercial/intergovernmental standards body — Global Reporting Initiative; conceptual alignment only",
+      "Sustainable Hospitality Alliance Hotel Decarbonisation Pathway — commercial/intergovernmental industry body; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12352,8 +12352,8 @@
     ],
     "description": "Ensures Occupational Safety and Health Administration (OSHA) and World Health Organization (WHO) food-handling and sanitation standards across lodging operations.\n",
     "source_frameworks": [
-      "WHO Food-Safety Factsheet",
-      "OSHA 29 CFR 1910"
+      "WHO Food Safety fact sheets and guidance — intergovernmental organization — WHO (UN); publicly available",
+      "OSHA 29 CFR 1910 General Industry Standards — U.S. government — DOL/OSHA; public domain"
     ],
     "proficiency_levels": [
       {
@@ -12390,10 +12390,10 @@
     ],
     "description": "Implementing environmentally responsible practices—energy efficiency, waste reduction, community engagement—to achieve certifications such as Green Key Global, LEED EBOM, or Global Sustainable Tourism Council (GSTC) standards.",
     "source_frameworks": [
-      "GSTC Industry Criteria",
-      "ISO 21401:2018 Sustainable Tourism",
-      "UN World Tourism Organization (UNWTO) Sustainable Tourism Guidelines",
-      "Green Key Global Eco‑Rating Program"
+      "Global Sustainable Tourism Council (GSTC) Industry Criteria — commercial/intergovernmental standards body; publicly available",
+      "ISO 21401:2018 Tourism and Related Services: Sustainability Management System — ISO proprietary standard; conceptual alignment only",
+      "UNWTO Sustainable Tourism Guidelines — intergovernmental organization — UNWTO (UN); publicly available",
+      "Green Key Global Eco-Rating Program criteria — commercial certification program — Green Key International/FEE; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12430,10 +12430,10 @@
     ],
     "description": "Oversees cleaning, linen, and maintenance standards to ensure hygienic, aesthetically pleasing environments and quick room-turnaround cycles.",
     "source_frameworks": [
-      "AHLEI Managing Housekeeping Operations",
-      "GBAC STAR Cleaning Guidelines",
-      "osha:1910",
-      "iso:HF Hygiene"
+      "AHLEI Managing Housekeeping Operations textbook — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only",
+      "GBAC STAR Facility Accreditation cleaning guidelines — commercial professional association — Global Biorisk Advisory Council/ISSA; conceptual alignment only",
+      "OSHA 29 CFR 1910 General Industry Standards — U.S. government — DOL/OSHA; public domain",
+      "ISO hygiene and food safety standards applicable to hospitality (e.g., ISO 22000:2018 Food Safety Management Systems) — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12470,8 +12470,8 @@
     ],
     "description": "Implements and maintains property-management systems (PMS) and integrated tech stacks—including POS, CRS, IoT devices—to streamline operations and enhance guest experiences.",
     "source_frameworks": [
-      "HTNG API Specifications",
-      "PCI-DSS v4.0"
+      "Hotel Technology Next Generation (HTNG) API Specifications — commercial technology standards body — HTNG/AHLA; conceptual alignment only",
+      "PCI-DSS v4.0 Payment Card Industry Data Security Standard — commercial standards body — PCI Security Standards Council; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12508,9 +12508,9 @@
     ],
     "description": "Manages reception, reservations, cashiering, and concierge services while optimizing occupancy, revenue, and guest satisfaction.",
     "source_frameworks": [
-      "AHLEI Managing Front Office Operations",
-      "Hotel Technology Next Generation (HTNG) Interface Spec",
-      "iata:BestPractices"
+      "AHLEI Managing Front Office Operations textbook — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only",
+      "Hotel Technology Next Generation (HTNG) Interface Specifications — commercial technology standards body — HTNG/AHLA; conceptual alignment only",
+      "IATA Travel and Tourism Best Practices — commercial industry association — International Air Transport Association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12547,9 +12547,9 @@
     ],
     "description": "Plans, directs, and optimizes restaurant, bar, banqueting, and room-service operations—balancing guest experience, safety compliance, and profitability.",
     "source_frameworks": [
-      "FDA HACCP Guidelines",
-      "ServSafe Manager Curriculum",
-      "ahlei:F&B Management"
+      "FDA HACCP (Hazard Analysis Critical Control Point) Guidelines — U.S. government — FDA; public domain",
+      "ServSafe Manager certification curriculum — commercial professional association — National Restaurant Association Educational Foundation; conceptual alignment only",
+      "AHLEI Food and Beverage Management curriculum — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12575,7 +12575,7 @@
     ]
   },
   {
-    "ksa_id": "contactless_guest_technology_operations",
+    "ksa_id": "contactless_guest_technology_operation",
     "label": "Contactless Guest-Technology Operations",
     "category": "Technical",
     "sector": "hospitality_tourism",
@@ -12586,8 +12586,8 @@
     ],
     "description": "Deploys mobile check-in, digital keys, and QR-code ordering, ensuring Payment Card Industry Data-Security Standard (PCI-DSS) and General Data Protection Regulation (GDPR) compliance while enhancing guest convenience.\n",
     "source_frameworks": [
-      "Hotel Technology Next Generation Contactless Guidelines",
-      "PCI-DSS v4.0"
+      "Hotel Technology Next Generation (HTNG) Contactless Guest Journey Guidelines — commercial technology standards body — HTNG/AHLA; conceptual alignment only",
+      "PCI-DSS v4.0 Payment Card Industry Data Security Standard — commercial standards body — PCI Security Standards Council; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12624,9 +12624,9 @@
     ],
     "description": "Applying dynamic pricing, demand forecasting, and distribution‑channel optimization to maximise RevPAR (Revenue per Available Room) and GOPPAR (Gross Operating Profit per Available Room) in hotels and events.",
     "source_frameworks": [
-      "HSMAI Revenue Optimization Framework",
-      "Cornell School of Hotel Administration Revenue Management Framework",
-      "STR Hotel Data Analytics"
+      "HSMAI Revenue Optimization Framework — commercial professional association — Hospitality Sales and Marketing Association International; conceptual alignment only",
+      "Cornell School of Hotel Administration Revenue Management Framework — academic institution; publicly available",
+      "STR Hotel Data Analytics benchmarking reports — commercial data provider — STR/CoStar; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12663,8 +12663,8 @@
     ],
     "description": "Maximizes top-line revenue and RevPAR by applying demand forecasting, inventory control, and dynamic pricing across channels.",
     "source_frameworks": [
-      "STR CHIA Certification",
-      "Hotel Revenue Management Analytics"
+      "STR Certification in Hotel Industry Analytics (CHIA) — commercial data provider — STR/CoStar; conceptual alignment only",
+      "Hotel Revenue Management: Principles and Practices (Kimes & Wirtz — Cornell School of Hotel Administration) — academic framework; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -12701,14 +12701,14 @@
     ],
     "description": "Manages presence on online travel agencies (OTAs) and review sites (e.g. Expedia, Airbnb, TripAdvisor);   optimizes listings, responds to customer reviews, adjusts pricing and promotions based on platform analytics to maximize visibility and bookings.  \n",
     "source_frameworks": [
-      "Airbnb Host Quality Standards",
-      "Booking.com Partner Hub Guidelines",
-      "Hospitality Digital Marketing Certification (e.g. HSMAI)"
+      "Airbnb Host Quality Standards — vendor documentation — Airbnb; conceptual alignment only — equivalent short-term rental platforms may demonstrate competency",
+      "Booking.com Partner Hub Guidelines — vendor documentation — Booking.com/Booking Holdings; conceptual alignment only — equivalent OTA platforms may demonstrate competency",
+      "Hospitality digital marketing certification programs (e.g., HSMAI Digital Marketing Certification) — commercial professional association; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Aware of major booking and review platforms; understands that online reputation impacts bookings."
+        "indicator": "Identifies major online booking and review platforms including OTAs and review aggregators; explains how platform ratings and response practices affect booking conversion."
       },
       {
         "level": "Basic",
@@ -12740,9 +12740,9 @@
     ],
     "description": "Develops and executes omnichannel marketing strategies, manages brand presence, and optimizes digital distribution to drive direct bookings and loyalty.",
     "source_frameworks": [
-      "HSMAI Digital Marketing Certification",
-      "Google Search Essentials 2024",
-      "dma:DigitalMarketing"
+      "HSMAI Digital Marketing Certification program — commercial professional association — Hospitality Sales and Marketing Association International; conceptual alignment only",
+      "Google Search Essentials (2024) — vendor documentation — Google; conceptual alignment only — equivalent search optimization practices may apply",
+      "Data & Marketing Association (DMA) digital marketing guidance — commercial professional association — DMA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12779,8 +12779,8 @@
     ],
     "description": "Curates holistic wellness itineraries—spa, nutrition, mindfulness—aligned with Global Wellness Institute (GWI) standards and International Spa Association (ISPA) protocols.\n",
     "source_frameworks": [
-      "GWI Wellness Tourism Framework",
-      "ISPA Spa Standards"
+      "Global Wellness Institute (GWI) Wellness Tourism Framework — commercial research institute; conceptual alignment only",
+      "International Spa Association (ISPA) professional standards — commercial professional association — ISPA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12817,8 +12817,8 @@
     ],
     "description": "Delivers culturally responsive service, anticipates diverse guest needs, and resolves cross-cultural misunderstandings to elevate global guest satisfaction.",
     "source_frameworks": [
-      "UNWTO Global Code of Ethics",
-      "Hofstede Cultural Dimensions"
+      "UNWTO Global Code of Ethics for Tourism — intergovernmental organization — UNWTO (UN); publicly available",
+      "Hofstede Cultural Dimensions framework (Hofstede 1980, 2001) — academic framework; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -12855,8 +12855,8 @@
     ],
     "description": "Designs barrier-free stays following Americans with Disabilities Act (ADA), Web Content Accessibility Guidelines (WCAG 2.2), and International Association of Accessibility Professionals (IAAP) best practices.\n",
     "source_frameworks": [
-      "ADA Title III Hospitality Guidance",
-      "W3C WCAG 2.2"
+      "ADA Title III Hospitality Guidance — U.S. government — DOJ; public domain",
+      "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -12893,8 +12893,8 @@
     ],
     "description": "Oversees hospitality operations and guest services – from accommodations and events to customer service – ensuring positive guest experiences and efficient service delivery.",
     "source_frameworks": [
-      "Les Clefs d’Or Service Guidelines",
-      "AHLEI Guest Service Gold"
+      "Les Clefs d’Or Service Guidelines — international concierge professional association; conceptual alignment only",
+      "AHLEI Guest Service Gold training program — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12931,10 +12931,10 @@
     ],
     "description": "Applying proactive listening, empathetic communication, and service‑recovery frameworks—such as HEART (Hear, Empathise, Apologise, Resolve, Thank)—to turn service failures into loyalty‑building experiences.",
     "source_frameworks": [
-      "Forbes Travel Guide Five-Star Standards",
-      "Harvard Business Review SRP Research",
-      "American Hotel & Lodging Educational Institute (AHLEI) Guest Service Gold Curriculum",
-      "Micah Solomon Guest Recovery Model"
+      "Forbes Travel Guide Five-Star Standards — commercial rating system — Forbes Travel Guide; conceptual alignment only",
+      "Service Recovery Paradox research literature (McCollough & Bharadwaj 1992; Hart, Heskett & Sasser 1990 via Harvard Business Review) — academic literature; conceptual alignment only",
+      "AHLEI Guest Service Gold curriculum — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only",
+      "Micah Solomon Guest Recovery Model — commercial proprietary methodology; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -12971,10 +12971,10 @@
     ],
     "description": "Crafts end-to-end guest journeys—before, during, and after stays—using service-design tools, sensory cues, and feedback loops to maximize satisfaction and brand loyalty.",
     "source_frameworks": [
-      "Disney Institute Quality Service Model",
-      "UNWTO Quality Tourism Strategy",
-      "ahlei:GuestServiceGold",
-      "design:ServiceBlueprint"
+      "Disney Institute Quality Service Model — commercial proprietary methodology — Disney Institute; conceptual alignment only",
+      "UNWTO Quality Tourism Strategy — intergovernmental organization — UNWTO (UN); publicly available",
+      "AHLEI Guest Service Gold training program — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only",
+      "Service blueprinting methodology (Shostack 1982; Bitner et al. 2008) — academic framework; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -13011,14 +13011,14 @@
     ],
     "description": "Implements and adheres to rigorous health and safety protocols in hospitality settings; maintains cleanliness standards (e.g., post-pandemic sanitization procedures), ensures food safety and emergency preparedness, and obtains relevant health/safety certifications (like HACCP, GBAC).  \n",
     "source_frameworks": [
-      "WTTC Safe Travels Stamp Protocols",
-      "GBAC STAR Facility Accreditation",
-      "WHO COVID-19 Hospitality Safety Guidelines"
+      "WTTC Safe Travels Stamp protocols — commercial industry body — World Travel & Tourism Council; conceptual alignment only",
+      "GBAC STAR Facility Accreditation program — commercial professional association — Global Biorisk Advisory Council/ISSA; conceptual alignment only",
+      "WHO Environmental Health in Tourism and Hospitality Settings guidance — intergovernmental organization — WHO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows basic hygiene and safety expectations (handwashing, surface cleaning, emergency exits)."
+        "indicator": "Identifies basic hygiene and safety requirements including handwashing protocols, surface-cleaning procedures, and emergency exit locations."
       },
       {
         "level": "Basic",
@@ -13050,10 +13050,10 @@
     ],
     "description": "Prepares for, responds to, and recovers from crises—natural disasters, pandemics, security incidents—ensuring guest safety, operational continuity, and brand reputation.",
     "source_frameworks": [
-      "UNWTO Crisis Communications Toolbox",
-      "ISO 22320:2018 Emergency Management",
-      "iso:22301",
-      "wtc:SafeTravels"
+      "UNWTO Crisis Communications Toolbox — intergovernmental organization — UNWTO (UN); publicly available",
+      "ISO 22320:2018 Security and Resilience: Emergency Management — ISO proprietary standard; conceptual alignment only",
+      "ISO 22301:2019 Security and Resilience: Business Continuity Management Systems — ISO proprietary standard; conceptual alignment only",
+      "WTTC Safe Travels Stamp protocols — commercial industry body — World Travel & Tourism Council; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -13090,15 +13090,15 @@
     ],
     "description": "Designs, sells, and executes on-site, hybrid, and virtual meetings meetings, incentives, conferences, and exhibitions (MICE) while coordinating vendors, budgets, and post-event evaluations.",
     "source_frameworks": [
-      "EIC Sustainable Event Standards",
-      "ISO 20121 Event Sustainability",
-      "pcma:CMP",
-      "icc:aipc"
+      "Events Industry Council (EIC) Sustainable Event Standards — commercial professional association — EIC; conceptual alignment only",
+      "ISO 20121:2012 Event Sustainability Management Systems — ISO proprietary standard; conceptual alignment only",
+      "PCMA Certified Meeting Professional (CMP) program — commercial professional association — PCMA; conceptual alignment only",
+      "International Association of Convention Centres (AIPC) professional standards — commercial professional association — AIPC/ICC; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists typical function-rooms layouts; understands basic AV; prepares basic function sheets; and conducts site tours."
+        "indicator": "Lists typical function-room layouts; identifies basic AV equipment types; prepares basic function sheets; and conducts site tours."
       },
       {
         "level": "Basic",
@@ -13130,8 +13130,8 @@
     ],
     "description": "Coordinates destination-management initiatives with local stakeholders using United Nations World Tourism Organization (UNWTO) sustainable-destination criteria and resident-sentiment tracking.\n",
     "source_frameworks": [
-      "UNWTO Sustainable Destinations",
-      "Global Sustainable Tourism Council Destination Criteria"
+      "UNWTO Sustainable Tourism Destinations framework — intergovernmental organization — UNWTO (UN); publicly available",
+      "Global Sustainable Tourism Council (GSTC) Destination Criteria — commercial/intergovernmental standards body; publicly available"
     ],
     "proficiency_levels": [
       {

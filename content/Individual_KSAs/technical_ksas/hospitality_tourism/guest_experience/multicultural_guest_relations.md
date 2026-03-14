@@ -9,8 +9,8 @@ cluster_tags:
   - "Relations"
 description: Delivers culturally responsive service, anticipates diverse guest needs, and resolves cross-cultural misunderstandings to elevate global guest satisfaction.
 source_frameworks:
-  - "UNWTO Global Code of Ethics"
-  - "Hofstede Cultural Dimensions"
+  - "UNWTO Global Code of Ethics for Tourism — intergovernmental organization — UNWTO (UN); publicly available"
+  - "Hofstede Cultural Dimensions framework (Hofstede 1980, 2001) — academic framework; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Uses basic cultural greetings and avoids biased language.

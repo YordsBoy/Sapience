@@ -8,7 +8,9 @@ cluster_tags:
   - "Sustainability"
   - "Certification"
 description: Implements environmental-management systems and achieves eco-certifications by reducing energy, water, and waste footprints and engaging guests in sustainable practices.
-source_frameworks: ["unwto:GSTC", "iso:14001"]
+source_frameworks:
+  - "Global Sustainable Tourism Council (GSTC) Criteria — commercial/intergovernmental standards body; publicly available"
+  - "ISO 14001:2015 Environmental Management Systems — ISO proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Sorts recyclables and promotes towel/linen re-use programs.

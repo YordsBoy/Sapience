@@ -10,12 +10,12 @@ cluster_tags:
 description: >  
   Implements and adheres to rigorous health and safety protocols in hospitality settings; maintains cleanliness standards (e.g., post-pandemic sanitization procedures), ensures food safety and emergency preparedness, and obtains relevant health/safety certifications (like HACCP, GBAC).  
 source_frameworks:
-  - "WTTC Safe Travels Stamp Protocols"
-  - "GBAC STAR Facility Accreditation"
-  - "WHO COVID-19 Hospitality Safety Guidelines"  
+  - "WTTC Safe Travels Stamp protocols — commercial industry body — World Travel & Tourism Council; conceptual alignment only"
+  - "GBAC STAR Facility Accreditation program — commercial professional association — Global Biorisk Advisory Council/ISSA; conceptual alignment only"
+  - "WHO Environmental Health in Tourism and Hospitality Settings guidance — intergovernmental organization — WHO (UN); publicly available"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Knows basic hygiene and safety expectations (handwashing, surface cleaning, emergency exits).  
+    indicator: Identifies basic hygiene and safety requirements including handwashing protocols, surface-cleaning procedures, and emergency exit locations.  
   - level: Basic  
     indicator: Follows established cleaning checklists and safety procedures; wears proper PPE and enforces simple guest safety rules as instructed.  
   - level: Intermediate  

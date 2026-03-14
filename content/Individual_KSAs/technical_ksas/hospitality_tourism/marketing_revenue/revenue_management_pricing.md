@@ -9,8 +9,8 @@ cluster_tags:
   - "Pricing"
 description: Maximizes top-line revenue and RevPAR by applying demand forecasting, inventory control, and dynamic pricing across channels.
 source_frameworks:
-  - "STR CHIA Certification"
-  - "Hotel Revenue Management Analytics"
+  - "STR Certification in Hotel Industry Analytics (CHIA) — commercial data provider — STR/CoStar; conceptual alignment only"
+  - "Hotel Revenue Management: Principles and Practices (Kimes & Wirtz — Cornell School of Hotel Administration) — academic framework; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Tracks daily occupancy, ADR, and RevPAR basics; reads STR report.

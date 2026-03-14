@@ -9,8 +9,8 @@ cluster_tags:
   - "PMS"
 description: Implements and maintains property-management systems (PMS) and integrated tech stacks—including POS, CRS, IoT devices—to streamline operations and enhance guest experiences.
 source_frameworks:
-  - "HTNG API Specifications"
-  - "PCI-DSS v4.0"
+  - "Hotel Technology Next Generation (HTNG) API Specifications — commercial technology standards body — HTNG/AHLA; conceptual alignment only"
+  - "PCI-DSS v4.0 Payment Card Industry Data Security Standard — commercial standards body — PCI Security Standards Council; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Navigates PMS modules and follows data-security guidelines.

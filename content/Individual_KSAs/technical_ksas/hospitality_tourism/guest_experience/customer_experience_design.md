@@ -9,10 +9,10 @@ cluster_tags:
   - "Service Design"
 description: Crafts end-to-end guest journeys—before, during, and after stays—using service-design tools, sensory cues, and feedback loops to maximize satisfaction and brand loyalty.
 source_frameworks:
-  - "Disney Institute Quality Service Model"
-  - "UNWTO Quality Tourism Strategy" 
-  - "ahlei:GuestServiceGold"
-  - "design:ServiceBlueprint"
+  - "Disney Institute Quality Service Model — commercial proprietary methodology — Disney Institute; conceptual alignment only"
+  - "UNWTO Quality Tourism Strategy — intergovernmental organization — UNWTO (UN); publicly available"
+  - "AHLEI Guest Service Gold training program — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only"
+  - "Service blueprinting methodology (Shostack 1982; Bitner et al. 2008) — academic framework; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Lists touchpoints (pre-stay, stay, post-stay); explains NPS basics; identifies key touchpoints and records guest preferences.

@@ -9,10 +9,10 @@ cluster_tags:
   - "Sustainability"
 description: Implementing environmentally responsible practices—energy efficiency, waste reduction, community engagement—to achieve certifications such as Green Key Global, LEED EBOM, or Global Sustainable Tourism Council (GSTC) standards.
 source_frameworks:
-  - "GSTC Industry Criteria"
-  - "ISO 21401:2018 Sustainable Tourism"
-  - "UN World Tourism Organization (UNWTO) Sustainable Tourism Guidelines"
-  - "Green Key Global Eco‑Rating Program"
+  - "Global Sustainable Tourism Council (GSTC) Industry Criteria — commercial/intergovernmental standards body; publicly available"
+  - "ISO 21401:2018 Tourism and Related Services: Sustainability Management System — ISO proprietary standard; conceptual alignment only"
+  - "UNWTO Sustainable Tourism Guidelines — intergovernmental organization — UNWTO (UN); publicly available"
+  - "Green Key Global Eco-Rating Program criteria — commercial certification program — Green Key International/FEE; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Separates recyclables; turns off unused equipment; explains towel‑reuse programs to guests.

@@ -9,9 +9,9 @@ cluster_tags:
   - "Distribution"
 description: Develops and executes omnichannel marketing strategies, manages brand presence, and optimizes digital distribution to drive direct bookings and loyalty.
 source_frameworks:
-  - "HSMAI Digital Marketing Certification"
-  - "Google Search Essentials 2024"
-  - "dma:DigitalMarketing"
+  - "HSMAI Digital Marketing Certification program — commercial professional association — Hospitality Sales and Marketing Association International; conceptual alignment only"
+  - "Google Search Essentials (2024) — vendor documentation — Google; conceptual alignment only — equivalent search optimization practices may apply"
+  - "Data & Marketing Association (DMA) digital marketing guidance — commercial professional association — DMA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines RevPAR, COA, and conversion; identifies main OTAs; posts brand-approved content on social media and tracks basic engagement.

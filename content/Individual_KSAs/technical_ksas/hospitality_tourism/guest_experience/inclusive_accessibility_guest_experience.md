@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designs barrier-free stays following Americans with Disabilities Act (ADA), Web Content Accessibility Guidelines (WCAG 2.2), and International Association of Accessibility Professionals (IAAP) best practices.
 source_frameworks:
-  - "ADA Title III Hospitality Guidance"
-  - "W3C WCAG 2.2"
+  - "ADA Title III Hospitality Guidance — U.S. government — DOJ; public domain"
+  - "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common barriers; lists room ADA features.

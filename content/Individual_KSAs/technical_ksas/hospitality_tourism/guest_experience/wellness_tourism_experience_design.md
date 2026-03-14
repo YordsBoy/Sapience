@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Curates holistic wellness itineraries—spa, nutrition, mindfulness—aligned with Global Wellness Institute (GWI) standards and International Spa Association (ISPA) protocols.
 source_frameworks:
-  - "GWI Wellness Tourism Framework"
-  - "ISPA Spa Standards"
+  - "Global Wellness Institute (GWI) Wellness Tourism Framework — commercial research institute; conceptual alignment only"
+  - "International Spa Association (ISPA) professional standards — commercial professional association — ISPA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines wellness pillars; recognizes contraindications.

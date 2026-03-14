@@ -9,9 +9,9 @@ cluster_tags:
   - "Operations"
 description: Manages reception, reservations, cashiering, and concierge services while optimizing occupancy, revenue, and guest satisfaction.
 source_frameworks:
-  - "AHLEI Managing Front Office Operations"
-  - "Hotel Technology Next Generation (HTNG) Interface Spec"
-  - "iata:BestPractices"
+  - "AHLEI Managing Front Office Operations textbook — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only"
+  - "Hotel Technology Next Generation (HTNG) Interface Specifications — commercial technology standards body — HTNG/AHLA; conceptual alignment only"
+  - "IATA Travel and Tourism Best Practices — commercial industry association — International Air Transport Association; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Greets guests; verifies ID; understands PMS fields; executes standard check-in/out procedures and issues room keys securely.

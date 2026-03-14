@@ -9,9 +9,9 @@ cluster_tags:
   - "Optimization"
 description: Applying dynamic pricing, demand forecasting, and distribution‑channel optimization to maximise RevPAR (Revenue per Available Room) and GOPPAR (Gross Operating Profit per Available Room) in hotels and events.
 source_frameworks:
-  - "HSMAI Revenue Optimization Framework"
-  - "Cornell School of Hotel Administration Revenue Management Framework"
-  - "STR Hotel Data Analytics"
+  - "HSMAI Revenue Optimization Framework — commercial professional association — Hospitality Sales and Marketing Association International; conceptual alignment only"
+  - "Cornell School of Hotel Administration Revenue Management Framework — academic institution; publicly available"
+  - "STR Hotel Data Analytics benchmarking reports — commercial data provider — STR/CoStar; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines ADR (Average Daily Rate), occupancy, RevPAR; monitors competitor sets.

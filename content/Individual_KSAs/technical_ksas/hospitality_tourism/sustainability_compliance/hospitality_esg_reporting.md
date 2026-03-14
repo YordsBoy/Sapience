@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Collects and discloses Environmental, Social, and Governance (ESG) metrics per Global Reporting Initiative (GRI) 302/305, Sustainable Hospitality Alliance Pathway, and forthcoming Corporate Sustainability Reporting Directive (CSRD).
 source_frameworks:
-  - "GRI Standards 302/305"
-  - "Sustainable Hospitality Alliance Hotel Pathway"
+  - "GRI Standards 302 (Energy) and 305 (Emissions) — commercial/intergovernmental standards body — Global Reporting Initiative; conceptual alignment only"
+  - "Sustainable Hospitality Alliance Hotel Decarbonisation Pathway — commercial/intergovernmental industry body; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists ESG data categories; explains scope 1–3 emissions.

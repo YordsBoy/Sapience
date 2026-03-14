@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Ensures Occupational Safety and Health Administration (OSHA) and World Health Organization (WHO) food-handling and sanitation standards across lodging operations.
 source_frameworks:
-  - "WHO Food-Safety Factsheet"
-  - "OSHA 29 CFR 1910"
+  - "WHO Food Safety fact sheets and guidance — intergovernmental organization — WHO (UN); publicly available"
+  - "OSHA 29 CFR 1910 General Industry Standards — U.S. government — DOL/OSHA; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Lists PPE types; identifies hazard signs.

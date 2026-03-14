@@ -9,8 +9,8 @@ cluster_tags:
   - "Management"
 description: Oversees hospitality operations and guest services – from accommodations and events to customer service – ensuring positive guest experiences and efficient service delivery.  
 source_frameworks:
-  - "Les Clefs d’Or Service Guidelines"
-  - "AHLEI Guest Service Gold" 
+  - "Les Clefs d’Or Service Guidelines — international concierge professional association; conceptual alignment only"
+  - "AHLEI Guest Service Gold training program — commercial professional association — American Hotel & Lodging Educational Institute; conceptual alignment only"
 proficiency_levels:  
   - level: Awareness  
     indicator: Greets guests and handles simple requests or inquiries courteously under supervision.  
