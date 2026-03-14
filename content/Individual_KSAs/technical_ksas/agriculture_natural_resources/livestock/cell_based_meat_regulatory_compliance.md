@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Designs and operates cultivated-meat processes—including cell-line selection, bioreactor scale-up, and food-safety controls—while navigating global regulatory frameworks (FAO/WHO, FDA/USDA, Singapore SFA).
 source_frameworks:
-  - "FAO/WHO 'Food-Safety Aspects of Cell-Based Food' report (2023)"
-  - "US FDA & USDA-FSIS Joint Framework for Cell-Cultured Meat (2024)"
+  - "FAO/WHO Food Safety Aspects of Cell-Based Food (2023) — intergovernmental organization; publicly available"
+  - "U.S. FDA & USDA-FSIS Joint Framework for Cell-Cultured Meat (2024) — U.S. government — FDA/USDA-FSIS; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Defines “cell agriculture” and lists agencies overseeing pre-market approval.

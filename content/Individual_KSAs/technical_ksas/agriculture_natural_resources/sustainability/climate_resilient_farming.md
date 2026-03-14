@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Adapts agronomic practices—drought-tolerant varieties, carbon-sequestration techniques, water-harvesting—to mitigate climate risks and reduce greenhouse-gas emissions.
 source_frameworks:
-  - "FAO Climate-Smart Agriculture framework (public domain)"
+  - "FAO Climate-Smart Agriculture framework — intergovernmental organization; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies local climate threats (drought, heat).

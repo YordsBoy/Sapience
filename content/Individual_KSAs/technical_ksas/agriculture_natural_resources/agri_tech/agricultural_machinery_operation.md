@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Operates and maintains modern farm equipment—including Global Positioning System (GPS)-guided tractors, combines, and autonomous implements—while optimizing machine settings for efficiency and safety.
 source_frameworks:
-  - "ISO/TC 23 standards for agricultural machinery (public summaries)"
+  - "ISO/TC 23 standards for agricultural machinery — ISO proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Follows safety checks; operates basic controls under supervision.

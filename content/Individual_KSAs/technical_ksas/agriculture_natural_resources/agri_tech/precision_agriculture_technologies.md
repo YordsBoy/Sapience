@@ -13,7 +13,7 @@ source_frameworks:
   - "O*NET Precision Agriculture Technicians profile 19-4012.01 (CC BY 4.0)"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands basic precision ag concepts (yield mapping, variable-rate tech) and common agri-sensors.
+    indicator: Identifies core precision agriculture concepts including yield mapping, variable-rate application technology, and standard sensor types used in site-specific field management.
   - level: Basic
     indicator: Operates GPS-guided farm machinery and simple yield monitors; collects sensor data.
   - level: Intermediate

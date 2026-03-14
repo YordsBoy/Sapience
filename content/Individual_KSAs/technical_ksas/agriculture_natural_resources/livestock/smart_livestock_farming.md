@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Applies sensors, computer vision, and automation to monitor animal health, welfare, and productivity, optimizing feed, environment, and early disease detection.
 source_frameworks:
-  - "USDA livestock-monitoring research (public domain)"
+  - "USDA Agricultural Research Service livestock monitoring research — U.S. government — USDA/ARS; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Reads basic biometric tags or RFID ear tags.

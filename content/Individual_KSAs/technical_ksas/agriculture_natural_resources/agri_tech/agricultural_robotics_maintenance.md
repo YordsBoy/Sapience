@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Installs, calibrates, troubleshoots, and maintains field robots and autonomous implements used for planting, weeding, and harvesting, ensuring uptime and safe operation.
 source_frameworks:
-  - "Fresh Consulting Robots-in-Agriculture tech brief (public)"
-  - "StandardBots industry report on ag-robots (public)"
+  - "Fresh Consulting Robots-in-Agriculture tech brief — commercial publication; conceptual alignment only"
+  - "StandardBots industry report on agricultural robots — commercial publication; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies major robot subsystems; follows lock-out/tag-out procedures.

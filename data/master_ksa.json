@@ -23441,12 +23441,12 @@
     ],
     "description": "Cultivates fish or shellfish using eco-friendly methods that minimize environmental impact;   manages water quality, feed, and stocking density in line with sustainable aquaculture guidelines.\n",
     "source_frameworks": [
-      "FAO Guidelines for Sustainable Aquaculture – shared principles for eco-friendly aquaculture"
+      "FAO Technical Guidelines for Responsible Fisheries: Aquaculture Development — intergovernmental organization; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands basic aquaculture concepts (fish farming, water circulation) and why sustainability (low pollution, efficient feed use) is important."
+        "indicator": "Identifies foundational aquaculture concepts including tank-based and pond-based fish farming, water circulation systems, and the environmental rationale for low-pollution, resource-efficient production methods."
       },
       {
         "level": "Basic",
@@ -23478,7 +23478,7 @@
     ],
     "description": "Adapts agronomic practices—drought-tolerant varieties, carbon-sequestration techniques, water-harvesting—to mitigate climate risks and reduce greenhouse-gas emissions.\n",
     "source_frameworks": [
-      "FAO Climate-Smart Agriculture framework (public domain)"
+      "FAO Climate-Smart Agriculture framework — intergovernmental organization; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -23515,12 +23515,12 @@
     ],
     "description": "Designs farming systems based on ecological processes—diversity, synergies, recycling, resilience—to enhance productivity while conserving biodiversity and soil health.\n",
     "source_frameworks": [
-      "FAO 10 Elements of Agroecology (public)"
+      "FAO 10 Elements of Agroecology — intergovernmental organization; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Can define agroecology and lists basic practices (crop rotation, organic composting)."
+        "indicator": "Defines agroecology and identifies foundational practices including crop rotation and organic composting."
       },
       {
         "level": "Basic",
@@ -23552,8 +23552,8 @@
     ],
     "description": "Plans and coordinates post-harvest handling, cold-chain storage, transportation, and distribution of agricultural products to minimise loss, maintain quality, and meet market timelines.\n",
     "source_frameworks": [
-      "USDA Agri-Food Supply-Chain Assessment (public report)",
-      "UF IFAS post-harvest handling guide (public)"
+      "USDA Agri-Food Supply Chain Assessment report — U.S. government — USDA; public domain",
+      "University of Florida IFAS post-harvest handling guide — academic cooperative extension; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -23590,8 +23590,8 @@
     ],
     "description": "Implements Occupational Safety and Health Administration (OSHA) agricultural standards, Environmental Protection Agency (EPA) pesticide rules, and food-safety regulations (FSMA) to protect workers, consumers, and the environment.\n",
     "source_frameworks": [
-      "OSHA Agricultural-Operations Hazards & Controls (public)",
-      "FDA/FSMA produce-safety rule summaries (public)"
+      "OSHA Agricultural Operations: Hazards and Controls guidance — U.S. government — DOL/OSHA; public domain",
+      "FDA Food Safety Modernization Act (FSMA) Produce Safety Rule guidance — U.S. government — FDA; public domain"
     ],
     "proficiency_levels": [
       {
@@ -23628,7 +23628,7 @@
     ],
     "description": "Applies sensors, computer vision, and automation to monitor animal health, welfare, and productivity, optimizing feed, environment, and early disease detection.\n",
     "source_frameworks": [
-      "USDA livestock-monitoring research (public domain)"
+      "USDA Agricultural Research Service livestock monitoring research — U.S. government — USDA/ARS; public domain"
     ],
     "proficiency_levels": [
       {
@@ -23665,7 +23665,7 @@
     ],
     "description": "Applies best-practice animal-care routines—feeding, housing, health checks, breeding—to ensure welfare and productivity across cattle, poultry, or other farm animals.\n",
     "source_frameworks": [
-      "FAO husbandry competency draft (public)"
+      "FAO livestock husbandry competency guidance — intergovernmental organization; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -23702,8 +23702,8 @@
     ],
     "description": "Designs and operates cultivated-meat processes—including cell-line selection, bioreactor scale-up, and food-safety controls—while navigating global regulatory frameworks (FAO/WHO, FDA/USDA, Singapore SFA).\n",
     "source_frameworks": [
-      "FAO/WHO 'Food-Safety Aspects of Cell-Based Food' report (2023)",
-      "US FDA & USDA-FSIS Joint Framework for Cell-Cultured Meat (2024)"
+      "FAO/WHO Food Safety Aspects of Cell-Based Food (2023) — intergovernmental organization; publicly available",
+      "U.S. FDA & USDA-FSIS Joint Framework for Cell-Cultured Meat (2024) — U.S. government — FDA/USDA-FSIS; public domain"
     ],
     "proficiency_levels": [
       {
@@ -23740,13 +23740,13 @@
     ],
     "description": "Prepares budgets, cash-flow projections, and profitability analyses for farm enterprises; assesses investment returns and risk scenarios.\n",
     "source_frameworks": [
-      "USDA/NIFA farm-business training modules (public)",
-      "NRCS budget-analysis practitioner guide (public)"
+      "USDA/NIFA farm-business management training modules — U.S. government — USDA/NIFA; public domain",
+      "USDA/NRCS farm budget-analysis practitioner guidance — U.S. government — USDA/NRCS; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Records basic income and expense items; understands Schedule F tax form."
+        "indicator": "Records basic income and expense items; identifies the purpose and primary sections of Schedule F tax reporting for farm enterprises."
       },
       {
         "level": "Basic",
@@ -23815,8 +23815,8 @@
     ],
     "description": "Deploys unmanned-aerial vehicles (UAVs) equipped with multi-spectral cameras and on-device computer-vision models to detect pest outbreaks and trigger site-specific pesticide application, reducing chemical load and improving crop yields.\n",
     "source_frameworks": [
-      "AgWeb ‘Farming Drones & AI Advances’ technology brief (2025)",
-      "ISO 18466:2024 – Guidelines for UAV Application in Agriculture"
+      "AgWeb ‘Farming Drones & AI Advances’ technology brief (2025) — commercial agricultural publication; conceptual alignment only",
+      "ISO 21384-3:2019 Unmanned Aircraft Systems — Part 3: Operational Procedures — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -23829,7 +23829,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Trains a local YOLO model on labeled pest images; adjusts flight altitude and overlap for 3 cm/px resolution."
+        "indicator": "Configures AI-assisted pest detection workflows using available computer-vision tools (e.g., YOLO-based object detection models); adjusts UAV flight parameters for adequate imaging resolution; interprets model output hotspot maps to validate pest distribution."
       },
       {
         "level": "Advanced",
@@ -23853,7 +23853,7 @@
     ],
     "description": "Uses soil-moisture probes, weather data, and automated valves to deliver precise water volumes, improving yield while conserving resources.  See also **`climate_resilient_farming`** for whole-farm water-resource strategies.\n",
     "source_frameworks": [
-      "USDA Natural Resources Conservation Service smart-irrigation notes (public domain)"
+      "USDA Natural Resources Conservation Service smart irrigation guidance — U.S. government — USDA/NRCS; public domain"
     ],
     "proficiency_levels": [
       {
@@ -23890,7 +23890,7 @@
     ],
     "description": "Identifies, monitors, and controls integrated management of crop pests and diseases using integrated pest-management (IPM) strategies that combine cultural, biological, and chemical controls.\n",
     "source_frameworks": [
-      "Public-domain IPM guidelines (USDA Extension)"
+      "USDA Extension Integrated Pest Management (IPM) program guidelines — U.S. government — USDA; public domain"
     ],
     "proficiency_levels": [
       {
@@ -23932,7 +23932,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands basic precision ag concepts (yield mapping, variable-rate tech) and common agri-sensors."
+        "indicator": "Identifies core precision agriculture concepts including yield mapping, variable-rate application technology, and standard sensor types used in site-specific field management."
       },
       {
         "level": "Basic",
@@ -23964,8 +23964,8 @@
     ],
     "description": "Installs, calibrates, troubleshoots, and maintains field robots and autonomous implements used for planting, weeding, and harvesting, ensuring uptime and safe operation.\n",
     "source_frameworks": [
-      "Fresh Consulting Robots-in-Agriculture tech brief (public)",
-      "StandardBots industry report on ag-robots (public)"
+      "Fresh Consulting Robots-in-Agriculture tech brief — commercial publication; conceptual alignment only",
+      "StandardBots industry report on agricultural robots — commercial publication; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -24002,7 +24002,7 @@
     ],
     "description": "Operates and maintains modern farm equipment—including Global Positioning System (GPS)-guided tractors, combines, and autonomous implements—while optimizing machine settings for efficiency and safety.\n",
     "source_frameworks": [
-      "ISO/TC 23 standards for agricultural machinery (public summaries)"
+      "ISO/TC 23 standards for agricultural machinery — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -24039,7 +24039,8 @@
     ],
     "description": "Collects, cleans, and analyses multi-source farm data (yield, climate, satellite) to inform decisions and benchmark performance.\n",
     "source_frameworks": [
-      "FAO & USDA open-data initiatives (public domain)"
+      "FAO open-data initiatives — intergovernmental organization; publicly available",
+      "USDA open-data initiatives — U.S. government — USDA; public domain"
     ],
     "proficiency_levels": [
       {

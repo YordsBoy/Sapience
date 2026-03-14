@@ -10,10 +10,10 @@ cluster_tags:
 description: >
   Designs farming systems based on ecological processes—diversity, synergies, recycling, resilience—to enhance productivity while conserving biodiversity and soil health.
 source_frameworks:
-  - "FAO 10 Elements of Agroecology (public)"
+  - "FAO 10 Elements of Agroecology — intergovernmental organization; publicly available"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Can define agroecology and lists basic practices (crop rotation, organic composting).  
+    indicator: Defines agroecology and identifies foundational practices including crop rotation and organic composting.
   - level: Basic  
     indicator: Participates in soil conservation measures (cover crop planting, reduced tillage) under guidance.  
   - level: Intermediate  

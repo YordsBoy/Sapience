@@ -10,11 +10,11 @@ cluster_tags:
 description: >
   Prepares budgets, cash-flow projections, and profitability analyses for farm enterprises; assesses investment returns and risk scenarios.
 source_frameworks:
-  - "USDA/NIFA farm-business training modules (public)"
-  - "NRCS budget-analysis practitioner guide (public)"
+  - "USDA/NIFA farm-business management training modules — U.S. government — USDA/NIFA; public domain"
+  - "USDA/NRCS farm budget-analysis practitioner guidance — U.S. government — USDA/NRCS; public domain"
 proficiency_levels:
   - level: Awareness
-    indicator: Records basic income and expense items; understands Schedule F tax form.
+    indicator: Records basic income and expense items; identifies the purpose and primary sections of Schedule F tax reporting for farm enterprises.
   - level: Basic
     indicator: Develops enterprise budgets; calculates breakeven prices.
   - level: Intermediate

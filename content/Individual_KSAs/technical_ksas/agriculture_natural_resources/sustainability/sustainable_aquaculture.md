@@ -11,10 +11,10 @@ description: >
   Cultivates fish or shellfish using eco-friendly methods that minimize environmental impact;  
   manages water quality, feed, and stocking density in line with sustainable aquaculture guidelines.
 source_frameworks:
-  - "FAO Guidelines for Sustainable Aquaculture – shared principles for eco-friendly aquaculture"
+  - "FAO Technical Guidelines for Responsible Fisheries: Aquaculture Development — intergovernmental organization; publicly available"
 proficiency_levels:
   - level: Awareness  
-    indicator: Understands basic aquaculture concepts (fish farming, water circulation) and why sustainability (low pollution, efficient feed use) is important.
+    indicator: Identifies foundational aquaculture concepts including tank-based and pond-based fish farming, water circulation systems, and the environmental rationale for low-pollution, resource-efficient production methods.
   - level: Basic  
     indicator: Monitors aquaculture tanks/ponds under supervision; measures water quality (pH, oxygen) and performs routine feeding and cleaning.
   - level: Intermediate  

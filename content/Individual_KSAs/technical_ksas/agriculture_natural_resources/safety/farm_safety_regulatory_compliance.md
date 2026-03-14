@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Implements Occupational Safety and Health Administration (OSHA) agricultural standards, Environmental Protection Agency (EPA) pesticide rules, and food-safety regulations (FSMA) to protect workers, consumers, and the environment.
 source_frameworks:
-  - "OSHA Agricultural-Operations Hazards & Controls (public)"
-  - "FDA/FSMA produce-safety rule summaries (public)"
+  - "OSHA Agricultural Operations: Hazards and Controls guidance — U.S. government — DOL/OSHA; public domain"
+  - "FDA Food Safety Modernization Act (FSMA) Produce Safety Rule guidance — U.S. government — FDA; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common farm hazards; follows PPE requirements.

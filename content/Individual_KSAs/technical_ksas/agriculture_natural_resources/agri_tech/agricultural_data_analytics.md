@@ -10,7 +10,8 @@ cluster_tags:
 description: >
   Collects, cleans, and analyses multi-source farm data (yield, climate, satellite) to inform decisions and benchmark performance.
 source_frameworks:
-  - "FAO & USDA open-data initiatives (public domain)"
+  - "FAO open-data initiatives — intergovernmental organization; publicly available"
+  - "USDA open-data initiatives — U.S. government — USDA; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Exports basic reports from farm-management software.

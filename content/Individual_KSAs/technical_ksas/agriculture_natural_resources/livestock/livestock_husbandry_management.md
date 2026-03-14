@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Applies best-practice animal-care routines—feeding, housing, health checks, breeding—to ensure welfare and productivity across cattle, poultry, or other farm animals.
 source_frameworks:
-  - "FAO husbandry competency draft (public)"
+  - "FAO livestock husbandry competency guidance — intergovernmental organization; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Follows basic feeding and watering schedules; observes animals for visible illness.

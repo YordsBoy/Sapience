@@ -11,7 +11,7 @@ description: >
   Identifies, monitors, and controls integrated management of crop pests and diseases using integrated
   pest-management (IPM) strategies that combine cultural, biological, and chemical controls.
 source_frameworks:
-  - "Public-domain IPM guidelines (USDA Extension)"
+  - "USDA Extension Integrated Pest Management (IPM) program guidelines — U.S. government — USDA; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises common disease symptoms; reports to supervisor.
