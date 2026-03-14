@@ -9,9 +9,9 @@ cluster_tags:
   - "Tenant Relations"
 description: Structuring and negotiating commercial and residential leases, managing tenant communications, and resolving disputes to maximise occupancy and satisfaction.
 source_frameworks:
-  - "FASB ASC 842"
-  - "BOMA Standard Methods of Measurement"
-  - "IREM Leasing & Marketing Course"
+  - "FASB ASC 842 Leases — U.S. accounting standard — FASB; public domain for educational reference"
+  - "BOMA Standard Methods of Measurement — commercial professional association — BOMA International; conceptual alignment only"
+  - "IREM Leasing and Marketing Course curriculum — commercial professional association — IREM; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains lease types; records rent due dates; responds to tenant inquiries.

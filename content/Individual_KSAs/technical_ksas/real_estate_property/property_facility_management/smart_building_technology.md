@@ -11,10 +11,10 @@ description: >
   Understands and manages smart building systems and PropTech solutions in property management;  
   works with IoT devices (smart thermostats, access controls, surveillance, HVAC sensors) and property management software to increase building efficiency, tenant comfort, and operational data tracking.  
 source_frameworks:  
-  - "WiredScore Smart Building Certification Criteria"  
+  - "WiredScore Smart Building certification criteria — commercial certification program — WiredScore; conceptual alignment only"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Aware of common smart building features (smart locks, connected sensors) and their basic purpose.  
+    indicator: Identifies common smart building features including smart locks, connected environmental sensors, and automated HVAC controls, and explains their operational purpose in property management.  
   - level: Basic  
     indicator: Assists in using a property management app or dashboard (e.g., checking sensor readings, adjusting settings per instructions); can explain features of a smart home/building to tenants (like how to use a smart thermostat); adds sensor; configures trend log; sets alerts.
   - level: Intermediate  

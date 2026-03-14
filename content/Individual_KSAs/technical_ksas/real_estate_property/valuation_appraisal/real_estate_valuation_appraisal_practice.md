@@ -9,9 +9,9 @@ cluster_tags:
   - "Appraisal"
 description: Conducting property valuations using sales‑comparison, cost, and income approaches per Uniform Standards of Professional Appraisal Practice (USPAP) and Appraisal Institute (AI) MAI designation requirements.
 source_frameworks:
-  - "RICS Red Book Global"
-  - "USPAP 2024‑25 Edition"
-  - "Appraisal Institute MAI Curriculum"
+  - "RICS Red Book Global (International Valuation Standards) — commercial professional association — RICS; conceptual alignment only"
+  - "Uniform Standards of Professional Appraisal Practice (USPAP) 2024–25 Edition — commercial professional standards — Appraisal Foundation; conceptual alignment only"
+  - "Appraisal Institute MAI designation curriculum — commercial professional association — Appraisal Institute; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists three approaches; defines highest & best use (HBU); collects comparable sales; measures gross living area (GLA); confirms zoning.

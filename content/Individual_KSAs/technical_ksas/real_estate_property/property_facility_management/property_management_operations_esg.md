@@ -9,9 +9,9 @@ cluster_tags:
   - "ESG"
 description: Operating commercial and residential properties, optimizing budgets, maintenance, tenant services, and environmental‑social‑governance (ESG) performance in line with Institute of Real Estate Management (IREM) Certified Property Manager (CPM) competencies.
 source_frameworks:
-  - "IREM CPM Handbook"
-  - "GRESB Real Asset Assessment"
-  - "ISO 41001:2018" 
+  - "IREM Certified Property Manager (CPM) Handbook — commercial professional association — IREM; conceptual alignment only"
+  - "GRESB Real Asset Assessment framework — commercial ESG benchmarking organization; conceptual alignment only"
+  - "ISO 41001:2018 Facility Management Systems: Requirements with Guidance for Use — ISO proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Reviews leases; logs maintenance tickets; tracks utility usage; lists op-ex categories; understands ESG pillars.
@@ -20,7 +20,7 @@ proficiency_levels:
   - level: Intermediate
     indicator: Engages tenants; implements energy‑efficiency retrofits; analyses Net Operating Income (NOI); manages vendor contracts.
   - level: Advanced
-    indicator: Benchmarks performance using ENERGY STAR Portfolio Manager; leads green‑lease negotiations; reports to GRESB implements ISO 41001 FMMS; reduces carbon intensity.
+    indicator: Benchmarks performance using energy management platforms (e.g., ENERGY STAR Portfolio Manager); leads green-lease negotiations; reports to GRESB; implements ISO 41001 FMMS; reduces carbon intensity.
   - level: Expert
     indicator: Oversees multi‑asset portfolios; integrates ESG into asset strategy; mentors CPMs; publishes property‑management research.
 ---

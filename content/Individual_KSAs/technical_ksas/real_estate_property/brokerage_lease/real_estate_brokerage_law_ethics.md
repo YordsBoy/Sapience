@@ -9,8 +9,8 @@ cluster_tags:
   - "Ethics"
 description: Conducting real‑estate brokerage activities—listing, buyer representation, transactions—in compliance with National Association of REALTORS® (NAR) Code of Ethics and state licencing laws.
 source_frameworks:
-  - "NAR Code of Ethics"
-  - "Real Estate Settlement Procedures Act (RESPA) (12 USC 2601)"
+  - "NAR Code of Ethics and Standards of Practice — commercial professional association — National Association of REALTORS®; conceptual alignment only"
+  - "Real Estate Settlement Procedures Act (RESPA), 12 U.S.C. § 2601 — U.S. government — HUD/CFPB; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Explains fiduciary duties; describes agency relationships; discloses known defects.

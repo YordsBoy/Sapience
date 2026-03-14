@@ -9,9 +9,9 @@ cluster_tags:
   - "Cash-Flow"
 description: Building pro‑forma statements, discounted‑cash‑flow (DCF) models, and sensitivity analyses to evaluate real‑estate investments and asset performance.
 source_frameworks:
-  - "ARGUS Enterprise Modelling Guide"
-  - "RICS Red Book Global"
-  - "CCIM Financial Analysis Curriculum"
+  - "ARGUS Enterprise Modelling Guide — vendor documentation — Altus Group/ARGUS; conceptual alignment only — equivalent DCF modelling platforms may demonstrate competency"
+  - "RICS Red Book Global (International Valuation Standards) — commercial professional association — RICS; conceptual alignment only"
+  - "CCIM Financial Analysis curriculum — commercial professional association — CCIM Institute; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines NOI, cap-rate, and IRR; calculates gross potential income (GPI); identifies expense categories.

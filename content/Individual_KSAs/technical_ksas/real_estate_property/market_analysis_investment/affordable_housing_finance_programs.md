@@ -10,11 +10,11 @@ cluster_tags:
 description: >
   Structures deals using Low-Income Housing Tax Credits (LIHTC), HUD 223f/221d, and Community Development Financial Institution (CDFI) lending, compliant with IRS Section 42.
 source_frameworks:
-  - "IRS LIHTC Compliance Manual"
-  - "HUD Multifamily Accelerated Processing Guide"
+  - "IRS Low-Income Housing Tax Credit (LIHTC) Compliance Manual — U.S. government — IRS/Treasury; public domain"
+  - "HUD Multifamily Accelerated Processing (MAP) Guide — U.S. government — HUD; public domain"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines AMI, LIHTC basis boost, 4 % vs 9 %.
+    indicator: Defines Area Median Income (AMI), identifies the two main LIHTC credit types (4% and 9%), and explains the purpose of basis boost provisions in tax-credit project structuring.
   - level: Basic
     indicator: Creates sources/uses; applies income-rent limits; drafts 8609.
   - level: Intermediate

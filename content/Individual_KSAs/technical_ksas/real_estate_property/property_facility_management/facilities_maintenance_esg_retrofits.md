@@ -9,11 +9,10 @@ cluster_tags:
   - "Retrofit"
 description: Planning and executing preventive maintenance, capital‑expenditure projects, and sustainability retrofits—HVAC upgrades, LED lighting, water conservation—to enhance asset value and ESG performance.
 source_frameworks:
-  - "LEED v4.1 O+M Guide"
-  - "ASHRAE 90.1-2019"
-  - "ASHRAE Standard 100 Energy Efficiency"
-  - "BREEAM In-Use"
-  - "LEED O+M"
+  - "LEED v4.1 Operations and Maintenance Guide — commercial certification program — USGBC; conceptual alignment only"
+  - "ASHRAE 90.1-2019 Energy Standard for Buildings Except Low-Rise Residential Buildings — commercial professional association standard — ASHRAE; conceptual alignment only"
+  - "ASHRAE Standard 100 Energy Efficiency in Existing Buildings — commercial professional association standard — ASHRAE; conceptual alignment only"
+  - "BREEAM In-Use certification scheme — commercial certification program — BRE Group; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Tracks work orders; replaces filters; identifies energy‑saving opportunities; lists retrofit incentives.

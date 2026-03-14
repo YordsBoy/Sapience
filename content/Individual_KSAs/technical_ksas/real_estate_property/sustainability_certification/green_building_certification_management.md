@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Manages LEED, BREEAM, WELL, and Fitwel certification processes, coordinating documentation, commissioning, and GHG reporting to ISO 14064-1.
 source_frameworks:
-  - "USGBC LEED v4.1"
-  - "BREEAM New Construction 2022"
+  - "USGBC LEED v4.1 certification system — commercial certification program — U.S. Green Building Council; conceptual alignment only"
+  - "BREEAM New Construction 2022 technical standard — commercial certification program — BRE Group; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists rating systems; explains credit categories.

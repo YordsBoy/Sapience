@@ -3867,9 +3867,9 @@
     ],
     "description": "Conducting property valuations using sales‑comparison, cost, and income approaches per Uniform Standards of Professional Appraisal Practice (USPAP) and Appraisal Institute (AI) MAI designation requirements.",
     "source_frameworks": [
-      "RICS Red Book Global",
-      "USPAP 2024‑25 Edition",
-      "Appraisal Institute MAI Curriculum"
+      "RICS Red Book Global (International Valuation Standards) — commercial professional association — RICS; conceptual alignment only",
+      "Uniform Standards of Professional Appraisal Practice (USPAP) 2024–25 Edition — commercial professional standards — Appraisal Foundation; conceptual alignment only",
+      "Appraisal Institute MAI designation curriculum — commercial professional association — Appraisal Institute; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -3906,8 +3906,8 @@
     ],
     "description": "Manages LEED, BREEAM, WELL, and Fitwel certification processes, coordinating documentation, commissioning, and GHG reporting to ISO 14064-1.\n",
     "source_frameworks": [
-      "USGBC LEED v4.1",
-      "BREEAM New Construction 2022"
+      "USGBC LEED v4.1 certification system — commercial certification program — U.S. Green Building Council; conceptual alignment only",
+      "BREEAM New Construction 2022 technical standard — commercial certification program — BRE Group; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -3944,12 +3944,12 @@
     ],
     "description": "Understands and manages smart building systems and PropTech solutions in property management;   works with IoT devices (smart thermostats, access controls, surveillance, HVAC sensors) and property management software to increase building efficiency, tenant comfort, and operational data tracking.  \n",
     "source_frameworks": [
-      "WiredScore Smart Building Certification Criteria"
+      "WiredScore Smart Building certification criteria — commercial certification program — WiredScore; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Aware of common smart building features (smart locks, connected sensors) and their basic purpose."
+        "indicator": "Identifies common smart building features including smart locks, connected environmental sensors, and automated HVAC controls, and explains their operational purpose in property management."
       },
       {
         "level": "Basic",
@@ -3979,10 +3979,10 @@
       "Cyber Security",
       "Building Systems"
     ],
-    "description": "Secures BAS, IoT, and tenant technologies by applying NIST SP 800-82 ICS security, ISA/IEC 62443 segmentation, and Real Estate Cyber Consortium (RECC) guidelines.\n",
+    "description": "Secures BAS, IoT, and tenant technologies by applying NIST SP 800-82 OT security guidance, ISA/IEC 62443 network segmentation, and real estate cybersecurity consortium frameworks (e.g., RECC guidelines).\n",
     "source_frameworks": [
-      "NIST SP 800-82 Rev 3",
-      "IEC 62443-3-3"
+      "NIST SP 800-82 Rev. 3 Guide to Operational Technology (OT) Security — U.S. government — NIST/CISA; public domain",
+      "IEC 62443-3-3 Industrial Automation and Control Systems Security — ISO/IEC proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -4003,7 +4003,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads portfolio cyber-program; mentors operators; aligns to RECC maturity model."
+        "indicator": "Leads portfolio cyber-program; mentors operators; aligns to industry cyber-maturity frameworks (e.g., RECC maturity model)."
       }
     ]
   },
@@ -4019,9 +4019,9 @@
     ],
     "description": "Operating commercial and residential properties, optimizing budgets, maintenance, tenant services, and environmental‑social‑governance (ESG) performance in line with Institute of Real Estate Management (IREM) Certified Property Manager (CPM) competencies.",
     "source_frameworks": [
-      "IREM CPM Handbook",
-      "GRESB Real Asset Assessment",
-      "ISO 41001:2018"
+      "IREM Certified Property Manager (CPM) Handbook — commercial professional association — IREM; conceptual alignment only",
+      "GRESB Real Asset Assessment framework — commercial ESG benchmarking organization; conceptual alignment only",
+      "ISO 41001:2018 Facility Management Systems: Requirements with Guidance for Use — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -4038,7 +4038,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Benchmarks performance using ENERGY STAR Portfolio Manager; leads green‑lease negotiations; reports to GRESB implements ISO 41001 FMMS; reduces carbon intensity."
+        "indicator": "Benchmarks performance using energy management platforms (e.g., ENERGY STAR Portfolio Manager); leads green-lease negotiations; reports to GRESB; implements ISO 41001 FMMS; reduces carbon intensity."
       },
       {
         "level": "Expert",
@@ -4058,11 +4058,10 @@
     ],
     "description": "Planning and executing preventive maintenance, capital‑expenditure projects, and sustainability retrofits—HVAC upgrades, LED lighting, water conservation—to enhance asset value and ESG performance.",
     "source_frameworks": [
-      "LEED v4.1 O+M Guide",
-      "ASHRAE 90.1-2019",
-      "ASHRAE Standard 100 Energy Efficiency",
-      "BREEAM In-Use",
-      "LEED O+M"
+      "LEED v4.1 Operations and Maintenance Guide — commercial certification program — USGBC; conceptual alignment only",
+      "ASHRAE 90.1-2019 Energy Standard for Buildings Except Low-Rise Residential Buildings — commercial professional association standard — ASHRAE; conceptual alignment only",
+      "ASHRAE Standard 100 Energy Efficiency in Existing Buildings — commercial professional association standard — ASHRAE; conceptual alignment only",
+      "BREEAM In-Use certification scheme — commercial certification program — BRE Group; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -4099,8 +4098,8 @@
     ],
     "description": "Conducts legal, environmental (Phase I ESA), financial, and physical due-diligence following ASTM E1527-21 and Fannie Mae Multifamily Guide.\n",
     "source_frameworks": [
-      "ASTM E1527-21 Phase I ESA",
-      "Fannie Mae Multifamily Selling-Servicing Guide"
+      "ASTM E1527-21 Standard Practice for Environmental Site Assessments: Phase I — ASTM International proprietary standard; conceptual alignment only",
+      "Fannie Mae Multifamily Selling and Servicing Guide — U.S. government-sponsored enterprise — Fannie Mae/FNMA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -4144,7 +4143,7 @@
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows that real estate decisions can be guided by data (prices, inventory, neighborhood stats); has seen basic charts of housing trends; imports CSV; plots bar chart; geocodes addresses."
+        "indicator": "Identifies how market data (prices, inventory, neighborhood demographics) informs real estate decisions; imports CSV datasets; plots basic bar charts; geocodes addresses using mapping tools."
       },
       {
         "level": "Basic",
@@ -4152,7 +4151,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Uses specialized software (like CoStar, ArcGIS) or BI tools to combine data (rental rates, foot traffic, growth projections); identifies patterns (e.g., area of high rent growth) and produces reports or visualizations to advise clients or managers; factors data-driven insights into property valuation or marketing plans; automates ETL; creates interactive dashboard; applies regression."
+        "indicator": "Uses market data and GIS platforms (e.g., CoStar, ArcGIS) or BI tools to combine rental rates, foot traffic, and growth projections; identifies patterns and produces reports or visualizations to advise clients or managers; factors data-driven insights into property valuation or marketing plans; automates ETL; creates interactive dashboard; applies regression."
       },
       {
         "level": "Advanced",
@@ -4176,9 +4175,9 @@
     ],
     "description": "Building pro‑forma statements, discounted‑cash‑flow (DCF) models, and sensitivity analyses to evaluate real‑estate investments and asset performance.",
     "source_frameworks": [
-      "ARGUS Enterprise Modelling Guide",
-      "RICS Red Book Global",
-      "CCIM Financial Analysis Curriculum"
+      "ARGUS Enterprise Modelling Guide — vendor documentation — Altus Group/ARGUS; conceptual alignment only — equivalent DCF modelling platforms may demonstrate competency",
+      "RICS Red Book Global (International Valuation Standards) — commercial professional association — RICS; conceptual alignment only",
+      "CCIM Financial Analysis curriculum — commercial professional association — CCIM Institute; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -4213,11 +4212,11 @@
       "Market Analysis",
       "Commercial Real Estate"
     ],
-    "description": "Analysing supply, demand, absorption, and rent trends in commercial real‑estate (CRE) markets using CoStar, Real Capital Analytics, and GIS visualisation to inform investment and leasing strategies.",
+    "description": "Analysing supply, demand, absorption, and rent trends in commercial real-estate (CRE) markets using market data platforms (e.g., CoStar, Real Capital Analytics) and GIS visualisation to inform investment and leasing strategies.",
     "source_frameworks": [
-      "CCIM Market Analysis Methodology",
-      "ULI Emerging Trends Report",
-      "CoStar Market Analytics Guide"
+      "CCIM Market Analysis Methodology — commercial professional association — CCIM Institute; conceptual alignment only",
+      "ULI Emerging Trends in Real Estate report — commercial research publication — Urban Land Institute; conceptual alignment only",
+      "CoStar Market Analytics Guide — vendor documentation — CoStar Group; conceptual alignment only — equivalent market data platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -4254,13 +4253,13 @@
     ],
     "description": "Structures deals using Low-Income Housing Tax Credits (LIHTC), HUD 223f/221d, and Community Development Financial Institution (CDFI) lending, compliant with IRS Section 42.\n",
     "source_frameworks": [
-      "IRS LIHTC Compliance Manual",
-      "HUD Multifamily Accelerated Processing Guide"
+      "IRS Low-Income Housing Tax Credit (LIHTC) Compliance Manual — U.S. government — IRS/Treasury; public domain",
+      "HUD Multifamily Accelerated Processing (MAP) Guide — U.S. government — HUD; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines AMI, LIHTC basis boost, 4 % vs 9 %."
+        "indicator": "Defines Area Median Income (AMI), identifies the two main LIHTC credit types (4% and 9%), and explains the purpose of basis boost provisions in tax-credit project structuring."
       },
       {
         "level": "Basic",
@@ -4292,8 +4291,8 @@
     ],
     "description": "Conducting real‑estate brokerage activities—listing, buyer representation, transactions—in compliance with National Association of REALTORS® (NAR) Code of Ethics and state licencing laws.",
     "source_frameworks": [
-      "NAR Code of Ethics",
-      "Real Estate Settlement Procedures Act (RESPA) (12 USC 2601)"
+      "NAR Code of Ethics and Standards of Practice — commercial professional association — National Association of REALTORS®; conceptual alignment only",
+      "Real Estate Settlement Procedures Act (RESPA), 12 U.S.C. § 2601 — U.S. government — HUD/CFPB; public domain"
     ],
     "proficiency_levels": [
       {
@@ -4330,9 +4329,9 @@
     ],
     "description": "Structuring and negotiating commercial and residential leases, managing tenant communications, and resolving disputes to maximise occupancy and satisfaction.",
     "source_frameworks": [
-      "FASB ASC 842",
-      "BOMA Standard Methods of Measurement",
-      "IREM Leasing & Marketing Course"
+      "FASB ASC 842 Leases — U.S. accounting standard — FASB; public domain for educational reference",
+      "BOMA Standard Methods of Measurement — commercial professional association — BOMA International; conceptual alignment only",
+      "IREM Leasing and Marketing Course curriculum — commercial professional association — IREM; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
