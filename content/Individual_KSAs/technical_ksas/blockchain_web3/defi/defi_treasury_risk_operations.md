@@ -9,16 +9,15 @@ cluster_tags:
   - "Risk Management"
 description: Managing decentralized‑finance (DeFi) treasuries, liquidity pools, and yield‑strategies while monitoring smart‑contract risk, oracle manipulation, and impermanent loss.
 source_frameworks:
-  - "Gauntlet DeFi Risk Framework (2024)"
-  - "Chainalysis Protocol Risk Taxonomy"
-  - "Chainalysis DeFi Risk Report 2024"
+  - "Gauntlet DeFi Risk Framework (2024) — commercial risk modeling firm; conceptual alignment only"
+  - "Chainalysis Protocol Risk Taxonomy — commercial blockchain analytics firm — Chainalysis; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Tracks TVL and basic APY metrics on dashboards; tracks liquidity‑pool (LP) token balances; recognizes basic impermanent‑loss concepts.
   - level: Basic
     indicator: Executes liquidity-rebalancing; diversifies treasury across stablecoins and blue‑chip assets; employs multi‑sig wallets; monitors on‑chain price oracles.
   - level: Intermediate
-    indicator: Simulates shock scenarios; executes yield‑farming rotations; models liquidity‑mining incentives; performs protocol‑level risk scoring; sets liquidation thresholds..
+    indicator: Simulates shock scenarios; executes yield-farming rotations; models liquidity-mining incentives; performs protocol-level risk scoring; sets liquidation thresholds.
   - level: Advanced
     indicator: Runs automated risk-mitigation bots; implements hedging via perpetual futures; manages re‑staking and cross‑chain bridges; conducts smart‑contract insurance‑coverage analysis.
   - level: Expert

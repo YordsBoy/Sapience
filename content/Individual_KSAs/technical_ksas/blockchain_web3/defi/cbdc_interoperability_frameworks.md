@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Designs bridges and messaging standards that enable retail and wholesale central-bank digital currencies (CBDCs) to transact with public or permissioned chains while preserving monetary-policy controls.
 source_frameworks:
-  - "BIS Survey & ‘Project Icebreaker’ report (2024)"
+  - "Bank for International Settlements (BIS) CBDC survey and Project Icebreaker cross-border CBDC report (2024) — intergovernmental organization — BIS; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Lists common CBDC models (direct, hybrid) and ISO 20022 messaging basics.

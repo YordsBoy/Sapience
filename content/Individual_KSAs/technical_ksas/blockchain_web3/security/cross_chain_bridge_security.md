@@ -11,8 +11,8 @@ description: |
   Designs and audits cross-chain messaging and asset bridges; mitigates common exploits (signature-spoofing, replay, validator compromise) and deploys monitoring/incident-response
   systems.
 source_frameworks:
-  - "Chainalysis Bridge-Hack Report 2023"
-  - "LayerZero Security Model (2024)"
+  - "Chainalysis Cross-Chain Bridge Hack Report (2023) — commercial blockchain analytics firm — Chainalysis; conceptual alignment only"
+  - "LayerZero cross-chain messaging security model documentation (2024) — vendor documentation — LayerZero Labs; conceptual alignment only — equivalent cross-chain messaging protocols may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Describes lock-mint vs burn-mint designs and associated risks.

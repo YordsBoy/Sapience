@@ -10,8 +10,8 @@ cluster_tags:
 description: |
   Designs DID methods, verifiable-credential flows, and revocation registries; aligns with W3C, Hyperledger Indy/Aries, and EBSI standards to enable privacy-preserving, portable identity solutions.
 source_frameworks:
-  - "W3C Decentralized Identifiers 1.0"
-  - "World Economic Forum Metaverse Identity Report 2024"
+  - "W3C Decentralized Identifiers (DID) Core Specification 1.0 — international standards consortium — W3C; publicly available"
+  - "WEF Digital Identity report (2024) — intergovernmental/commercial organization — World Economic Forum; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Explains SSI concepts (issuer, holder, verifier).

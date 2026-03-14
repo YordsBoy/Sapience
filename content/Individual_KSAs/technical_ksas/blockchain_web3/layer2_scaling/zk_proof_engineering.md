@@ -11,8 +11,8 @@ description: |
   Implements zk-SNARK/zk-STARK circuits, optimizes constraint systems, and integrates ZKPs into rollups, privacy layers, and identity schemes for scalability and data
   minimisation.
 source_frameworks:
-  - "Ethereum zkEVM Roadmap (2025)"
-  - "Zcash Halo 2 Spec"
+  - "Ethereum zkEVM development roadmap and documentation (2025) — open-source foundation — Ethereum Foundation; publicly available"
+  - "Zcash Halo 2 proving system specification — open-source project — Electric Coin Company; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Explains basic ZKP concepts (soundness, succinctness).

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Researches and implements low-energy consensus mechanisms (PoS, PoS-based hybrids, Proof-of-Useful-Work) and lifecycle carbon accounting for blockchain networks; publishes benchmarks and tooling.
 source_frameworks:
-  - "Green-PoW Energy-Efficiency study (Elsevier 2022)"
-  - "Springer 2025 systematic review of blockchain energy metrics"
+  - "Green consensus energy-efficiency research literature (e.g., Sedlmeir et al., Business & Information Systems Engineering, 2020; Elsevier sustainability journals) — academic literature; conceptual alignment only"
+  - "Systematic review of blockchain energy consumption metrics (Springer journal publications 2024–2025) — academic literature; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: States Ethereum PoS power drop vs. PoW; defines joules per tx metric.

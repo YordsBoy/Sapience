@@ -21030,13 +21030,13 @@
     ],
     "description": "Designs, codes, tests, and deploys smart contracts on EVM-compatible and alt-VM chains (Solidity, Vyper, Move); follows secure-coding patterns, writes unit/fuzz tests, and automates CI/CD for on-chain upgrades.\n",
     "source_frameworks": [
-      "Ethereum Foundation Developer Docs (2025)",
-      "OpenZeppelin Contracts v5 Readiness Guide"
+      "Ethereum Foundation Developer Documentation (2025) — open-source foundation — Ethereum Foundation; publicly available",
+      "OpenZeppelin Contracts v5 documentation and upgrade guide — commercial open-source project — OpenZeppelin; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands basic blockchain concepts; deploys a simple token using templates; runs local testnets."
+        "indicator": "Identifies fundamental blockchain concepts including distributed ledgers, consensus mechanisms, and transaction finality; deploys a simple token contract using established templates; runs a local testnet environment."
       },
       {
         "level": "Basic",
@@ -21068,30 +21068,30 @@
     ],
     "description": "Performs manual code-review, static/dynamic analysis, property-based testing, and formal verification to identify vulnerabilities (re-entrancy, overflow, access-control) and produce remediation reports for on-chain systems.\n",
     "source_frameworks": [
-      "OpenZeppelin Security Auditing Handbook",
-      "CertiK Smart-Contract Assessment Criteria",
-      "Ethereum Improvement Proposal (EIP)‑1559 Audit Guidelines"
+      "OpenZeppelin Smart Contract Security Audit methodology and documentation — commercial open-source security project — OpenZeppelin; conceptual alignment only",
+      "CertiK Smart Contract Assessment Criteria — commercial audit firm — CertiK; conceptual alignment only",
+      "Ethereum smart contract security best practices and SWC Registry — open-source foundation/community — Ethereum Foundation; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Reads simple Solidity functions; recognizes common re‑entrancy patterns."
+        "indicator": "Reads simple Solidity functions; recognizes common re-entrancy patterns."
       },
       {
         "level": "Basic",
-        "indicator": "Uses static‑analysis tools such as Slither/MythX; documents integer‑overflow checks; reports simple issues."
+        "indicator": "Uses static-analysis tools such as Slither/MythX; documents integer-overflow checks; reports simple issues."
       },
       {
         "level": "Intermediate",
-        "indicator": "Performs manual logic‑flow review; writes unit tests in Hardhat; traces call-graphs; verifies gas‑optimization changes; validates fixes."
+        "indicator": "Performs manual logic-flow review; writes unit tests in Hardhat; traces call-graphs; verifies gas-optimization changes; validates fixes."
       },
       {
         "level": "Advanced",
-        "indicator": "Conducts formal specs in Scribble/Foundry; conducts formal verification with Coq or Certora Prover; produces public audit reports; recommends upgrade‑safe patterns; models economic exploits."
+        "indicator": "Conducts formal specs in Scribble/Foundry; conducts formal verification with Coq or Certora Prover; produces public audit reports; recommends upgrade-safe patterns; models economic exploits."
       },
       {
         "level": "Expert",
-        "indicator": "Leads multi‑chain audits; develops novel detection heuristics; advises regulators on decentralized‑finance (DeFi) security standards."
+        "indicator": "Leads multi-chain audits; develops novel detection heuristics; advises regulators on decentralized-finance (DeFi) security standards."
       }
     ]
   },
@@ -21107,8 +21107,8 @@
     ],
     "description": "Designs and audits cross-chain messaging and asset bridges; mitigates common exploits (signature-spoofing, replay, validator compromise) and deploys monitoring/incident-response\nsystems.\n",
     "source_frameworks": [
-      "Chainalysis Bridge-Hack Report 2023",
-      "LayerZero Security Model (2024)"
+      "Chainalysis Cross-Chain Bridge Hack Report (2023) — commercial blockchain analytics firm — Chainalysis; conceptual alignment only",
+      "LayerZero cross-chain messaging security model documentation (2024) — vendor documentation — LayerZero Labs; conceptual alignment only — equivalent cross-chain messaging protocols may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -21145,9 +21145,9 @@
     ],
     "description": "Oversees minting, metadata hosting (IPFS, Arweave), royalty enforcement, and community-governed upgrades/burns; ensures compliance with evolving licensing norms and marketplace standards (ERC-721, ERC-1155).\n",
     "source_frameworks": [
-      "EIP-721 & EIP-1155 Standards",
-      "Deloitte NFT Market Report 2023",
-      "OpenSea Developer Docs"
+      "Ethereum Improvement Proposals EIP-721 (Non-Fungible Token Standard) and EIP-1155 (Multi-Token Standard) — Ethereum open standards — Ethereum Foundation; publicly available",
+      "Deloitte NFT market analysis report (2023) — commercial consulting firm; conceptual alignment only",
+      "NFT marketplace developer documentation (e.g., OpenSea Developer Docs) — vendor documentation; conceptual alignment only — equivalent NFT marketplace platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -21184,8 +21184,8 @@
     ],
     "description": "Implements zk-SNARK/zk-STARK circuits, optimizes constraint systems, and integrates ZKPs into rollups, privacy layers, and identity schemes for scalability and data\nminimisation.\n",
     "source_frameworks": [
-      "Ethereum zkEVM Roadmap (2025)",
-      "Zcash Halo 2 Spec"
+      "Ethereum zkEVM development roadmap and documentation (2025) — open-source foundation — Ethereum Foundation; publicly available",
+      "Zcash Halo 2 proving system specification — open-source project — Electric Coin Company; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21212,7 +21212,7 @@
   },
   {
     "ksa_id": "layer2_rollup_operations",
-    "label": "Layer‑2 Rollup Operations",
+    "label": "Layer-2 Rollup Operations",
     "category": "Technical",
     "sector": "blockchain_web3",
     "horizon": "emerging",
@@ -21220,30 +21220,30 @@
       "Layer2",
       "Rollups"
     ],
-    "description": "Deploying, monitoring, and optimizing layer‑2 rollup networks—optimistic or zk‑based—to increase throughput, reduce gas costs, and maintain security through fraud proofs or validity proofs.",
+    "description": "Deploying, monitoring, and optimizing layer-2 rollup networks—optimistic or zk-based—to increase throughput, reduce gas costs, and maintain security through fraud proofs or validity proofs.",
     "source_frameworks": [
-      "Ethereum Foundation Rollup Guidelines"
+      "Ethereum Foundation Rollup Documentation and Guidelines — open-source foundation — Ethereum Foundation; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains difference between optimistic and zero‑knowledge (zk) rollups; identifies bridge contracts; describes rollup security assumptions and fee models."
+        "indicator": "Explains difference between optimistic and zero-knowledge (zk) rollups; identifies bridge contracts; describes rollup security assumptions and fee models."
       },
       {
         "level": "Basic",
-        "indicator": "Operates a test-sequencer; submits state-roots to L1; configures rollup nodes; deposits assets via canonical bridges; tracks state‑root submissions."
+        "indicator": "Operates a test-sequencer; submits state-roots to L1; configures rollup nodes; deposits assets via canonical bridges; tracks state-root submissions."
       },
       {
         "level": "Intermediate",
-        "indicator": "Tunes batch posting intervals; monitors proof submission latency; integrates rollup block‑explorer analytics; handles reorgs."
+        "indicator": "Tunes batch posting intervals; monitors proof submission latency; integrates rollup block-explorer analytics; handles reorgs."
       },
       {
         "level": "Advanced",
-        "indicator": "Implements prover optimisations; manages sequencer fail‑over; coordinates cross‑rollup interoperability."
+        "indicator": "Implements prover optimisations; manages sequencer fail-over; coordinates cross-rollup interoperability."
       },
       {
         "level": "Expert",
-        "indicator": "Designs next-gen rollup architectures (zkEVM, validium) and cross-rollup bridges; designs multi‑layer scalability roadmaps; publishes proofs‑of‑concept for recursive rollups; advises Ethereum Improvement Proposal (EIP) editors on rollup standards."
+        "indicator": "Designs next-gen rollup architectures (zkEVM, validium) and cross-rollup bridges; designs multi-layer scalability roadmaps; publishes proofs-of-concept for recursive rollups; advises Ethereum Improvement Proposal (EIP) editors on rollup standards."
       }
     ]
   },
@@ -21259,8 +21259,8 @@
     ],
     "description": "Designs DID methods, verifiable-credential flows, and revocation registries; aligns with W3C, Hyperledger Indy/Aries, and EBSI standards to enable privacy-preserving, portable identity solutions.\n",
     "source_frameworks": [
-      "W3C Decentralized Identifiers 1.0",
-      "World Economic Forum Metaverse Identity Report 2024"
+      "W3C Decentralized Identifiers (DID) Core Specification 1.0 — international standards consortium — W3C; publicly available",
+      "WEF Digital Identity report (2024) — intergovernmental/commercial organization — World Economic Forum; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21297,8 +21297,8 @@
     ],
     "description": "Researches and implements low-energy consensus mechanisms (PoS, PoS-based hybrids, Proof-of-Useful-Work) and lifecycle carbon accounting for blockchain networks; publishes benchmarks and tooling.\n",
     "source_frameworks": [
-      "Green-PoW Energy-Efficiency study (Elsevier 2022)",
-      "Springer 2025 systematic review of blockchain energy metrics"
+      "Green consensus energy-efficiency research literature (e.g., Sedlmeir et al., Business & Information Systems Engineering, 2020; Elsevier sustainability journals) — academic literature; conceptual alignment only",
+      "Systematic review of blockchain energy consumption metrics (Springer journal publications 2024–2025) — academic literature; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -21335,9 +21335,9 @@
     ],
     "description": "Structuring decentralized autonomous organization (DAO) governance processes, proposal workflows, and legal wrappers to ensure transparent decision‑making and compliance with evolving regulations.",
     "source_frameworks": [
-      "EU Regulation 2023/1114 (MiCA)",
-      "DAO Star Governance Framework v0.4",
-      "LegalNodes DAO Governance Playbook"
+      "EU Regulation 2023/1114 Markets in Crypto-Assets (MiCA) — European Union law; publicly available",
+      "DAOStar Governance Framework v0.4 — open community consortium — DAOStar; publicly available",
+      "LegalNodes DAO Governance Playbook — commercial legal technology firm; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -21374,9 +21374,9 @@
     ],
     "description": "Models token supply, incentive mechanisms, staking and burn schedules; analyses\nuser-behavior data and DAO voting to forecast network health and protocol revenue.\n",
     "source_frameworks": [
-      "Token Taxonomy Framework v2.0",
-      "Electric Capital Developer Report (token metrics)",
-      "World Economic Forum (WEF) Asset Tokenization in Financial Markets Report 2025"
+      "Token Taxonomy Framework v2.0 — open consortium framework — InterWork Alliance / Global Blockchain Business Council; publicly available",
+      "Electric Capital Developer Report — commercial venture firm research publication — Electric Capital; conceptual alignment only",
+      "WEF Asset Tokenization in Financial Markets Report (2025) — intergovernmental/commercial organization — World Economic Forum; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21385,19 +21385,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Runs agent-based simulations to test parameter changes; creates token‑vesting schedules; models dilution scenarios; defines utility vs. governance vs. security tokens."
+        "indicator": "Runs agent-based simulations to test parameter changes; creates token-vesting schedules; models dilution scenarios; defines utility vs. governance vs. security tokens."
       },
       {
         "level": "Intermediate",
-        "indicator": "Performs discounted‑cash‑flow (DCF) for fee‑burn models; analyses on‑chain metrics like velocity and staking ratio; runs agent-based simulations to test parameter changes."
+        "indicator": "Performs discounted-cash-flow (DCF) for fee-burn models; analyses on-chain metrics like velocity and staking ratio; models dynamic emission curves; assesses protocol revenue sustainability."
       },
       {
         "level": "Advanced",
-        "indicator": "Simulates game‑theoretic behaviors; executes Monte Carlo stress tests; advises projects on regulatory token classifications; designs dynamic emission curves tied to KPIs."
+        "indicator": "Simulates game-theoretic behaviors; executes Monte Carlo stress tests; advises projects on regulatory token classifications; designs dynamic emission curves tied to KPIs."
       },
       {
         "level": "Expert",
-        "indicator": "Publishes peer‑reviewed token‑economic frameworks; leads multi‑chain token redesigns; consults central‑bank digital‑currency (CBDC) research teams."
+        "indicator": "Publishes peer-reviewed token-economic frameworks; leads multi-chain token redesigns; consults central-bank digital-currency (CBDC) research teams."
       }
     ]
   },
@@ -21413,9 +21413,8 @@
     ],
     "description": "Managing decentralized‑finance (DeFi) treasuries, liquidity pools, and yield‑strategies while monitoring smart‑contract risk, oracle manipulation, and impermanent loss.",
     "source_frameworks": [
-      "Gauntlet DeFi Risk Framework (2024)",
-      "Chainalysis Protocol Risk Taxonomy",
-      "Chainalysis DeFi Risk Report 2024"
+      "Gauntlet DeFi Risk Framework (2024) — commercial risk modeling firm; conceptual alignment only",
+      "Chainalysis Protocol Risk Taxonomy — commercial blockchain analytics firm — Chainalysis; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -21428,7 +21427,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Simulates shock scenarios; executes yield‑farming rotations; models liquidity‑mining incentives; performs protocol‑level risk scoring; sets liquidation thresholds.."
+        "indicator": "Simulates shock scenarios; executes yield-farming rotations; models liquidity-mining incentives; performs protocol-level risk scoring; sets liquidation thresholds."
       },
       {
         "level": "Advanced",
@@ -21452,7 +21451,7 @@
     ],
     "description": "Designs bridges and messaging standards that enable retail and wholesale central-bank digital currencies (CBDCs) to transact with public or permissioned chains while preserving monetary-policy controls.\n",
     "source_frameworks": [
-      "BIS Survey & ‘Project Icebreaker’ report (2024)"
+      "Bank for International Settlements (BIS) CBDC survey and Project Icebreaker cross-border CBDC report (2024) — intergovernmental organization — BIS; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -21489,8 +21488,8 @@
     ],
     "description": "Builds autonomous smart-contract agents that execute trades, manage DAOs, or capture maximal-extractable-value (MEV) while mitigating spam and ethical concerns; applies auction theory and Flashbots specs.\n",
     "source_frameworks": [
-      "Flashbots MEV-Boost Spec (2024)",
-      "OnChain.org ‘AI Agent Economy’ article (2025)"
+      "Flashbots MEV-Boost specification (2024) — open-source project — Flashbots; publicly available",
+      "AI agent on-chain economy research literature (e.g., Flashbots SUAVE documentation; academic MEV and autonomous agent literature) — open-source/academic; conceptual alignment only"
     ],
     "proficiency_levels": [
       {

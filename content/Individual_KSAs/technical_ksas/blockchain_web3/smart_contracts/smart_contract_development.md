@@ -10,11 +10,11 @@ cluster_tags:
 description: |
   Designs, codes, tests, and deploys smart contracts on EVM-compatible and alt-VM chains (Solidity, Vyper, Move); follows secure-coding patterns, writes unit/fuzz tests, and automates CI/CD for on-chain upgrades.
 source_frameworks:
-  - "Ethereum Foundation Developer Docs (2025)"
-  - "OpenZeppelin Contracts v5 Readiness Guide" 
+  - "Ethereum Foundation Developer Documentation (2025) — open-source foundation — Ethereum Foundation; publicly available"
+  - "OpenZeppelin Contracts v5 documentation and upgrade guide — commercial open-source project — OpenZeppelin; publicly available" 
 proficiency_levels:  
   - level: Awareness  
-    indicator: Understands basic blockchain concepts; deploys a simple token using templates; runs local testnets.  
+    indicator: Identifies fundamental blockchain concepts including distributed ledgers, consensus mechanisms, and transaction finality; deploys a simple token contract using established templates; runs a local testnet environment.  
   - level: Basic  
     indicator: Writes simple smart contracts (e.g., for a token or vote); implements access-control, events, and tests them on a test network with guidance.  
   - level: Intermediate  

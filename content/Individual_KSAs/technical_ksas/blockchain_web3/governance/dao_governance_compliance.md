@@ -9,9 +9,9 @@ cluster_tags:
   - "Regulation"
 description: Structuring decentralized autonomous organization (DAO) governance processes, proposal workflows, and legal wrappers to ensure transparent decision‑making and compliance with evolving regulations.
 source_frameworks:
-  - "EU Regulation 2023/1114 (MiCA)"
-  - "DAO Star Governance Framework v0.4"
-  - "LegalNodes DAO Governance Playbook"
+  - "EU Regulation 2023/1114 Markets in Crypto-Assets (MiCA) — European Union law; publicly available"
+  - "DAOStar Governance Framework v0.4 — open community consortium — DAOStar; publicly available"
+  - "LegalNodes DAO Governance Playbook — commercial legal technology firm; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains token‑weighted voting; distinguishes on‑chain and off‑chain governance tools.

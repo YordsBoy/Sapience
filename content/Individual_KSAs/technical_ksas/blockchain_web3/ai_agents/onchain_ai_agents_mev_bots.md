@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Builds autonomous smart-contract agents that execute trades, manage DAOs, or capture maximal-extractable-value (MEV) while mitigating spam and ethical concerns; applies auction theory and Flashbots specs.
 source_frameworks:
-  - "Flashbots MEV-Boost Spec (2024)"
-  - "OnChain.org ‘AI Agent Economy’ article (2025)"
+  - "Flashbots MEV-Boost specification (2024) — open-source project — Flashbots; publicly available"
+  - "AI agent on-chain economy research literature (e.g., Flashbots SUAVE documentation; academic MEV and autonomous agent literature) — open-source/academic; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines MEV and AI on-chain agent; lists typical bot architectures.

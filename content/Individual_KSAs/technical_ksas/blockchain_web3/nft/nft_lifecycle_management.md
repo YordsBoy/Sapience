@@ -10,9 +10,9 @@ cluster_tags:
 description: |
   Oversees minting, metadata hosting (IPFS, Arweave), royalty enforcement, and community-governed upgrades/burns; ensures compliance with evolving licensing norms and marketplace standards (ERC-721, ERC-1155).
 source_frameworks:
-  - "EIP-721 & EIP-1155 Standards"
-  - "Deloitte NFT Market Report 2023"
-  - "OpenSea Developer Docs"
+  - "Ethereum Improvement Proposals EIP-721 (Non-Fungible Token Standard) and EIP-1155 (Multi-Token Standard) — Ethereum open standards — Ethereum Foundation; publicly available"
+  - "Deloitte NFT market analysis report (2023) — commercial consulting firm; conceptual alignment only"
+  - "NFT marketplace developer documentation (e.g., OpenSea Developer Docs) — vendor documentation; conceptual alignment only — equivalent NFT marketplace platforms may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Mints NFTs on layer‑1 marketplaces; assigns static metadata; lists items for sale.
