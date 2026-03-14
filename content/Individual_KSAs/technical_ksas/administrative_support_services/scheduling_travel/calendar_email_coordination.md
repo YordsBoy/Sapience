@@ -12,7 +12,7 @@ description: >
   accepted calendar invites, ensuring executives’ schedules remain conflict-free
   and correspondence receives timely attention.
 source_frameworks:
-  - "IAAP CAP Body of Knowledge"
+  - "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Sorts basic email folders; recognizes meeting requests.

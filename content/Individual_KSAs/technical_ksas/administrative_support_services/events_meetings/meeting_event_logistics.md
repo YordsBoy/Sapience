@@ -12,7 +12,7 @@ description: >
   travel, budgets, and post-event evaluations, ensuring accessibility and
   sustainability.
 source_frameworks:
-  - "IAAP CAP Body of Knowledge"
+  - "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Checks room availability; schedules basic calls.

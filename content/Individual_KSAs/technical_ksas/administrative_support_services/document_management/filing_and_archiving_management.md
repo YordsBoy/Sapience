@@ -12,7 +12,7 @@ description: >
   plans, ensures secure storage, enables rapid retrieval, and supervises timely
   disposition per retention policies.
 source_frameworks:
-  - "ARMA File-Plan Procedures"
+  - "ARMA International file-plan development and records retention schedule guidance (commercial professional association — ARMA International; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Labels folders; follows basic security measures.

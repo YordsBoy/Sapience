@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Configures robotic desktop automation (RDA) bots that assist customer-service and clerical staff by auto-populating forms, copying data between apps, and launching workflows with minimal code.
 source_frameworks:
-  - "IEEE Guide for RPA Implementation Std 2755"
+  - "IEEE Std 2755-2017 Guide for Terms and Concepts in Intelligent Process Automation (proprietary standard — Institute of Electrical and Electronics Engineers; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies repetitive tasks suitable for RDA; records simple click-path.

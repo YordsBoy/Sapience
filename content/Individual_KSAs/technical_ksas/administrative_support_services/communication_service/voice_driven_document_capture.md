@@ -11,9 +11,9 @@ description: >
   Utilises speech-recognition and transcription engines (Web Speech API, intelligent voice assistants) to draft business documents, e-mails, and real-time meeting minutes; applies accuracy review workflows and ensures
   compliance with privacy and accessibility standards.
 source_frameworks:
-  - "W3C Web Speech API specification (2014)"
-  - "ISO 9241-110 Dialogue Principles – suitability & self-descriptiveness"
-  - "Systematic Review of Voice-Assistant Usability (2022) – ISO usability lens"
+  - "W3C Web Speech API specification (World Wide Web Consortium — nonprofit international standards body; publicly available)"
+  - "ISO 9241-110:2020 Ergonomics of Human-System Interaction — Part 110: Interaction Principles (ISO proprietary standard; conceptual alignment only)"
+  - "Dutsinma, F.L.I., Pal, D., Funilkul, S., & Chan, J.H. (2022). A Systematic Review of Voice Assistant Usability: An ISO 9241\u201311 Approach. SN Computer Science, 3, 267. https://doi.org/10.1007/s42979-022-01172-3 (peer-reviewed academic journal; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes speech-to-text pipeline; recognizes common accuracy and privacy concerns.

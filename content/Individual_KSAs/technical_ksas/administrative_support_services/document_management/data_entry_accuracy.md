@@ -12,7 +12,7 @@ description: >
   conducts double-entry checks, and maintains audit trails to ensure accuracy,
   integrity, and compliance with records-management policies.
 source_frameworks:
-  - "NARA Electronic Records Guidance"
+  - "NARA Guidance on Managing Electronic Records (U.S. government — National Archives and Records Administration; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises importance of accurate data; performs simple keying.

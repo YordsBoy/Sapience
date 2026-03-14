@@ -6,7 +6,9 @@ sector: administrative_support_services
 horizon: core
 cluster_tags: ["Correspondence", "Professional Writing"]
 description: Produces clear, concise, and audience-appropriate business documents, presentations, and correspondence.
-source_frameworks: ["sfia:SUBM", "onet:27-3042.00"]
+source_frameworks:
+  - "SFIA 9 — Skills Framework for the Information Age: SUBM Stakeholder Relationship Management / communication-related skill definitions (SFIA Foundation — nonprofit skills framework organization; conceptual alignment only)"
+  - "O*NET 27-3042.00 Technical Writers occupational profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)"
 proficiency_levels:
   - level: Awareness
     indicator: Drafts routine emails and memos with grammar assistance.

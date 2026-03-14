@@ -12,7 +12,7 @@ description: >
   orders, and reconciles invoices while applying budgeting controls and vendor
   KPIs.
 source_frameworks:
-  - "ARMA Inventory Best Practice"
+  - "ISM Principles and Standards of Ethical Supply Management and procurement guidance (commercial professional association — Institute for Supply Management; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Monitors low-stock items; follows reorder lists.

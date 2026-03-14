@@ -12,7 +12,7 @@ description: >
   inquiries respectfully and escalating issues appropriately while maintaining
   accurate interaction logs in CRM or help-desk systems.
 source_frameworks:
-  - "IAAP CAP Body of Knowledge"
+  - "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Greets callers; forwards messages accurately.

@@ -24076,12 +24076,12 @@
     ],
     "description": "Arranges domestic and international travel, optimizing cost and compliance with corporate policies; reconciles expenses using digital expense-reporting systems and supports visa or insurance processes.\n",
     "source_frameworks": [
-      "IAAP CAP Body of Knowledge"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands travel-booking terminology; collects receipts."
+        "indicator": "Identifies standard travel-booking terminology (fare classes, per-diem rates, preferred vendors, booking windows); collects and organizes receipts per corporate expense-reporting requirements."
       },
       {
         "level": "Basic",
@@ -24102,39 +24102,41 @@
     ]
   },
   {
-    "ksa_id": "customer_service_escalation_management",
-    "label": "Customer Service & Escalation Management",
+    "ksa_id": "calendar_travel_management",
+    "label": "Integrated Calendar & Travel Management",
     "category": "Technical",
     "sector": "administrative_support_services",
     "horizon": "core",
     "cluster_tags": [
-      "Customer Service",
-      "Escalation"
+      "Travel Management",
+      "Scheduling"
     ],
-    "description": "Resolves frontline enquiries and manages escalation workflows; applies de-escalation techniques, logs issues in CRM, and coordinates with higher tiers to ensure timely resolution and client satisfaction.\n",
+    "description": "Plans and coordinates complex domestic and international travel itineraries for executives and teams — including flights, accommodation, ground transport, and visa requirements — while managing the associated calendar implications across time zones; applies corporate travel policy, preferred-vendor programs, and duty-of-care obligations to optimise cost, compliance, and traveller experience.\n",
     "source_frameworks": [
-      "HDI Support Center Standard"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge — travel and scheduling administration modules (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)",
+      "GBTA (Global Business Travel Association) business travel and travel-policy best-practice publications (commercial professional association — Global Business Travel Association; conceptual alignment only)",
+      "O*NET 43-6011.00 Executive Secretaries and Executive Administrative Assistants occupational profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Greets callers; forwards issues accurately."
+        "indicator": "Identifies the key components of a business travel itinerary (flights, hotel, ground transport, meeting schedule); explains how time-zone differences affect calendar coordination and traveller fatigue."
       },
       {
         "level": "Basic",
-        "indicator": "Uses scripts; logs tickets; escalates per matrix."
+        "indicator": "Books domestic flights and hotels through approved portals applying corporate rate and vendor preferences; blocks travel time on the traveller's calendar; collects required documentation (boarding passes, hotel confirmation, ground transport) and distributes a consolidated itinerary."
       },
       {
         "level": "Intermediate",
-        "indicator": "Applies de-escalation skills; tracks SLAs; follows up on pending cases."
+        "indicator": "Coordinates multi-city and multi-traveller international itineraries including visa and passport requirements, ESTA/eTA applications, and travel insurance; manages calendar implications across multiple time zones; updates bookings in response to flight changes and communicates proactively with travellers."
       },
       {
         "level": "Advanced",
-        "indicator": "Analyses trend data; updates knowledge base; trains peers in escalation paths."
+        "indicator": "Negotiates preferred corporate rates with travel management companies and hotel programmes; analyses travel spend reports to identify policy compliance gaps; manages executive calendars during complex travel periods, coordinating with counterparts in other offices and time zones to protect critical commitments."
       },
       {
         "level": "Expert",
-        "indicator": "Designs escalation policies; integrates omnichannel support; mentors supervisors on service excellence."
+        "indicator": "Designs and maintains the organisation's travel programme including policy, preferred-vendor framework, and duty-of-care protocols; integrates travel management systems with expense-reporting and calendar platforms; mentors travel coordinators and trains executives on self-serve booking tools; drives continuous improvement in cost, compliance, and traveller wellbeing metrics."
       }
     ]
   },
@@ -24150,8 +24152,8 @@
     ],
     "description": "Manages complex calendars across cloud platforms (Outlook, Google Workspace), prioritising appointments, preventing conflicts, and protecting confidential information while coordinating resources (rooms, AV, catering) for hybrid meetings.\n",
     "source_frameworks": [
-      "IAAP CAP Body of Knowledge",
-      "O*NET Exec Admin Tasks 43-6011.00"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)",
+      "O*NET 43-6011.00 Executive Secretaries and Executive Administrative Assistants occupational profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)"
     ],
     "proficiency_levels": [
       {
@@ -24188,7 +24190,7 @@
     ],
     "description": "Triages high-volume email inboxes, applies rules and flags, and synchronises accepted calendar invites, ensuring executives’ schedules remain conflict-free and correspondence receives timely attention.\n",
     "source_frameworks": [
-      "IAAP CAP Body of Knowledge"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24225,12 +24227,12 @@
     ],
     "description": "Maps administrative workflows, identifies inefficiencies using Lean or Kaizen tools, and implements process improvements or automation to increase speed, accuracy, and customer satisfaction.\n",
     "source_frameworks": [
-      "Lean Office Guidelines (ASQ)"
+      "ASQ Lean Office and administrative process improvement guidelines (commercial professional association — American Society for Quality; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognises common bottlenecks; knows basic improvement terms."
+        "indicator": "Identifies common administrative workflow bottlenecks (e.g., manual approvals, paper-based handoffs, redundant data entry); defines basic process improvement terms including cycle time, waste, and value-added vs. non-value-added activity."
       },
       {
         "level": "Basic",
@@ -24262,7 +24264,7 @@
     ],
     "description": "Efficiently uses office productivity suites (word processing, spreadsheets, presentations, databases) and collaboration tools to create, analyze, and share information while adhering to accessibility and security best practices.\n",
     "source_frameworks": [
-      "EU DigComp 2.1 Framework"
+      "DigComp 2.1: The Digital Competence Framework for Citizens (European Commission — EU institutional publication; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -24299,12 +24301,12 @@
     ],
     "description": "Oversees day-to-day office functions—reception, supplies, mail, facilities requests—and coordinates with internal departments to maintain smooth operations and a professional environment.\n",
     "source_frameworks": [
-      "IAAP CAP Body of Knowledge"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands basic office services (mail, reception)."
+        "indicator": "Identifies the core services provided by an office administration function (mail handling, reception, supplies management, facilities coordination) and describes the role of each."
       },
       {
         "level": "Basic",
@@ -24336,7 +24338,7 @@
     ],
     "description": "Sources office supplies and services, manages stock, processes purchase orders, and reconciles invoices while applying budgeting controls and vendor KPIs.\n",
     "source_frameworks": [
-      "ARMA Inventory Best Practice"
+      "ISM Principles and Standards of Ethical Supply Management and procurement guidance (commercial professional association — Institute for Supply Management; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24362,39 +24364,41 @@
     ]
   },
   {
-    "ksa_id": "professional_business_communication",
-    "label": "Business Communications & Writing",
+    "ksa_id": "administrative_financial_reporting_basics",
+    "label": "Administrative Financial Reporting Basics",
     "category": "Technical",
     "sector": "administrative_support_services",
     "horizon": "core",
     "cluster_tags": [
-      "Communication",
-      "Writing"
+      "Finance",
+      "Reporting"
     ],
-    "description": "Crafts clear, audience-appropriate emails, memos, and reports; applies grammar, tone, and style guidelines; adheres to email, chat, and video-meeting etiquette to represent the organization professionally.\n",
+    "description": "Supports financial reporting and budget-monitoring functions at the administrative level; prepares expense reports, interprets basic profit-and-loss summaries, reconciles invoices to purchase orders, and ensures accurate coding of transactions in financial systems in compliance with organizational policy and relevant accounting standards.\n",
     "source_frameworks": [
-      "IAAP CAP Body of Knowledge"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge — financial administration module (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)",
+      "GAAP (Generally Accepted Accounting Principles) — foundational accounting standards governing transaction recording and financial statement preparation (Financial Accounting Standards Board — publicly available framework)",
+      "O*NET 43-3031.00 Bookkeeping, Accounting, and Auditing Clerks occupational profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Distinguishes professional vs. informal tone."
+        "indicator": "Identifies the purpose of common financial documents (expense reports, purchase orders, invoices, budget summaries) and explains how they relate to each other in a standard procure-to-pay cycle."
       },
       {
         "level": "Basic",
-        "indicator": "Writes concise emails; follows templates; proofreads for errors."
+        "indicator": "Completes expense reports accurately; matches invoices to purchase orders; applies correct cost-center and general-ledger codes; submits within policy deadlines."
       },
       {
         "level": "Intermediate",
-        "indicator": "Tailors messages for stakeholders; summarizes complex info clearly."
+        "indicator": "Reconciles departmental accounts against budget reports; identifies and resolves coding discrepancies; prepares basic monthly spend summaries and flags variances for manager review."
       },
       {
         "level": "Advanced",
-        "indicator": "Edits high-stakes documents; coaches peers; delivers persuasive presentations."
+        "indicator": "Maintains accrual and prepaid schedules; supports month-end close activities; liaises with finance team to resolve audit queries; improves reporting accuracy through process documentation and data-validation controls."
       },
       {
         "level": "Expert",
-        "indicator": "Establishes org-wide comms standards; resolves cross-cultural communication challenges."
+        "indicator": "Designs administrative financial reporting workflows and internal controls; trains staff on financial compliance procedures; leads continuous-improvement projects that reduce close-cycle time and error rate across the administrative function."
       }
     ]
   },
@@ -24410,7 +24414,7 @@
     ],
     "description": "Plans on-site, virtual, and hybrid meetings; arranges venues, AV, catering, travel, budgets, and post-event evaluations, ensuring accessibility and sustainability.\n",
     "source_frameworks": [
-      "IAAP CAP Body of Knowledge"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24447,7 +24451,7 @@
     ],
     "description": "Curates organizational knowledge bases; designs taxonomies, tags documents, and facilitates knowledge-sharing platforms (wikis, intranets) to reduce information silos and speed onboarding.\n",
     "source_frameworks": [
-      "ISO 30401 Knowledge Management Systems"
+      "ISO 30401:2018 Knowledge Management Systems — Requirements (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -24484,7 +24488,7 @@
     ],
     "description": "Maintains structured physical and digital filing systems; aligns with file plans, ensures secure storage, enables rapid retrieval, and supervises timely disposition per retention policies.\n",
     "source_frameworks": [
-      "ARMA File-Plan Procedures"
+      "ARMA International file-plan development and records retention schedule guidance (commercial professional association — ARMA International; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24521,7 +24525,7 @@
     ],
     "description": "Drafts, formats, and edits business documents—memos, reports, presentations— ensuring clarity, consistency, and brand style; uses advanced word-processing and desktop-publishing tools.\n",
     "source_frameworks": [
-      "Microsoft 365 Style Guide"
+      "Microsoft Writing Style Guide (vendor style guide — Microsoft Corporation; conceptual alignment only — equivalent organizational style guide may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -24558,7 +24562,7 @@
     ],
     "description": "Produces high-quality documents (reports, slide decks, forms) using office suites; applies templates, accessibility, and version-control best practices within cloud collaboration platforms.\n",
     "source_frameworks": [
-      "Microsoft 365 Records Management"
+      "Microsoft 365 Records Management documentation and compliance features guidance (vendor documentation — Microsoft Corporation; conceptual alignment only — equivalent cloud document management platform documentation may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -24595,8 +24599,8 @@
     ],
     "description": "Administers electronic records-management systems (EDRMS); configures metadata, retention schedules, and e-discovery searches, ensuring ISO 15489 compliance and secure access controls.\n",
     "source_frameworks": [
-      "ISO 15489-1:2016",
-      "ARMA Electronic Records Best Practices"
+      "ISO 15489-1:2016 Information and Documentation — Records Management — Part 1: Concepts and Principles (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "ARMA International information governance and electronic records management best practices (commercial professional association — ARMA International; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24633,7 +24637,7 @@
     ],
     "description": "Inputs and verifies data in business systems, applies validation rules, conducts double-entry checks, and maintains audit trails to ensure accuracy, integrity, and compliance with records-management policies.\n",
     "source_frameworks": [
-      "NARA Electronic Records Guidance"
+      "NARA Guidance on Managing Electronic Records (U.S. government — National Archives and Records Administration; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -24670,9 +24674,9 @@
     ],
     "description": "Utilises speech-recognition and transcription engines (Web Speech API, intelligent voice assistants) to draft business documents, e-mails, and real-time meeting minutes; applies accuracy review workflows and ensures compliance with privacy and accessibility standards.\n",
     "source_frameworks": [
-      "W3C Web Speech API specification (2014)",
-      "ISO 9241-110 Dialogue Principles – suitability & self-descriptiveness",
-      "Systematic Review of Voice-Assistant Usability (2022) – ISO usability lens"
+      "W3C Web Speech API specification (World Wide Web Consortium — nonprofit international standards body; publicly available)",
+      "ISO 9241-110:2020 Ergonomics of Human-System Interaction — Part 110: Interaction Principles (ISO proprietary standard; conceptual alignment only)",
+      "Dutsinma, F.L.I., Pal, D., Funilkul, S., & Chan, J.H. (2022). A Systematic Review of Voice Assistant Usability: An ISO 9241–11 Approach. SN Computer Science, 3, 267. https://doi.org/10.1007/s42979-022-01172-3 (peer-reviewed academic journal; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24709,8 +24713,8 @@
     ],
     "description": "Produces clear, concise, and audience-appropriate business documents, presentations, and correspondence.",
     "source_frameworks": [
-      "sfia:SUBM",
-      "onet:27-3042.00"
+      "SFIA 9 — Skills Framework for the Information Age: SUBM Stakeholder Relationship Management / communication-related skill definitions (SFIA Foundation — nonprofit skills framework organization; conceptual alignment only)",
+      "O*NET 27-3042.00 Technical Writers occupational profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)"
     ],
     "proficiency_levels": [
       {
@@ -24747,7 +24751,7 @@
     ],
     "description": "Provides frontline support via phone, email, chat, or reception, resolving inquiries respectfully and escalating issues appropriately while maintaining accurate interaction logs in CRM or help-desk systems.\n",
     "source_frameworks": [
-      "IAAP CAP Body of Knowledge"
+      "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24784,8 +24788,8 @@
     ],
     "description": "Handles inquiries, resolves issues, and manages escalations to maintain high internal and external customer satisfaction.",
     "source_frameworks": [
-      "sfia:CSMG",
-      "onet:43-4051.00"
+      "SFIA 9 — Skills Framework for the Information Age: CSMG Customer Management skill definition (SFIA Foundation — nonprofit skills framework organization; conceptual alignment only)",
+      "O*NET 43-4051.00 Customer Service Representatives occupational profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)"
     ],
     "proficiency_levels": [
       {
@@ -24822,9 +24826,9 @@
     ],
     "description": "Designs, deploys, and maintains conversational-AI chatbots that handle routine inquiries, authenticate users, and triage complex requests before escalating to human agents; aligns bot dialog with customer-experience principles and regulatory requirements (privacy, accessibility).\n",
     "source_frameworks": [
-      "Microsoft Style Guide – Chatbots & Virtual Agents (2022)",
-      "NIST Trustworthy & Responsible AI guidance (2023)",
-      "McKinsey AI-enabled Customer-Service frontier report (2023)"
+      "Microsoft Conversational AI design guidelines and chatbot style guidance (vendor documentation — Microsoft Corporation; conceptual alignment only — equivalent conversational AI design guidance may demonstrate competency)",
+      "NIST Artificial Intelligence Risk Management Framework (AI RMF) 1.0 and supporting publications on trustworthy AI (U.S. government publication — National Institute of Standards and Technology; public domain)",
+      "McKinsey & Company AI-enabled customer service research and frontier analysis publications (commercial management consulting — McKinsey & Company; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24861,7 +24865,7 @@
     ],
     "description": "Configures robotic desktop automation (RDA) bots that assist customer-service and clerical staff by auto-populating forms, copying data between apps, and launching workflows with minimal code.\n",
     "source_frameworks": [
-      "IEEE Guide for RPA Implementation Std 2755"
+      "IEEE Std 2755-2017 Guide for Terms and Concepts in Intelligent Process Automation (proprietary standard — Institute of Electrical and Electronics Engineers; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -24899,7 +24903,7 @@
     ],
     "description": "Designs and deploys robotic process automation bots to handle repetitive office tasks (e.g. data entry, report generation); monitors bot performance and maintains workflow integrity.  \n",
     "source_frameworks": [
-      "UIPath RPA Developer Competencies"
+      "UiPath RPA Developer certification curriculum and competency documentation (vendor documentation — UiPath; conceptual alignment only — equivalent RPA platform documentation such as Automation Anywhere, Blue Prism, or Microsoft Power Automate may demonstrate competency)"
     ],
     "proficiency_levels": [
       {
@@ -24936,7 +24940,7 @@
     ],
     "description": "Uses large-language-model (LLM) tools to create concise, accurate summaries of lengthy business documents (reports, contracts, meeting minutes) while preserving confidentiality and formatting guidelines.\n",
     "source_frameworks": [
-      "NIST AI RMF 1.0 – trustworthy summarization controls"
+      "NIST AI Risk Management Framework (AI RMF) 1.0 — Trustworthy AI principles and controls (U.S. government publication — National Institute of Standards and Technology; public domain)"
     ],
     "proficiency_levels": [
       {

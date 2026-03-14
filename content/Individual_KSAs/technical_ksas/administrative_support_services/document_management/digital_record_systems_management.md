@@ -12,8 +12,8 @@ description: >
   retention schedules, and e-discovery searches, ensuring ISO 15489 compliance
   and secure access controls.
 source_frameworks:
-  - "ISO 15489-1:2016"
-  - "ARMA Electronic Records Best Practices"
+  - "ISO 15489-1:2016 Information and Documentation — Records Management — Part 1: Concepts and Principles (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
+  - "ARMA International information governance and electronic records management best practices (commercial professional association — ARMA International; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Describes record lifecycle and sensitivity levels.

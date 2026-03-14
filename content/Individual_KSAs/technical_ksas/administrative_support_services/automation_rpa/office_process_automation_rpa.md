@@ -11,7 +11,7 @@ cluster_tags:
 description: >  
   Designs and deploys robotic process automation bots to handle repetitive office tasks (e.g. data entry, report generation); monitors bot performance and maintains workflow integrity.  
 source_frameworks:  
-  - "UIPath RPA Developer Competencies"  
+  - "UiPath RPA Developer certification curriculum and competency documentation (vendor documentation — UiPath; conceptual alignment only — equivalent RPA platform documentation such as Automation Anywhere, Blue Prism, or Microsoft Power Automate may demonstrate competency)"
 proficiency_levels:  
   - level: Awareness  
     indicator: Describes what RPA is and identifies office tasks that could be automated.  

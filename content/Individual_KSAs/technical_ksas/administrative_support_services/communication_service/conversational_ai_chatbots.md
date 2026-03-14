@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Designs, deploys, and maintains conversational-AI chatbots that handle routine inquiries, authenticate users, and triage complex requests before escalating to human agents; aligns bot dialog with customer-experience principles and regulatory requirements (privacy, accessibility).
 source_frameworks:
-  - "Microsoft Style Guide – Chatbots & Virtual Agents (2022)"
-  - "NIST Trustworthy & Responsible AI guidance (2023)"
-  - "McKinsey AI-enabled Customer-Service frontier report (2023)"
+  - "Microsoft Conversational AI design guidelines and chatbot style guidance (vendor documentation — Microsoft Corporation; conceptual alignment only — equivalent conversational AI design guidance may demonstrate competency)"
+  - "NIST Artificial Intelligence Risk Management Framework (AI RMF) 1.0 and supporting publications on trustworthy AI (U.S. government publication — National Institute of Standards and Technology; public domain)"
+  - "McKinsey & Company AI-enabled customer service research and frontier analysis publications (commercial management consulting — McKinsey & Company; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains chatbot benefits and limitations; maps simple FAQ to intents.

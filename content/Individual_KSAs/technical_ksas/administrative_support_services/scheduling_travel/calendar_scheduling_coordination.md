@@ -13,8 +13,8 @@ description: >
   information while coordinating resources (rooms, AV, catering) for hybrid
   meetings.
 source_frameworks:
-  - "IAAP CAP Body of Knowledge"
-  - "O*NET Exec Admin Tasks 43-6011.00"
+  - "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
+  - "O*NET 43-6011.00 Executive Secretaries and Executive Administrative Assistants occupational profile (U.S. Department of Labor / Employment and Training Administration; CC BY 4.0 — content adapted; CaliberPath holds rights to adapted work)"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies basic calendar functions; recognizes meeting requests.

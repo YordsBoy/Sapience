@@ -12,7 +12,7 @@ description: >
   presentations, databases) and collaboration tools to create, analyze, and
   share information while adhering to accessibility and security best practices.
 source_frameworks:
-  - "EU DigComp 2.1 Framework"
+  - "DigComp 2.1: The Digital Competence Framework for Citizens (European Commission — EU institutional publication; publicly available)"
 proficiency_levels:
   - level: Awareness
     indicator: Opens, saves, and prints files.

@@ -12,10 +12,10 @@ description: >
   Kaizen tools, and implements process improvements or automation to increase
   speed, accuracy, and customer satisfaction.
 source_frameworks:
-  - "Lean Office Guidelines (ASQ)"
+  - "ASQ Lean Office and administrative process improvement guidelines (commercial professional association — American Society for Quality; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
-    indicator: Recognises common bottlenecks; knows basic improvement terms.
+    indicator: Identifies common administrative workflow bottlenecks (e.g., manual approvals, paper-based handoffs, redundant data entry); defines basic process improvement terms including cycle time, waste, and value-added vs. non-value-added activity.
   - level: Basic
     indicator: Documents current-state flowcharts; suggests quick wins (5S).
   - level: Intermediate

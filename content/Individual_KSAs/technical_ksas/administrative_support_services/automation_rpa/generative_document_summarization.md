@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Uses large-language-model (LLM) tools to create concise, accurate summaries of lengthy business documents (reports, contracts, meeting minutes) while preserving confidentiality and formatting guidelines.
 source_frameworks:
-  - "NIST AI RMF 1.0 – trustworthy summarization controls"
+  - "NIST AI Risk Management Framework (AI RMF) 1.0 — Trustworthy AI principles and controls (U.S. government publication — National Institute of Standards and Technology; public domain)"
 proficiency_levels:
   - level: Awareness
     indicator: Explains benefits and risks of LLM summarization; runs a prompt in a secure company tool.

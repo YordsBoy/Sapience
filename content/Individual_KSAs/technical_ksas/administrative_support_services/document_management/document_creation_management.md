@@ -12,7 +12,7 @@ description: >
   suites; applies templates, accessibility, and version-control best practices
   within cloud collaboration platforms.
 source_frameworks:
-  - "Microsoft 365 Records Management"
+  - "Microsoft 365 Records Management documentation and compliance features guidance (vendor documentation — Microsoft Corporation; conceptual alignment only — equivalent cloud document management platform documentation may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Opens and saves documents; applies basic formatting.

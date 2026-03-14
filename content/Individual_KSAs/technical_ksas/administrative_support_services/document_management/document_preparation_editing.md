@@ -12,7 +12,7 @@ description: >
   ensuring clarity, consistency, and brand style; uses advanced word-processing
   and desktop-publishing tools.
 source_frameworks:
-  - "Microsoft 365 Style Guide"
+  - "Microsoft Writing Style Guide (vendor style guide — Microsoft Corporation; conceptual alignment only — equivalent organizational style guide may demonstrate competency)"
 proficiency_levels:
   - level: Awareness
     indicator: Applies basic formatting (fonts, spacing).

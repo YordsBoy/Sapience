@@ -12,10 +12,10 @@ description: >
   with corporate policies; reconciles expenses using digital expense-reporting
   systems and supports visa or insurance processes.
 source_frameworks:
-  - "IAAP CAP Body of Knowledge"
+  - "IAAP Certified Administrative Professional (CAP) Body of Knowledge (commercial professional association — International Association of Administrative Professionals; conceptual alignment only)"
 proficiency_levels:
   - level: Awareness
-    indicator: Understands travel-booking terminology; collects receipts.
+    indicator: Identifies standard travel-booking terminology (fare classes, per-diem rates, preferred vendors, booking windows); collects and organizes receipts per corporate expense-reporting requirements.
   - level: Basic
     indicator: Books flights/hotels through approved portals; submits expense reports accurately.
   - level: Intermediate

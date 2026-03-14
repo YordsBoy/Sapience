@@ -12,7 +12,7 @@ description: >
   and facilitates knowledge-sharing platforms (wikis, intranets) to reduce
   information silos and speed onboarding.
 source_frameworks:
-  - "ISO 30401 Knowledge Management Systems"
+  - "ISO 30401:2018 Knowledge Management Systems — Requirements (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
 proficiency_levels:
   - level: Awareness
     indicator: Searches intranet; adds simple wiki entries.
