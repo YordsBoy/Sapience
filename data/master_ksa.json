@@ -15094,9 +15094,9 @@
     ],
     "description": "Identifies, quantifies, and mitigates credit, market, liquidity, and operational risks while ensuring capital levels meet Basel III, NAIC, and Own-Risk & Solvency Assessment (ORSA) requirements.",
     "source_frameworks": [
-      "basel:III",
-      "naic:ORSA",
-      "iso:31000"
+      "Bank for International Settlements (BIS) Basel III: A Global Regulatory Framework (intergovernmental organization; publicly available)",
+      "NAIC Own-Risk and Solvency Assessment (ORSA) Guidance Manual (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)",
+      "ISO 31000:2018 Risk Management Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -15134,8 +15134,8 @@
     ],
     "description": "Prepares and files mandated regulatory reports (e.g., NAIC Blank, 10-K/Q, Solvency II QRTs) ensuring accuracy, timeliness, and compliance with evolving rules.",
     "source_frameworks": [
-      "sec:RegS-K",
-      "naic:HealthBlank"
+      "SEC Regulation S-K — Standard Instructions for Filing Forms (U.S. government regulation — Securities and Exchange Commission; public domain)",
+      "NAIC Health Annual Statement Blank (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -15172,12 +15172,12 @@
     ],
     "description": "Implements and manages secure Open Banking APIs to enable data sharing and third-party fintech integrations;   ensures compliance with regulations (e.g. PSD2) and maintains customer data privacy and consent frameworks in API usage.  \n",
     "source_frameworks": [
-      "EU PSD2 Directive (2018)"
+      "EU Revised Payment Services Directive (PSD2) 2015/2366 (EU regulatory instrument; publicly available — equivalent open banking frameworks such as the UK Open Banking Standard, Australia CDR, or Canada open banking regulations may demonstrate competency in non-EU contexts)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands what open banking is and the basic concept of APIs in finance; aware of customer consent importance."
+        "indicator": "Describes open banking principles and the role of APIs in enabling third-party financial service integrations; identifies customer consent as a core requirement for data sharing."
       },
       {
         "level": "Basic",
@@ -15193,7 +15193,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Architects the bank’s open API ecosystem strategy; ensures full regulatory compliance and influences industry standards; optimizes partnership opportunities via open banking while safeguarding data (in line with PSD2 best practices)."
+        "indicator": "Architects the institution’s open API ecosystem strategy; ensures full regulatory compliance and influences industry standards; optimizes partnership opportunities via open banking while safeguarding data in line with applicable regulatory requirements (e.g., PSD2, UK Open Banking Standard, or equivalent national frameworks)."
       }
     ]
   },
@@ -15210,8 +15210,8 @@
     ],
     "description": "Constructs and manages multi-asset portfolios for insurers and financial institutions, balancing yield, duration, liquidity, and regulatory capital considerations.",
     "source_frameworks": [
-      "cfa:PM",
-      "gips:Standards"
+      "CFA Institute Portfolio Management curriculum (commercial professional certification body — CFA Institute; conceptual alignment only)",
+      "CFA Institute Global Investment Performance Standards (GIPS) 2020 (commercial professional certification body — CFA Institute; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -15238,7 +15238,7 @@
   },
   {
     "ksa_id": "insurtech_data_driven_underwriting",
-    "label": "InsurTech Data‑Driven Underwriting",
+    "label": "InsurTech Data-Driven Underwriting",
     "category": "Technical",
     "sector": "finance_insurance",
     "horizon": "emerging",
@@ -15247,9 +15247,9 @@
       "Underwriting",
       "Data Analytics"
     ],
-    "description": "Leveraging big‑data sources—telematics, IoT sensors, social media—and machine‑learning models to refine risk assessment, pricing, and product customisation in insurance underwriting.",
+    "description": "Leveraging big-data sources—telematics, IoT sensors, social media—and machine-learning models to refine risk assessment, pricing, and product customisation in insurance underwriting.",
     "source_frameworks": [
-      "International Association of Insurance Supervisors (IAIS) InsurTech Principles"
+      "International Association of Insurance Supervisors (IAIS) Application Paper on the Use of Big Data Analytics in Insurance (intergovernmental organization; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -15258,19 +15258,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Cleanses telematics datasets; applies logistic‑regression models; checks model bias metrics."
+        "indicator": "Cleanses telematics datasets; applies logistic-regression models; checks model bias metrics."
       },
       {
         "level": "Intermediate",
-        "indicator": "Utilises gradient‑boosting algorithms; integrates sensor‑driven risk scoring; collaborates on API data ingestion."
+        "indicator": "Utilises gradient-boosting algorithms; integrates sensor-driven risk scoring; collaborates on API data ingestion."
       },
       {
         "level": "Advanced",
-        "indicator": "Implements explainable‑AI dashboards; aligns models to actuarial standards; monitors post‑deployment drift."
+        "indicator": "Implements explainable-AI dashboards; aligns models to actuarial standards; monitors post-deployment drift."
       },
       {
         "level": "Expert",
-        "indicator": "Leads enterprise InsurTech strategy; secures regulatory approval for ML models; publishes underwriting‑innovation research."
+        "indicator": "Leads enterprise InsurTech strategy; secures regulatory approval for ML models; publishes underwriting-innovation research."
       }
     ]
   },
@@ -15287,8 +15287,8 @@
     ],
     "description": "Evaluates risk characteristics, determines coverage terms, and prices policies consistent with underwriting guidelines, loss-ratio targets, and regulatory constraints.",
     "source_frameworks": [
-      "naic:UW",
-      "acord:Guidelines"
+      "NAIC Unfair Trade Practices and underwriting model regulations (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)",
+      "ACORD Insurance Industry Data Standards (commercial insurance standards organization; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
@@ -15324,14 +15324,14 @@
       "ESG Reporting",
       "IFRS"
     ],
-    "description": "Preparing, assuring, and filing sustainability disclosures in alignment with International Financial Reporting Standards (IFRS) S1 (General Requirements) and S2 (Climate‑Related Disclosures), integrating data from finance, risk, and operations.",
+    "description": "Preparing, assuring, and filing sustainability disclosures in alignment with International Financial Reporting Standards (IFRS) S1 (General Requirements) and S2 (Climate-Related Disclosures), integrating data from finance, risk, and operations.",
     "source_frameworks": [
-      "IFRS Foundation – ISSB Standards S1 & S2"
+      "IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information and IFRS S2 Climate-related Disclosures (IASB/IFRS Foundation standards; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies mandatory disclosure sections; recognizes key ESG terminology; retrieves emission‑factor data."
+        "indicator": "Identifies mandatory disclosure sections; recognizes key ESG terminology; retrieves emission-factor data."
       },
       {
         "level": "Basic",
@@ -15339,15 +15339,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Calculates finance‑weighted emissions; applies materiality assessments; coordinates internal assurance reviews."
+        "indicator": "Calculates finance-weighted emissions; applies materiality assessments; coordinates internal assurance reviews."
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates climate‑scenario analysis; aligns disclosures to Task Force on Climate‑Related Financial Disclosures (TCFD); collaborates with auditors."
+        "indicator": "Integrates climate-scenario analysis; aligns disclosures to Task Force on Climate-Related Financial Disclosures (TCFD); collaborates with auditors."
       },
       {
         "level": "Expert",
-        "indicator": "Leads enterprise‑wide ESG reporting strategy; interfaces with regulators and investors; publishes best‑practice guidance."
+        "indicator": "Leads enterprise-wide ESG reporting strategy; interfaces with regulators and investors; publishes best-practice guidance."
       }
     ]
   },
@@ -15364,8 +15364,8 @@
     ],
     "description": "Detects, investigates, and prevents fraudulent activities and financial crimes, ensuring compliance with anti-money-laundering (AML) and know-your-customer (KYC) regulations.",
     "source_frameworks": [
-      "finra:AML",
-      "fatf:40"
+      "FINRA Anti-Money Laundering (AML) Template for Small and Mid-Size Firms (U.S. self-regulatory organization — FINRA; conceptual alignment only)",
+      "FATF 40 Recommendations on Anti-Money Laundering and Counter-Financing of Terrorism (intergovernmental organization — Financial Action Task Force; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -15395,7 +15395,7 @@
     "label": "FinTech & Digital-Payments Innovation",
     "category": "Technical",
     "sector": "finance_insurance",
-    "horizon": "watch_2030",
+    "horizon": "emerging",
     "cluster_tags": [
       "Open-Banking",
       "CBDC",
@@ -15403,8 +15403,8 @@
     ],
     "description": "Designs, evaluates, and implements emerging digital-payment technologies, open-banking APIs, and central-bank digital-currency (CBDC) use cases.",
     "source_frameworks": [
-      "iso:20022",
-      "psd2:OpenAPI"
+      "ISO 20022 Universal Financial Industry Message Scheme (ISO proprietary standard; open messaging standard — specification publicly available)",
+      "EU Revised Payment Services Directive (PSD2) Open Banking API standards (EU regulatory instrument; publicly available — equivalent open banking frameworks such as UK Open Banking Standard or Australia CDR may demonstrate competency in non-EU contexts)"
     ],
     "proficiency_levels": [
       {
@@ -15441,11 +15441,14 @@
       "Compliance"
     ],
     "description": "Identifies, assesses, and mitigates financial risks (market, credit, operational, etc.) to protect assets, ensure stability, and maintain compliance with financial regulations.",
-    "source_frameworks": [],
+    "source_frameworks": [
+      "ISO 31000:2018 Risk Management Guidelines (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "COSO Enterprise Risk Management Framework 2017 (commercial nonprofit standard-setting body — Committee of Sponsoring Organizations of the Treadway Commission; conceptual alignment only)"
+    ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands basic financial terms and follows guidelines to monitor simple budgets or transactions."
+        "indicator": "Identifies basic financial risk categories (market, credit, liquidity, operational); follows established guidelines to monitor simple budgets or transactions."
       },
       {
         "level": "Basic",
@@ -15478,9 +15481,9 @@
     ],
     "description": "Prepares and reviews financial statements in alignment with GAAP, IFRS, and statutory-insurance accounting rules; ensures transparent, accurate, and timely disclosures.",
     "source_frameworks": [
-      "ifrs:9",
-      "fasb:ASC",
-      "naic:SAP"
+      "IFRS 9 Financial Instruments (IASB/IFRS Foundation standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "FASB Accounting Standards Codification (ASC) (U.S. nonprofit standard-setting body; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "NAIC Statutory Accounting Principles (SAP) (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -15516,9 +15519,9 @@
       "Product Development",
       "Inclusive Finance"
     ],
-    "description": "Designing affordable, accessible financial products—micro‑savings, micro‑insurance, digital wallets—for underserved populations, incorporating human‑centred design, behavioral insights, and regulatory safeguards.",
+    "description": "Designing affordable, accessible financial products—micro-savings, micro-insurance, digital wallets—for underserved populations, incorporating human-centred design, behavioral insights, and regulatory safeguards.",
     "source_frameworks": [
-      "Organisation for Economic Co‑operation and Development (OECD) Digital Financial Literacy Framework"
+      "OECD/INFE Recommendation on Principles and Good Practices for Financial Education and Awareness — Digital Financial Literacy Framework (intergovernmental organization; publicly available)"
     ],
     "proficiency_levels": [
       {
@@ -15527,19 +15530,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Conducts field research; maps user journeys; drafts low‑cost fee structures."
+        "indicator": "Conducts field research; maps user journeys; drafts low-cost fee structures."
       },
       {
         "level": "Intermediate",
-        "indicator": "Applies behavioral nudges; collaborates with mobile‑money operators; ensures data‑privacy compliance."
+        "indicator": "Applies behavioral nudges; collaborates with mobile-money operators; ensures data-privacy compliance."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs tiered KYC regimes; secures fintech partnerships; measures social‑impact KPIs."
+        "indicator": "Designs tiered KYC regimes; secures fintech partnerships; measures social-impact KPIs."
       },
       {
         "level": "Expert",
-        "indicator": "Leads national‑level inclusion strategies; influences policy; publishes financial‑inclusion impact studies."
+        "indicator": "Leads national-level inclusion strategies; influences policy; publishes financial-inclusion impact studies."
       }
     ]
   },
@@ -15555,12 +15558,12 @@
     ],
     "description": "Develops and manages insurance products leveraging digital technologies (telematics, AI/ML for underwriting, digital platforms);   analyzes telemetric data (e.g. driver behavior for auto insurance), personalizes coverage, and improves claims processes through automation.  \n",
     "source_frameworks": [
-      "NAIC InsurTech Principles (2024)"
+      "NAIC InsurTech Principles (2024) (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Aware of trends like usage-based insurance and basic automation in claims; knows examples (like driver monitoring devices)."
+        "indicator": "Identifies current InsurTech trends (e.g., usage-based insurance, automated claims triage); describes the role of telematics and monitoring devices in data-driven underwriting."
       },
       {
         "level": "Basic",
@@ -15582,7 +15585,7 @@
   },
   {
     "ksa_id": "digital_asset_custody_operations",
-    "label": "Digital‑Asset Custody Operations",
+    "label": "Digital-Asset Custody Operations",
     "category": "Technical",
     "sector": "finance_insurance",
     "horizon": "emerging",
@@ -15591,30 +15594,30 @@
       "Custody",
       "Security"
     ],
-    "description": "Safeguarding cryptocurrencies, tokens, and other digital assets through secure key‑management, multi‑party computation (MPC), cold‑storage procedures, and regulatory‑compliant controls for institutional clients.",
+    "description": "Safeguarding cryptocurrencies, tokens, and other digital assets through secure key-management, multi-party computation (MPC), cold-storage procedures, and regulatory-compliant controls for institutional clients.",
     "source_frameworks": [
-      "Financial Action Task Force (FATF) Virtual‑Asset Service Provider Guidance"
+      "Financial Action Task Force (FATF) Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (intergovernmental organization; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains public‑private key pairs; differentiates hot vs. cold storage; recognizes mnemonic phrases."
+        "indicator": "Explains public-private key pairs; differentiates hot vs. cold storage; recognizes mnemonic phrases."
       },
       {
         "level": "Basic",
-        "indicator": "Operates hardware‑security modules (HSMs); implements multi‑signature wallets; maintains transaction logs."
+        "indicator": "Operates hardware-security modules (HSMs); implements multi-signature wallets; maintains transaction logs."
       },
       {
         "level": "Intermediate",
-        "indicator": "Deploys MPC key shards; conducts wallet‑sweeping; verifies transaction whitelists for compliance."
+        "indicator": "Deploys MPC key shards; conducts wallet-sweeping; verifies transaction whitelists for compliance."
       },
       {
         "level": "Advanced",
-        "indicator": "Integrates real‑time risk scoring; establishes SOC 2 controls; manages client segregation of assets."
+        "indicator": "Integrates real-time risk scoring; establishes SOC 2 controls; manages client segregation of assets."
       },
       {
         "level": "Expert",
-        "indicator": "Designs global digital‑asset custody platforms; secures insurance coverage; shapes evolving custody regulations."
+        "indicator": "Designs global digital-asset custody platforms; secures insurance coverage; shapes evolving custody regulations."
       }
     ]
   },
@@ -15631,8 +15634,8 @@
     ],
     "description": "Protects personal and financial data through robust privacy frameworks, encryption, and incident-response protocols, ensuring compliance with global regulations.",
     "source_frameworks": [
-      "iso:27001",
-      "nist:800-53"
+      "ISO/IEC 27001:2022 Information Security Management Systems (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)",
+      "NIST SP 800-53 Rev. 5 Security and Privacy Controls (U.S. government publication; public domain)"
     ],
     "proficiency_levels": [
       {
@@ -15670,8 +15673,8 @@
     ],
     "description": "Adjudicates and settles insurance claims accurately and fairly, leveraging technology and data to enhance customer satisfaction and operational efficiency.",
     "source_frameworks": [
-      "naic:Claims",
-      "iso:9001"
+      "NAIC Unfair Claims Settlement Practices Model Act and claims handling guidelines (U.S. state regulatory body — National Association of Insurance Commissioners; publicly available)",
+      "ISO 9001:2015 Quality Management Systems (ISO proprietary standard; conceptual alignment only — CaliberPath does not assert reproduction rights)"
     ],
     "proficiency_levels": [
       {
@@ -15698,39 +15701,39 @@
   },
   {
     "ksa_id": "basel_iii_capital_liquidity_management",
-    "label": "Basel III Capital & Liquidity Management",
+    "label": "Basel III Capital & Liquidity Management",
     "category": "Technical",
     "sector": "finance_insurance",
     "horizon": "core",
     "cluster_tags": [
-      "Basel III",
+      "Basel III",
       "Capital Adequacy",
       "Liquidity Risk"
     ],
-    "description": "Calculating and optimizing risk‑weighted assets (RWA), capital buffers, and liquidity ratios under the Basel III regulatory framework to ensure banking‑sector resilience.",
+    "description": "Calculating and optimizing risk-weighted assets (RWA), capital buffers, and liquidity ratios under the Basel III regulatory framework to ensure banking-sector resilience.",
     "source_frameworks": [
-      "Bank for International Settlements (BIS) Basel III Framework"
+      "Bank for International Settlements (BIS) Basel III: A Global Regulatory Framework (intergovernmental organization; publicly available)"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists capital tiers; identifies Liquidity Coverage Ratio (LCR) formula; notes minimum Common Equity Tier 1 (CET1) requirements."
+        "indicator": "Lists capital tiers; identifies Liquidity Coverage Ratio (LCR) formula; notes minimum Common Equity Tier 1 (CET1) requirements."
       },
       {
         "level": "Basic",
-        "indicator": "Classifies assets by risk weight; computes Net Stable Funding Ratio (NSFR); documents Pillar 3 disclosures."
+        "indicator": "Classifies assets by risk weight; computes Net Stable Funding Ratio (NSFR); documents Pillar 3 disclosures."
       },
       {
         "level": "Intermediate",
-        "indicator": "Models stress‑test scenarios; adjusts capital buffers; coordinates Internal Capital Adequacy Assessment Process (ICAAP)."
+        "indicator": "Models stress-test scenarios; adjusts capital buffers; coordinates Internal Capital Adequacy Assessment Process (ICAAP)."
       },
       {
         "level": "Advanced",
-        "indicator": "Optimises balance‑sheet structure; manages Basel capital deductions; aligns interest‑rate‑risk in banking book (IRRBB) metrics."
+        "indicator": "Optimises balance-sheet structure; manages Basel capital deductions; aligns interest-rate-risk in banking book (IRRBB) metrics."
       },
       {
         "level": "Expert",
-        "indicator": "Leads Basel regulatory‑change programs; interfaces with supervisory authorities; publishes capital‑planning methodologies."
+        "indicator": "Leads Basel regulatory-change programs; interfaces with supervisory authorities; publishes capital-planning methodologies."
       }
     ]
   },
@@ -15747,8 +15750,8 @@
     ],
     "description": "Builds and validates actuarial models for pricing, reserving, and forecasting; applies advanced statistical and machine-learning techniques to improve loss-ratio performance.",
     "source_frameworks": [
-      "soa:ERM",
-      "cas:Predictive"
+      "Society of Actuaries (SOA) Enterprise Risk Management Framework (professional membership association; conceptual alignment only)",
+      "Casualty Actuarial Society (CAS) Predictive Modeling Committee research publications (professional membership association; conceptual alignment only)"
     ],
     "proficiency_levels": [
       {
