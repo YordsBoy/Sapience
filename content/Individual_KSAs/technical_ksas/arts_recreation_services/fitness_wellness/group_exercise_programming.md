@@ -11,7 +11,7 @@ description: >
   Creates and delivers engaging group exercise classes (HIIT, cycling, yoga),
   sequencing movements, music, and safety briefings per ACSM group-ex guidelines.
 source_frameworks:
-  - "ACSM Group Exercise Instructor Standards"
+  - "American College of Sports Medicine (ACSM) Group Exercise Instructor certification standards and competency guidelines — commercial professional association — ACSM; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains class format; checks equipment.

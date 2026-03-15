@@ -12,8 +12,8 @@ description: >
   platforms, configuring engagement tools, and analyzing analytics to optimize
   ROI and inclusivity.
 source_frameworks:
-  - "Execu-Events Virtual Event Planner Guide (2025)"
-  - "TechRadar Virtual Platform Review (2025)"
+  - "International Live Events Association (ILEA) virtual and hybrid event management resources — commercial professional association — ILEA; conceptual alignment only"
+  - "AVIXA digital event and hybrid meeting technology standards guidance — commercial professional association — AVIXA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies major platforms; checks bandwidth requirements.

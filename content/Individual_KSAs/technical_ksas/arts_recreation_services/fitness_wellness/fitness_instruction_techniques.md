@@ -11,8 +11,8 @@ description: >
   Demonstrates safe exercise technique, cueing, and progression principles in
   alignment with ACSM and CSEP guidelines for individual or small-group clients.
 source_frameworks:
-  - "ACSM Certified Personal Trainer Standards"
-  - "CSEP Fitness Leadership"
+  - "American College of Sports Medicine (ACSM) Certified Personal Trainer (CPT) standards and exam content outline — commercial professional association — ACSM; conceptual alignment only"
+  - "Canadian Society for Exercise Physiology (CSEP) Certified Personal Trainer (CSEP-CPT) fitness leadership competency standards — commercial professional association — CSEP; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines basic movement planes; observes contraindications.

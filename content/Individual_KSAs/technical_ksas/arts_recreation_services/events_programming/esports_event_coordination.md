@@ -12,8 +12,8 @@ description: >
   integrity, broadcast quality, and player welfare; coordinates game publishers,
   IT infrastructure, and fan engagement strategies.
 source_frameworks:
-  - "BCE Esports Event Management Guide (2025)"
-  - "IOC Olympic Esports Guidance"
+  - "Esports Integrity Commission (ESIC) event standards and anti-cheat governance documentation — commercial non-profit integrity body — ESIC; conceptual alignment only"
+  - "International Olympic Committee (IOC) Olympic Esports Series guidelines and participant framework — intergovernmental organization — IOC; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Lists key roles (TO, shoutcaster, observer); knows rule-set basics.

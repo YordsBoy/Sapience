@@ -12,8 +12,8 @@ description: >
   storyboarding, prototyping, and real-time engines (Unity/Unreal), applying UX
   heuristics and accessibility.
 source_frameworks:
-  - "Unity Certified Associate Design"
-  - "WCAG 2.2"
+  - "Unity Certified Associate: Game Designer certification objectives — vendor documentation — Unity Technologies; conceptual alignment only — equivalent real-time engine design platforms may demonstrate competency"
+  - "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Defines immersion levels; identifies hardware requirements.

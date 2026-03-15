@@ -12,8 +12,8 @@ description: >
   (Adobe CC, DaVinci Resolve) and emerging Gen-AI assistants; applies color
   management, codecs, and accessibility standards.
 source_frameworks:
-  - "Adobe Certified Professional Exam Objectives"
-  - "W3C WCAG 2.2"
+  - "Adobe Certified Professional examination objectives and competency framework — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent digital media creation suites may demonstrate competency"
+  - "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Opens assets; applies basic edits; exports common formats.

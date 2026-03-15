@@ -12,8 +12,8 @@ description: >
   that meet stakeholder goals and CSR guidelines; manages permits, sponsors, and
   risk assessments in line with ILEA CSEP competency domains.
 source_frameworks:
-  - "International Live Events Association (CSEP)"
-  - "NRPA Special Event Risk Management Checklist"
+  - "International Live Events Association (ILEA) Certified Special Events Professional (CSEP) competency standards — commercial professional association — ILEA; conceptual alignment only"
+  - "National Recreation and Park Association (NRPA) special event risk management checklist — commercial professional association — NRPA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists basic event types; recognizes permit requirements.

@@ -12,8 +12,8 @@ description: >
   graphics, and interactive elements; applies narrative structure and
   accessibility captions for digital distribution.
 source_frameworks:
-  - "Adobe Certified Professional Objectives"
-  - "W3C WCAG 2.2"
+  - "Adobe Certified Professional examination objectives and competency framework — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent digital media creation suites may demonstrate competency"
+  - "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Captures media; imports assets.

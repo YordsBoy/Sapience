@@ -12,8 +12,8 @@ description: >
   following IES RP-41-20 recommended practice; ensures color rendering,
   sightline safety, and power distribution.
 source_frameworks:
-  - "IES RP-41-20 (Performance Lighting)"
-  - "USITT DMX512 Standard"
+  - "IES RP-41-20 Recommended Practice for Performance Lighting — Illuminating Engineering Society (IES) proprietary standard; conceptual alignment only"
+  - "ANSI E1.11 USITT DMX512-A Entertainment Technology — Asynchronous Serial Digital Data Transmission Standard — ANSI/ESTA proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies fixture types; understands basic patching.

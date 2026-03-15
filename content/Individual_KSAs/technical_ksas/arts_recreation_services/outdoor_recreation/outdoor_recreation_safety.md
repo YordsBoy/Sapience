@@ -11,8 +11,8 @@ description: >
   Implements wilderness risk-management plans, conducts safety briefings, and
   responds to incidents following industry guidelines and local regulations.
 source_frameworks:
-  - "Wilderness Risk Management Conference Guidelines"
-  - "Leave No Trace Principles"
+  - "Wilderness Risk Management Conference (WRMC) proceedings and outdoor safety guidelines — commercial non-profit conference organization — WRMC; conceptual alignment only"
+  - "Leave No Trace (LNT) Seven Principles of outdoor ethics — non-profit organization — Leave No Trace Center for Outdoor Ethics; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common hazards; carries basic first-aid kit.

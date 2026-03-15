@@ -12,8 +12,8 @@ description: >
   producing cue sheets, call times, and safety briefings; liaises between
   directors, crew, and venue staff.
 source_frameworks:
-  - "USITT Backstage Handbook"
-  - "OSHA Rigging Safety"
+  - "United States Institute for Theatre Technology (USITT) Backstage Handbook and technical production resources — commercial professional association — USITT; conceptual alignment only"
+  - "OSHA 29 CFR 1926.251 Rigging Equipment for Material Handling and general industry rigging safety standards — U.S. government — OSHA/DOL; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Follows basic backstage etiquette; identifies common stage gear.

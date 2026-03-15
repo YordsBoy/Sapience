@@ -12,8 +12,8 @@ description: >
   adventure trips—aligning with NRPA accreditation standards, community needs,
   and budget constraints.
 source_frameworks:
-  - "NRPA CAPRA Standards"
-  - "US CDC Physical Activity Guidelines"
+  - "National Recreation and Park Association (NRPA) CAPRA accreditation standards for park and recreation program design — commercial professional association — NRPA; conceptual alignment only"
+  - "U.S. CDC Physical Activity Guidelines for Americans and public health program design resources — U.S. government — CDC/DHHS; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies target demographics; lists facility requirements.

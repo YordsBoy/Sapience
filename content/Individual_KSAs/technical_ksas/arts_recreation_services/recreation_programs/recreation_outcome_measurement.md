@@ -11,8 +11,8 @@ description: >
   Defines and tracks social, health, and economic impacts of recreation
   programs using logic-models, DEI lenses, and NRPA CAPRA performance measures.
 source_frameworks:
-  - "NRPA CAPRA Accreditation Standards"
-  - "Logic Model Evaluation Guide (CDC)"
+  - "National Recreation and Park Association (NRPA) Commission for Accreditation of Park and Recreation Agencies (CAPRA) accreditation standards — commercial professional association — NRPA; conceptual alignment only"
+  - "CDC Introduction to Program Evaluation for Public Health Programs: A Self-Study Guide and logic model evaluation resources — U.S. government — CDC/DHHS; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Lists basic outcome categories (participation, satisfaction).
