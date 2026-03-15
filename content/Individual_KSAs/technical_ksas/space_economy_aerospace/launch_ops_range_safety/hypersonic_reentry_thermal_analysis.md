@@ -10,7 +10,7 @@ cluster_tags:
 description: |
   Models aero-thermal loads for blunt-body and lifting-body vehicles using CFD, TPS (Thermal-Protection System) material databases, and NASA CEA; validates versus flight or arc-jet data.
 source_frameworks:
-  - "NASA TPSX Database"
+  - "NASA Thermal Protection System Expert (TPSX) material properties database — U.S. government — NASA; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: States stagnation heat-flux scaling with velocity and density.

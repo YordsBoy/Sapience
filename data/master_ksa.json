@@ -3219,8 +3219,8 @@
     ],
     "description": "Applying European Cooperation for Space Standardization (ECSS) and NASA Systems Engineering Handbook processes to define requirements, architect spacecraft subsystems, manage verification/validation, and control configuration across the mission lifecycle.\n",
     "source_frameworks": [
-      "NASA SP‑20210023201 Systems Engineering Handbook Rev 3",
-      "ECSS‑E‑ST‑10C Space Engineering – System Engineering General Requirements"
+      "NASA Systems Engineering Handbook Rev 3 (NASA/SP-2016-6105 Rev2 / SP-20210023201) — U.S. government — NASA; publicly available",
+      "ECSS-E-ST-10C Space Engineering: System Engineering General Requirements — European standards body — ECSS; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -3233,15 +3233,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Runs FMEA and margin analysis; performs trade‑studies; supports hardware‑in‑the‑loop testing; manages change requests via configuration‑control boards (CCBs)."
+        "indicator": "Runs FMEA and margin analysis; performs trade-studies; supports hardware-in-the-loop testing; manages change requests via configuration-control boards (CCBs)."
       },
       {
         "level": "Advanced",
-        "indicator": "Leads system requirements reviews (SRRs) and preliminary design reviews (PDRs); manages risk burn‑down; integrates cross‑disciplinary models and multi-discipline budgets."
+        "indicator": "Leads system requirements reviews (SRRs) and preliminary design reviews (PDRs); manages risk burn-down; integrates cross-disciplinary models and multi-discipline budgets."
       },
       {
         "level": "Expert",
-        "indicator": "Architects mega-constellation platforms; directs end‑to‑end spacecraft architectures; mentors systems engineers; contributes to ECSS standards."
+        "indicator": "Architects mega-constellation platforms; directs end-to-end spacecraft architectures; mentors systems engineers; contributes to ECSS standards."
       }
     ]
   },
@@ -3257,7 +3257,7 @@
     ],
     "description": "Designs robotic capture, refuelling, and in-space assembly systems; evaluates OSAM-1 heritage, autonomy architectures, and Rendezvous & Proximity Ops (RPO) safety per NASA Standard 8719.14.\n",
     "source_frameworks": [
-      "NASA OSAM-1 Mission Updates 2025"
+      "NASA On-orbit Servicing, Assembly and Manufacturing 1 (OSAM-1) mission documentation and updates (2025) — U.S. government — NASA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3294,7 +3294,7 @@
     ],
     "description": "Designs, operates, and services cryogenic propellant depots and tanker architectures; addresses boil-off mitigation, fluid transfer, venting control, and integrated thermal-power systems for long-duration storage in LEO and cislunar space.\n",
     "source_frameworks": [
-      "NASA Cryogenic Fluid Management (CFM) Roadmap 2024"
+      "NASA Cryogenic Fluid Management (CFM) Technology Roadmap (2024) — U.S. government — NASA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3331,7 +3331,7 @@
     ],
     "description": "Conducts end-to-end mission design for 1U–27U CubeSats, including payload accommodation, COTS subsystems, launch integration, and FCC Part 25 filing; aligns with NASA CSLI guidelines.\n",
     "source_frameworks": [
-      "BryceTech Smallsats-by-the-Numbers 2025"
+      "BryceTech Smallsats by the Numbers annual report (2025) — commercial consulting firm — BryceTech; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -3344,7 +3344,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Runs STK orbit design; budgets power and data."
+        "indicator": "Runs orbital design analysis using STK or equivalent tools (e.g., Ansys STK, GMAT); budgets power and data link margins."
       },
       {
         "level": "Advanced",
@@ -3368,7 +3368,7 @@
     ],
     "description": "Plans and executes spacecraft trajectories, station-keeping and communications in the Earth–Moon vicinity; leverages NRHO (Near-Rectilinear Halo Orbit) and Distant Retrograde Orbit dynamics, autonomous optical navigation, and NASA LunaNet interoperability standards.\n",
     "source_frameworks": [
-      "NASA Artemis GN&C Architecture 2025"
+      "NASA Artemis Guidance, Navigation and Control (GN&C) architecture documentation (2025) — U.S. government — NASA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3405,7 +3405,7 @@
     ],
     "description": "Collects and fuses solar-wind, coronal-mass-ejection (CME), and geomagnetic indices from NOAA SWPC and ESA Lagrange missions; develops AI/ML models to predict radiation storms and SPE (Solar Particle Event) flux for satellite and\ncrewed-mission risk assessments.\n",
     "source_frameworks": [
-      "NOAA SWPC Space Weather Scales"
+      "NOAA Space Weather Prediction Center (SWPC) space weather scales and products — U.S. government — NOAA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3432,7 +3432,7 @@
   },
   {
     "ksa_id": "space_debris_mitigation_techniques",
-    "label": "Space Debris‑Mitigation Techniques",
+    "label": "Space Debris-Mitigation Techniques",
     "category": "Technical",
     "sector": "space_economy_aerospace",
     "horizon": "core",
@@ -3440,20 +3440,20 @@
       "Orbital Debris",
       "ISO 24113"
     ],
-    "description": "Designing and implementing measures—passivation, controlled re‑entry, active debris removal—to inimise orbital debris in line with ISO 24113, Inter‑Agency Space Debris Coordination Committee (IADC) FCC 5-year post-mission disposal guidelines; analyzes collision risk and implements passivation, de-orbit, or graveyard-orbit maneuvers.\n",
+    "description": "Designing and implementing measures—passivation, controlled re-entry, active debris removal—to minimise orbital debris in line with ISO 24113, Inter-Agency Space Debris Coordination Committee (IADC) FCC 5-year post-mission disposal guidelines; analyzes collision risk and implements passivation, de-orbit, or graveyard-orbit maneuvers.\n",
     "source_frameworks": [
-      "ISO 24113:2023 Debris Mitigation",
-      "FCC Orbital-Debris FAQ 2024",
-      "IADC Space Debris Mitigation Guidelines"
+      "ISO 24113:2023 Space Systems — Space Debris Mitigation Requirements — ISO proprietary standard; conceptual alignment only",
+      "FCC Orbital Debris mitigation FAQ and rules (2024) — U.S. government — FCC; publicly available",
+      "IADC Space Debris Mitigation Guidelines (Rev. 2) — intergovernmental forum — Inter-Agency Space Debris Coordination Committee (IADC); publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains Kessler Syndrome; lists mitigation options; checks post‑mission disposal (PMD) timelines; calculates 25-year LEO re-entry rule; identifies breakup causes."
+        "indicator": "Explains Kessler Syndrome; lists mitigation options; checks post-mission disposal (PMD) timelines; calculates 25-year LEO re-entry rule; identifies breakup causes."
       },
       {
         "level": "Basic",
-        "indicator": "Calculates ΔV for de‑orbit burns; designs passivation procedures; Runs DRAMA/MASTER risk models; sizes de-orbit propellant; files debris‑mitigation plans."
+        "indicator": "Calculates delta-V for de-orbit burns; designs passivation procedures; runs DRAMA/MASTER risk models; sizes de-orbit propellant; files debris-mitigation plans."
       },
       {
         "level": "Intermediate",
@@ -3461,11 +3461,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Implements active‑debris‑removal concepts; deploys drag‑sail or propulsion kits; analyses long‑term orbital evolution; optimizes constellation shell disposals; validates compliance via ESA MASTER."
+        "indicator": "Implements active-debris-removal concepts; deploys drag-sail or propulsion kits; analyses long-term orbital evolution; optimizes constellation shell disposals; validates compliance via ESA MASTER."
       },
       {
         "level": "Expert",
-        "indicator": "Leads international debris‑mitigation working groups; innovates ADR (active debris removal) tech; shapes ISO/IADC updates; publishes debris‑risk analyses."
+        "indicator": "Leads international debris-mitigation working groups; innovates ADR (active debris removal) tech; shapes ISO/IADC updates; publishes debris-risk analyses."
       }
     ]
   },
@@ -3479,38 +3479,38 @@
       "Mission Operations",
       "Ground Systems"
     ],
-    "description": "Planning and executing satellite mission operations—telemetry, tracking, and command (TT&C); flight‑dynamic analyses; anomaly response—using NASA Mission Operations Directorate (MOD) and Consultative Committee for Space Data Systems (CCSDS) standards.\n",
+    "description": "Planning and executing satellite mission operations—telemetry, tracking, and command (TT&C); flight-dynamic analyses; anomaly response—using NASA Mission Operations Directorate (MOD) and Consultative Committee for Space Data Systems (CCSDS) standards.\n",
     "source_frameworks": [
-      "NASA Conjunction Assessment Risk Analysis (CARA) Process",
-      "NASA APPEL Mission Operations Curriculum",
-      "CCSDS 232.1‑B TM Space Data Link Protocol"
+      "NASA Conjunction Assessment Risk Analysis (CARA) process documentation — U.S. government — NASA; publicly available",
+      "NASA Academy of Program/Project and Engineering Leadership (APPEL) mission operations curriculum — U.S. government — NASA; publicly available",
+      "CCSDS 232.1-B-2 TM Synchronization and Channel Coding — intergovernmental consortium — CCSDS (NASA/ESA/JAXA/et al.); publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Reads basic telemetry packets; monitors ground‑station schedules; follows operations checklists."
+        "indicator": "Reads basic telemetry packets; monitors ground-station schedules; follows operations checklists."
       },
       {
         "level": "Basic",
-        "indicator": "Executes command loads; performs state‑of‑health trending; performs routine pass scripts; files TLE updates; logs anomalies."
+        "indicator": "Executes command loads; performs state-of-health trending; performs routine pass scripts; files TLE updates; logs anomalies."
       },
       {
         "level": "Intermediate",
-        "indicator": "Conducts orbit determination; coordinates station‑keeping burns; implements contingency procedures."
+        "indicator": "Conducts orbit determination; coordinates station-keeping burns; implements contingency procedures."
       },
       {
         "level": "Advanced",
-        "indicator": "Optimises ground‑network utilization; leads mission‑readiness reviews (MRRs); integrates automation scripts and ground-station as-a-service."
+        "indicator": "Optimises ground-network utilization; leads mission-readiness reviews (MRRs); integrates automation scripts and ground-station as-a-service."
       },
       {
         "level": "Expert",
-        "indicator": "Oversees multi‑satellite constellations; defines anomaly-response playbooks; develops mission‑ops standards; publishes operations‑efficiency research."
+        "indicator": "Oversees multi-satellite constellations; defines anomaly-response playbooks; develops mission-ops standards; publishes operations-efficiency research."
       }
     ]
   },
   {
     "ksa_id": "satellite_ground_segment_cybersecurity",
-    "label": "Satellite Ground‑Segment Cybersecurity",
+    "label": "Satellite Ground-Segment Cybersecurity",
     "category": "Technical",
     "sector": "space_economy_aerospace",
     "horizon": "core",
@@ -3518,12 +3518,12 @@
       "Ground Segment",
       "Cybersecurity"
     ],
-    "description": "Protecting ground‑segment networks, TT&C links, and payload data against cyber threats, applying NIST SP 800‑160, Space ISAC, and Zero-Trust best practices.\n",
+    "description": "Protecting ground-segment networks, TT&C links, and payload data against cyber threats, applying NIST SP 800-160, Space ISAC, and Zero-Trust best practices.\n",
     "source_frameworks": [
-      "NIST IR 8401 Ground-Segment Cybersecurity (2022)",
-      "NIST SP 800‑160 Vol.2 Systems Security Engineering",
-      "Space ISAC Cybersecurity Best Practices",
-      "CISA Space Launch Cybersecurity Guide"
+      "NIST IR 8401 Satellite Ground System Security Considerations (2022) — U.S. government — NIST/DOC; publicly available",
+      "NIST SP 800-160 Vol. 2 Developing Cyber-Resilient Systems — U.S. government — NIST/DOC; publicly available",
+      "Space Information Sharing and Analysis Center (Space ISAC) cybersecurity best practices — non-profit sector consortium — Space ISAC; conceptual alignment only",
+      "CISA space and launch system cybersecurity guidance — U.S. government — CISA/DHS; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3532,19 +3532,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Configures firewalls; applies secure‑telemetry protocols (CP‑Sec); manages access controls."
+        "indicator": "Configures firewalls; applies secure-telemetry protocols (CP-Sec); manages access controls."
       },
       {
         "level": "Intermediate",
-        "indicator": "Conducts vulnerability scans; implements intrusion detection; manages key‑distribution for uplink; maps controls to NIST CSF."
+        "indicator": "Conducts vulnerability scans; implements intrusion detection; manages key-distribution for uplink; maps controls to NIST CSF."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs zero‑trust architectures; deploys zero-trust micro-segmentation; integrates threat‑intel feeds; performs red and blue‑team exercises."
+        "indicator": "Designs zero-trust architectures; deploys zero-trust micro-segmentation; integrates threat-intel feeds; performs red and blue-team exercises."
       },
       {
         "level": "Expert",
-        "indicator": "Leads space‑asset cybersecurity programs; establishes enterprise ground-segment SOC; coordinates incident response with national CERTs; publishes cyber‑resilience frameworks."
+        "indicator": "Leads space-asset cybersecurity programs; establishes enterprise ground-segment SOC; coordinates incident response with national CERTs; publishes cyber-resilience frameworks."
       }
     ]
   },
@@ -3560,8 +3560,8 @@
     ],
     "description": "Analyses CAPEX, OPEX, and risk for launchers, satellites and ground assets; structures debt, equity, and Public-Private-Partnership (PPP) deals; models payback under government anchor-tenancy and insurance constraints.\n",
     "source_frameworks": [
-      "OECD Space Economy Investment Trends 2024",
-      "Satellite Infrastructure as Private-Equity Asset Class 2025"
+      "OECD Space Economy Investment Trends report (2024) — intergovernmental organization — OECD; publicly available",
+      "Space sector private equity and infrastructure finance literature (e.g., Bryce Space and Technology annual commercial space reports; Space Capital Quarterly reports) — commercial research; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -3598,8 +3598,8 @@
     ],
     "description": "Develops tiered licensing, subscription, usage-based and API metering models; applies willingness-to-pay analytics and SaaS metrics (CAC, LTV) to satellite imagery, RF, and IoT constellations.\n",
     "source_frameworks": [
-      "SAS Data-Monetisation Best Practices",
-      "Visions Thesis – Business Models in Data Ecosystems 2021"
+      "SAS data monetization best practices and documentation — vendor documentation — SAS Institute; conceptual alignment only — equivalent data analytics pricing methodologies may demonstrate competency",
+      "Business model research for data ecosystem platforms (e.g., Hartmann et al., 'Capturing Value from Big Data,' Journal of Management Studies, 2016) — academic literature; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -3636,8 +3636,8 @@
     ],
     "description": "Defines value propositions, personas, and road-maps for Earth-observation (EO) and communications data services; balances latency, resolution, revisit, and price to meet defense, agriculture, climate-risk and insurance markets.\n",
     "source_frameworks": [
-      "Space Foundation Space Economy Report 2025",
-      "MIT CISR Data-Monetisation Framework"
+      "Space Foundation Space Economy Report (2025) — commercial professional association — Space Foundation; conceptual alignment only",
+      "MIT Center for Information Systems Research (CISR) data monetization framework — academic research institution — MIT; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -3674,8 +3674,8 @@
     ],
     "description": "Navigates NOAA Commercial Remote-Sensing regulations, Export-Administration Regulations (EAR), ITAR, GDPR, and sovereign-data rules; drafts EULA, SLA, and data-sharing agreements that enable global sales while protecting IP.\n",
     "source_frameworks": [
-      "NOAA CRS Licensing FAQ 2023",
-      "U.S. EAR Part 734 Technology Definitions"
+      "NOAA Commercial Remote Sensing Regulatory Affairs (CRSRA) licensing FAQ (2023) — U.S. government — NOAA/DOC; publicly available",
+      "U.S. Export Administration Regulations (EAR) 15 CFR Part 734 — U.S. government — BIS/DOC; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3712,9 +3712,9 @@
     ],
     "description": "Navigating international treaties (Outer Space Treaty, Liability Convention), national licensing (FCC Part 25), and International Telecommunication Union (ITU) Radio Regulations to secure frequency allocations and mission approvals.\n",
     "source_frameworks": [
-      "ITU Radio Regulations 2024",
-      "UN Office for Outer Space Affairs (UNOOSA) Space Law Treaties",
-      "FCC Part 25 Licensing Guide"
+      "ITU Radio Regulations (2024 edition) — intergovernmental treaty instrument — ITU (UN); publicly available",
+      "UNOOSA space law treaty collection (Outer Space Treaty, Liability Convention, Registration Convention) — intergovernmental organization — UNOOSA (UN); publicly available",
+      "FCC Part 25 Satellite Communications licensing rules and guidance — U.S. government — FCC; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3749,21 +3749,21 @@
       "Range Safety",
       "14 CFR Part 450"
     ],
-    "description": "Ensuring public and asset safety during launch operations through flight‑safety analyses, hazard areas, and Flight Termination Systems (FTS) in accordance with FAA 14 CFR Part 450 and Range Commanders Council (RCC) standards.\n",
+    "description": "Ensuring public and asset safety during launch operations through flight-safety analyses, hazard areas, and Flight Termination Systems (FTS) in accordance with FAA 14 CFR Part 450 and Range Commanders Council (RCC) standards.\n",
     "source_frameworks": [
-      "FAA Part 450 Means-of-Compliance Table (2024)",
-      "FAA 14 CFR Part 450 Launch & Reentry Licensing",
-      "RCC 319‑20 Flight Safety Analysis",
-      "NASA Range Safety Manual NPR 8715.5"
+      "FAA 14 CFR Part 450 Means-of-Compliance table (2024) — U.S. government — FAA/DOT; publicly available",
+      "FAA 14 CFR Part 450 Launch and Reentry Licensing regulations — U.S. government — FAA/DOT; publicly available",
+      "Range Commanders Council (RCC) 319-20 Flight Safety Analysis standard — U.S. Department of Defense — RCC; publicly available",
+      "NASA Range Safety Manual NPR 8715.5 — U.S. government — NASA; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies launch hazards; reads flight safety rules; understands keep‑out zones; describes EPL (Expected-Casualty) and collective risk thresholds."
+        "indicator": "Identifies launch hazards; reads flight safety rules; understands keep-out zones; describes EPL (Expected-Casualty) and collective risk thresholds."
       },
       {
         "level": "Basic",
-        "indicator": "Calculates debris footprints; generates launch risk metrics (Ecc ≤ 1×10‑6); configures FTS arming; coordinates NOTAMs."
+        "indicator": "Calculates debris footprints; generates launch risk metrics (Ecc <= 1e-6); configures FTS arming; coordinates NOTAMs."
       },
       {
         "level": "Intermediate",
@@ -3771,11 +3771,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Designs autonomous flight‑safety systems; negotiates risk‑criterion waivers; manages anomaly investigations; interfaces with range authorities."
+        "indicator": "Designs autonomous flight-safety systems; negotiates risk-criterion waivers; manages anomaly investigations; interfaces with range authorities."
       },
       {
         "level": "Expert",
-        "indicator": "Oversees multi‑range safety programs; influences regulatory updates; publishes launch‑safety research."
+        "indicator": "Oversees multi-range safety programs; influences regulatory updates; publishes launch-safety research."
       }
     ]
   },
@@ -3791,7 +3791,7 @@
     ],
     "description": "Models aero-thermal loads for blunt-body and lifting-body vehicles using CFD, TPS (Thermal-Protection System) material databases, and NASA CEA; validates versus flight or arc-jet data.\n",
     "source_frameworks": [
-      "NASA TPSX Database"
+      "NASA Thermal Protection System Expert (TPSX) material properties database — U.S. government — NASA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -3818,7 +3818,7 @@
   },
   {
     "ksa_id": "human_spaceflight_life_support_basics",
-    "label": "Human‑Spaceflight Life‑Support Basics",
+    "label": "Human-Spaceflight Life-Support Basics",
     "category": "Technical",
     "sector": "space_economy_aerospace",
     "horizon": "core",
@@ -3826,16 +3826,16 @@
       "Life Support",
       "ECLSS"
     ],
-    "description": "Understanding Environmental Control and Life‑Support System (ECLSS) fundamentals—atmosphere revitalisation, water recovery, waste management, and thermal control—to ensure crew safety per NASA Human Integration Design Handbook (HIDH) and ISO 14620.\n",
+    "description": "Understanding Environmental Control and Life-Support System (ECLSS) fundamentals—atmosphere revitalisation, water recovery, waste management, and thermal control—to ensure crew safety per NASA Human Integration Design Handbook (HIDH) and ISO 14620.\n",
     "source_frameworks": [
-      "NASA ECLSS Architecture – ICES 2025",
-      "NASA Human Integration Design Handbook Rev2",
-      "ISO 14620‑1:2019 Space Systems – Safety Requirements"
+      "NASA Environmental Control and Life Support System (ECLSS) architecture documentation and ICES conference proceedings (2025) — U.S. government — NASA; publicly available",
+      "NASA Human Integration Design Handbook (HIDH) Rev 2 (NASA/SP-2010-3407) — U.S. government — NASA; publicly available",
+      "ISO 14620-1:2019 Space Systems — Safety Requirements — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Lists life‑support subsystems; recognizes nominal cabin parameters; describes CO₂ scrubbing."
+        "indicator": "Lists life-support subsystems; recognizes nominal cabin parameters; describes CO2 scrubbing."
       },
       {
         "level": "Basic",
@@ -3847,11 +3847,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Designs closed‑loop ECLSS; validates redundancy; conducts fault‑tree analyses; troubleshoots subsystem interfaces; recommends mass/energy trade-offs."
+        "indicator": "Designs closed-loop ECLSS; validates redundancy; conducts fault-tree analyses; troubleshoots subsystem interfaces; recommends mass/energy trade-offs."
       },
       {
         "level": "Expert",
-        "indicator": "Designs closed-loop ECLSS for >365-day missions; leads crewed mission life‑support design; shapes ECLSS standards; publishes human‑spaceflight research."
+        "indicator": "Leads ECLSS architecture for multi-year interplanetary missions; chairs standards working groups at NASA/ESA/ISO; publishes peer-reviewed life-support research; mentors next-generation systems engineers."
       }
     ]
   },

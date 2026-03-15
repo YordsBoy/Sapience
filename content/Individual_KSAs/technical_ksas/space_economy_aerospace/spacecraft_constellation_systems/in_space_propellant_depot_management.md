@@ -11,7 +11,7 @@ description: >
   Designs, operates, and services cryogenic propellant depots and tanker architectures; addresses boil-off mitigation, fluid transfer, venting control, and integrated thermal-power systems for long-duration storage in LEO and
   cislunar space.
 source_frameworks:
-  - "NASA Cryogenic Fluid Management (CFM) Roadmap 2024"
+  - "NASA Cryogenic Fluid Management (CFM) Technology Roadmap (2024) — U.S. government — NASA; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: States LH₂ & LOX boil-off drivers and typical storage temps.

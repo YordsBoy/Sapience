@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Navigates NOAA Commercial Remote-Sensing regulations, Export-Administration Regulations (EAR), ITAR, GDPR, and sovereign-data rules; drafts EULA, SLA, and data-sharing agreements that enable global sales while protecting IP.
 source_frameworks:
-  - "NOAA CRS Licensing FAQ 2023"
-  - "U.S. EAR Part 734 Technology Definitions"
+  - "NOAA Commercial Remote Sensing Regulatory Affairs (CRSRA) licensing FAQ (2023) — U.S. government — NOAA/DOC; publicly available"
+  - "U.S. Export Administration Regulations (EAR) 15 CFR Part 734 — U.S. government — BIS/DOC; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Distinguishes “Tier 1 unrestricted” vs “Tier 3” data per NOAA.

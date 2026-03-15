@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Navigating international treaties (Outer Space Treaty, Liability Convention), national licensing (FCC Part 25), and International Telecommunication Union (ITU) Radio Regulations to secure frequency allocations and mission approvals.
 source_frameworks:
-  - "ITU Radio Regulations 2024"
-  - "UN Office for Outer Space Affairs (UNOOSA) Space Law Treaties"
-  - "FCC Part 25 Licensing Guide"
+  - "ITU Radio Regulations (2024 edition) — intergovernmental treaty instrument — ITU (UN); publicly available"
+  - "UNOOSA space law treaty collection (Outer Space Treaty, Liability Convention, Registration Convention) — intergovernmental organization — UNOOSA (UN); publicly available"
+  - "FCC Part 25 Satellite Communications licensing rules and guidance — U.S. government — FCC; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies major space treaties; recognizes frequency bands; notes licensing timelines.

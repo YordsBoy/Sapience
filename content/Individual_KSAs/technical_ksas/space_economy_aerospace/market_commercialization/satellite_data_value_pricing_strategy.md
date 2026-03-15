@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Develops tiered licensing, subscription, usage-based and API metering models; applies willingness-to-pay analytics and SaaS metrics (CAC, LTV) to satellite imagery, RF, and IoT constellations.
 source_frameworks:
-  - "SAS Data-Monetisation Best Practices"
-  - "Visions Thesis – Business Models in Data Ecosystems 2021"
+  - "SAS data monetization best practices and documentation — vendor documentation — SAS Institute; conceptual alignment only — equivalent data analytics pricing methodologies may demonstrate competency"
+  - "Business model research for data ecosystem platforms (e.g., Hartmann et al., 'Capturing Value from Big Data,' Journal of Management Studies, 2016) — academic literature; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains difference between scene, strip, and analytics pricing.

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Analyses CAPEX, OPEX, and risk for launchers, satellites and ground assets; structures debt, equity, and Public-Private-Partnership (PPP) deals; models payback under government anchor-tenancy and insurance constraints.
 source_frameworks:
-  - "OECD Space Economy Investment Trends 2024"
-  - "Satellite Infrastructure as Private-Equity Asset Class 2025"
+  - "OECD Space Economy Investment Trends report (2024) — intergovernmental organization — OECD; publicly available"
+  - "Space sector private equity and infrastructure finance literature (e.g., Bryce Space and Technology annual commercial space reports; Space Capital Quarterly reports) — commercial research; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Reads term-sheets; defines TRL impact on cost of capital.

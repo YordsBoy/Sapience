@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Designs robotic capture, refuelling, and in-space assembly systems; evaluates OSAM-1 heritage, autonomy architectures, and Rendezvous & Proximity Ops (RPO) safety per NASA Standard 8719.14.
 source_frameworks:
-  - "NASA OSAM-1 Mission Updates 2025"
+  - "NASA On-orbit Servicing, Assembly and Manufacturing 1 (OSAM-1) mission documentation and updates (2025) — U.S. government — NASA; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Describes RPO phases and satellite grappling concepts.

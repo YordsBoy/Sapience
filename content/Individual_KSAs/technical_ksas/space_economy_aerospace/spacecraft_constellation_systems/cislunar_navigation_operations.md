@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Plans and executes spacecraft trajectories, station-keeping and communications in the Earth–Moon vicinity; leverages NRHO (Near-Rectilinear Halo Orbit) and Distant Retrograde Orbit dynamics, autonomous optical navigation, and NASA LunaNet interoperability standards.
 source_frameworks:
-  - "NASA Artemis GN&C Architecture 2025"
+  - "NASA Artemis Guidance, Navigation and Control (GN&C) architecture documentation (2025) — U.S. government — NASA; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies L1/L2 halo orbits and NRHO periods.

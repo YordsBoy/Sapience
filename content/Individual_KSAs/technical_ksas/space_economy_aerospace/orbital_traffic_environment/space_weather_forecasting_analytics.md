@@ -11,7 +11,7 @@ description: |
   Collects and fuses solar-wind, coronal-mass-ejection (CME), and geomagnetic indices from NOAA SWPC and ESA Lagrange missions; develops AI/ML models to predict radiation storms and SPE (Solar Particle Event) flux for satellite and
   crewed-mission risk assessments.
 source_frameworks:
-  - "NOAA SWPC Space Weather Scales"
+  - "NOAA Space Weather Prediction Center (SWPC) space weather scales and products — U.S. government — NOAA; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Explains Kp, Dst, and F10.7 solar flux indices.

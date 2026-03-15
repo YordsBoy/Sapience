@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Defines value propositions, personas, and road-maps for Earth-observation (EO) and communications data services; balances latency, resolution, revisit, and price to meet defense, agriculture, climate-risk and insurance markets.
 source_frameworks:
-  - "Space Foundation Space Economy Report 2025"
-  - "MIT CISR Data-Monetisation Framework"
+  - "Space Foundation Space Economy Report (2025) — commercial professional association — Space Foundation; conceptual alignment only"
+  - "MIT Center for Information Systems Research (CISR) data monetization framework — academic research institution — MIT; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists common EO use-cases and basic resolution tiers.
