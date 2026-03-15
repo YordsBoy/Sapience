@@ -1,0 +1,27 @@
+---
+ksa_id: surface_mining_operations
+label: Surface Mining Operations
+category: Technical
+sector: mining_extraction
+horizon: core
+cluster_tags:
+  - "Operations"
+  - "Open-Pit"
+description: >
+  Executes drilling, loading, hauling, and dumping cycles in open-pit and
+  quarry environments, ensuring productivity and compliance with MSHA and OSHA
+  guidelines.
+source_frameworks:
+  - "OSHA–MSHA interagency coordination directive CPL 02-00-042 for surface mine operations — U.S. government — OSHA/MSHA/DOL; publicly available"
+proficiency_levels:
+  - level: Awareness
+    indicator: Follows traffic and signage rules; wears required PPE.
+  - level: Basic
+    indicator: Operates haul truck or loader safely; performs pre-shift inspections.
+  - level: Intermediate
+    indicator: Optimises bench sequencing; coordinates dispatch for minimal cycle time.
+  - level: Advanced
+    indicator: Applies GPS fleet-management data to reduce idle & emissions.
+  - level: Expert
+    indicator: Designs continuous-improvement programs; mentors supervisors; aligns with autonomous-haul transition.
+---

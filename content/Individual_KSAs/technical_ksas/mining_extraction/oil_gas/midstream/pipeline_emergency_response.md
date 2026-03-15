@@ -1,0 +1,26 @@
+---
+ksa_id: pipeline_emergency_response
+label: Pipeline Operations Emergency Response
+category: Technical
+sector: mining_extraction
+horizon: core
+cluster_tags:
+  - "Midstream"
+  - "Emergency Response"
+description: >
+  Prepares for and manages pipeline incidents per PHMSA Emergency Response
+  Guidebook (ERG) and operator response plans.
+source_frameworks:
+  - "PHMSA Emergency Response Guidebook (ERG) 2024 and pipeline operator emergency response plan requirements — U.S. government — PHMSA/DOT; publicly available"
+proficiency_levels:
+  - level: Awareness
+    indicator: Identifies emergency numbers; follows evacuation maps.
+  - level: Basic
+    indicator: Closes sectionalising valves; notifies authorities.
+  - level: Intermediate
+    indicator: Coordinates ICS; deploys containment & fire-suppression.
+  - level: Advanced
+    indicator: Leads drill exercises; integrates GIS plume modeling.
+  - level: Expert
+    indicator: Designs corporate ERP; liaises with emergency agencies; mentors responders.
+---
