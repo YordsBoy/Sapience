@@ -9,10 +9,10 @@ cluster_tags:
   - "IP Management"
 description: Secures, tracks, and enforces intellectual-property rights, clearances, and licensing agreements for media assets.
 source_frameworks:
-  - "MPA Copyright Handbook"
-  - "Entertainment Identifier Registry (EIDR) Spec"
-  - "sfia:SUBM"
-  - "onet:23-1021.00"
+  - "Motion Picture Association (MPA) Copyright Handbook — commercial professional association — MPA; conceptual alignment only"
+  - "Entertainment Identifier Registry (EIDR) technical specification — industry registry — EIDR; publicly available"
+  - "SFIA 9 skill: Subject Matter Expertise (SUBM) — professional framework — British Computer Society/SFIA Foundation; conceptual alignment only"
+  - "O*NET occupational profile 23-1021.00 (Lawyers) — U.S. government — Department of Labor/O*NET; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies basic copyright requirements for third-party content; differentiates sync vs master use; lists common rights windows.

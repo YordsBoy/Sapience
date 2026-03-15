@@ -11,10 +11,10 @@ description: >
   Manages intellectual property rights and secure distribution of media content in the digital domain;  
   implements digital rights management (DRM) solutions, negotiates licensing deals for content across platforms/regions, and ensures revenue streams (advertising, subscription, PPV) are optimized while preventing piracy.  
 source_frameworks:  
-  - "W3C Web DRM (EME) Standards"  
+  - "W3C Encrypted Media Extensions (EME) Recommendation — international standards consortium — W3C; publicly available"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Distinguishes license vs contract; names DRM vendors; has heard of piracy and knows basic concepts like content licensing or region-locking exists.  
+    indicator: Distinguishes license vs contract; names DRM vendors; identifies piracy as unauthorized distribution and explains content licensing and region-locking as foundational DRM mechanisms.  
   - level: Basic  
     indicator: Uses simple DRM settings on content (e.g., enabling YouTube’s standard license vs. Creative Commons); assists in tracking where content is published officially; encrypts DASH/HLS segments; issues test keys; validates playback.  
   - level: Intermediate  

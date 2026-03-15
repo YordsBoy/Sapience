@@ -8330,8 +8330,8 @@
     ],
     "description": "Shoots in real-time rendered LED volumes (Unreal Engine) aligning camera tracking, color pipeline, and SMPTE ST 2110 IP video for in-camera VFX.\n",
     "source_frameworks": [
-      "Unreal Engine VP Field Guide",
-      "SMPTE ST 2110 Video over IP"
+      "Unreal Engine Virtual Production Field Guide — vendor documentation — Epic Games; conceptual alignment only — equivalent real-time engine virtual production workflows may demonstrate competency",
+      "SMPTE ST 2110 Professional Media over Managed IP Networks standard — SMPTE proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -8366,16 +8366,15 @@
       "Streaming",
       "Digital Media"
     ],
-    "description": "Produces and optimizes media content for streaming platforms (Netflix, YouTube, Twitch, etc.);   adapts production techniques for various formats (short-form mobile videos vs. long-form series), manages encoding settings, and uses platform analytics to guide content strategy and audience engagement.  \n",
+    "description": "Produces and optimizes media content for streaming platforms (Netflix, YouTube, Twitch, etc.); adapts production techniques for various formats (short-form mobile videos vs. long-form series), manages encoding settings, and uses platform analytics to guide content strategy and audience engagement.\n",
     "source_frameworks": [
-      "SMPTE ST 2110 IP Video Standard",
-      "Netflix Production Media Managemen",
-      "Netflix Post Technology Alliance Guidelines"
+      "SMPTE ST 2110 Professional Media over Managed IP Networks standard — SMPTE proprietary standard; conceptual alignment only",
+      "Netflix Production Media Management documentation — vendor documentation — Netflix; conceptual alignment only — equivalent OTT platform production standards may apply"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands that content can be released online and has basic familiarity with major streaming services and their content styles; outlines live vs VOD; lists codec and bitrate targets."
+        "indicator": "Distinguishes live vs VOD streaming delivery models; identifies major streaming platform categories and their content formats; lists common codec and bitrate targets for standard-definition and HD delivery."
       },
       {
         "level": "Basic",
@@ -8405,12 +8404,11 @@
       "Rigging",
       "Pipeline"
     ],
-    "description": "Creating deformation rigs, weight painting, and producing keyframe or motion‑capture animations while optimizing assets for real‑time engines and feature‑film rendering pipelines.",
+    "description": "Creating deformation rigs, weight painting, and producing keyframe or motion-capture animations while optimizing assets for real-time engines and feature-film rendering pipelines.",
     "source_frameworks": [
-      "Unity Animation Rigging Workflow",
-      "Autodesk Rigging Guide",
-      "Autodesk Certified Professional – Maya for 3D Animation",
-      "Animation Guild Best Practices"
+      "Unity Animation Rigging package documentation and workflow — vendor documentation — Unity Technologies; conceptual alignment only — equivalent real-time engine rigging workflows may demonstrate competency",
+      "Autodesk Maya rigging documentation and guide — vendor documentation — Autodesk; conceptual alignment only — equivalent 3D animation software platforms may demonstrate competency",
+      "Animation Guild (IATSE Local 839) best practices and professional standards — commercial trade union — Animation Guild; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -8423,15 +8421,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Scripts autorigger; implements inverse kinematics (IK) switch; integrates blend‑shape facial rigs; cleans motion‑capture data."
+        "indicator": "Scripts autorigger; implements inverse kinematics (IK) switch; integrates blend-shape facial rigs; cleans motion-capture data."
       },
       {
         "level": "Advanced",
-        "indicator": "Develops modular rigging systems with scripting; integrates USD or Alembic optimizes rigs for real‑time engines; conducts animation polish passes."
+        "indicator": "Develops modular rigging systems with scripting; integrates USD or Alembic optimizes rigs for real-time engines; conducts animation polish passes."
       },
       {
         "level": "Expert",
-        "indicator": "Leads studio rigging pipelines; standardises naming conventions; contributes to open‑source rigging tools; publishes rigging‑workflow papers."
+        "indicator": "Leads studio rigging pipelines; standardises naming conventions; contributes to open-source rigging tools; publishes rigging-workflow papers."
       }
     ]
   },
@@ -8447,9 +8445,9 @@
     ],
     "description": "Creates and rigs 3D assets, animates characters, and optimizes models for real-time engines and cinematic rendering.",
     "source_frameworks": [
-      "Animation Mentor 12 Principles Guide",
-      "SMPTE ST 2065-1 ACES Color Encoding",
-      "onet:27-1014.00"
+      "Animation Mentor 12 Principles of Animation resources (based on Johnston & Thomas, The Illusion of Life, 1981) — commercial educational platform; conceptual alignment only",
+      "SMPTE ST 2065-1 Academy Color Encoding Specification (ACES) — SMPTE proprietary standard; conceptual alignment only",
+      "O*NET occupational profile 27-1014.00 (Special Effects Artists and Animators) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8486,10 +8484,10 @@
     ],
     "description": "Designing cohesive storyworlds that unfold across multiple platforms—film, games, comics, social media—by mapping character arcs, plot intersections, and audience engagement pathways grounded in participatory culture principles.",
     "source_frameworks": [
-      "Henry Jenkins Convergence Culture Framework",
-      "Henry Jenkins Transmedia Storytelling",
-      "UX Story Mapping (Jeff Patton)",
-      "Producers Guild of America (PGA) Transmedia Producer Credit Guidelines"
+      "Henry Jenkins, Convergence Culture: Where Old and New Media Collide (2006) — academic monograph — New York University Press; conceptual alignment only",
+      "Henry Jenkins transmedia storytelling framework (MIT Technology Review, 2003; Confessions of an Aca-Fan blog canon) — academic literature; conceptual alignment only",
+      "Jeff Patton, User Story Mapping: Discover the Whole Story, Build the Right Product (2014) — commercial methodology — O'Reilly Media; conceptual alignment only",
+      "Producers Guild of America (PGA) Transmedia Producer credit definition and guidelines — commercial professional association — PGA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -8526,9 +8524,9 @@
     ],
     "description": "Crafts engaging narratives by applying plot structure, pacing, and character development across media formats.",
     "source_frameworks": [
-      "Robert McKee STORY Framework",
-      "Pixar 22 Story Rules",
-      "onet:27-3043.00"
+      "Robert McKee, STORY: Substance, Structure, Style and the Principles of Screenwriting (1997) — commercial proprietary methodology; conceptual alignment only",
+      "Pixar 22 Rules of Storytelling (attributed to Emma Coats, 2012) — vendor/commercial proprietary methodology — Pixar/Disney; conceptual alignment only",
+      "O*NET occupational profile 27-3043.00 (Writers and Authors) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8565,9 +8563,9 @@
     ],
     "description": "Plans multi-platform rollout calendars, audience personas, and KPI dashboards aligned with Interactive Advertising Bureau (IAB) Video Ad Specs and YouTube algorithm best practices. Schedules and optimizes content for multi-platform reach, engagement, and monetization.",
     "source_frameworks": [
-      "IAB Digital Video Ad Format Guidelines",
-      "YouTube Creator Playbook",
-      "onet:11-2021.00"
+      "IAB Digital Video Ad Format Guidelines — commercial professional association — Interactive Advertising Bureau; conceptual alignment only",
+      "YouTube Creator Playbook and channel strategy resources — vendor documentation — Google/YouTube; conceptual alignment only — equivalent video platform creator guidance may demonstrate competency",
+      "O*NET occupational profile 11-2021.00 (Marketing Managers) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8604,14 +8602,14 @@
     ],
     "description": "Assembles, color-grades, and finalizes video content while optimizing for narrative flow and platform specifications.",
     "source_frameworks": [
-      "Adobe Collaboration Workflows",
-      "SMPTE ST 2084 HDR-PQ",
-      "onet:27-4032.00"
+      "Adobe collaborative editing workflow documentation — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent NLE platforms may demonstrate competency",
+      "SMPTE ST 2084 High Dynamic Range Electro-Optical Transfer Function of Mastering Reference Displays — SMPTE proprietary standard; conceptual alignment only",
+      "O*NET occupational profile 27-4032.00 (Film and Video Editors) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands sequence settings; recognizes codec types; cuts clips; adds transitions within NLE software."
+        "indicator": "Configures sequence settings in NLE software; identifies common codec types and their use cases; cuts clips and adds basic transitions."
       },
       {
         "level": "Basic",
@@ -8643,8 +8641,8 @@
     ],
     "description": "Crafts object-based mixes in Dolby Atmos or MPEG-H, mapping beds and objects per SMPTE ST 2098 immersive-audio metadata.\n",
     "source_frameworks": [
-      "SMPTE ST 2098-1 Immersive Audio Metadata",
-      "Dolby Atmos Studio Technical Guidelines"
+      "SMPTE ST 2098-1 Immersive Audio Metadata standard — SMPTE proprietary standard; conceptual alignment only",
+      "Dolby Atmos studio technical guidelines — vendor documentation — Dolby Laboratories; conceptual alignment only — equivalent object-based audio formats may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -8681,9 +8679,9 @@
     ],
     "description": "Captures, edits, mixes, and masters audio for music, podcasts, film, and interactive media.",
     "source_frameworks": [
-      "AES67 Audio-over-IP Standard",
-      "Dolby Atmos Binaural Guidelines",
-      "onet:27-4014.00"
+      "AES67-2018 Audio-over-IP/AES Standard for Audio Applications of Networks — Audio Engineering Society proprietary standard; conceptual alignment only",
+      "Dolby Atmos binaural rendering guidelines — vendor documentation — Dolby Laboratories; conceptual alignment only — equivalent immersive audio formats may demonstrate competency",
+      "O*NET occupational profile 27-4014.00 (Sound Engineering Technicians) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8720,8 +8718,8 @@
     ],
     "description": "Enables remote, concurrent editing using Adobe Team Projects, Frame.io, and SMPTE IMF (Interoperable Master Format) versioning, ensuring security via Trusted Partner Network (TPN) best practices.\n",
     "source_frameworks": [
-      "Adobe Team Projects Collaboration",
-      "SMPTE IMF ST 2067"
+      "Adobe Team Projects cloud collaboration documentation — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent cloud editing collaboration platforms may demonstrate competency",
+      "SMPTE ST 2067 Interoperable Master Format (IMF) standard — SMPTE proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -8748,7 +8746,7 @@
   },
   {
     "ksa_id": "audio_post_production_operations",
-    "label": "Professional Audio Post‑production Operations",
+    "label": "Professional Audio Post-production Operations",
     "category": "Technical",
     "sector": "media_arts_entertainment",
     "horizon": "core",
@@ -8758,15 +8756,14 @@
     ],
     "description": "Editing, mixing, and mastering linear and immersive audio for film, television, and streaming using industry standards—Audio Engineering Society (AES) loudness specs, Dolby Atmos workflows—and ensuring deliverables meet distribution requirements.",
     "source_frameworks": [
-      "ITU-R BS.1770-4 Loudness",
-      "Dolby Atmos Home Studio Guidelines",
-      "AES TD1008 Loudness Guidelines",
-      "Dolby Atmos Home Entertainment Mix Spec"
+      "ITU-R BS.1770-4 Algorithms to Measure Audio Programme Loudness — intergovernmental standards body — ITU (UN); publicly available",
+      "Dolby Atmos home studio mixing guidelines — vendor documentation — Dolby Laboratories; conceptual alignment only — equivalent immersive audio formats may demonstrate competency",
+      "AES Technical Document AES TD1008 Loudness of Broadcast Content — Audio Engineering Society proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies digital‑audio‑workstation (DAW) tools; defines LKFS; recognizes loudness units full scale (LUFS) meters; imports OMF/AAF sessions."
+        "indicator": "Identifies digital-audio-workstation (DAW) tools; defines LKFS; recognizes loudness units full scale (LUFS) meters; imports OMF/AAF sessions."
       },
       {
         "level": "Basic",
@@ -8774,15 +8771,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Uses loudness meter; mixes 5.1 surround; calibrates monitoring environments; meets Integrated Loudness targets per EBU R128; meets −24 LKFS ±2."
+        "indicator": "Uses loudness meter; mixes 5.1 surround; calibrates monitoring environments; meets Integrated Loudness targets per EBU R128; meets -24 LKFS +/-2."
       },
       {
         "level": "Advanced",
-        "indicator": "Mixes immersive stems; delivers ADM BWF; builds object‑based Atmos mixes; implements noise‑reduction; conducts deliverable QC for streaming platforms."
+        "indicator": "Mixes immersive stems; delivers ADM BWF; builds object-based Atmos mixes; implements noise-reduction; conducts deliverable QC for streaming platforms."
       },
       {
         "level": "Expert",
-        "indicator": "Supervises multi‑studio post workflows; sets facility standards; mentors re‑recording mixers; chairs immersive-audio panel; publishes audio‑post best practices."
+        "indicator": "Supervises multi-studio post workflows; sets facility standards; mentors re-recording mixers; chairs immersive-audio panel; publishes audio-post best practices."
       }
     ]
   },
@@ -8798,8 +8795,8 @@
     ],
     "description": "Creates closed captions (CEA-608/708, WebVTT) and audio description tracks meeting ITU-T H.702 and WCAG 2.2 media requirements.\n",
     "source_frameworks": [
-      "ITU-T H.702 Accessibility Recommendation",
-      "WCAG 2.2 Success Criteria"
+      "ITU-T H.702 Accessibility Requirements for IPTV Systems — intergovernmental standards body — ITU (UN); publicly available",
+      "W3C Web Content Accessibility Guidelines (WCAG) 2.2 Success Criteria — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8836,10 +8833,10 @@
     ],
     "description": "Researches, prototypes, and iterates user interfaces and interactions to enhance engagement and accessibility.",
     "source_frameworks": [
-      "Nielsen-Norman Usability Heuristics",
-      "WCAG 2.2 Accessibility Guidelines",
-      "sfia:USEV",
-      "onet:15-1255.00"
+      "Nielsen Norman Group 10 Usability Heuristics — commercial UX research firm — Nielsen Norman Group; conceptual alignment only",
+      "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available",
+      "SFIA 9 skill: User Experience Evaluation (USEV) — professional framework — British Computer Society/SFIA Foundation; conceptual alignment only",
+      "O*NET occupational profile 15-1255.00 (Web and Digital Interface Designers) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8865,7 +8862,7 @@
     ]
   },
   {
-    "ksa_id": "interactive_media_development",
+    "ksa_id": "interactive_multimedia_development",
     "label": "Interactive Media Development",
     "category": "Technical",
     "sector": "media_arts_entertainment",
@@ -8876,10 +8873,10 @@
     ],
     "description": "Designs and implements interactive experiences using real-time engines, scripting, and user-centric mechanics.",
     "source_frameworks": [
-      "W3C WebXR Spec",
-      "Interaction Design Foundation IxD Patterns",
-      "sfia:INSD",
-      "onet:15-1257.00"
+      "W3C WebXR Device API Recommendation — international standards consortium — W3C; publicly available",
+      "Interaction Design Foundation (IxDF) interaction design patterns and resources — commercial educational organization — IxDF; conceptual alignment only",
+      "SFIA 9 skill: Installation and Integration (INSD) — professional framework — British Computer Society/SFIA Foundation; conceptual alignment only",
+      "O*NET occupational profile 15-1257.00 (Web Developers and Digital Interface Designers) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8916,10 +8913,10 @@
     ],
     "description": "Secures, tracks, and enforces intellectual-property rights, clearances, and licensing agreements for media assets.",
     "source_frameworks": [
-      "MPA Copyright Handbook",
-      "Entertainment Identifier Registry (EIDR) Spec",
-      "sfia:SUBM",
-      "onet:23-1021.00"
+      "Motion Picture Association (MPA) Copyright Handbook — commercial professional association — MPA; conceptual alignment only",
+      "Entertainment Identifier Registry (EIDR) technical specification — industry registry — EIDR; publicly available",
+      "SFIA 9 skill: Subject Matter Expertise (SUBM) — professional framework — British Computer Society/SFIA Foundation; conceptual alignment only",
+      "O*NET occupational profile 23-1021.00 (Lawyers) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8956,12 +8953,12 @@
     ],
     "description": "Manages intellectual property rights and secure distribution of media content in the digital domain;   implements digital rights management (DRM) solutions, negotiates licensing deals for content across platforms/regions, and ensures revenue streams (advertising, subscription, PPV) are optimized while preventing piracy.  \n",
     "source_frameworks": [
-      "W3C Web DRM (EME) Standards"
+      "W3C Encrypted Media Extensions (EME) Recommendation — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Distinguishes license vs contract; names DRM vendors; has heard of piracy and knows basic concepts like content licensing or region-locking exists."
+        "indicator": "Distinguishes license vs contract; names DRM vendors; identifies piracy as unauthorized distribution and explains content licensing and region-locking as foundational DRM mechanisms."
       },
       {
         "level": "Basic",
@@ -8993,8 +8990,8 @@
     ],
     "description": "Translates, dubs, and re-voices media using large-language models (LLMs) and speech-synthesis while controlling quality via human-in-the-loop and BLEU metrics.\n",
     "source_frameworks": [
-      "Netflix Dialogue Intelligibility R&D",
-      "OpenAI Whisper Speech Recognition"
+      "Netflix dialogue intelligibility and localization R&D resources — vendor documentation — Netflix; conceptual alignment only — equivalent streaming platform localization standards may apply",
+      "OpenAI Whisper automatic speech recognition documentation — vendor documentation — OpenAI; conceptual alignment only — equivalent AI speech recognition models may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -9031,9 +9028,9 @@
     ],
     "description": "Develops and tracks budgets using PGA “Art of Budgeting,” AICP bid forms, and Motion Picture Association (MPA) cost-code structures; manages cashflow, tax incentives, and contingency.\n",
     "source_frameworks": [
-      "PGA Art of Budgeting Manual",
-      "AICP Bid-Form Guidelines",
-      "MPA Creative-Economy Finance Insights"
+      "Producers Guild of America (PGA) Art of Budgeting resources — commercial professional association — PGA; conceptual alignment only",
+      "Association of Independent Commercial Producers (AICP) bid-form guidelines — commercial professional association — AICP; conceptual alignment only",
+      "Motion Picture Association (MPA) creative economy finance insights — commercial professional association — MPA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -9070,8 +9067,8 @@
     ],
     "description": "Plans and executes 360° marketing—paid, owned, earned—using Agile Marketing Manifesto principles and IAB creative best-practice specs for digital ads.\n",
     "source_frameworks": [
-      "Agile Marketing Manifesto",
-      "IAB Creative Best-Practices Guide"
+      "Agile Marketing Manifesto — open community framework (agilemanifesto.org adapted for marketing); publicly available",
+      "IAB Digital Advertising Creative Best Practices Guide — commercial professional association — Interactive Advertising Bureau; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -9108,9 +9105,9 @@
     ],
     "description": "Collects and interprets cross-platform audience data (Google Analytics 4, Nielsen ONE, IAB attention metrics) to optimize revenue streams—AVOD, SVOD, TVOD, FAST—and advertiser value.\n",
     "source_frameworks": [
-      "Google Analytics 4 Audiences Guide",
-      "IAB Cross-Channel Measurement Playbook",
-      "Nielsen ONE Cross-Media Currency"
+      "Google Analytics 4 Audiences documentation — vendor documentation — Google; conceptual alignment only — equivalent cross-platform audience analytics tools may demonstrate competency",
+      "IAB Cross-Channel Measurement Playbook — commercial professional association — Interactive Advertising Bureau; conceptual alignment only",
+      "Nielsen ONE cross-media measurement currency documentation — commercial media research firm — Nielsen; conceptual alignment only — equivalent cross-media audience measurement systems may demonstrate competency"
     ],
     "proficiency_levels": [
       {

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Translates, dubs, and re-voices media using large-language models (LLMs) and speech-synthesis while controlling quality via human-in-the-loop and BLEU metrics.
 source_frameworks:
-  - "Netflix Dialogue Intelligibility R&D"
-  - "OpenAI Whisper Speech Recognition"
+  - "Netflix dialogue intelligibility and localization R&D resources — vendor documentation — Netflix; conceptual alignment only — equivalent streaming platform localization standards may apply"
+  - "OpenAI Whisper automatic speech recognition documentation — vendor documentation — OpenAI; conceptual alignment only — equivalent AI speech recognition models may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Lists localisation layers (text, audio, graphics).

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Shoots in real-time rendered LED volumes (Unreal Engine) aligning camera tracking, color pipeline, and SMPTE ST 2110 IP video for in-camera VFX.
 source_frameworks:
-  - "Unreal Engine VP Field Guide"
-  - "SMPTE ST 2110 Video over IP"
+  - "Unreal Engine Virtual Production Field Guide — vendor documentation — Epic Games; conceptual alignment only — equivalent real-time engine virtual production workflows may demonstrate competency"
+  - "SMPTE ST 2110 Professional Media over Managed IP Networks standard — SMPTE proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Describes LED wall vs greenscreen; notes parallax benefit.

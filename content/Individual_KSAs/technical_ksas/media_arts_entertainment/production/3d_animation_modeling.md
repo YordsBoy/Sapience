@@ -9,9 +9,9 @@ cluster_tags:
   - "Modeling"
 description: Creates and rigs 3D assets, animates characters, and optimizes models for real-time engines and cinematic rendering.
 source_frameworks:
-  - "Animation Mentor 12 Principles Guide"
-  - "SMPTE ST 2065-1 ACES Color Encoding"
-  - "onet:27-1014.00"
+  - "Animation Mentor 12 Principles of Animation resources (based on Johnston & Thomas, The Illusion of Life, 1981) — commercial educational platform; conceptual alignment only"
+  - "SMPTE ST 2065-1 Academy Color Encoding Specification (ACES) — SMPTE proprietary standard; conceptual alignment only"
+  - "O*NET occupational profile 27-1014.00 (Special Effects Artists and Animators) — U.S. government — Department of Labor/O*NET; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Builds simple meshes and applies basic textures; explains quads vs n-gons; names basic modifiers.

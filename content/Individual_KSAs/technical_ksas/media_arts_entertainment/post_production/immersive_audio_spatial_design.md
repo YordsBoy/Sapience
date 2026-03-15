@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Crafts object-based mixes in Dolby Atmos or MPEG-H, mapping beds and objects per SMPTE ST 2098 immersive-audio metadata.
 source_frameworks:
-  - "SMPTE ST 2098-1 Immersive Audio Metadata"
-  - "Dolby Atmos Studio Technical Guidelines"
+  - "SMPTE ST 2098-1 Immersive Audio Metadata standard — SMPTE proprietary standard; conceptual alignment only"
+  - "Dolby Atmos studio technical guidelines — vendor documentation — Dolby Laboratories; conceptual alignment only — equivalent object-based audio formats may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Explains bed vs dynamic object; lists speaker layouts (7.1.4).

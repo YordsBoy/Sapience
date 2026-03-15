@@ -9,9 +9,9 @@ cluster_tags:
   - "Distribution"
 description:  Plans multi-platform rollout calendars, audience personas, and KPI dashboards aligned with Interactive Advertising Bureau (IAB) Video Ad Specs and YouTube algorithm best practices. Schedules and optimizes content for multi-platform reach, engagement, and monetization.
 source_frameworks:
-  - "IAB Digital Video Ad Format Guidelines"
-  - "YouTube Creator Playbook"
-  - "onet:11-2021.00"
+  - "IAB Digital Video Ad Format Guidelines — commercial professional association — Interactive Advertising Bureau; conceptual alignment only"
+  - "YouTube Creator Playbook and channel strategy resources — vendor documentation — Google/YouTube; conceptual alignment only — equivalent video platform creator guidance may demonstrate competency"
+  - "O*NET occupational profile 11-2021.00 (Marketing Managers) — U.S. government — Department of Labor/O*NET; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Defines reach, engagement, retention; posts content on primary channels following basic guidelines.

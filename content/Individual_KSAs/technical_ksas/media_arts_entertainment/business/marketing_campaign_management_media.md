@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Plans and executes 360° marketing—paid, owned, earned—using Agile Marketing Manifesto principles and IAB creative best-practice specs for digital ads.
 source_frameworks:
-  - "Agile Marketing Manifesto"
-  - "IAB Creative Best-Practices Guide"
+  - "Agile Marketing Manifesto — open community framework (agilemanifesto.org adapted for marketing); publicly available"
+  - "IAB Digital Advertising Creative Best Practices Guide — commercial professional association — Interactive Advertising Bureau; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Outlines funnel stages; lists creative sizes & specs.

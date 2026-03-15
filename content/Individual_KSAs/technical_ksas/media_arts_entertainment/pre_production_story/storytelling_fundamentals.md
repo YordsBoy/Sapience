@@ -9,9 +9,9 @@ cluster_tags:
   - "Narrative"
 description: Crafts engaging narratives by applying plot structure, pacing, and character development across media formats.
 source_frameworks:
-  - "Robert McKee STORY Framework"
-  - "Pixar 22 Story Rules"
-  - "onet:27-3043.00"
+  - "Robert McKee, STORY: Substance, Structure, Style and the Principles of Screenwriting (1997) — commercial proprietary methodology; conceptual alignment only"
+  - "Pixar 22 Rules of Storytelling (attributed to Emma Coats, 2012) — vendor/commercial proprietary methodology — Pixar/Disney; conceptual alignment only"
+  - "O*NET occupational profile 27-3043.00 (Writers and Authors) — U.S. government — Department of Labor/O*NET; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies basic three-act structure (protagonist, conflict, resolution) in existing works.

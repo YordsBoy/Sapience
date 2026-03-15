@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Collects and interprets cross-platform audience data (Google Analytics 4, Nielsen ONE, IAB attention metrics) to optimize revenue streams—AVOD, SVOD, TVOD, FAST—and advertiser value.
 source_frameworks:
-  - "Google Analytics 4 Audiences Guide"
-  - "IAB Cross-Channel Measurement Playbook"
-  - "Nielsen ONE Cross-Media Currency"
+  - "Google Analytics 4 Audiences documentation — vendor documentation — Google; conceptual alignment only — equivalent cross-platform audience analytics tools may demonstrate competency"
+  - "IAB Cross-Channel Measurement Playbook — commercial professional association — Interactive Advertising Bureau; conceptual alignment only"
+  - "Nielsen ONE cross-media measurement currency documentation — commercial media research firm — Nielsen; conceptual alignment only — equivalent cross-media audience measurement systems may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Defines reach, frequency, Average Revenue per User (ARPU); distinguishes AVOD vs SVOD.

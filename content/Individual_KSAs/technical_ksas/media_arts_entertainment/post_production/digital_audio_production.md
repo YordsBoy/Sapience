@@ -9,9 +9,9 @@ cluster_tags:
   - "Production"
 description: Captures, edits, mixes, and masters audio for music, podcasts, film, and interactive media.
 source_frameworks:
-  - "AES67 Audio-over-IP Standard"
-  - "Dolby Atmos Binaural Guidelines"
-  - "onet:27-4014.00"
+  - "AES67-2018 Audio-over-IP/AES Standard for Audio Applications of Networks — Audio Engineering Society proprietary standard; conceptual alignment only"
+  - "Dolby Atmos binaural rendering guidelines — vendor documentation — Dolby Laboratories; conceptual alignment only — equivalent immersive audio formats may demonstrate competency"
+  - "O*NET occupational profile 27-4014.00 (Sound Engineering Technicians) — U.S. government — Department of Labor/O*NET; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies sample rate, bit depth, latency; records clean audio with basic mic technique and edits clips non-destructively.

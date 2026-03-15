@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Creates closed captions (CEA-608/708, WebVTT) and audio description tracks meeting ITU-T H.702 and WCAG 2.2 media requirements.
 source_frameworks:
-  - "ITU-T H.702 Accessibility Recommendation"
-  - "WCAG 2.2 Success Criteria"
+  - "ITU-T H.702 Accessibility Requirements for IPTV Systems — intergovernmental standards body — ITU (UN); publicly available"
+  - "W3C Web Content Accessibility Guidelines (WCAG) 2.2 Success Criteria — international standards consortium — W3C; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Differentiates CC vs subtitles; identifies audio-desc needs.

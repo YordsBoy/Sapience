@@ -9,10 +9,10 @@ cluster_tags:
   - "Design"
 description: Researches, prototypes, and iterates user interfaces and interactions to enhance engagement and accessibility.
 source_frameworks:
-  - "Nielsen-Norman Usability Heuristics"
-  - "WCAG 2.2 Accessibility Guidelines"
-  - "sfia:USEV"
-  - "onet:15-1255.00"
+  - "Nielsen Norman Group 10 Usability Heuristics — commercial UX research firm — Nielsen Norman Group; conceptual alignment only"
+  - "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
+  - "SFIA 9 skill: User Experience Evaluation (USEV) — professional framework — British Computer Society/SFIA Foundation; conceptual alignment only"
+  - "O*NET occupational profile 15-1255.00 (Web and Digital Interface Designers) — U.S. government — Department of Labor/O*NET; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Defines persona; follows usability heuristics in basic wireframes.

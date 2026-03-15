@@ -9,10 +9,10 @@ cluster_tags:
   - "Narrative Design"
 description: Designing cohesive storyworlds that unfold across multiple platforms—film, games, comics, social media—by mapping character arcs, plot intersections, and audience engagement pathways grounded in participatory culture principles.
 source_frameworks:
-  - "Henry Jenkins Convergence Culture Framework"
-  - "Henry Jenkins Transmedia Storytelling"
-  - "UX Story Mapping (Jeff Patton)"
-  - "Producers Guild of America (PGA) Transmedia Producer Credit Guidelines"
+  - "Henry Jenkins, Convergence Culture: Where Old and New Media Collide (2006) — academic monograph — New York University Press; conceptual alignment only"
+  - "Henry Jenkins transmedia storytelling framework (MIT Technology Review, 2003; Confessions of an Aca-Fan blog canon) — academic literature; conceptual alignment only"
+  - "Jeff Patton, User Story Mapping: Discover the Whole Story, Build the Right Product (2014) — commercial methodology — O'Reilly Media; conceptual alignment only"
+  - "Producers Guild of America (PGA) Transmedia Producer credit definition and guidelines — commercial professional association — PGA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies transmedia properties; distinguishes adaptation from transmedia extension; notes basic audience touchpoints; lists platform touchpoints; defines canonical story vs expansion.
