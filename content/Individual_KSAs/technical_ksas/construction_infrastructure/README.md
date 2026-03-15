@@ -14,6 +14,7 @@
 | **QC** | Quality & Commissioning            | Asset Integrity Management · Quality Assurance & Commissioning    |
 | **SHE**| Safety, Health & Environment       | Construction Safety Management                                    |
 | **SU** | Sustainability & Green Building    | Green-Building Practices · Climate-Smart Materials                |
+| **ST** | Structures & Civil Engineering     | Structural-Engineering Fundamentals · Masonry & Concrete Construction |
 | **AM** | Additive Manufacturing & Robotics  | Additive-Manufacturing (3-D Printing) for Construction            |
 
 ## Horizon Key  
@@ -49,6 +50,7 @@
 | masonry_concrete_construction        | Masonry & Concrete Construction                           | core      |
 | structural_engineering_fundamentals  | Structural-Engineering Fundamentals                       | core      |
 | additive_manufacturing_construction  | Additive-Manufacturing (3-D Printing) for Construction | emerging  |
+| drainage_system_design               | Drainage System Design                                    | core      |
 | green_building_practices             | Green-Building Practices                                  | core      |
 
 
@@ -88,3 +90,24 @@
 > *All sources cited for conceptual alignment. No proprietary text copied.*
 
 _Last updated: 17 Oct 2025_
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

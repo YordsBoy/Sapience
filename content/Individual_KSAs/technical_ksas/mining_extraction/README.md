@@ -1,6 +1,6 @@
 # Mining & Extraction
 
-**Sector Overview:** This sector covers the competencies needed in mining industries – from exploration of minerals to extraction, and eventually site closure. Modern mining demands expertise in not only getting resources out of the ground (with advanced equipment and techniques) but also ensuring safety and environmental stewardship. Key focus areas include efficient extraction methods (often differentiated by surface vs. underground mining), rigorous safety and health practices, and responsible management of environmental impacts (reclamation of land and waste management). Trends like automation of mining equipment and improved safety analytics are shaping the field.
+**Sector Overview:** This sector covers the competencies needed in mining industries – from exploration of minerals to extraction, and eventually site closure. Modern mining demands expertise in not only getting resources out of the ground (with advanced equipment and techniques) but also ensuring safety and environmental stewardship. Key focus areas include efficient extraction methods (often differentiated by surface vs. underground mining), rigorous safety and health practices, and responsible management of environmental impacts (reclamation of land and waste management). Trends like automation of mining equipment and improved safety analytics are shaping the field. This sector's KSA repository is organized into two cluster subdirectories: `minerals/` (covering hard-rock, surface, and underground mining) and `oil_gas/` (covering drilling, production, and well operations).
 
 ## Sub-domains
 
@@ -12,19 +12,43 @@
 
 **Horizon Key:** Almost all competencies here are `core` – current standard practices. Some high-tech aspects (like fully autonomous mining operations) might be considered `emerging`, but core safety and extraction skills remain central.
 
-## KSA Inventory
+## KSA Inventory (26)
 
-- **geological_surveying** – *Geological Surveying & Exploration* (core) – Conducts geological analysis to locate and assess mineral deposits.
-- **mine_planning** – *Mine Planning & Design* (core) – Plans the mine layout and schedules extraction, balancing efficiency and safety.
-- **surface_mining_operations** – *Surface Mining Operations* (core) – Extracts resources via surface methods (open-pit, strip mining) and manages related equipment and earthworks.
-- **underground_mining_methods** – *Underground Mining Methods* (core) – Extracts resources via subsurface methods (shaft & tunnel operations), including ground support and ventilation.
-- **mining_equipment_maintenance** – *Mining Equipment Maintenance* (core) – Maintains drills, loaders, trucks, and other heavy equipment for continuous, safe operation.
-- **mine_safety_protocols** – *Mine Safety Protocols* (core) – Implements safety procedures (e.g. proper PPE usage, hazard inspections, emergency response drills) in compliance with MSHA regulations.
-- **blasting_techniques** – *Blasting Techniques* (core) – Uses controlled explosives safely for rock breakage, understands blast design and vibration control.
-- **mine_automation** – *Mining Automation Systems* (emerging) – Operates or oversees autonomous or remotely controlled mining equipment for improved safety and efficiency.
-- **site_rehabilitation** – *Mine Site Rehabilitation & Closure* (core) – Restores mined land, seals mines, treats water/soil, and ensures environmental compliance post-mining. *(New)*
-- **environmental_monitoring** – *Environmental Monitoring in Mining* (core) – Monitors air, water, and soil quality around mining operations; implements pollution controls (often paired with Reclamation).
-*(plus other KSAs covering mineral processing, logistics of ore transport, etc.)*
+### minerals/ (12)
+
+| ID | Label | Horizon |
+|----|-------|---------|
+| geological_surveying | Geological Surveying | core |
+| mine_planning_design | Mine Planning & Design | core |
+| surface_mining_operations | Surface Mining Operations | core |
+| underground_mining_methods | Underground Mining Methods | core |
+| blasting_techniques | Blasting Techniques | core |
+| mine_automation | Mine Automation | emerging |
+| automated_mining_systems | Automated & Remote Mining Systems | emerging |
+| mining_equipment_maintenance | Mining Equipment Maintenance | core |
+| mine_safety_protocols | Mine Safety Protocols | core |
+| mining_safety_techniques | Advanced Mine Safety & Monitoring | core |
+| environmental_monitoring_mining | Environmental Monitoring (Mining) | core |
+| site_rehabilitation_closure | Site Rehabilitation & Closure | core |
+
+### oil_gas/ (14)
+
+| ID | Label | Horizon |
+|----|-------|---------|
+| seismic_acquisition_quality_control | Seismic Data-Acquisition Quality Control | core |
+| oil_gas_drilling | Oil & Gas Drilling Operations | core |
+| drilling_well_control | Drilling Operations Well Control | core |
+| well_completion_design | Completions Fluid & Equipment Design | core |
+| well_integrity_lifecycle_assurance | Well-Integrity Lifecycle Assurance | core |
+| reservoir_simulation_history_matching | Reservoir Simulation & History Matching | core |
+| artificial_lift_optimization | Artificial Lift System Optimization | core |
+| refinery_process_operations | Refinery Process-Operator Competencies | core |
+| api_tank_pipeline_inspection | API Tank & Pipeline Inspection Compliance | core |
+| lng_cargo_handling_operations | LNG Terminal Cargo-Handling Operations | core |
+| methane_leak_detection_repair | Methane Leak Detection & Repair (LDAR) | core |
+| pipeline_emergency_response | Pipeline Operations Emergency Response | core |
+| safety_env_management_systems | Safety & Environmental Management Systems (SEMS) | core |
+| facility_decommissioning_planning | Facility Decommissioning Planning | core |
 
 ## Referenced Frameworks & Standards
 
@@ -36,3 +60,25 @@
 - **API 653 – Tank Inspection, Repair & Reconstruction:** Provides minimum fitness-for-service criteria used in the API Tank & Pipeline Inspection Compliance KSA. 
 - **ISO 16530-1 – Well-Integrity Life-Cycle Governance:** Grounds the Well-Integrity Life-Cycle Assurance KSA, detailing barrier management from design through abandonment. 
 - **SIGTTO LNG Cargo-Handling Competency Standards:** Supply operational and safety benchmarks for the LNG Terminal Cargo-Handling Operations KSA.
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

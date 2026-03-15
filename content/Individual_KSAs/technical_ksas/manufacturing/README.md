@@ -8,24 +8,32 @@
 - **Smart Factory & Automation:** Integration of digital tech and automation. *Examples:* *Industrial Robotics Operation*, *IIoT Systems Integration*, *Real-Time Production Monitoring*.
 - **Quality & Continuous Improvement:** Ensuring product quality and process efficiency. *Examples:* *Quality Control Systems (OEE, Six Sigma)*, *Continuous Improvement (Lean/Six Sigma)*, *Equipment Maintenance & TPM (Total Productive Maintenance)*.
 - **Supply Chain & Production Planning:** Coordinating manufacturing with supply and demand. *Examples:* *Production Scheduling & ERP*, *Inventory/Materials Management (JIT)*, *Supply Chain Integration*.
+- **Smart & Digital Manufacturing (`smart_digital/`):** Industry 4.0, robotics, IoT-driven maintenance, and additive construction. *Examples:* *CNC Machine Operation*, *Industrial Robotics Operation & Safety*, *Collaborative Robotics Operations*, *Predictive Maintenance & IoT*, *Industry 4.0 & Smart Manufacturing*, *Construction 3-D Printing Basics*.
 - **Emerging Manufacturing Tech:** New methods and trends. *Examples:* *Additive Manufacturing Design*, *Advanced Materials Processing (composites, nanomaterials)*, *Green Manufacturing (energy-efficient processes)*.
 
 **Horizon Key:** Most listed skills are `core` (today’s manufacturing practices). Some cutting-edge ones like nanomanufacturing or fully AI-driven production might be `emerging`, tagged as such if included. Generally, manufacturing quickly adopts new tech, so many innovations (IIoT, 3D printing) are already core in advanced facilities.
 
 ## KSA Inventory
 
-- **cnc_machine_operation** – *CNC Machine Operation* (core) – Operates computer numerical control (CNC) machines; interprets G-code and sets up mills/lathes to fabricate parts to specifications.
-- **industrial_welding_techniques** – *Industrial Welding Techniques* (core) – Performs MIG/TIG/arc welding, understands metallurgy basics and safety in welding processes.
-- **industrial_robotics_operation** – *Industrial Robotics Operation* (core) – Programs and operates robotic arms on the production line; troubleshoots basic robot issues.
-- **iiot_systems_integration** – *IIoT Systems Integration* (core) – Integrates Industrial Internet of Things sensors/devices to collect real-time production data; works with PLCs and networked machines.
-- **cloud_manufacturing_data** – *Manufacturing Data Analytics* (core) – Analyzes production data (from MES, SCADA) to identify trends, anomalies; uses dashboards for OEE (Overall Equipment Effectiveness) tracking.
-- **predictive_maintenance** – *Predictive Maintenance & CMMS* (core) – Uses sensor data and Computerized Maintenance Management Systems (CMMS) to predict equipment failures (vibration analysis, etc.) and schedule maintenance proactively.
-- **quality_control_sixsigma** – *Quality Control & Six Sigma* (core) – Implements quality checks, SPC (Statistical Process Control); uses Six Sigma tools (DMAIC) to reduce defects.
-- **continuous_improvement_lean_sixsigma** – *Continuous Improvement (Lean/Six Sigma)* (core) – Eliminates waste and improves processes using Lean principles and Six Sigma techniques. *(New)*
-- **additive_manufacturing** – *Additive Manufacturing (3D Printing)* (core) – Operates 3D printers (metal/polymer) for prototyping or production; understands design for additive manufacturing.
-- **supply_chain_production_planning** – *Supply Chain & Production Planning* (core) – Plans production schedules in coordination with inventory and supply chain for just-in-time efficiency. *(New)*
-- **manufacturing_safety_standards** – *Manufacturing Safety & Ergonomics* (core) – Enforces shop floor safety (machine guarding, OSHA standards) and ergonomic best practices for workers (lifting techniques, repetitive motion reduction).
-- **environmental_sustainable_mfg** – *Sustainable Manufacturing Practices* (emerging) – Implements energy-efficient processes, waste reduction (reuse/recycle materials) and compliance with environmental regulations in manufacturing.
+- **cnc_machine_operation** – *CNC Machine Operation* (core) – Sets up, programs, and operates CNC lathes, mills, or multi-axis machining centers in accordance with ISO 230 test codes and NIMS credential standards.
+- **welding_processes_mastery** – *Welding Processes Mastery* (core) – Executes SMAW, GMAW, FCAW, and GTAW in accordance with AWS D1.1 structural code, ensuring proper joint preparation, parameters, and inspection.
+- **industrial_robotics_operation_safety** – *Industrial Robotics Operation & Safety* (core) – Programs, operates, and maintains industrial robots and cobots in accordance with ISO 10218 and RIA R15.06, integrating safety zones, light curtains, and speed-and-separation monitoring.
+- **industry_4_0_smart_manufacturing** – *Industry 4.0 & Smart Manufacturing* (emerging) – Deploys cyber-physical systems, IIoT, advanced analytics, and digital twins to enable real-time, adaptive manufacturing in line with Industry 4.0 frameworks.
+- **predictive_maintenance_condition_monitoring** – *Predictive Maintenance & Condition Monitoring* (core) – Utilises vibration analysis, oil particle counting, infrared thermography, and machine-learning models to predict failures and schedule just-in-time maintenance interventions.
+- **predictive_maintenance_iot** – *Predictive Maintenance & IoT* (core) – Uses IoT sensors and data analytics for predictive maintenance of manufacturing equipment; monitors machine health indicators via IIoT platforms to predict failures and minimize downtime.
+- **six_sigma_process_improvement** – *Six Sigma Process Improvement* (core) – Utilises the DMAIC methodology and statistical tools—control charts, capability indices, hypothesis testing—to reduce process variation and defects.
+- **lean_manufacturing_methods** – *Lean Manufacturing Methods* (core) – Applies the five Lean principles to eliminate waste (muda) and improve throughput in production systems.
+- **additive_manufacturing_technologies** – *Additive Manufacturing Technologies* (core) – Utilises Powder Bed Fusion, Material Extrusion, and Directed Energy Deposition processes, adhering to ASTM F42 standards for material qualification and part inspection.
+- **production_planning_scheduling** – *Production Planning & Scheduling* (core) – Uses MRP, Advanced Planning & Scheduling, and MES tools to balance capacity, inventory, and customer demand.
+- **occupational_safety_osha1910** – *Occupational Safety & Health – OSHA 29 CFR 1910* (core) – Implements OSHA 29 CFR 1910 General Industry standards—machine guarding, lock-out/tag-out, hazard communication, and ergonomics—to protect workers and ensure regulatory compliance.
+- **environmental_compliance_iso14001** – *Environmental Compliance – ISO 14001* (core) – Establishes, implements, and audits an Environmental Management System aligned with ISO 14001:2015, covering legal compliance, life-cycle perspective, and continuous improvement.
+- **material_properties_knowledge** – *Material Properties & Selection* (core) – Selects materials based on mechanical, thermal, and chemical properties; applies metallurgy and materials-science principles to manufacturing decisions.
+- **total_productive_maintenance** – *Total Productive Maintenance (TPM)* (core) – Implements TPM pillars to maximise equipment effectiveness, reduce breakdowns, and engage operators in autonomous maintenance routines.
+- **supply_chain_manufacturing_logistics** – *Supply Chain & Manufacturing Logistics* (core) – Coordinates inbound and outbound logistics, warehousing, and transportation to keep production lines supplied and finished goods delivered on time.
+- **quality_assurance_precision_measurement** – *Quality Assurance & Precision Measurement* (core) – Applies metrology instruments and GD&T standards to verify dimensional accuracy and ensure parts meet engineering specifications.
+- **quality_management_iso9001** – *Quality Management System (QMS) – ISO 9001* (core) – Implements and maintains a quality management system aligned with ISO 9001 requirements, including internal audits and corrective actions.
+- **collaborative_robotics_operations** – *Collaborative Robotics Operations* (emerging) – Operates and monitors collaborative robots (cobots) on the factory floor; programs simple robot tasks and ensures safe human-robot interaction per ISO standards.
+- **construction_3d_printing_basics** – *Construction 3-D Printing Basics* (emerging) – Operates large-scale concrete or polymer extrusion systems for on-site additive construction in accordance with ISO/ASTM 52939 quality-assurance requirements.
 
 ## Referenced Frameworks & Standards
 
@@ -53,3 +61,25 @@
 | Digital Twin Operations | Real-time virtual modeling of physical processes |
 
 _Last updated: February 2026_
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

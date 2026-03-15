@@ -1,31 +1,45 @@
 # Energy & Utilities
 
-**Sector Overview:** This sector covers the generation, transmission, and distribution of electrical power and utilities (electricity, and in some contexts gas and water). The industry is undergoing transformation with smart grids, renewable energy integration, and heightened cybersecurity needs. Core competencies range from operating power plants (coal, gas, nuclear, hydro) and maintaining grid infrastructure, to integrating solar/wind energy and managing energy markets. Utility professionals must also ensure reliability (keeping lights on 24/7) and compliance with strict regulatory standards. This sector overlaps slightly with Environmental/Energy Advanced technologies (which focus on cutting-edge sustainable tech), but here we emphasize conventional utilities and their modernization.
+**Sector Overview:** This sector covers the generation, transmission, and distribution of electrical power and utilities (electricity, gas, and water utilities). The industry is undergoing transformation with smart grids, renewable energy integration, and heightened cybersecurity needs. Core competencies range from operating power plants (coal, gas, nuclear, hydro) and maintaining grid infrastructure, to integrating solar/wind energy and managing energy markets. Utility professionals must also ensure reliability (keeping lights on 24/7) and compliance with strict regulatory standards. This sector overlaps slightly with Environmental/Energy Advanced technologies (which focus on cutting-edge sustainable tech), but here we emphasize conventional utilities and their modernization.
 
 ## Sub-domains
 
-- **Generation Operations:** Running power generation facilities (fossil, hydro, nuclear). *Examples:* *Thermal Plant Operations*, *Nuclear Energy Operations & Safety*, *Renewable Plant Operations (e.g. wind farm management)*.
-- **Transmission & Distribution (T&D):** Managing high-voltage transmission lines and local distribution networks. *Examples:* *Grid Infrastructure Maintenance*, *Load Balancing & SCADA Control*, *Outage Management*.
-- **Grid Integration & Modernization:** Incorporating new tech and renewables into the grid. *Examples:* *Renewable Integration in Grid*, *Smart Grid Technologies*, *Energy Storage Management*.
-- **Utility Markets & Trading:** Handling energy markets, trading, and demand forecasting. *Examples:* *Energy Trading & Scheduling*, *Demand Response Management*.
-- **Regulatory Compliance & Safety:** Following industry standards for reliability and safety. *Examples:* *NERC Reliability Standards Compliance*, *Utility Safety & SHE Management*, *Regulatory Reporting (PUC/FERC requirements)*.
-- **Cybersecurity for Utilities:** Protecting critical infrastructure (often overlaps with cybersecurity sector). *Examples:* *SCADA/OT Cybersecurity*, *Grid Incident Response*.
+- **Analytics & Research:** Data analytics and AI applied to energy systems. *Examples:* *Energy Data Analytics*.
+- **Demand-Side Management:** Energy efficiency programmes and load management. *Examples:* *Demand-Side Management & Energy Efficiency*.
+- **Energy Storage:** Grid-scale battery and storage technologies. *Examples:* *Battery Energy-Storage Operations*.
+- **Environmental:** Emissions management and greenhouse-gas reporting. *Examples:* *Environmental & Emissions Management*, *Greenhouse-Gas Reporting & Compliance*.
+- **Grid Operations:** Transmission, distribution, smart-grid, DER, and cybersecurity. *Examples:* *Transmission & Distribution Grid Operations*, *Smart Grid Operations & Demand Response*, *Renewable Integration in Grid*, *Distributed Energy-Resource (DER) Management*, *Energy Infrastructure Cybersecurity*.
+- **Hydrogen:** Hydrogen production and storage safety. *Examples:* *Low-Carbon Hydrogen Production Operations*, *Hydrogen Storage & Safety*.
+- **Markets:** Energy trading and utility financial strategy. *Examples:* *Energy-Market Operations & Trading*, *Utility Financial & Regulatory Strategy*.
+- **Nuclear:** Nuclear generation operations and safety. *Examples:* *Nuclear Energy Operations & Safety*.
+- **Power Generation:** Thermal and renewable plant operations. *Examples:* *Thermal Power-Plant Operations*, *Wind & Solar Plant Operations*.
+- **Safety & Regulatory:** SHE compliance and utility regulatory compliance. *Examples:* *Safety, Health & Environment (SHE) Compliance*, *Utility Regulatory Compliance*.
 
 **Horizon Key:** Predominantly `core` for traditional skills (plant ops, grid maintenance). `Emerging` tags apply to newer aspects like high renewable integration, advanced smart grids, or novel energy storage solutions that are still being scaled up.
 
 ## KSA Inventory
 
-- **power_plant_operations** – *Power Plant Operations* (core) – Operates conventional power generation units (coal/gas turbines, hydroelectric generators) and monitors outputs.
-- **grid_monitoring_scada** – *Grid Monitoring & SCADA Control* (core) – Uses SCADA systems to monitor and control grid parameters, substations, and load dispatch.
-- **utility_system_protection** – *Utility System Protection* (core) – Implements protective relays and systems to prevent grid damage (e.g., fault detection, isolation).
-- **renewable_integration_grid** – *Renewable Integration in Grid* (emerging) – Incorporates solar/wind power into grid operations, using storage and demand-response to maintain stability. *(New)*
-- **energy_storage_management** – *Energy Storage Management* (emerging) – Operates batteries or other storage to balance load and store excess renewable energy.
-- **nuclear_energy_operations** – *Nuclear Energy Operations & Safety* (core) – Runs nuclear reactors and adheres to strict safety protocols. *(New)*
-- **td_infrastructure_maintenance** – *T&D Infrastructure Maintenance* (core) – Maintains transformers, transmission lines, and distribution networks; handles line work and outage restoration.
-- **energy_trading_markets** – *Energy Trading & Markets* (core) – Manages utility participation in electricity markets (day-ahead trading, demand forecasting, hedging fuel contracts).
-- **utility_cybersecurity** – *Utility SCADA Cybersecurity* (core) – Protects energy control systems from cyber threats (aligns with NICE energy sector cyber skills).
-- **utility_regulatory_compliance** – *Utility Regulatory Compliance* (core) – Ensures operations meet regulatory standards (NERC reliability standards, environmental emissions, etc.) and handles reporting to authorities.
-*(Additional KSAs for oil/gas specifics could be integrated here or in separate sectors; currently primary focus is electric utilities.)*
+| ID                                       | Label                                              | Horizon   |
+|------------------------------------------|-----------------------------------------------------|-----------|
+| energy_data_analytics                    | Energy Data Analytics                               | core      |
+| demand_side_management_energy_efficiency | Demand-Side Management & Energy Efficiency           | core      |
+| battery_energy_storage_operations        | Battery Energy-Storage Operations                    | core      |
+| environmental_emissions_management       | Environmental & Emissions Management                 | core      |
+| greenhouse_gas_reporting_compliance      | Greenhouse-Gas Reporting & Compliance                | core      |
+| distributed_energy_resource_management   | Distributed Energy-Resource (DER) Management         | core      |
+| grid_cybersecurity                       | Energy Infrastructure Cybersecurity                  | emerging  |
+| renewable_grid_integration               | Renewable Integration in Grid                        | core      |
+| smart_grid_operations                    | Smart Grid Operations & Demand Response              | core      |
+| transmission_distribution_operations     | Transmission & Distribution Grid Operations          | core      |
+| hydrogen_storage_safety                  | Hydrogen Storage & Safety                            | emerging  |
+| energy_market_operations_trading         | Energy-Market Operations & Trading                   | core      |
+| utility_financial_regulatory_strategy    | Utility Financial & Regulatory Strategy              | core      |
+| nuclear_energy_operations                | Nuclear Energy Operations & Safety                   | core      |
+| hydrogen_production_operations           | Low-Carbon Hydrogen Production Operations            | emerging  |
+| renewable_plant_operations               | Wind & Solar Plant Operations                        | core      |
+| thermal_power_plant_operations           | Thermal Power-Plant Operations                       | core      |
+| safety_health_environment_compliance     | Safety, Health & Environment (SHE) Compliance        | core      |
+| utility_regulatory_compliance            | Utility Regulatory Compliance                        | core      |
 
 ## Referenced Frameworks & Standards
 
@@ -40,3 +54,25 @@
 - **IEC 62933 Electrical-Energy Storage Safety:** Provides mandatory design and operations criteria for grid-scale battery systems, referenced in Battery Energy-Storage Operations. 
 - **IEEE 1547-2018 DER Interconnection Standard:** Sets voltage-ride-through, protection, and control requirements for rooftop PV, batteries, and EV chargers—fundamental to DER Management and Renewable Grid Integration. 
 - **ISO 19880-1 Hydrogen Fuel-Station Safety:** Informs both Low-Carbon Hydrogen Production Operations and the new Hydrogen Production & Storage Safety KSA, covering layout, leak detection, and ventilation.
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

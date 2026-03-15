@@ -47,7 +47,7 @@ Artificial-intelligence adoption and data volumes continue to surge: the NIST AI
 | quantum_computing_fundamentals             | Quantum Computing Fundamentals                      | watch_2030   |
 | quantum_error_correction_engineering       | Quantum Error-Correction Engineering                | watch_2030   |
 | quantum_algorithm_design                   | Quantum Algorithm Design                            | watch_2030   |
-| quantum_networking_protocols               | Quantum Networking Protocols     
+| quantum_networking_protocols               | Quantum Networking Protocols                        | watch_2030   |
 | neuro_symbolic_ai_pipeline_engineering     | Neuro-Symbolic AI Pipeline Engineering              | emerging   |
 | distributed_quantum_cloud_orchestration    | Distributed Quantum-Cloud Orchestration for Hybrid Workloads | watch_2030 |
 
@@ -91,3 +91,24 @@ Artificial-intelligence adoption and data volumes continue to surge: the NIST AI
 > *All sources cited for conceptual alignment. No proprietary text copied.*
 
 _Last updated: 11 Oct 2025_
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

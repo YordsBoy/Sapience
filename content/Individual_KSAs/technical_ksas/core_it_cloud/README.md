@@ -18,6 +18,7 @@ On the technology front, **Kubernetes powers >80 % of new cloud-native workloads
 | **GV** | Governance & Residency           | Cloud-Data Governance & Residency                             |
 | **NW** | Networking Fundamentals          | Network Basics                                                |
 | **SC** | Security & Confidential Compute  | Cloud Security Architecture · Confidential-Computing Services |
+| **FD** | Fundamentals                     | Cybersecurity Fundamentals · Programming Fundamentals · Version Control |
 | **SA** | System Administration & Helpdesk | System Admin · IT Support & Helpdesk Ops                      |
 
 ## Horizon Key  
@@ -51,6 +52,9 @@ On the technology front, **Kubernetes powers >80 % of new cloud-native workloads
 | confidential_computing_services       | Confidential-Computing Services                           | emerging  |
 | it_support_helpdesk_operations        | IT Support & Helpdesk Operations                          | core      |
 | system_admin                          | System Administration                                     | core      |
+| cybersecurity_fundamentals            | Cybersecurity Fundamentals                                | perennial |
+| programming_fundamentals              | Programming Fundamentals                                  | core      |
+| version_control                       | Version Control & Collaboration                           | core      |
 
 ## Referenced Frameworks & Standards  
 
@@ -86,3 +90,24 @@ On the technology front, **Kubernetes powers >80 % of new cloud-native workloads
 > *All sources cited for conceptual alignment. No proprietary text copied.*
 
 _Last updated: 17 Oct 2025_
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

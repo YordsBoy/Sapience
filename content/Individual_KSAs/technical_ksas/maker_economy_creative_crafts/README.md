@@ -18,8 +18,8 @@ Independent makers now power a **$100 B+ global market**, propelled by low-cost 
 | **core** | Essential today |
 | **emerging**  | Scaling within 2–4 years |
 
-## KSA inventory (22)
-Additive_Manufacturing_Basics_Safety · Community_Workshop_Facilitation · Craft_Entrepreneurship_Market_Strategy · Craft_Fair_Event_Management · Craft_Quality_Control · Creative_Concept_Prototyping · Custom_Order_Management · Digital_Fabrication_Basics · Emarketplace_Listing_Optimization · Hand_Tool_Mastery · Maker_Digital_Fabrication · Maker_Electronics_IoT_Prototyping · Maker_Space_Equipment_Maintenance · Online_Craft_Commerce · Product_Pricing_Strategy · Storytelling_Branding_for_Crafts · Sustainable_Material_Sourcing · Open_Source_Hardware_Compliance · Crowdfunding_Maker_Venture_Financing · Lifecycle_Assessment_Sustainable_Product · Circular_Design_Material_Efficiency · Local_Micro_Manufacturing_Networks
+## KSA inventory (25)
+Additive_Manufacturing_Basics_Safety · Community_Workshop_Facilitation · Craft_Entrepreneurship_Market_Strategy · Craft_Fair_Event_Management · Craft_Quality_Control · Creative_Concept_Prototyping · Custom_Order_Management · Digital_Fabrication_Basics · Emarketplace_Listing_Optimization · Hand_Tool_Mastery · Maker_Digital_Fabrication · Maker_Digital_Fabrication_Advanced · Maker_Electronics_IoT_Prototyping · Maker_Space_Equipment_Maintenance · Maker_Health_Safety_Guidelines · Online_Craft_Commerce · Product_Pricing_Strategy · Storytelling_Branding_for_Crafts · Sustainable_Material_Sourcing · Open_Source_Hardware_Compliance · Crowdfunding_Maker_Venture_Financing · Lifecycle_Assessment_Sustainable_Product · Circular_Design_Material_Efficiency · Climate_Resilient_Supply_Chain_Makers · Local_Micro_Manufacturing_Networks
 
 ## Future gaps to monitor
 * **Augmented-Reality (AR) Product Visualization**  
@@ -37,3 +37,25 @@ Additive_Manufacturing_Basics_Safety · Community_Workshop_Facilitation · Craft
 - **W3C Web Accessibility (for e-commerce listings)** – inclusive design reference.  
 
 > *All sources used for conceptual alignment; no proprietary text included.*
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

@@ -4,29 +4,45 @@
 
 ## Sub-domains
 
-- **Store Operations & Sales:** Day-to-day running of stores and direct sales. *Examples:* *Customer Service & Sales Techniques*, *Cash Handling & POS Operation*, *Visual Merchandising*.
-- **E-Commerce & Omnichannel:** Online retail operations and integrating multiple sales channels. *Examples:* *Omnichannel E-Commerce Strategies*, *Online Customer Experience Management*, *Digital Marketing for Retail*.
-- **Merchandising & Buying:** Product assortment, display, and procurement. *Examples:* *Merchandising Planning*, *Product Display & Visual Merchandising*, *Vendor Negotiation & Buying (Wholesale)*.
-- **Inventory & Supply Chain:** Managing stock and fulfillment. *Examples:* *Inventory Control & Analytics*, *Warehouse/Distribution Center Operations*, *Order Fulfillment & Logistics Coordination*.
-- **Customer Engagement & Loyalty:** Building customer relationships and brand experience. *Examples:* *Customer Experience Management*, *CRM Utilization*, *Loyalty Program Management*.
+- **Analytics:** Retail data analytics, insight generation, and media-network monetization. *Examples:* *Retail Data Analytics & Insight*, *Retail Data-Driven Decision Making*, *Retail Media Network Monetization*.
+- **Compliance & Security:** Data privacy, payment security, occupational safety, and supply-chain security across retail and wholesale trade. *Examples:* *Data Privacy & Consumer Trust (CCPA/GDPR)*, *Payment Security -- PCI DSS 4.0*, *Occupational Safety -- Retail (OSHA 1910)*, *Supply-Chain Security -- ISO 28000*.
+- **E-Commerce & Digital:** Online platforms, omnichannel integration, product information management, and unified commerce. *Examples:* *E-Commerce Platform Management*, *Omnichannel Retail Operations*, *Unified Commerce Platform Architecture*, *Product Information Management & Digital Shelf*, *GS1 Barcode & RFID Standards*, *Customer Experience (CX) Design & Personalization*.
+- **Merchandising & Buying:** Product assortment planning, lifecycle management, and wholesale vendor negotiation. *Examples:* *Merchandising Planning & Assortment*, *Product Lifecycle Management (PLM)*, *Wholesale Negotiation & Vendor Management*.
+- **Omnichannel Operations:** Inventory optimisation, demand forecasting, order fulfillment, warehousing, and reverse logistics for retail and wholesale distribution. *Examples:* *Inventory Management Optimization*, *Demand Forecasting & Replenishment*, *Omnichannel Order Fulfillment & OMS Orchestration*, *Warehousing & Distribution Operations*, *Reverse Logistics & Returns Optimization*.
+- **Store Operations:** In-store technology, IoT, and loss-prevention systems. *Examples:* *Store Edge IoT & Computer-Vision Loss Prevention*.
+- **Sustainability:** Circular economy and sustainable sourcing practices. *Examples:* *Sustainable & Circular Retail Sourcing*.
+- **Workforce Management:** Scheduling, labour-planning, and gig-workforce management for retail and wholesale operations. *Examples:* *Workforce Scheduling & Gig Retail Management*.
 
 **Horizon Key:** Predominantly `core`, as most retail skills are current. Digital retail competencies (e.g., advanced data analytics for personalization, AR/VR shopping experiences) could be `emerging` if included, but foundational omnichannel skills are mainstream now.
 
 ## KSA Inventory
 
-- **customer_service_basics** – *Customer Service Basics* (core) – Greets customers, handles inquiries and complaints politely, ensures positive shopping experience.
-- **sales_techniques** – *Sales Techniques & Upselling* (core) – Identifies customer needs, recommends products, and uses upselling/cross-selling strategies to increase sales.
-- **point_of_sale_operations** – *Point-of-Sale (POS) Operations* (core) – Processes transactions using POS system, handles cash/card payments, returns, and discounts accurately.
-- **visual_merchandising** – *Visual Merchandising* (core) – Arranges store displays and layouts to attract customers and highlight key products; rotates merchandise and signage for promotions.
-- **crm_customer_loyalty** – *Customer Loyalty & CRM* (core) – Utilizes a CRM system to record customer preferences and purchase history; executes loyalty programs and personalized offers.
-- **omnichannel_ecommerce** – *Omnichannel E-Commerce Strategies* (core) – Integrates online and in-store sales channels for a seamless customer experience. *(New)*
-- **digital_marketing_retail** – *Digital Marketing for Retail* (core) – Uses social media, email, and online ads to drive traffic to stores and websites; coordinates with marketing team for consistent campaigns.
-- **inventory_control_analytics** – *Inventory Control & Analytics* (core) – Tracks and optimizes stock levels using software and data analysis (e.g. RFID, POS data). *(New)*
-- **order_fulfillment_bopis** – *Order Fulfillment & Logistics (Retail)* (core) – Manages order fulfillment processes including BOPIS (buy online, pickup in store) and ship-from-store; liaises with couriers or distribution centers for timely delivery.
-- **wholesale_account_management** – *Wholesale Account Management* (core) – (Wholesale focus) Maintains B2B client relationships, manages bulk orders, negotiates pricing and delivery schedules for retail partners.
-- **customer_experience_mgmt** – *Customer Experience Management* (core) – Designs and implements strategies to enhance overall shopper experience (in-store hospitality, experiential retail events, responsiveness online).
-- **retail_data_analysis** – *Retail Data Analysis* (emerging) – Analyzes sales, foot traffic, and customer data to inform merchandising and marketing decisions (e.g. using analytics to tailor product assortment by location).
-*(...)*
+| ID                                          | Label                                                    | Horizon   |
+|---------------------------------------------|----------------------------------------------------------|-----------|
+| retail_data_analytics_insight               | Retail Data Analytics & Insight                          | core      |
+| retail_data_driven_decisionmaking           | Retail Data-Driven Decision Making                       | core      |
+| retail_media_network_monetization           | Retail Media Network Monetization                        | emerging  |
+| data_privacy_consumer_trust                 | Data Privacy & Consumer Trust (CCPA/GDPR)                | core      |
+| occupational_safety_retail_osha1910         | Occupational Safety -- Retail (OSHA 1910)                | core      |
+| payment_security_pci_dss                    | Payment Security -- PCI DSS 4.0                          | core      |
+| supply_chain_security_iso28000              | Supply-Chain Security -- ISO 28000                       | core      |
+| customer_experience_design                  | Customer Experience (CX) Design & Personalization        | core      |
+| ecommerce_platform_management              | E-Commerce Platform Management                           | core      |
+| gs1_barcode_rfid_standards                  | GS1 Barcode & RFID Standards                            | core      |
+| omnichannel_retail_management               | Omnichannel Retail Operations                            | core      |
+| product_information_management_digital_shelf| Product Information Management & Digital Shelf           | core      |
+| unified_commerce_platform_architecture      | Unified Commerce Platform Architecture                   | emerging  |
+| merchandising_planning_assortment           | Merchandising Planning & Assortment                      | core      |
+| product_lifecycle_management                | Product Lifecycle Management (PLM)                       | core      |
+| wholesale_negotiation_vendor_management     | Wholesale Negotiation & Vendor Management                | core      |
+| demand_forecasting_replenishment            | Demand Forecasting & Replenishment                       | core      |
+| inventory_management_optimization           | Inventory Management Optimization                        | core      |
+| omnichannel_order_fulfillment               | Omnichannel Order Fulfillment & OMS Orchestration        | core      |
+| reverse_logistics_returns_optimization      | Reverse Logistics & Returns Optimization                 | core      |
+| warehousing_distribution_operations         | Warehousing & Distribution Operations                    | core      |
+| store_edge_iot_loss_prevention              | Store Edge IoT & Computer-Vision Loss Prevention         | emerging  |
+| sustainable_circular_retail_sourcing        | Sustainable & Circular Retail Sourcing                   | core      |
+| workforce_scheduling_gig_management         | Workforce Scheduling & Gig Retail Management             | core      |
 
 ## Referenced Frameworks & Standards
 
@@ -41,3 +57,25 @@
 - **CCPA / GDPR:** consumer-privacy regulations informing data-privacy KSA 
 - **Sedex Circular-Economy Toolkit:** guides sustainable sourcing 
 - **Forbes & Deloitte Retail Media Network reports:** standards for RMN monetization
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

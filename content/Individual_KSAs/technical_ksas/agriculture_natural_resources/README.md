@@ -7,9 +7,12 @@
 | Code | Sub-Domain           | Example KSAs                                                               |
 |------|----------------------|----------------------------------------------------------------------------|
 | **CS** | Crop Science & Production   | Soil Health Analysis · Crop Disease Management                    |
-| **LA** | Livestock, Aquaculture & Cell Agriculture    | Smart Livestock Farming · Sustainable Aquaculture|
+| **LA** | Livestock, Aquaculture & Cell Agriculture    | Smart Livestock Farming · Sustainable Aquaculture |
 | **AT** | Agri-Tech & Analytics  | Precision Agriculture Technologies · Agricultural Data Analytics       |
-| **NR** | Natural Resources & Sustainability  | Climate-Resilient Farming                                 |
+| **FN** | Farm Finance            | Farm Financial Planning & Analysis                                     |
+| **SF** | Safety & Compliance     | Farm Safety & Regulatory Compliance                                    |
+| **SC** | Supply Chain & Logistics| Agricultural Supply-Chain Logistics                                    |
+| **SU** | Sustainability & Ecology| Climate-Resilient Farming · Agroecology Principles                     |
 
 ## Horizon Key  
 
@@ -21,7 +24,7 @@
 ## KSA Inventory  
 
 | ID                                   | Label                                                            | Horizon   |
-|------------------------------------------------------------------------------------------------------|-----------|
+|--------------------------------------|------------------------------------------------------------------|-----------|
 | soil_health_analysis                 | Soil Health Analysis                                 | core      |
 | crop_disease_management              | Crop Disease Management                              | core      |
 | irrigation_technology                | Smart Irrigation Technology                          | core      |
@@ -37,7 +40,8 @@
 | agricultural_supply_chain_logistics  | Agricultural Supply-Chain Logistics                  | core      |
 | farm_financial_planning_analysis     | Farm Financial Planning & Analysis                   | core      |
 | farm_safety_regulatory_compliance    | Farm Safety & Regulatory Compliance                  | core      |
-| sustainable_forestry_practices (planned) | Sustainable Forestry Practices (planned)       | core      |
+| agricultural_robotics_maintenance    | Agricultural Robotics Maintenance                    | emerging  |
+| agroecology_principles               | Agroecology Principles                               | core      |
 
 
 ## Referenced Frameworks & Standards
@@ -61,3 +65,26 @@
 | **Farm Carbon-Credit Market Operations** | Administrators will need skills to verify, bundle, and trade soil-carbon offsets on digital MRV platforms. |
 | **Autonomous Vertical-Farming Robotics** | Multi-axis robots managing seeding, harvesting, and micro-climate control in warehouse farms. |
 | **Ag-Data Trusts & Sovereign Farmer Data** | Frameworks for secure sharing and monetisation of farm telemetry while preserving producer privacy. |
+| **sustainable_forestry_practices** | KSA development pending; not yet on disk. |
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

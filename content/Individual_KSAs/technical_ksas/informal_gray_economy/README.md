@@ -22,9 +22,9 @@ Roughly **60 % of the world’s workers** earn their livelihoods in informal or 
 | **core** | Must-have skills today |
 | **emerging**  | Skills maturing in 2–4 years |
 
-## KSA inventory (23)
+## KSA inventory (20)
 
-Barter_Alternative_Currency_Trade · Cash_Based_Accounting · Formalization_Social_Protection_Navigation · Formalization_Basics · Informal_Market_Regulatory_Awareness · Informal_Microenterprise · Informal_Supply_Chain_Resilience · Informal_Work_OSH_Risk_Management · Microenterprise_Bootstrapping · Microtask_Productivity_Quality_Skills · Mobile_Money_Literacy · Pathway_to_Formalization_Strategy · Peer_Network_Trust_Building · Personal_Safety_Risk_Mitigation · Street_Vendor_Operations · Digital_Identity_Inclusion · Micro_Insurance_Risk_Sharing · Circular_Economy_Waste_Picker_Skills · Climate_Resilience_Informal_Livelihoods · Platform_Rights_Advocacy_Microtask · Formalization_Basics · Formalization_Social_Protection_Navigation · Informal_Supply_Chain_Resilience
+Barter_Alternative_Currency_Trade · Cash_Based_Accounting · Formalization_Social_Protection_Navigation · Formalization_Basics · Informal_Market_Regulatory_Awareness · Informal_Microenterprise · Informal_Supply_Chain_Resilience · Informal_Work_OSH_Risk_Management · Microenterprise_Bootstrapping · Microtask_Productivity_Quality_Skills · Mobile_Money_Literacy · Pathway_to_Formalization_Strategy · Peer_Network_Trust_Building · Personal_Safety_Risk_Mitigation · Street_Vendor_Operations · Digital_Identity_Inclusion · Micro_Insurance_Risk_Sharing · Circular_Economy_Waste_Picker_Skills · Climate_Resilience_Informal_Livelihoods · Platform_Rights_Advocacy_Microtask
 
 ## Future gaps
 
@@ -47,3 +47,25 @@ Barter_Alternative_Currency_Trade · Cash_Based_Accounting · Formalization_Soci
 - **World Bank BEE Concept Note** – enabling business environment. 
 
 > *Sources referenced conceptually under fair-use; no proprietary text reproduced.*
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

@@ -1,7 +1,7 @@
 Media Arts & Entertainment
 =========================
 
-From real-time LED-volume shooting to AI-driven localisation, screen content pipelines are transforming at pace. SMPTE ST 2110 IP-video and ST 2098 immersive-audio suites underpin modern production and spatial sound, while Dolby Atmos technical guidelines set room-build standards for next-gen mixes. Netflix’s Production Media Management shows cloud-first post workflows, and Adobe Team Projects plus Frame.io enable secure remote editing. Unity’s Animation Rigging and Unreal Engine’s virtual-production guides shorten iteration cycles. WIPO’s creator-rights initiatives and IAB/IETF streaming specs govern monetisation and distribution. These **18 KSAs** integrate such frameworks so creatives can ideate, produce, finish, and monetise content across platforms.
+From real-time LED-volume shooting to AI-driven localisation, screen content pipelines are transforming at pace. SMPTE ST 2110 IP-video and ST 2098 immersive-audio suites underpin modern production and spatial sound, while Dolby Atmos technical guidelines set room-build standards for next-gen mixes. Netflix’s Production Media Management shows cloud-first post workflows, and Adobe Team Projects plus Frame.io enable secure remote editing. Unity’s Animation Rigging and Unreal Engine’s virtual-production guides shorten iteration cycles. WIPO’s creator-rights initiatives and IAB/IETF streaming specs govern monetisation and distribution. These **21 KSAs** integrate such frameworks so creatives can ideate, produce, finish, and monetise content across platforms.
 
 ### Sub-domain folders
 | Folder | Focus |
@@ -12,6 +12,38 @@ From real-time LED-volume shooting to AI-driven localisation, screen content pip
 | **interactive/** | WebXR & UX for engaging media |
 | **distribution_rights/** | DRM, licensing, AI localisation |
 | **business/** | Budgeting, analytics, marketing & monetization |
+
+## KSA inventory (21)
+
+| ID | Label | Horizon |
+|----|-------|---------|
+| **pre_production_story/** | | |
+| storytelling_fundamentals | Storytelling Fundamentals | core |
+| content_strategy_distribution | Content Strategy & Distribution | core |
+| transmedia_narrative_architecture | Transmedia Narrative Architecture | emerging |
+| **production/** | | |
+| 3d_animation_modeling | 3D Modeling & Animation | core |
+| character_rigging_animation_pipeline | 3D Character Rigging & Animation Pipeline | core |
+| streaming_content_production | Streaming Content Production | emerging |
+| virtual_production_led_volume | Virtual Production & LED Volume Workflow | emerging |
+| **post_production/** | | |
+| video_editing_postproduction | Video Editing & Post-Production | core |
+| digital_audio_production | Digital Audio Production | core |
+| audio_post_production_operations | Professional Audio Post-production Operations | core |
+| immersive_audio_spatial_design | Immersive Audio Spatial Design | emerging |
+| cloud_collaborative_editing_workflows | Cloud Collaborative Editing Workflows | emerging |
+| accessibility_captioning_audio_description | Accessibility Captioning & Audio Description | core |
+| **interactive/** | | |
+| interactive_multimedia_development | Interactive Media Development | emerging |
+| user_experience_design | User-Experience (UX) Design for Media | core |
+| **distribution_rights/** | | |
+| digital_rights_distribution | Digital Rights & Distribution Management | core |
+| rights_licensing_management | Rights & Licensing Management | core |
+| ai_localization_content | AI-Assisted Content Localisation | emerging |
+| **business/** | | |
+| media_project_budgeting_finance | Media Project Budgeting & Financial Management | core |
+| audience_analytics_monetization | Audience Analytics & Monetization Strategy | core |
+| marketing_campaign_management_media | Marketing Campaign Management for Media | emerging |
 
 ### Future gaps
 * **Generative-AI Story Co-Writing Ethics**  
@@ -32,3 +64,25 @@ From real-time LED-volume shooting to AI-driven localisation, screen content pip
 
 ---
 
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**

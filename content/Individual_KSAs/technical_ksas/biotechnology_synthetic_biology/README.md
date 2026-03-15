@@ -40,7 +40,6 @@ Synthetic-biology revenue is projected to reach **USD 18.9 billion by 2025** wit
 | minimal_cell_genome_engineering    | Whole-Genome Engineering & Minimal Cells      | emerging |
 
 ## Referenced Frameworks & Standards
-## Referenced Frameworks & Standards  
 
 - **Grand View Research Synthetic-Biology Market Report (2024) —** Projects global synthetic-biology revenues rising from USD 16.2 billion in 2024 to USD 42 billion by 2030 (≈17 % CAGR), framing sector growth assumptions used across Biodesign and Biomanufacturing KSAs. 
 - **Innovative Genomics Institute CRISPR Clinical-Trials Update (2025) —** Tracks >60 ongoing CRISPR trials, staging and therapeutic areas; informs horizon timing and safety indicators for Gene-Editing and Minimal-Cell KSAs.
@@ -71,3 +70,25 @@ Synthetic-biology revenue is projected to reach **USD 18.9 billion by 2025** wit
 > *All sources cited for conceptual alignment. No proprietary text copied.*
 
 _Last updated: 11 Oct 2025_
+
+## Labor Market Context
+*Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
+
+**BLS Total Employment (current):**
+**BLS 10-Year Projected Growth (% / absolute jobs):**
+**Median Annual Wage:**
+**Top O\*NET SOC Codes and Titles (5–8):**
+**Common Entry-Level Titles:**
+**Common Mid-Career / Senior Titles:**
+**Emerging / watch_2030 Roles:**
+**CSRA Employment Density:**
+**Data Last Verified:**
+
+## Transfer Pathways
+*Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+
+**Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+**Bridging Cluster Tags:**
+**Common Transition Populations:**
+**Typical Entry Roles for Career Changers:**
