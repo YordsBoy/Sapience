@@ -76,6 +76,63 @@
         "type": "array",
         "items": { "type": "string" },
         "uniqueItems": true
+      },
+    "adjacent_sectors": {
+        "type": "array",
+        "items": { "type": "string", "enum": [
+            "agriculture_natural_resources",
+            "mining_extraction",
+            "energy_utilities",
+            "construction_infrastructure",
+            "manufacturing",
+            "wholesale_retail_trade",
+            "transportation_logistics",
+            "core_it_cloud",
+            "ai_data_quantum",
+            "media_arts_entertainment",
+            "telecommunications",
+            "finance_insurance",
+            "real_estate_property",
+            "professional_scientific_services",
+            "administrative_support_services",
+            "education_training",
+            "healthcare_social_assistance",
+            "government_public_admin",
+            "public_safety_security",
+            "nonprofit_ngos",
+            "hospitality_tourism",
+            "arts_recreation_services",
+            "personal_other_services",
+            "skilled_trades",
+            "creative_cultural_industries",
+            "customer_experience_service",
+            "env_energy_advanced",
+            "space_economy_aerospace",
+            "biotechnology_synthetic_biology",
+            "gig_platform_economy",
+            "blockchain_web3",
+            "immersive_media_ar_vr_metaverse",
+            "informal_gray_economy",
+            "unpaid_caregiving_domestic_work",
+            "maker_economy_creative_crafts",
+            "digital_content_creation_creator_economy",
+            "cross_sector"
+        ] },
+        "uniqueItems": true
+      },
+    "transfer_populations": {
+        "type": "array",
+        "items": { "type": "string", "enum": [
+            "military_transition",
+            "healthcare_pivot",
+            "early_career",
+            "mid_career_change",
+            "returning_workforce",
+            "education_to_industry",
+            "veteran_spouse",
+            "career_explorer"
+        ] },
+        "uniqueItems": true
       }
     }
   }

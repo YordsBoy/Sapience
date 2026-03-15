@@ -71,6 +71,8 @@ pages/                         # Next.js API routes and pages
 - `ksa_id` must match `^[a-z0-9_]+$`
 - `sector` must be one of the 35 enum values in `schemas/ksa.schema.json`
 - `horizon` values: `core`, `emerging`, `perennial`, `watch_2030`, `peripheral`
+- `adjacent_sectors` (optional array): Lists sector enum values where this KSA has demonstrated transferability. Use when a KSA's competency is meaningfully relevant to professionals in other sectors — particularly for cross-sector career transitions. Values must match the `sector` field enum.
+- `transfer_populations` (optional array): Identifies client populations most likely to bring or need this KSA during a career transition. Valid values: `military_transition`, `healthcare_pivot`, `early_career`, `mid_career_change`, `returning_workforce`, `education_to_industry`, `veteran_spouse`, `career_explorer`.
 - Each proficiency level needs `level` and `indicator`
 - **Always run `npm run validate:ksas` after adding or editing KSA files**
 

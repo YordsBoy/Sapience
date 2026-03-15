@@ -7363,7 +7363,7 @@
     ],
     "description": "Implements BSEE SEMS II framework—hazard analysis, MOC, assurance—and conducts independent SEMS audits.  See also `pipeline_emergency_response`.\n",
     "source_frameworks": [
-      "BSEE SEMS Rule (30 CFR 250 sub-part S)"
+      "BSEE Safety and Environmental Management Systems (SEMS) rule — 30 CFR Part 250 Subpart S — U.S. government — BSEE/DOI; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -7400,7 +7400,7 @@
     ],
     "description": "Builds dynamic reservoir models, calibrates them against production and pressure data, and forecasts development scenarios.   See also `seismic_acquisition_quality_control` for data-quality inputs that feed model accuracy.\n",
     "source_frameworks": [
-      "SPE reservoir-simulation workflow papers"
+      "Society of Petroleum Engineers (SPE) reservoir simulation and history-matching workflow technical papers — commercial professional society — SPE; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7437,7 +7437,7 @@
     ],
     "description": "Selects and tunes artificial-lift systems (rod-lift, ESP, gas-lift, PCP) using real-time data analytics to maximise uptime and drawdown.\n",
     "source_frameworks": [
-      "SPE gas-lift optimization papers"
+      "Society of Petroleum Engineers (SPE) artificial lift system optimization technical papers and resources — commercial professional society — SPE; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7474,7 +7474,7 @@
     ],
     "description": "Prepares for and manages pipeline incidents per PHMSA Emergency Response Guidebook (ERG) and operator response plans.\n",
     "source_frameworks": [
-      "PHMSA ERG 2024"
+      "PHMSA Emergency Response Guidebook (ERG) 2024 and pipeline operator emergency response plan requirements — U.S. government — PHMSA/DOT; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -7511,7 +7511,7 @@
     ],
     "description": "Executes optical-gas-imaging, OGI drones, and quantification protocols to find and fix fugitive emissions in line with 2024 EPA Subpart W rules.\n",
     "source_frameworks": [
-      "EPA 2024 methane rule"
+      "U.S. EPA Methane and Volatile Organic Compounds regulations — 40 CFR Part 60 Subpart W (2024 revision) — U.S. government — EPA; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -7548,7 +7548,7 @@
     ],
     "description": "Manages LNG loading, unloading, boil-off control, and custody-transfer metering per SIGTTO competency standards.\n",
     "source_frameworks": [
-      "SIGTTO LNG Cargo-Handling Competency Std"
+      "Society of International Gas Tanker and Terminal Operators (SIGTTO) LNG cargo handling competency standards — commercial industry association — SIGTTO; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7585,8 +7585,8 @@
     ],
     "description": "Conducts inspections, evaluations, and documentation per API 653 (tanks) and API 570 (in-service piping) to ensure fitness-for-service.\n",
     "source_frameworks": [
-      "API 653 standard",
-      "API 570 piping code"
+      "API 653 Tank Inspection, Repair, Alteration, and Reconstruction standard — American Petroleum Institute (API) proprietary standard; conceptual alignment only",
+      "API 570 Piping Inspection Code: In-service Inspection, Rating, Repair, and Alteration of Piping Systems — American Petroleum Institute (API) proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7623,7 +7623,7 @@
     ],
     "description": "Plans and supervises 2-D / 3-D seismic field surveys, ensuring data meet SEG QC standards for positioning, source signature, coupling, and noise.   See also `reservoir_simulation_history_matching` for downstream integration of seismic data into reservoir models.\n",
     "source_frameworks": [
-      "SEG Field QC guidelines (public)"
+      "Society of Exploration Geophysicists (SEG) seismic data acquisition and field QC technical guidelines — commercial professional society — SEG; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7660,7 +7660,7 @@
     ],
     "description": "Manages barriers and monitoring from design through abandonment per ISO 16530-1 lifecycle standards.\n",
     "source_frameworks": [
-      "ISO 16530-1 Well-Integrity standard"
+      "ISO 16530-1:2017 Petroleum and Natural Gas Industries — Well Integrity — Life Cycle Governance — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7697,7 +7697,7 @@
     ],
     "description": "Designs perforation, frac-fluid, sand-control, and downhole-equipment programs compliant with API RP 13B testing and ISO 13503.\n",
     "source_frameworks": [
-      "API RP 13B test procedures"
+      "API RP 13B-1/13B-2 Recommended Practice for Field Testing Water-Based/Oil-Based Drilling Fluids — American Petroleum Institute (API) proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7734,12 +7734,12 @@
     ],
     "description": "Operates drilling equipment and manages well operations for oil and natural gas extraction;   sets up rotary drills, monitors drilling parameters, and implements techniques to safely reach and produce hydrocarbon reservoirs.\n",
     "source_frameworks": [
-      "O*NET Rotary Drill Operators (Oil & Gas) – set up and operate drills to extract underground oil and gas"
+      "O*NET occupational profile 47-5012.00 (Rotary Drill Operators, Oil and Gas) — U.S. government — Department of Labor/O*NET; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows basic terminology (rig, well, reservoir) and the purpose of drilling equipment; aware of safety hazards (blowouts, gas leaks)."
+        "indicator": "Identifies fundamental drilling terminology (rig, well, reservoir); recognizes primary safety hazards associated with drilling operations (blowouts, gas leaks)."
       },
       {
         "level": "Basic",
@@ -7771,7 +7771,7 @@
     ],
     "description": "Detects kicks, maintains primary & secondary well control, and executes IWCF / IADC procedures to prevent blowouts.\n",
     "source_frameworks": [
-      "IADC Well-Control Guidelines"
+      "International Association of Drilling Contractors (IADC) well control training standards and guidelines — commercial professional association — IADC; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7808,7 +7808,7 @@
     ],
     "description": "Operates crude & vacuum distillation, catalytic cracking, hydrotreating, and utilities while applying API RP 754 process-safety metrics.\n",
     "source_frameworks": [
-      "API RP 754 process-safety performance"
+      "API RP 754 Process Safety Performance Indicators for the Refining and Petrochemical Industries — American Petroleum Institute (API) proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7845,7 +7845,7 @@
     ],
     "description": "Prepares cost, schedule, and environmental plans for offshore & onshore asset retirement per OEUK and World-Bank guidance.\n",
     "source_frameworks": [
-      "OEUK Decommissioning Guidelines"
+      "Offshore Energies UK (OEUK) decommissioning guidelines and cost estimating methodology — commercial industry association — OEUK; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7882,7 +7882,7 @@
     ],
     "description": "Develops life-of-mine plans, pit / stope designs, production schedules, and economic models that maximise Net Present Value while meeting safety and environmental constraints.  See also `site_rehabilitation_closure` for end-of-life integration.\n",
     "source_frameworks": [
-      "SME Mine Planning Handbook (public summaries)"
+      "Society for Mining, Metallurgy & Exploration (SME) Mining Engineering Handbook (3rd ed., ed. Darling, 2011) — commercial professional society — SME; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -7919,7 +7919,7 @@
     ],
     "description": "Selects and implements underground extraction methods (room-and-pillar, longwall, block-caving) and ventilation systems to ensure safety, stability, and productivity.\n",
     "source_frameworks": [
-      "Hard Rock Miner’s Handbook (public) – ventilation & method chapters"
+      "de la Vergne, J., Hard Rock Miner’s Handbook (Stantec Consulting Ltd., 5th ed.) — commercial engineering reference; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -7956,7 +7956,7 @@
     ],
     "description": "Executes drilling, loading, hauling, and dumping cycles in open-pit and quarry environments, ensuring productivity and compliance with MSHA and OSHA guidelines.\n",
     "source_frameworks": [
-      "OSHA–MSHA inter-agency surface-mine directive CPL-02-00-042"
+      "OSHA–MSHA interagency coordination directive CPL 02-00-042 for surface mine operations — U.S. government — OSHA/MSHA/DOL; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -7993,7 +7993,7 @@
     ],
     "description": "Deploys and oversees autonomous haulage, drilling, and monitoring systems, leveraging AI analytics to enhance safety and efficiency.  See also `mining_equipment_maintenance` for autonomous-fleet upkeep requirements.\n",
     "source_frameworks": [
-      "Autonomous Mining Equipment market insights 2025"
+      "Mining3 autonomous and robotic mining systems research publications — commercial industry research organization — Mining3; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -8030,7 +8030,7 @@
     ],
     "description": "Designs and executes blast patterns, selects explosives, and applies delay timing to achieve fragmentation targets while minimising vibration, fly-rock, and fumes.\n",
     "source_frameworks": [
-      "MSHA blasting safety topic page"
+      "MSHA blasting and explosives safety regulations and guidance (30 CFR Part 57 / Part 56) — U.S. government — MSHA/DOL; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8067,12 +8067,12 @@
     ],
     "description": "Operates and oversees automated mining equipment and remote operation systems;   uses tele-remote controls or autonomous haulage systems for trucks and drills, deploys drones for surveying and inspection, and optimizes mine productivity and worker safety through technology.  \n",
     "source_frameworks": [
-      "ISO 17757 Autonomous Mining Safety"
+      "ISO 17757:2019 Earth-Moving Machinery and Mining — Autonomous and Semi-Autonomous Machine System Safety — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Has seen or heard of self-driving haul trucks or remote-controlled machines in mines; understands basic purpose (improve safety, operate 24/7)."
+        "indicator": "Identifies common autonomous mining equipment types (self-driving haul trucks, remote-controlled drills); explains their primary operational purpose (improving safety, enabling continuous operation)."
       },
       {
         "level": "Basic",
@@ -8104,12 +8104,12 @@
     ],
     "description": "Implements advanced safety protocols and monitoring in mining operations;   uses technology such as real-time gas detection systems, ground stability sensors, automated emergency alerts/evacuation systems, and ensures compliance with modern mine safety regulations and environmental standards.  \n",
     "source_frameworks": [
-      "MSHA Mine Safety Technology Guidance"
+      "MSHA mine safety technology guidance and training resources — U.S. government — MSHA/DOL; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows key dangers in mining (gas leaks, collapses) and that sensors/alarms exist for these; is familiar with basic PPE and emergency drills."
+        "indicator": "Identifies primary hazards in mining operations (gas leaks, ground instability, explosives); recognizes sensor and alarm systems used for hazard detection; selects and wears required PPE; follows emergency drill procedures."
       },
       {
         "level": "Basic",
@@ -8141,7 +8141,7 @@
     ],
     "description": "Performs preventive and predictive maintenance on drills, loaders, haul trucks, and fixed plant to maximise availability and comply with MSHA standards.\n",
     "source_frameworks": [
-      "OEM maintenance manuals (public excerpts)"
+      "Original equipment manufacturer (OEM) maintenance and reliability documentation — manufacturer-specific; consult applicable OEM service manuals for specific mining equipment platforms"
     ],
     "proficiency_levels": [
       {
@@ -8178,7 +8178,7 @@
     ],
     "description": "Implements MSHA Part 48 training, hazard assessments, emergency response, and continuous improvement systems to protect workers.  Cross-reference `blasting_techniques` and `environmental_monitoring_mining` for specialised hazards.\n",
     "source_frameworks": [
-      "MSHA instructor materials"
+      "MSHA Part 48 new miner and annual refresher training requirements and instructor materials — U.S. government — MSHA/DOL; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -8215,7 +8215,7 @@
     ],
     "description": "Conducts subsurface surveys—rock sampling, geophysical logging, remote sensing— to determine orebody location, geometry, and grade for mine-planning decisions.\n",
     "source_frameworks": [
-      "O*NET Mining & Geological Engineer profile 17-2151.00 (CC BY 4.0)"
+      "O*NET occupational profile 17-2151.00 (Mining and Geological Engineers, Including Mining Safety Engineers) — U.S. government — Department of Labor/O*NET; publicly available (CC BY 4.0)"
     ],
     "proficiency_levels": [
       {
@@ -8252,9 +8252,9 @@
     ],
     "description": "Plans and executes progressive and final mine-closure activities—landform design, soil remediation, revegetation, stakeholder engagement—to achieve relinquishment criteria and long-term environmental stability.\n",
     "source_frameworks": [
-      "EPA abandoned-mine guidance",
-      "World Bank Mine-Closure Standards 2025",
-      "Integrated Mine Closure Planning research 2025"
+      "U.S. EPA abandoned mine lands program guidance and environmental monitoring resources — U.S. government — EPA; publicly available",
+      "World Bank Group mine closure and rehabilitation standards and guidance — intergovernmental organization — World Bank Group; publicly available",
+      "International Council on Mining and Metals (ICMM) integrated mine closure planning guidance framework — commercial industry council — ICMM; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -8291,9 +8291,9 @@
     ],
     "description": "Designs and operates air, water, noise, and dust monitoring programs to track compliance with EPA, ISO 14001, and local regulations.\n",
     "source_frameworks": [
-      "EPA abandoned-mine guidance",
-      "ISO 14001 environmental-management standards",
-      "Best-practice air-quality monitoring in mining sites (Clarity blog)"
+      "U.S. EPA abandoned mine lands program guidance and environmental monitoring resources — U.S. government — EPA; publicly available",
+      "ISO 14001:2015 Environmental Management Systems — Requirements with Guidance for Use — ISO proprietary standard; conceptual alignment only",
+      "U.S. EPA ambient air quality monitoring guidance and mining-sector emission factor documentation — U.S. government — EPA/OAQPS; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -9851,8 +9851,8 @@
     ],
     "description": "Procures eco-labeled inputs—FSC wood, GOTS textiles, recycled filaments—while assessing Life-Cycle Thinking (LCT) and supplier ethical audits.\n",
     "source_frameworks": [
-      "FSC Chain of Custody Standard",
-      "GOTS 6.0 Criteria"
+      "Forest Stewardship Council (FSC) Chain of Custody Standard — commercial certification body — FSC; conceptual alignment only — FSC certification documentation required for compliance claims",
+      "Global Organic Textile Standard (GOTS) Version 6.0 criteria — commercial certification body — GOTS; conceptual alignment only — GOTS certification documentation required for compliance claims"
     ],
     "proficiency_levels": [
       {
@@ -9889,9 +9889,9 @@
     ],
     "description": "Establishes and enforces health-and-safety protocols—personal protective equipment (PPE), ventilation, lock-out/tag-out (LOTO), and chemical handling— aligning with Occupational Safety and Health Administration (OSHA) 29 CFR 1910, ISO 45001 occupational-safety management, and Fab Lab global safety charters.\n",
     "source_frameworks": [
-      "OSHA 29 CFR 1910 Hand & Power Tool Safety",
-      "ISO 45001 Occupational Health & Safety Management",
-      "Fab Lab Safety Charter"
+      "OSHA 29 CFR 1910 Hand and Power Tool Safety and General Industry Standards — U.S. government — OSHA/DOL; publicly available",
+      "ISO 45001:2018 Occupational Health and Safety Management Systems — ISO proprietary standard; conceptual alignment only",
+      "Fab Foundation Fab Lab Global Safety Charter — open-source educational framework — Fab Foundation; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -9928,9 +9928,9 @@
     ],
     "description": "Establishes standards and inspection routines to ensure handmade or digitally fabricated items meet durability, safety, and aesthetic specifications.",
     "source_frameworks": [
-      "ASTM D870/D3359 Standards",
-      "Lean Six Sigma Yellow-Belt Tools",
-      "iso:2859-1"
+      "ASTM D870 and D3359 coating adhesion and exposure testing standards — ASTM International proprietary standard; conceptual alignment only",
+      "Lean Six Sigma Yellow Belt quality improvement tools and methodology — commercial professional framework; conceptual alignment only",
+      "ISO 2859-1:1999 Sampling Procedures for Inspection by Attributes — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -9967,8 +9967,8 @@
     ],
     "description": "Anticipates and mitigates climate-related disruptions—heat waves, floods, material shortages—by diversifying sources, stock-buffering critical inputs, and mapping logistics risks in line with ISO 14090 (Adaptation to Climate Change) and Intergovernmental Panel on Climate Change (IPCC) small-business resilience guidance.\n",
     "source_frameworks": [
-      "ISO 14090 Adaptation to Climate Change Guidelines",
-      "IPCC AR6 Small-Enterprise Resilience Brief"
+      "ISO 14090:2019 Adaptation to Climate Change — Principles, Requirements and Guidelines — ISO proprietary standard; conceptual alignment only",
+      "IPCC Sixth Assessment Report (AR6) small enterprise and livelihood resilience findings — intergovernmental scientific body — IPCC (UN/WMO); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10005,9 +10005,9 @@
     ],
     "description": "Conducts routine inspection, cleaning, calibration, and minor repairs for shared fabrication tools to ensure uptime and safety.",
     "source_frameworks": [
-      "Lean 5 S Guide",
-      "Fab Lab Inventory & Maintenance SOP",
-      "osha:MachineGuarding"
+      "Lean 5S workplace organization methodology — commercial/academic management framework; conceptual alignment only",
+      "Fab Foundation Fab Lab inventory and equipment maintenance standard operating procedures — open-source educational framework — Fab Foundation; publicly available",
+      "OSHA 29 CFR 1910 Subpart O Machine Guarding regulations — U.S. government — OSHA/DOL; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10044,8 +10044,8 @@
     ],
     "description": "Conducts cradle-to-grave life-cycle assessment (LCA) using ISO 14040 methodology and open-source tools (OpenLCA, Eco-Invent datasets) to quantify carbon and resource footprints.\n",
     "source_frameworks": [
-      "ISO 14040 Life-Cycle Assessment",
-      "OpenLCA Practitioner Guide"
+      "ISO 14040:2006 Environmental Management — Life Cycle Assessment — Principles and Framework — ISO proprietary standard; conceptual alignment only",
+      "OpenLCA Practitioner Guide and software documentation — open-source project — GreenDelta; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10082,8 +10082,8 @@
     ],
     "description": "Selects, maintains, and skillfully uses hand tools (saws, chisels, needles, pliers) for precise, artisan-grade fabrication.",
     "source_frameworks": [
-      "OSHA Hand & Power Tool Safety 1910.242",
-      "Fine Woodworking Master Manual"
+      "OSHA 29 CFR 1910.242 Hand and Portable Powered Tools and Equipment regulations — U.S. government — OSHA/DOL; publicly available",
+      "Fine Woodworking hand-tool technique manuals and master joinery resources — commercial craft publication — Taunton Press; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10120,8 +10120,8 @@
     ],
     "description": "Applies Ellen MacArthur Foundation circular-design principles—modularity, repairability, recycling loops—to minimise waste and maximise material yields.\n",
     "source_frameworks": [
-      "Ellen MacArthur Foundation Circular Design Guide",
-      "ISO 20887 Design for Disassembly"
+      "Ellen MacArthur Foundation Circular Design Guide — commercial non-profit foundation — Ellen MacArthur Foundation; publicly available",
+      "ISO 20887:2020 Sustainability in Buildings and Civil Engineering Works — Design for Disassembly and Adaptability — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10156,12 +10156,12 @@
       "Additive Manufacturing",
       "Safety"
     ],
-    "description": "Operating desktop fused‑filament fabrication (FFF) and resin stereolithography (SLA) printers, preparing models, and implementing ventilation, personal protective equipment (PPE), and material‑handling protocols aligned with ISO/ASTM 52900.",
+    "description": "Operating desktop fused-filament fabrication (FFF) and resin stereolithography (SLA) printers, preparing models, and implementing ventilation, personal protective equipment (PPE), and material-handling protocols aligned with ISO/ASTM 52900.",
     "source_frameworks": [
-      "ASTM F2792 Additive Manufacturing Terminology",
-      "NIOSH 3-D Printer Emissions Guide",
-      "ISO/ASTM 52900:2021 Additive Manufacturing — General Principles",
-      "UL Blue Card Additive Manufacturing Safety"
+      "ASTM F2792 Standard Terminology for Additive Manufacturing Technologies (withdrawn; superseded by ISO/ASTM 52900) — ASTM International proprietary standard; conceptual alignment only",
+      "NIOSH Current Intelligence Bulletin: Health Effects of 3D Printing — U.S. government — NIOSH/CDC; publicly available",
+      "ISO/ASTM 52900:2021 Additive Manufacturing — General Principles — Fundamentals and Vocabulary — ISO/ASTM International proprietary standard; conceptual alignment only",
+      "UL Blue Card additive manufacturing safety certification program — commercial certification body — UL (Underwriters Laboratories); conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10170,7 +10170,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Slices models with correct layer height; loads material; monitors first‑layer adhesion; performs post‑processing safely."
+        "indicator": "Slices models with correct layer height; loads material; monitors first-layer adhesion; performs post-processing safely."
       },
       {
         "level": "Intermediate",
@@ -10182,7 +10182,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Designs makerspace AM safety policies; trains community members; publishes open‑source print‑quality benchmarks."
+        "indicator": "Designs makerspace AM safety policies; trains community members; publishes open-source print-quality benchmarks."
       }
     ]
   },
@@ -10198,8 +10198,8 @@
     ],
     "description": "Builds distributed production networks (micro-factories, home workshops) coordinated via cloud CAM and logistics to reduce lead times and boost local resilience.\n",
     "source_frameworks": [
-      "Distributed Manufacturing Toolkit (Fab City)",
-      "OECD Local Production Policy Brief"
+      "Fab City Global Initiative distributed manufacturing and local production toolkit — open non-profit initiative — Fab City Foundation; publicly available",
+      "OECD local industrial production and SME policy brief — intergovernmental organization — OECD; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10236,8 +10236,8 @@
     ],
     "description": "Clarifies requirements, drafts quotes, manages iterations, and delivers bespoke craft pieces on time and budget.",
     "source_frameworks": [
-      "ISO 10002 Customer Satisfaction Guidance",
-      "PMI Agile Workflow Concepts"
+      "ISO 10002:2018 Quality Management — Customer Satisfaction — Guidelines for Complaints Handling — ISO proprietary standard; conceptual alignment only",
+      "PMI Agile Practice Guide (2017) — commercial professional association — Project Management Institute; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10272,7 +10272,12 @@
       "Event Management",
       "Craft Fair"
     ],
-    "description": "Plans, sets up, and operates booths—handling permits, layout, mobile POS, and live customer engagement. - \"EIC Sustainable Event Standards\" - \"ISO 20121 Event Sustainability\" - \"sbdc:EventChecklist\"",
+    "description": "Plans, sets up, and operates booths—handling permits, layout, mobile POS, and live customer engagement.",
+    "source_frameworks": [
+      "Events Industry Council (EIC) Sustainable Event Standards — commercial professional association — EIC; conceptual alignment only",
+      "ISO 20121:2012 Event Sustainability Management Systems — ISO proprietary standard; conceptual alignment only",
+      "U.S. Small Business Development Center (SBDC) event planning checklist — U.S. government-affiliated — SBDC/SBA; publicly available"
+    ],
     "proficiency_levels": [
       {
         "level": "Awareness",
@@ -10308,13 +10313,13 @@
     ],
     "description": "Designs and delivers hands-on classes—setting learning objectives, demo steps, and safety protocols for diverse learners.",
     "source_frameworks": [
-      "MIT Fab Charter",
-      "Inclusive Design Toolkit (University of Cambridge)"
+      "MIT/Fab Foundation Fab Lab Charter — open-source educational framework — MIT Center for Bits and Atoms / Fab Foundation; publicly available",
+      "Inclusive Design Toolkit — academic open-access resource — University of Cambridge Engineering Design Centre; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains Fab Lab values; outlines learning objectives.; demonstrates basic technique to friends or peers."
+        "indicator": "Explains Fab Lab values; outlines learning objectives; demonstrates basic technique to friends or peers."
       },
       {
         "level": "Basic",
@@ -10346,8 +10351,8 @@
     ],
     "description": "Publishes design files, documentation, and licenses to achieve OSHWA certification and Creative Commons compliance, enabling community remix and derivative production.\n",
     "source_frameworks": [
-      "OSHWA Certification Checklist",
-      "Creative Commons BY-SA 4.0 Licence"
+      "Open Source Hardware Association (OSHWA) certification checklist and documentation requirements — non-profit certification body — OSHWA; publicly available",
+      "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) licence — open licensing framework — Creative Commons; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10382,12 +10387,12 @@
       "Electronics",
       "IoT"
     ],
-    "description": "Designing and assembling electronic circuits using microcontrollers—Arduino, Raspberry Pi—sensors, and communication modules to prototype Internet‑of‑Things (IoT) devices for hobbyist or pre‑commercial projects.",
+    "description": "Designing and assembling electronic circuits using microcontrollers-Arduino, Raspberry Pi-sensors, and communication modules to prototype Internet-of-Things (IoT) devices for hobbyist or pre-commercial projects.",
     "source_frameworks": [
-      "OSHWA Certification Requirements",
-      "IEEE 802.15.4 & MQTT Protocol Specs",
-      "Raspberry Pi Foundation Digital Making Curriculum",
-      "NISTIR 8367 Foundational Cybersecurity Practices for IoT Device Manufacturers"
+      "Open Source Hardware Association (OSHWA) certification requirements — non-profit certification body — OSHWA; publicly available",
+      "IEEE 802.15.4 Low-Rate Wireless Networks standard — IEEE proprietary standard; conceptual alignment only — and MQTT protocol specification — open standard — OASIS; publicly available",
+      "Raspberry Pi Foundation Digital Making Curriculum — non-profit educational organization — Raspberry Pi Foundation; publicly available",
+      "NISTIR 8367 Foundational Cybersecurity Activities for IoT Device Manufacturers — U.S. government — NIST/DOC; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10396,11 +10401,11 @@
       },
       {
         "level": "Basic",
-        "indicator": "Interfaces digital/analog sensors; debounces inputs; sends data via serial or Wi‑Fi; solders headers; reads sensor data; logs serial output."
+        "indicator": "Interfaces digital/analog sensors; debounces inputs; sends data via serial or Wi-Fi; solders headers; reads sensor data; logs serial output."
       },
       {
         "level": "Intermediate",
-        "indicator": "Publishes data to cloud via MQTT; implements low-power sleep; designs simple printed‑circuit boards (PCBs); utilizes interrupt routines."
+        "indicator": "Publishes data to cloud via MQTT; implements low-power sleep; designs simple printed-circuit boards (PCBs); utilizes interrupt routines."
       },
       {
         "level": "Advanced",
@@ -10408,7 +10413,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Leads maker‑to‑market IoT productisation; certifies devices for safety; mentors community electronics labs."
+        "indicator": "Leads maker-to-market IoT productisation; certifies devices for safety; mentors community electronics labs."
       }
     ]
   },
@@ -10424,12 +10429,12 @@
     ],
     "description": "Utilizes common maker lab tools and technologies to design and build DIY projects; operates 3D printers, laser cutters, CNC machines, or simple microcontroller (Arduino/Raspberry Pi) setups to fabricate prototypes, gadgets, or craftwork enhancements.  \n",
     "source_frameworks": [
-      "Makerspace Core Competencies (Fab Foundation)"
+      "Fab Foundation makerspace core competencies and program documentation — open-source non-profit — Fab Foundation; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Is aware of maker tools (knows what a 3D printer or Arduino is) and has seen them in use."
+        "indicator": "Identifies common maker lab tools (3D printers, laser cutters, microcontrollers such as Arduino) and explains their primary fabrication functions."
       },
       {
         "level": "Basic",
@@ -10461,8 +10466,8 @@
     ],
     "description": "Integrates additive, subtractive, and hybrid processes—metal FFF, five-axis milling, vacuum forming—while managing tool-chain interoperability (STEP, G-code, MTConnect).\n",
     "source_frameworks": [
-      "MIT Center for Bits and Atoms Fab Academy",
-      "ISO/ASTM 52915 Additive Manufacturing File Formats"
+      "MIT Center for Bits and Atoms (CBA) Fab Academy curriculum and resources — academic open-access program — MIT; publicly available",
+      "ISO/ASTM 52915:2020 Specification for Additive Manufacturing File Format (AMF) — ISO/ASTM International proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10499,14 +10504,14 @@
     ],
     "description": "Operates entry-level additive and subtractive machines, prepares files, selects materials, and troubleshoots prints/cuts for craft production runs.",
     "source_frameworks": [
-      "Fab Lab Safety Training Manual",
-      "ASTM F3091 Standard Practice for FFF",
-      "fabacademy:FabModules"
+      "Fab Lab safety training manual and protocols — open-source educational framework — Fab Foundation; publicly available",
+      "ASTM F3091 Standard Practice for Powder Bed Fusion of Plastic Materials — ASTM International proprietary standard; conceptual alignment only",
+      "Fab Academy Fab Modules toolchain documentation — open-source educational framework — MIT Center for Bits and Atoms / Fab Foundation; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Identifies machine axes; recognizes material compatibility; Slices basic STL files and runs small prints."
+        "indicator": "Identifies machine axes; recognizes material compatibility; slices basic STL files and runs small prints."
       },
       {
         "level": "Basic",
@@ -10538,10 +10543,9 @@
     ],
     "description": "Transforms ideas into tangible low-fidelity prototypes—paper, foam, clay, or CAD mock-ups—to test form, function, and aesthetics quickly.",
     "source_frameworks": [
-      "Stanford d.school Bootleg Toolkit",
-      "IDEO Design Thinking Field Guide",
-      "ideo:DesignThinking",
-      "make:RapidProtoGuide"
+      "Stanford d.school Design Thinking Bootleg Toolkit — academic open-access resource — Stanford University d.school; publicly available",
+      "IDEO Design Thinking field guide and HCD resources — commercial design consultancy — IDEO; conceptual alignment only",
+      "Make: Magazine rapid prototyping guide and maker resources — commercial media publisher — Make: / Maker Media; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10578,8 +10582,8 @@
     ],
     "description": "Creates authentic narratives, visuals, and packaging that communicate the maker’s ethos, process, and cultural value—building brand loyalty.",
     "source_frameworks": [
-      "AIGA Brand Standards Guide",
-      "diy:BrandingGuide"
+      "AIGA (American Institute of Graphic Arts) design standards and branding guidance — commercial professional association — AIGA; conceptual alignment only",
+      "Craft and maker branding best practices (e.g., Etsy Seller Handbook branding section; SCORE small business branding guide) — commercial/non-profit guidance; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10596,7 +10600,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Aligns packaging, booth, and digital touchpoints; measures brand sentiment; produces multimedia storytelling (video, AR labels)."
+        "indicator": "Integrates brand identity across all physical and digital touchpoints; measures brand sentiment via social listening tools; produces multimedia storytelling (video, AR labels); manages cross-platform brand consistency."
       },
       {
         "level": "Expert",
@@ -10616,9 +10620,9 @@
     ],
     "description": "Calculates cost of goods sold (COGS), time, overhead, and market positioning to set profitable yet competitive prices for handcrafted products.",
     "source_frameworks": [
-      "Etsy Pricing Formula Guide",
-      "Harvard Business Review Value-Based Pricing",
-      "sba:CostingBasics"
+      "Etsy seller pricing formula guidance — vendor documentation — Etsy Inc.; conceptual alignment only — equivalent handmade marketplace pricing frameworks may demonstrate competency",
+      "Value-based pricing research and practice (e.g., Anderson, Narus & van Rossum, Harvard Business Review, 2006) — commercial academic publication — Harvard Business Publishing; conceptual alignment only",
+      "U.S. Small Business Administration (SBA) costing and pricing guidance for small businesses — U.S. government — SBA; public domain"
     ],
     "proficiency_levels": [
       {
@@ -10655,14 +10659,14 @@
     ],
     "description": "Sells handmade products or DIY creations through online marketplaces and social media; handles product photography, listings (e.g. on Etsy), pricing, shipping logistics, and customer communications to successfully monetize crafts in the digital marketplace.  \n",
     "source_frameworks": [
-      "Shopify Merchant Academy",
-      "GDPR Compliance Checklist",
-      "Etsy Seller Handbook Guidelines"
+      "Shopify Merchant Academy and seller documentation — vendor documentation — Shopify Inc.; conceptual alignment only — equivalent e-commerce platform documentation may demonstrate competency",
+      "EU General Data Protection Regulation (GDPR) compliance requirements — European Union law; publicly available",
+      "Etsy Seller Handbook — vendor documentation — Etsy Inc.; conceptual alignment only — equivalent handmade marketplace seller guidelines may demonstrate competency"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows of online platforms for crafts (Etsy, Handmade at Amazon); has basic social media presence for crafts; sets up storefront; uploads products; configures payment gateway."
+        "indicator": "Identifies major online marketplace platforms for handmade goods (e.g., Etsy, Amazon Handmade); sets up a basic storefront; uploads product listings; configures a payment gateway."
       },
       {
         "level": "Basic",
@@ -10683,7 +10687,7 @@
     ]
   },
   {
-    "ksa_id": "e_marketplace_listing_optimization",
+    "ksa_id": "emarketplace_listing_optimization",
     "label": "e-Marketplace Listing Optimization",
     "category": "Technical",
     "sector": "maker_economy_creative_crafts",
@@ -10694,17 +10698,17 @@
     ],
     "description": "Crafts high-converting online listings—keywords, imagery, descriptions—for platforms like Etsy, Shopify, or Instagram Shops.",
     "source_frameworks": [
-      "Etsy SEO Playbook",
-      "Amazon Listing Quality Dashboard"
+      "Etsy seller SEO playbook and search optimization guidance — vendor documentation — Etsy Inc.; conceptual alignment only — equivalent e-marketplace listing platforms may demonstrate competency",
+      "Amazon Listing Quality Dashboard documentation — vendor documentation — Amazon; conceptual alignment only — equivalent e-marketplace listing quality tools may demonstrate competency"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands search algorithm basics; identifies long-tail keywords; uploads basic photos and descriptions."
+        "indicator": "Identifies how search algorithms surface listings based on keywords and relevance; recognizes long-tail keywords; uploads basic product photos and descriptions."
       },
       {
         "level": "Basic",
-        "indicator": "Writes descriptive titles; adds lifestyle photos; uses keywords, accuarate tags, and shipping profiles effectively."
+        "indicator": "Writes descriptive titles; adds lifestyle photos; uses keywords, accurate tags, and shipping profiles effectively."
       },
       {
         "level": "Intermediate",
@@ -10732,8 +10736,8 @@
     ],
     "description": "Plans and executes reward-based crowdfunding (Kickstarter, Indiegogo) or community-shares to finance tooling and inventory, using Lean Crowdfunding Canvas methodology.\n",
     "source_frameworks": [
-      "Kickstarter Creator Handbook",
-      "Lean Crowdfunding Canvas"
+      "Kickstarter Creator Handbook — vendor documentation — Kickstarter PBC; conceptual alignment only — equivalent reward-based crowdfunding platforms may demonstrate competency",
+      "Lean Crowdfunding Canvas methodology — commercial proprietary methodology; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -10768,11 +10772,11 @@
       "Entrepreneurship",
       "Market Strategy"
     ],
-    "description": "Developing viable business models for handmade and small‑batch products, applying pricing, branding, e‑commerce, and community‑engagement strategies to reach local and global markets.",
+    "description": "Developing viable business models for handmade and small-batch products, applying pricing, branding, e-commerce, and community-engagement strategies to reach local and global markets.",
     "source_frameworks": [
-      "Lean Canvas (Ash Maurya)",
-      "Etsy Seller Handbook – Market Research",
-      "UNESCO TVET Craft Entrepreneurship Toolkit"
+      "Lean Canvas methodology (Ash Maurya, Running Lean, 2012) — commercial proprietary methodology; conceptual alignment only",
+      "Etsy Seller Handbook — vendor documentation — Etsy Inc.; conceptual alignment only — equivalent handmade marketplace platforms may demonstrate competency",
+      "UNESCO Technical and Vocational Education and Training (TVET) craft entrepreneurship toolkit — intergovernmental organization — UNESCO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10781,19 +10785,19 @@
       },
       {
         "level": "Basic",
-        "indicator": "Calculates cost of goods sold (COGS); sets retail price; opens online shop; photographs products for online listings; writes search‑optimized descriptions; manages small‑scale inventory."
+        "indicator": "Sets retail price using cost-plus markup; opens online storefront; photographs products for listings; writes search-optimized descriptions; manages small-scale inventory."
       },
       {
         "level": "Intermediate",
-        "indicator": "Utilises social‑media marketing; analyses click-through and conversion metrics; iterates product photos; participates in craft fairs."
+        "indicator": "Utilises social-media marketing; analyses click-through and conversion metrics; iterates product photos; participates in craft fairs."
       },
       {
         "level": "Advanced",
-        "indicator": "Diversifies sales channels; registers trademarks; implements sustainable packaging; negotiates wholesale contracts; implements retargeting ads; meets 30 % repeat-purchase rate.."
+        "indicator": "Diversifies sales channels; registers trademarks; implements sustainable packaging; negotiates wholesale contracts; implements retargeting ads; meets 30 % repeat-purchase rate."
       },
       {
         "level": "Expert",
-        "indicator": "Launches brand collaborations; scales craft business internationally; mentors artisans on digital commerce; publishes craft‑enterprise case studies."
+        "indicator": "Launches brand collaborations; scales craft business internationally; mentors artisans on digital commerce; publishes craft-enterprise case studies."
       }
     ]
   },
@@ -11285,7 +11289,7 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Negotiates consignment; leverages supplier credit; reinvests profit.; applies lean-startup loops (build-measure-learn) in cash settings."
+        "indicator": "Negotiates consignment; leverages supplier credit; reinvests profit; applies lean-startup loops (build-measure-learn) in cash settings."
       },
       {
         "level": "Advanced",
@@ -18822,21 +18826,21 @@
     ],
     "description": "Plans and delivers creative projects using hybrid methodologies that blend Agile sprints with the Project Management Institute (PMI) PMBOK phases; aligns scope, budget, talent, and client feedback in fast-iterating environments.\n",
     "source_frameworks": [
-      "PMI Creative-Agency PM Guides",
-      "Agile Manifesto & Scrum Guide"
+      "PMI PMBOK Guide (7th ed., 2021) and Agile Practice Guide project management resources — commercial professional association — Project Management Institute (PMI); conceptual alignment only",
+      "Agile Manifesto (Beck et al., 2001) and Scrum Guide (Schwaber & Sutherland, 2020) — open community frameworks; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Defines scope, schedule, and milestone; recognizes Agile vs. waterfall. Creates task lists; maintains project calendars; tracks simple budgets."
+        "indicator": "Defines scope, schedule, and milestones; distinguishes Agile from waterfall approaches; creates basic task lists and project calendars; tracks simple budgets."
       },
       {
         "level": "Basic",
-        "indicator": "Builds task board; tracks burndown; records change-requests;Facilitates stand‑up meetings; manages Kanban boards; identifies project risks."
+        "indicator": "Builds task board; tracks burndown; records change-requests; facilitates stand‑up meetings; manages Kanban boards; identifies project risks."
       },
       {
         "level": "Intermediate",
-        "indicator": "Facilitates sprint reviews; manages stakeholder feedback; controls scopt, cost, and quality KPIs."
+        "indicator": "Facilitates sprint reviews; manages stakeholder feedback; controls scope, cost, and quality KPIs."
       },
       {
         "level": "Advanced",
@@ -18860,8 +18864,8 @@
     ],
     "description": "Produces multisensory XR or projection-mapped installations, leading teams through concept, 3D prototyping, real-time engine deployment, and audience analytics.\n",
     "source_frameworks": [
-      "Unity Certified Associate – Design",
-      "UNCTAD Creative Economy Outlook 2022"
+      "Unity Certified Associate: Game Designer certification objectives — vendor documentation — Unity Technologies; conceptual alignment only — equivalent real-time engine platforms may demonstrate competency",
+      "UNCTAD Creative Economy Outlook 2022: Trends in International Trade in Creative Industries — intergovernmental organization — UNCTAD (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -18898,8 +18902,8 @@
     ],
     "description": "Creating virtual garments using 3D design software, physics‑based simulation, and blockchain authentication to enable digital‑only fashion experiences, try‑ons, and asset monetisation.",
     "source_frameworks": [
-      "CLO 3D Training Curriculum",
-      "Vogue Business Tech Spotlight on Digital Fashion"
+      "CLO 3D training curriculum and 3D garment simulation documentation — vendor documentation — CLO Virtual Fashion Inc.; conceptual alignment only — equivalent 3D garment simulation software may demonstrate competency",
+      "Fashion for Good digital fashion innovation programme and resources — non-profit industry initiative — Fashion for Good Foundation; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -18937,8 +18941,8 @@
     ],
     "description": "Creates engaging user-centered digital content across various media (graphics, video, text), combining creative design principles with technology (Adobe Creative Cloud, generative artificial intelligence (AI), and Web Content Accessibility Guidelines (WCAG) 2.2) to reach and resonate with audiences.",
     "source_frameworks": [
-      "Adobe Digital-Design Competency Map",
-      "World Wide Web Consortium (W3C) WCAG 2.2"
+      "Adobe digital design competency map and product certification resources — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent digital design platforms may demonstrate competency",
+      "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -18975,8 +18979,8 @@
     ],
     "description": "Manages licensing, royalties, and smart-contract terms for digital assets (streaming media, NFTs); applies Creative Commons, DRM, and blockchain metadata standards to maximise revenue and protect creator rights.\n",
     "source_frameworks": [
-      "WIPO IP Monetisation Toolkit",
-      "Creative Commons Licences"
+      "WIPO IP Monetization Toolkit and digital asset rights management resources — intergovernmental organization — WIPO (UN); publicly available",
+      "Creative Commons licence types and usage guidance — open licensing framework — Creative Commons; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -19013,9 +19017,9 @@
     ],
     "description": "Launching and scaling ventures in the arts and cultural sector by leveraging creative assets, intellectual property, and community networks to generate social and economic value.",
     "source_frameworks": [
-      "Organisation for Economic Co‑operation and Development (OECD) Cultural Entrepreneurship Study",
-      "UNESCO Transcultura Cultural-Entrepreneurship Programme",
-      "UNCTAD Creative-Economy Outlook 2022"
+      "OECD cultural entrepreneurship and creative economy study resources — intergovernmental organization — OECD; publicly available",
+      "UNESCO Transcultura Cultural Entrepreneurship Programme documentation — intergovernmental organization — UNESCO (UN); publicly available",
+      "UNCTAD Creative Economy Outlook 2022: Trends in International Trade in Creative Industries — intergovernmental organization — UNCTAD (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -19028,11 +19032,11 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Secures seed funding or grants; measures social-cultural impact (e.g., jobs, heritage value; negotiates licensing of creative content; structures revenue‑sharing agreements; manages crowdfunding campaigns."
+        "indicator": "Secures seed funding or grants; measures social-cultural impact (e.g., jobs, heritage value); negotiates licensing of creative content; structures revenue‑sharing agreements; manages crowdfunding campaigns."
       },
       {
         "level": "Advanced",
-        "indicator": "Forms public-private partnerships; expands to export markets; Scales ventures internationally; implements impact‑measurement frameworks; embeds diversity, equity, and inclusion (DEI) goals."
+        "indicator": "Forms public-private partnerships; expands to export markets; scales ventures internationally; implements impact‑measurement frameworks; embeds diversity, equity, and inclusion (DEI) goals."
       },
       {
         "level": "Expert",
@@ -19052,8 +19056,8 @@
     ],
     "description": "Facilitates inclusive, equitable teamwork across cultures through cultural intelligence (CQ), adaptive communication, and shared decision frameworks, minimising conflict and building creative synergy.\n",
     "source_frameworks": [
-      "Business.com Cross-Cultural Team Building Tips 2025",
-      "UNESCO Cultural Diversity Convention"
+      "Cultural Intelligence Center (CQ) cross-cultural collaboration assessment and methodology — commercial research organization — Cultural Intelligence Center; conceptual alignment only",
+      "UNESCO Convention on the Protection and Promotion of the Diversity of Cultural Expressions (2005) — intergovernmental organization — UNESCO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -19090,8 +19094,8 @@
     ],
     "description": "Builds sustainable business models around creative content (art, music, crafts);   leverages online platforms (e-commerce, crowdfunding, streaming services) for marketing, audience building, and revenue generation while protecting intellectual property.  \n",
     "source_frameworks": [
-      "Creative Commons Licence Suite",
-      "World Intellectual Property Organization (WIPO) IP Monetisation Toolkit"
+      "Creative Commons licence suite (CC BY, CC BY-SA, CC BY-NC, etc.) — open licensing framework — Creative Commons; publicly available",
+      "WIPO IP Monetization Toolkit and intellectual property commercialization resources — intergovernmental organization — WIPO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -19108,7 +19112,7 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Develops a brand and fan community; successfully funds larger projects through crowdfunding or partnerships; navigates contracts and IP licensing with legal insight. Uses royalty dashboards; A/B-tests pricing tiers; mitigates infringement through notice-and-takedown."
+        "indicator": "Develops a brand and fan community; successfully funds larger projects through crowdfunding or partnerships; navigates contracts and IP licensing with legal insight; uses royalty dashboards; A/B-tests pricing tiers; mitigates infringement through notice-and-takedown."
       },
       {
         "level": "Expert",
@@ -19128,9 +19132,9 @@
     ],
     "description": "Identifying, documenting, and applying scientific and artisanal methods to preserve and restore tangible cultural assets—such as paintings, textiles, architecture, and artifacts—while respecting historical integrity and community values.",
     "source_frameworks": [
-      "International Council of Museums (ICOM) Conservation Principles",
-      "UNESCO World Heritage Capacity‑Building Guidelines",
-      "ICOMOS Australia Burra Charter 2013"
+      "ICOM Code of Ethics for Museums and conservation principles — commercial professional association — International Council of Museums (ICOM); conceptual alignment only",
+      "UNESCO World Heritage Capacity Building Strategy and conservation guidelines — intergovernmental organization — UNESCO (UN); publicly available",
+      "ICOMOS Australia Burra Charter: The Australia ICOMOS Charter for Places of Cultural Significance (2013) — commercial professional association — ICOMOS Australia; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -19167,14 +19171,14 @@
     ],
     "description": "Utilises digital tools to preserve and archive cultural artifacts and artworks;   employs techniques like 3D scanning, high-resolution imaging, and database cataloging to create accessible digital records for museums, libraries, and archives.  \n",
     "source_frameworks": [
-      "UNESCO Digital Heritage Charter",
-      "FADGI Still-Image Technical Guidelines 2023",
-      "ISO 16363 Trusted Digital Repository"
+      "UNESCO Charter on the Preservation of Digital Heritage (2003) — intergovernmental organization — UNESCO (UN); publicly available",
+      "Federal Agencies Digital Guidelines Initiative (FADGI) Still Image Working Group Technical Guidelines for Digitizing Cultural Heritage Materials (2023) — U.S. government — FADGI/Library of Congress; publicly available",
+      "ISO 16363:2012 Space Data and Information Transfer Systems — Audit and Certification of Trustworthy Digital Repositories — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Understands the importance of digitizing cultural heritage; familiar with basic scanning and photography tools."
+        "indicator": "Identifies the purpose and benefits of digitizing cultural heritage; recognizes basic scanning and photography tools used in archiving workflows."
       },
       {
         "level": "Basic",
@@ -19186,11 +19190,11 @@
       },
       {
         "level": "Advanced",
-        "indicator": "Leads a digitization project (e.g. a museum collection); optimizes data formats and storage for long-term preservation; ensures alignment with UNESCO guidelines; performs risk assessments; aligns repository with ISO 16363 controls.."
+        "indicator": "Leads a digitization project (e.g. a museum collection); optimizes data formats and storage for long-term preservation; ensures alignment with UNESCO guidelines; performs risk assessments; aligns repository with ISO 16363 controls."
       },
       {
         "level": "Expert",
-        "indicator": "Develops new methods or standards for cultural heritage digitization; consults on national or international digital archive initiatives; secures funding; trains archivists globally.."
+        "indicator": "Develops new methods or standards for cultural heritage digitization; consults on national or international digital archive initiatives; secures funding; trains archivists globally."
       }
     ]
   },
@@ -19206,8 +19210,8 @@
     ],
     "description": "Mastering and innovating traditional craft techniques—ceramics, weaving, metal‑smithing—while integrating digital fabrication tools and sustainable materials to preserve cultural heritage.",
     "source_frameworks": [
-      "Crafts Council – Power of Experiences Guide",
-      "UNESCO Intangible Cultural Heritage Concepts"
+      "Crafts Council Power of Craft and maker economy research guides — commercial professional association — Crafts Council (UK); conceptual alignment only",
+      "UNESCO Convention for the Safeguarding of the Intangible Cultural Heritage (2003) and associated intangible heritage concepts — intergovernmental organization — UNESCO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22058,8 +22062,8 @@
     ],
     "description": "Plans inclusive recreation offerings—sports leagues, arts workshops, adventure trips—aligning with NRPA accreditation standards, community needs, and budget constraints.\n",
     "source_frameworks": [
-      "NRPA CAPRA Standards",
-      "US CDC Physical Activity Guidelines"
+      "National Recreation and Park Association (NRPA) CAPRA accreditation standards for park and recreation program design — commercial professional association — NRPA; conceptual alignment only",
+      "U.S. CDC Physical Activity Guidelines for Americans and public health program design resources — U.S. government — CDC/DHHS; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22096,8 +22100,8 @@
     ],
     "description": "Defines and tracks social, health, and economic impacts of recreation programs using logic-models, DEI lenses, and NRPA CAPRA performance measures.\n",
     "source_frameworks": [
-      "NRPA CAPRA Accreditation Standards",
-      "Logic Model Evaluation Guide (CDC)"
+      "National Recreation and Park Association (NRPA) Commission for Accreditation of Park and Recreation Agencies (CAPRA) accreditation standards — commercial professional association — NRPA; conceptual alignment only",
+      "CDC Introduction to Program Evaluation for Public Health Programs: A Self-Study Guide and logic model evaluation resources — U.S. government — CDC/DHHS; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22134,8 +22138,8 @@
     ],
     "description": "Inspects, repairs, and improves recreation trails and related facilities following US FS Trail Construction & Maintenance Notebook (2025 Edition) and FHWA Active-Transportation guidance.\n",
     "source_frameworks": [
-      "US Forest Service Trail Construction & Maintenance Notebook (2025)",
-      "FHWA Guide for Maintaining Active Transportation Infrastructure"
+      "U.S. Forest Service Trail Construction and Maintenance Notebook (0723-2833-MTDC) — U.S. government — USDA Forest Service; publicly available",
+      "FHWA Guide for Maintaining Pedestrian Facilities for Enhanced Safety and active transportation infrastructure — U.S. government — FHWA/DOT; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22172,8 +22176,8 @@
     ],
     "description": "Implements wilderness risk-management plans, conducts safety briefings, and responds to incidents following industry guidelines and local regulations.\n",
     "source_frameworks": [
-      "Wilderness Risk Management Conference Guidelines",
-      "Leave No Trace Principles"
+      "Wilderness Risk Management Conference (WRMC) proceedings and outdoor safety guidelines — commercial non-profit conference organization — WRMC; conceptual alignment only",
+      "Leave No Trace (LNT) Seven Principles of outdoor ethics — non-profit organization — Leave No Trace Center for Outdoor Ethics; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22210,8 +22214,8 @@
     ],
     "description": "Designs and operates front-of-house audio systems, applying AVIXA performance standards for spectral balance, intelligibility, and safety; manages RF coordination and digital networking.\n",
     "source_frameworks": [
-      "AVIXA A103 Sound System Spectral Balance",
-      "AES Live Sound Guidelines"
+      "AVIXA ANSI/AVIXA A103.01:2022 Standard for Audio Coverage Uniformity in Listener Areas — commercial professional association standard — AVIXA; conceptual alignment only",
+      "Audio Engineering Society (AES) live sound engineering guidelines and technical documentation — commercial professional society — AES; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -22248,8 +22252,8 @@
     ],
     "description": "Produces cross-platform multimedia packages combining video, audio, graphics, and interactive elements; applies narrative structure and accessibility captions for digital distribution.\n",
     "source_frameworks": [
-      "Adobe Certified Professional Objectives",
-      "W3C WCAG 2.2"
+      "Adobe Certified Professional examination objectives and competency framework — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent digital media creation suites may demonstrate competency",
+      "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22286,8 +22290,8 @@
     ],
     "description": "Develops and programs performance-lighting plots using DMX/Art-Net consoles following IES RP-41-20 recommended practice; ensures color rendering, sightline safety, and power distribution.\n",
     "source_frameworks": [
-      "IES RP-41-20 (Performance Lighting)",
-      "USITT DMX512 Standard"
+      "IES RP-41-20 Recommended Practice for Performance Lighting — Illuminating Engineering Society (IES) proprietary standard; conceptual alignment only",
+      "ANSI E1.11 USITT DMX512-A Entertainment Technology — Asynchronous Serial Digital Data Transmission Standard — ANSI/ESTA proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -22324,8 +22328,8 @@
     ],
     "description": "Designs user-centric interactive experiences (AR/VR, installations) through storyboarding, prototyping, and real-time engines (Unity/Unreal), applying UX heuristics and accessibility.\n",
     "source_frameworks": [
-      "Unity Certified Associate Design",
-      "WCAG 2.2"
+      "Unity Certified Associate: Game Designer certification objectives — vendor documentation — Unity Technologies; conceptual alignment only — equivalent real-time engine design platforms may demonstrate competency",
+      "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22362,8 +22366,8 @@
     ],
     "description": "Produces and edits graphics, audio, and video using industry suites (Adobe CC, DaVinci Resolve) and emerging Gen-AI assistants; applies color management, codecs, and accessibility standards.\n",
     "source_frameworks": [
-      "Adobe Certified Professional Exam Objectives",
-      "W3C WCAG 2.2"
+      "Adobe Certified Professional examination objectives and competency framework — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent digital media creation suites may demonstrate competency",
+      "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22400,7 +22404,7 @@
     ],
     "description": "Creates and delivers engaging group exercise classes (HIIT, cycling, yoga), sequencing movements, music, and safety briefings per ACSM group-ex guidelines.\n",
     "source_frameworks": [
-      "ACSM Group Exercise Instructor Standards"
+      "American College of Sports Medicine (ACSM) Group Exercise Instructor certification standards and competency guidelines — commercial professional association — ACSM; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -22437,8 +22441,8 @@
     ],
     "description": "Demonstrates safe exercise technique, cueing, and progression principles in alignment with ACSM and CSEP guidelines for individual or small-group clients.\n",
     "source_frameworks": [
-      "ACSM Certified Personal Trainer Standards",
-      "CSEP Fitness Leadership"
+      "American College of Sports Medicine (ACSM) Certified Personal Trainer (CPT) standards and exam content outline — commercial professional association — ACSM; conceptual alignment only",
+      "Canadian Society for Exercise Physiology (CSEP) Certified Personal Trainer (CSEP-CPT) fitness leadership competency standards — commercial professional association — CSEP; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -22475,8 +22479,8 @@
     ],
     "description": "Designs and delivers online conferences or hybrid streams, selecting platforms, configuring engagement tools, and analyzing analytics to optimize ROI and inclusivity.\n",
     "source_frameworks": [
-      "Execu-Events Virtual Event Planner Guide (2025)",
-      "TechRadar Virtual Platform Review (2025)"
+      "International Live Events Association (ILEA) virtual and hybrid event management resources — commercial professional association — ILEA; conceptual alignment only",
+      "AVIXA digital event and hybrid meeting technology standards guidance — commercial professional association — AVIXA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -22513,8 +22517,8 @@
     ],
     "description": "Coordinates all technical and artistic elements of live productions, producing cue sheets, call times, and safety briefings; liaises between directors, crew, and venue staff.\n",
     "source_frameworks": [
-      "USITT Backstage Handbook",
-      "OSHA Rigging Safety"
+      "United States Institute for Theatre Technology (USITT) Backstage Handbook and technical production resources — commercial professional association — USITT; conceptual alignment only",
+      "OSHA 29 CFR 1926.251 Rigging Equipment for Material Handling and general industry rigging safety standards — U.S. government — OSHA/DOL; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22551,8 +22555,8 @@
     ],
     "description": "Plans and operates live or hybrid esports tournaments, ensuring competitive integrity, broadcast quality, and player welfare; coordinates game publishers, IT infrastructure, and fan engagement strategies.\n",
     "source_frameworks": [
-      "BCE Esports Event Management Guide (2025)",
-      "IOC Olympic Esports Guidance"
+      "Esports Integrity Commission (ESIC) event standards and anti-cheat governance documentation — commercial non-profit integrity body — ESIC; conceptual alignment only",
+      "International Olympic Committee (IOC) Olympic Esports Series guidelines and participant framework — intergovernmental organization — IOC; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -22589,8 +22593,8 @@
     ],
     "description": "Designs, budgets, and executes in-person, hybrid, or virtual community events that meet stakeholder goals and CSR guidelines; manages permits, sponsors, and risk assessments in line with ILEA CSEP competency domains.\n",
     "source_frameworks": [
-      "International Live Events Association (CSEP)",
-      "NRPA Special Event Risk Management Checklist"
+      "International Live Events Association (ILEA) Certified Special Events Professional (CSEP) competency standards — commercial professional association — ILEA; conceptual alignment only",
+      "National Recreation and Park Association (NRPA) special event risk management checklist — commercial professional association — NRPA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
