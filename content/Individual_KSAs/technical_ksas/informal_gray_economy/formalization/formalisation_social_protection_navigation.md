@@ -1,25 +1,25 @@
 ---
 ksa_id: formalisation_social_protection_navigation
-label: Pathways to Formalisation & Social‑Protection Navigation
+label: Pathways to Formalisation & Social-Protection Navigation
 category: Technical
 sector: informal_gray_economy
 horizon: core
 cluster_tags:
   - "Formalization"
   - "Social Protection"
-description: Guiding informal workers and micro‑enterprises through registration, taxation, and social‑protection schemes—health insurance, pensions—while leveraging digital‑identity and mobile‑money platforms.
+description: Guiding informal workers and micro-enterprises through registration, taxation, and social-protection schemes—health insurance, pensions—while leveraging digital-identity and mobile-money platforms.
 source_frameworks:
-  - "ILO Transition from the Informal to the Formal Economy Recommendation (No. 204)"
-  - "World Bank Social Protection & Jobs Core Diagnostic"
+  - "ILO Recommendation No. 204: Transition from the Informal to the Formal Economy — intergovernmental organization — ILO (UN); publicly available"
+  - "World Bank Social Protection and Jobs core diagnostic framework — intergovernmental organization — World Bank Group; publicly available"
 proficiency_levels:
   - level: Awareness
-    indicator: Explains benefits of formalisation; lists basic registration steps; identifies social‑protection programs.
+    indicator: Explains benefits of formalisation; lists basic registration steps; identifies social-protection programs.
   - level: Basic
-    indicator: Completes business‑registration forms; opens mobile‑money accounts; submits simplified tax declarations.
+    indicator: Completes business-registration forms; opens mobile-money accounts; submits simplified tax declarations.
   - level: Intermediate
-    indicator: Advises on simplified tax regimes; connects workers to micro‑insurance products; tracks contribution records.
+    indicator: Advises on simplified tax regimes; connects workers to micro-insurance products; tracks contribution records.
   - level: Advanced
-    indicator: Designs community outreach on formalisation; negotiates group‑registration incentives; analyses program uptake data.
+    indicator: Designs community outreach on formalisation; negotiates group-registration incentives; analyses program uptake data.
   - level: Expert
-    indicator: Influences policy on social‑protection extension; builds digital platforms for one‑stop registration; publishes impact‑evaluation studies.
+    indicator: Influences policy on social-protection extension; builds digital platforms for one-stop registration; publishes impact-evaluation studies.
 ---

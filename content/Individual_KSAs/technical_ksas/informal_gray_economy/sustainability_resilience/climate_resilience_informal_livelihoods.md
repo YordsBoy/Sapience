@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Adapts business models to climate risks—heat, flood, supply shocks—using FAO Climate-Risk Toolkit and UNDRR community-based adaptation (CBA) practices.
 source_frameworks:
-  - "FAO Climate-Risk Toolbox"
-  - "UNDRR CBA Manual"
+  - "FAO Climate Risk Assessment for the Agricultural Sector toolbox — intergovernmental organization — FAO (UN); publicly available"
+  - "UNDRR Community-Based Adaptation (CBA) to climate risk manual — intergovernmental organization — UNDRR (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies local climate hazards; tracks weather alerts.

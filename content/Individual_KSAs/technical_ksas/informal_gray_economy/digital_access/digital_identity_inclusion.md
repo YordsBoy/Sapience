@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Obtains and uses foundational or functional digital identity—SIM registration, mobile e-KYC—aligned with World Bank Identification for Development (ID4D) principles to access finance and formal services.
 source_frameworks:
-  - "World Bank ID4D Principles"
-  - "GSMA Digital Identity for the Unregistered"
+  - "World Bank Identification for Development (ID4D) Principles for Identification for Sustainable Development — intergovernmental organization — World Bank Group; publicly available"
+  - "GSMA Digital Identity for the Unregistered programme resources — commercial industry association — GSMA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains benefits of digital ID; lists enrollment options.

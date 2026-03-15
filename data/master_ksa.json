@@ -10809,8 +10809,8 @@
     ],
     "description": "Adapts business models to climate risks—heat, flood, supply shocks—using FAO Climate-Risk Toolkit and UNDRR community-based adaptation (CBA) practices.\n",
     "source_frameworks": [
-      "FAO Climate-Risk Toolbox",
-      "UNDRR CBA Manual"
+      "FAO Climate Risk Assessment for the Agricultural Sector toolbox — intergovernmental organization — FAO (UN); publicly available",
+      "UNDRR Community-Based Adaptation (CBA) to climate risk manual — intergovernmental organization — UNDRR (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10847,8 +10847,8 @@
     ],
     "description": "Improves segregation, sorting, and up-cycling techniques for waste-pickers, aligning with International Solid Waste Association (ISWA) guidelines and Extended Producer Responsibility (EPR) schemes.\n",
     "source_frameworks": [
-      "ISWA Waste Picker Integration Guidelines",
-      "World Bank Waste-to-Worth Toolkit"
+      "International Solid Waste Association (ISWA) waste picker integration guidelines — commercial non-governmental organization — ISWA; conceptual alignment only",
+      "World Bank Waste-to-Worth toolkit for sustainable waste management — intergovernmental organization — World Bank Group; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10875,7 +10875,7 @@
   },
   {
     "ksa_id": "microtask_productivity_quality_skills",
-    "label": "Micro‑task Productivity & Quality Skills",
+    "label": "Micro-task Productivity & Quality Skills",
     "category": "Technical",
     "sector": "informal_gray_economy",
     "horizon": "emerging",
@@ -10883,25 +10883,25 @@
       "Microtask",
       "Quality"
     ],
-    "description": "Enhancing accuracy, speed, and consistency when performing online micro‑tasks—data labeling, image tagging, content moderation—through workflow optimization, quality‑control techniques, and platform analytics.",
+    "description": "Enhancing accuracy, speed, and consistency when performing online micro-tasks—data labeling, image tagging, content moderation—through workflow optimization, quality-control techniques, and platform analytics.",
     "source_frameworks": [
-      "IFC Digital Economy Crowd-Work Study",
-      "ISO 9241-210 Human-Centered Design",
-      "World Bank Digital Jobs for Youth Toolkit",
-      "Amazon Mechanical Turk (MTurk) Worker Best Practices"
+      "IFC digital economy and crowd-work skills study — intergovernmental organization — IFC/World Bank Group; publicly available",
+      "ISO 9241-210:2019 Ergonomics of Human-System Interaction: Human-Centred Design for Interactive Systems — ISO proprietary standard; conceptual alignment only",
+      "World Bank Digital Jobs for Youth programme toolkit — intergovernmental organization — World Bank Group; publicly available",
+      "Amazon Mechanical Turk (MTurk) worker best practices and requester documentation — vendor documentation — Amazon Web Services; conceptual alignment only — equivalent crowd-work platforms may demonstrate competency"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Completes basic micro‑tasks; follows task instructions; checks for obvious errors."
+        "indicator": "Completes basic micro-tasks; follows task instructions; checks for obvious errors."
       },
       {
         "level": "Basic",
-        "indicator": "Completes onboarding; utilizes browser extensions for productivity; applies time‑management strategies; meets baseline accuracy; reviews task payout versus effort."
+        "indicator": "Completes onboarding; utilizes browser extensions for productivity; applies time-management strategies; meets baseline accuracy; reviews task payout versus effort."
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements quality‑assurance methods (double entry, consensus); analyses approval‑rate metrics; tracks earnings per hour; avoids rejection; joins worker‑support forums."
+        "indicator": "Implements quality-assurance methods (double entry, consensus); analyses approval-rate metrics; tracks earnings per hour; avoids rejection; joins worker-support forums."
       },
       {
         "level": "Advanced",
@@ -10909,7 +10909,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Curates specialist teams for complex annotation projects; advises platforms on fair‑work design; publishes productivity benchmarks."
+        "indicator": "Curates specialist teams for complex annotation projects; advises platforms on fair-work design; publishes productivity benchmarks."
       }
     ]
   },
@@ -10925,8 +10925,8 @@
     ],
     "description": "Builds redundancy, local sourcing, and simple inventory buffers to withstand shocks (pandemic, climate) drawing from ILO COVID-19 informal-sector lessons.\n",
     "source_frameworks": [
-      "ILO COVID-19 Informal-Supply Guidance",
-      "World Bank BEE Logistics Note"
+      "ILO COVID-19 response guidance for the informal economy and supply chain resilience — intergovernmental organization — ILO (UN); publicly available",
+      "World Bank Business Enabling Environment (BEE) logistics facilitation note — intergovernmental organization — World Bank Group; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -10963,14 +10963,14 @@
     ],
     "description": "Runs small-scale businesses or hustles in the informal economy (e.g. street vending, unregistered home services); handles operations without formal frameworks – manages cash transactions, informal credit, supply sourcing through personal networks – demonstrating adaptability and entrepreneurial problem-solving under resource constraints.  \n",
     "source_frameworks": [
-      "World Bank Informal-Sector Skills Report",
-      "IFC Gender & Informal Economy Study",
-      "ILO Guide on Informal Economy (R204)"
+      "World Bank informal sector skills and enterprise development reports — intergovernmental organization — World Bank Group; publicly available",
+      "IFC gender and informal economy development study — intergovernmental organization — IFC/World Bank Group; publicly available",
+      "ILO Guide on Transition from Informal to Formal Economy (aligned with R204) — intergovernmental organization — ILO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognizes what constitutes informal work and basic survival strategies used (e.g. rotating savings clubs, cash-only sales)."
+        "indicator": "Identifies common forms of informal work (e.g., street vending, cash-only services, rotating savings clubs); distinguishes informal activity from formal registered business."
       },
       {
         "level": "Basic",
@@ -11002,8 +11002,8 @@
     ],
     "description": "Manages product display, hygiene, and customer flow using Food and Agriculture Organization (FAO) street-food center guidelines and local vendor association codes.\n",
     "source_frameworks": [
-      "FAO Street-Food Vendor Guidelines",
-      "UN Women Safe Markets Hygiene Checklist"
+      "FAO Street Foods — Informal Sector Food Preparation and Vending guidelines — intergovernmental organization — FAO (UN); publicly available",
+      "UN Women Safe Markets hygiene and vendor safety checklist — intergovernmental organization — UN Women (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11040,7 +11040,7 @@
     ],
     "description": "Cultivates cooperative relationships and social-capital using Harvard Business Review (HBR) trust frameworks and WhatsApp/Telegram group governance.\n",
     "source_frameworks": [
-      "HBR Trust-Building in Entrepreneur Networks"
+      "Trust and social capital research in entrepreneurial networks (e.g., Putnam, Bowling Alone, 2000; Nahapiet & Ghoshal, Academy of Management Review, 1998) — academic literature; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11077,8 +11077,8 @@
     ],
     "description": "Conducts value exchange through barter, time-bank, and complementary-currency systems while maintaining accurate ledgers and aligning with community governance rules (e.g., LETS – Local Exchange Trading System).\n",
     "source_frameworks": [
-      "UNDP Complementary Currency Toolkit",
-      "OECD Measuring the Non-Observed Economy Handbook"
+      "UNDP complementary currency and local exchange systems toolkit resources — intergovernmental organization — UNDP (UN); publicly available",
+      "OECD Measuring the Non-Observed Economy: A Handbook (2002) — intergovernmental organization — OECD; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11115,9 +11115,9 @@
     ],
     "description": "Evaluates timing, costs, and benefits of transitioning to semi-formal or formal status—selecting legal forms, registrations, and incentive programs.",
     "source_frameworks": [
-      "ILO R204 Ten-Year Review",
-      "USAID Market Systems Formalization",
-      "sme:TransitionToFormalGuide"
+      "ILO Recommendation No. 204 ten-year implementation review and resources — intergovernmental organization — ILO (UN); publicly available",
+      "USAID market systems and formalization program guidance — U.S. government — USAID; publicly available",
+      "OECD Policy Framework for Investment in SMEs and informal sector formalization guidance — intergovernmental organization — OECD; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11154,18 +11154,18 @@
     ],
     "description": "Understands the basic steps and implications of moving informal businesses or work into the formal economy;   knows about business registration processes, basic licensing/permit requirements, simple accounting and taxation for micro-enterprises, and the benefits (and challenges) of formalization.  \n",
     "source_frameworks": [
-      "USAID Business Formalization Guide",
-      "ILO R204 Transition Toolkit",
-      "World Bank Informal to Formal Toolkit"
+      "USAID business formalization and enabling environment guidance — U.S. government — USAID; publicly available",
+      "ILO R204 Transition from the Informal to the Formal Economy toolkit — intergovernmental organization — ILO (UN); publicly available",
+      "World Bank informal to formal economy toolkit resources — intergovernmental organization — World Bank Group; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Has heard of business licenses and taxes; aware that formal businesses need to register but unsure of details."
+        "indicator": "Identifies business licenses and tax obligations as requirements for formal enterprises; explains the basic distinction between registered and unregistered businesses."
       },
       {
         "level": "Basic",
-        "indicator": "Can identify local authorities or offices where one would register a business; understands simple record-keeping and that some tax might be due once formal."
+        "indicator": "Identifies the local registration authority and required documentation for a small business license; maintains basic income and expense records; recognizes applicable tax obligations upon registration."
       },
       {
         "level": "Intermediate",
@@ -11183,7 +11183,7 @@
   },
   {
     "ksa_id": "formalisation_social_protection_navigation",
-    "label": "Pathways to Formalisation & Social‑Protection Navigation",
+    "label": "Pathways to Formalisation & Social-Protection Navigation",
     "category": "Technical",
     "sector": "informal_gray_economy",
     "horizon": "core",
@@ -11191,31 +11191,31 @@
       "Formalization",
       "Social Protection"
     ],
-    "description": "Guiding informal workers and micro‑enterprises through registration, taxation, and social‑protection schemes—health insurance, pensions—while leveraging digital‑identity and mobile‑money platforms.",
+    "description": "Guiding informal workers and micro-enterprises through registration, taxation, and social-protection schemes—health insurance, pensions—while leveraging digital-identity and mobile-money platforms.",
     "source_frameworks": [
-      "ILO Transition from the Informal to the Formal Economy Recommendation (No. 204)",
-      "World Bank Social Protection & Jobs Core Diagnostic"
+      "ILO Recommendation No. 204: Transition from the Informal to the Formal Economy — intergovernmental organization — ILO (UN); publicly available",
+      "World Bank Social Protection and Jobs core diagnostic framework — intergovernmental organization — World Bank Group; publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Explains benefits of formalisation; lists basic registration steps; identifies social‑protection programs."
+        "indicator": "Explains benefits of formalisation; lists basic registration steps; identifies social-protection programs."
       },
       {
         "level": "Basic",
-        "indicator": "Completes business‑registration forms; opens mobile‑money accounts; submits simplified tax declarations."
+        "indicator": "Completes business-registration forms; opens mobile-money accounts; submits simplified tax declarations."
       },
       {
         "level": "Intermediate",
-        "indicator": "Advises on simplified tax regimes; connects workers to micro‑insurance products; tracks contribution records."
+        "indicator": "Advises on simplified tax regimes; connects workers to micro-insurance products; tracks contribution records."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs community outreach on formalisation; negotiates group‑registration incentives; analyses program uptake data."
+        "indicator": "Designs community outreach on formalisation; negotiates group-registration incentives; analyses program uptake data."
       },
       {
         "level": "Expert",
-        "indicator": "Influences policy on social‑protection extension; builds digital platforms for one‑stop registration; publishes impact‑evaluation studies."
+        "indicator": "Influences policy on social-protection extension; builds digital platforms for one-stop registration; publishes impact-evaluation studies."
       }
     ]
   },
@@ -11231,8 +11231,8 @@
     ],
     "description": "Accesses health, crop, and life micro-insurance via mobile platforms using International Association of Insurance Supervisors (IAIS) inclusive-insurance standards and index-based models.\n",
     "source_frameworks": [
-      "IAIS Application Paper on Inclusive Insurance",
-      "GSMA Mobile Micro-Insurance Case Studies"
+      "IAIS Application Paper on Increasing Access to Insurance in Emerging and Developing Economies — international supervisory standard-setting body — IAIS; publicly available",
+      "GSMA Connected Society mobile micro-insurance case studies — commercial industry association — GSMA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11269,10 +11269,10 @@
     ],
     "description": "Launches and sustains ultra-small ventures with minimal capital, leveraging recycled resources, sweat equity, and rapid reinvestment cycles.",
     "source_frameworks": [
-      "World Bank Skills for Informal-Sector Entrepreneurs",
-      "GSMA Mobile Money Toolkit",
-      "ilo:StartAndImproveYourBusiness",
-      "lean:MicroLeanCanvas"
+      "World Bank skills development for informal-sector entrepreneurs resources — intergovernmental organization — World Bank Group; publicly available",
+      "GSMA Mobile Money deployment and training toolkit — commercial industry association — GSMA; conceptual alignment only",
+      "ILO Start and Improve Your Business (SIYB) programme materials — intergovernmental organization — ILO (UN); publicly available",
+      "Lean Canvas methodology adapted for micro-enterprises (Ash Maurya, Running Lean, 2012) — commercial proprietary methodology; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11281,7 +11281,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Utilises pre-order cash; barters services; rents equipment short-term.; reinvests early profits to expand inventory and reach."
+        "indicator": "Utilises pre-order cash; barters services; rents equipment short-term; reinvests early profits to expand inventory and reach."
       },
       {
         "level": "Intermediate",
@@ -11309,8 +11309,8 @@
     ],
     "description": "Maintains simplified cash-basis books—receipts, payments, petty-cash—aligned with International Federation of Accountants (IFAC) SME guidelines to support micro-enterprise decision-making.\n",
     "source_frameworks": [
-      "IFAC SME Accounting Guide",
-      "OECD Non-Observed Economy Measurement"
+      "International Federation of Accountants (IFAC) Guide to Practice Management for Small and Medium Practices — international professional accounting body — IFAC; conceptual alignment only",
+      "OECD Measuring the Non-Observed Economy: A Handbook — intergovernmental organization — OECD; publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11347,8 +11347,8 @@
     ],
     "description": "Understands terms-of-service, rating algorithms, and dispute mechanisms on crowd-work platforms; advocates fair pay following Fairwork Foundation principles.\n",
     "source_frameworks": [
-      "Fairwork Platform Ratings Methodology",
-      "ILO Platform Work Policy Brief"
+      "Fairwork Foundation platform ratings methodology — academic research project — University of Oxford/Berlin Social Science Center; publicly available",
+      "ILO World Employment and Social Outlook: The Role of Digital Labour Platforms in Transforming the World of Work — intergovernmental organization — ILO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11385,9 +11385,9 @@
     ],
     "description": "Sets up and safely uses mobile wallets, QR codes, and SMS banking to receive payments, transfer funds, and build transaction history.",
     "source_frameworks": [
-      "GSMA Digital Financial Literacy Toolkit",
-      "GSMA MISTT",
-      "gsma:MobileMoneyManual"
+      "GSMA Digital Financial Literacy Toolkit — commercial industry association — GSMA; conceptual alignment only",
+      "GSMA Mobile Internet Skills Training Toolkit (MISTT) — commercial industry association — GSMA; conceptual alignment only",
+      "GSMA Mobile Money programme guidelines and operator documentation — commercial industry association — GSMA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11408,7 +11408,7 @@
       },
       {
         "level": "Expert",
-        "indicator": "Educates community on digital-payment security and adoption; partners with agents; advocates consumer-protection.."
+        "indicator": "Educates community on digital-payment security and adoption; partners with agents; advocates consumer-protection policies."
       }
     ]
   },
@@ -11424,8 +11424,8 @@
     ],
     "description": "Obtains and uses foundational or functional digital identity—SIM registration, mobile e-KYC—aligned with World Bank Identification for Development (ID4D) principles to access finance and formal services.\n",
     "source_frameworks": [
-      "World Bank ID4D Principles",
-      "GSMA Digital Identity for the Unregistered"
+      "World Bank Identification for Development (ID4D) Principles for Identification for Sustainable Development — intergovernmental organization — World Bank Group; publicly available",
+      "GSMA Digital Identity for the Unregistered programme resources — commercial industry association — GSMA; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -11462,8 +11462,8 @@
     ],
     "description": "Implements situational-awareness, cash-handling, and gender-based-violence (GBV) prevention strategies for street and home-based workers per UN Women Safe-Markets toolkit.\n",
     "source_frameworks": [
-      "UN Women Safe Markets Toolkit",
-      "ILO OSH for Informal Workers Guide"
+      "UN Women Safe and Fair: Realizing Women Migrant Workers' Rights and Opportunities — Safe Markets Toolkit — intergovernmental organization — UN Women (UN); publicly available",
+      "ILO occupational safety and health guidance for informal workers — intergovernmental organization — ILO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -11490,7 +11490,7 @@
   },
   {
     "ksa_id": "informal_work_osh_risk_management",
-    "label": "Informal‑Work OSH & Risk Management",
+    "label": "Informal-Work OSH & Risk Management",
     "category": "Technical",
     "sector": "informal_gray_economy",
     "horizon": "core",
@@ -11498,17 +11498,17 @@
       "OSH",
       "Risk Management"
     ],
-    "description": "Identifying and mitigating occupational‑safety and health (OSH) hazards in informal workplaces—street vending, home‑based production, waste picking—using participatory risk‑assessment tools and low‑cost protective measures.",
+    "description": "Identifying and mitigating occupational-safety and health (OSH) hazards in informal workplaces—street vending, home-based production, waste picking—using participatory risk-assessment tools and low-cost protective measures.",
     "source_frameworks": [
-      "International Labour Organization (ILO) Participatory OSH Training Manual",
-      "ILO Safety & Health Toolkit for Informal Economy",
-      "WHO Healthy Workplaces Manual",
-      "ISO 45001:2018 Occupational Health & Safety Management"
+      "ILO Participatory OSH Training Manual for informal workers — intergovernmental organization — ILO (UN); publicly available",
+      "ILO Safety and Health Toolkit for the Informal Economy — intergovernmental organization — ILO (UN); publicly available",
+      "WHO Healthy Workplaces Framework and Model — intergovernmental organization — WHO (UN); publicly available",
+      "ISO 45001:2018 Occupational Health and Safety Management Systems — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognises common informal‑sector hazards; uses basic personal protective equipment (PPE); knows local emergency contacts."
+        "indicator": "Recognises common informal-sector hazards; uses basic personal protective equipment (PPE); knows local emergency contacts."
       },
       {
         "level": "Basic",
@@ -11516,15 +11516,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Leads peer‑to‑peer safety dialogs; adapts low‑cost engineering controls; tracks incident data in logbooks."
+        "indicator": "Leads peer-to-peer safety dialogs; adapts low-cost engineering controls; tracks incident data in logbooks."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs community OSH training; collaborates with local authorities on waste‑management safety; measures intervention outcomes."
+        "indicator": "Designs community OSH training; collaborates with local authorities on waste-management safety; measures intervention outcomes."
       },
       {
         "level": "Expert",
-        "indicator": "Advises NGOs and governments on informal‑sector OSH programs; publishes research on participatory risk‑reduction models; advocates for OSH policy reforms."
+        "indicator": "Advises NGOs and governments on informal-sector OSH programs; publishes research on participatory risk-reduction models; advocates for OSH policy reforms."
       }
     ]
   },
@@ -11540,9 +11540,9 @@
     ],
     "description": "Understands local bylaws, taxation thresholds, and pathways to partial or full formalization, mitigating fines and shutdowns.",
     "source_frameworks": [
-      "FAO Street-Food Safety Guidelines",
-      "worldbank:DoingBusiness",
-      "msme:FormalizationToolkit"
+      "FAO street-food safety and hygiene guidelines — intergovernmental organization — FAO (UN); publicly available",
+      "World Bank Doing Business indicators and enterprise regulation resources — intergovernmental organization — World Bank Group; publicly available",
+      "ILO and World Bank MSME formalization toolkit resources — intergovernmental organizations — ILO (UN) / World Bank Group; publicly available"
     ],
     "proficiency_levels": [
       {

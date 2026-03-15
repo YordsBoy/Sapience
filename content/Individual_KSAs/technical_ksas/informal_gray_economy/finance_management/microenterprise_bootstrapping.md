@@ -9,15 +9,15 @@ cluster_tags:
   - "Finance"
 description: Launches and sustains ultra-small ventures with minimal capital, leveraging recycled resources, sweat equity, and rapid reinvestment cycles.
 source_frameworks:
-  - "World Bank Skills for Informal-Sector Entrepreneurs"
-  - "GSMA Mobile Money Toolkit"
-  - "ilo:StartAndImproveYourBusiness"
-  - "lean:MicroLeanCanvas"
+  - "World Bank skills development for informal-sector entrepreneurs resources — intergovernmental organization — World Bank Group; publicly available"
+  - "GSMA Mobile Money deployment and training toolkit — commercial industry association — GSMA; conceptual alignment only"
+  - "ILO Start and Improve Your Business (SIYB) programme materials — intergovernmental organization — ILO (UN); publicly available"
+  - "Lean Canvas methodology adapted for micro-enterprises (Ash Maurya, Running Lean, 2012) — commercial proprietary methodology; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines bootstrapping; lists low-cost resources; calculates break-even point and tracks basic expenses.
   - level: Basic
-    indicator: Utilises pre-order cash; barters services; rents equipment short-term.; reinvests early profits to expand inventory and reach.
+    indicator: Utilises pre-order cash; barters services; rents equipment short-term; reinvests early profits to expand inventory and reach.
   - level: Intermediate
     indicator: Negotiates consignment; leverages supplier credit; reinvests profit.; applies lean-startup loops (build-measure-learn) in cash settings.
   - level: Advanced

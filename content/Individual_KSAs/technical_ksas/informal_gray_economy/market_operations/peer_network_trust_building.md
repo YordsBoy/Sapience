@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Cultivates cooperative relationships and social-capital using Harvard Business Review (HBR) trust frameworks and WhatsApp/Telegram group governance.
 source_frameworks:
-  - "HBR Trust-Building in Entrepreneur Networks"
+  - "Trust and social capital research in entrepreneurial networks (e.g., Putnam, Bowling Alone, 2000; Nahapiet & Ghoshal, Academy of Management Review, 1998) — academic literature; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies trust drivers (competence, reliability).

@@ -12,8 +12,8 @@ description: >
   crowd-work platforms; advocates fair pay following Fairwork Foundation
   principles.
 source_frameworks:
-  - "Fairwork Platform Ratings Methodology"
-  - "ILO Platform Work Policy Brief"
+  - "Fairwork Foundation platform ratings methodology — academic research project — University of Oxford/Berlin Social Science Center; publicly available"
+  - "ILO World Employment and Social Outlook: The Role of Digital Labour Platforms in Transforming the World of Work — intergovernmental organization — ILO (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Reads platform terms; lists key metrics (acceptance, accuracy).

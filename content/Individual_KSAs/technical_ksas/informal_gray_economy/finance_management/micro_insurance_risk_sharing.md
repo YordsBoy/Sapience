@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Accesses health, crop, and life micro-insurance via mobile platforms using International Association of Insurance Supervisors (IAIS) inclusive-insurance standards and index-based models.
 source_frameworks:
-  - "IAIS Application Paper on Inclusive Insurance"
-  - "GSMA Mobile Micro-Insurance Case Studies"
+  - "IAIS Application Paper on Increasing Access to Insurance in Emerging and Developing Economies — international supervisory standard-setting body — IAIS; publicly available"
+  - "GSMA Connected Society mobile micro-insurance case studies — commercial industry association — GSMA; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Defines premium, coverage, claim; lists providers.

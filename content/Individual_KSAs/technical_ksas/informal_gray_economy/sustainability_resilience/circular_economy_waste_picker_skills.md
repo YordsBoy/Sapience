@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Improves segregation, sorting, and up-cycling techniques for waste-pickers, aligning with International Solid Waste Association (ISWA) guidelines and Extended Producer Responsibility (EPR) schemes.
 source_frameworks:
-  - "ISWA Waste Picker Integration Guidelines"
-  - "World Bank Waste-to-Worth Toolkit"
+  - "International Solid Waste Association (ISWA) waste picker integration guidelines — commercial non-governmental organization — ISWA; conceptual alignment only"
+  - "World Bank Waste-to-Worth toolkit for sustainable waste management — intergovernmental organization — World Bank Group; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Classifies plastic codes; recognizes safety gear.

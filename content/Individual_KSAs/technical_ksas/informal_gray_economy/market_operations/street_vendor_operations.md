@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Manages product display, hygiene, and customer flow using Food and Agriculture Organization (FAO) street-food center guidelines and local vendor association codes.
 source_frameworks:
-  - "FAO Street-Food Vendor Guidelines"
-  - "UN Women Safe Markets Hygiene Checklist"
+  - "FAO Street Foods — Informal Sector Food Preparation and Vending guidelines — intergovernmental organization — FAO (UN); publicly available"
+  - "UN Women Safe Markets hygiene and vendor safety checklist — intergovernmental organization — UN Women (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Lists layout and cleanliness rules; knows peak hours.

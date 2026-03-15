@@ -10,12 +10,12 @@ cluster_tags:
 description: >  
   Runs small-scale businesses or hustles in the informal economy (e.g. street vending, unregistered home services); handles operations without formal frameworks – manages cash transactions, informal credit, supply sourcing through personal networks – demonstrating adaptability and entrepreneurial problem-solving under resource constraints.  
 source_frameworks:
-  - "World Bank Informal-Sector Skills Report"
-  - "IFC Gender & Informal Economy Study"
-  - "ILO Guide on Informal Economy (R204)"  
+  - "World Bank informal sector skills and enterprise development reports — intergovernmental organization — World Bank Group; publicly available"
+  - "IFC gender and informal economy development study — intergovernmental organization — IFC/World Bank Group; publicly available"
+  - "ILO Guide on Transition from Informal to Formal Economy (aligned with R204) — intergovernmental organization — ILO (UN); publicly available"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Recognizes what constitutes informal work and basic survival strategies used (e.g. rotating savings clubs, cash-only sales).  
+    indicator: Identifies common forms of informal work (e.g., street vending, cash-only services, rotating savings clubs); distinguishes informal activity from formal registered business.  
   - level: Basic  
     indicator: Carries out a simple informal business (sells goods or offers a service locally); keeps basic mental/written notes of sales and costs; uses personal connections to find customers.  
   - level: Intermediate  

@@ -11,8 +11,8 @@ description: >
   Implements situational-awareness, cash-handling, and gender-based-violence (GBV) prevention strategies for street and home-based workers per UN Women
   Safe-Markets toolkit.
 source_frameworks:
-  - "UN Women Safe Markets Toolkit"
-  - "ILO OSH for Informal Workers Guide"
+  - "UN Women Safe and Fair: Realizing Women Migrant Workers' Rights and Opportunities — Safe Markets Toolkit — intergovernmental organization — UN Women (UN); publicly available"
+  - "ILO occupational safety and health guidance for informal workers — intergovernmental organization — ILO (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises common threats; lists emergency contacts.

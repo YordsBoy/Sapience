@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Maintains simplified cash-basis books—receipts, payments, petty-cash—aligned with International Federation of Accountants (IFAC) SME guidelines to support micro-enterprise decision-making.
 source_frameworks:
-  - "IFAC SME Accounting Guide"
-  - "OECD Non-Observed Economy Measurement"
+  - "International Federation of Accountants (IFAC) Guide to Practice Management for Small and Medium Practices — international professional accounting body — IFAC; conceptual alignment only"
+  - "OECD Measuring the Non-Observed Economy: A Handbook — intergovernmental organization — OECD; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Distinguishes cash vs accrual; identifies basic records (sales, expenses).

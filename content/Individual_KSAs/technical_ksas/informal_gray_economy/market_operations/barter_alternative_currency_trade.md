@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Conducts value exchange through barter, time-bank, and complementary-currency systems while maintaining accurate ledgers and aligning with community governance rules (e.g., LETS – Local Exchange Trading System).
 source_frameworks:
-  - "UNDP Complementary Currency Toolkit"
-  - "OECD Measuring the Non-Observed Economy Handbook"
+  - "UNDP complementary currency and local exchange systems toolkit resources — intergovernmental organization — UNDP (UN); publicly available"
+  - "OECD Measuring the Non-Observed Economy: A Handbook (2002) — intergovernmental organization — OECD; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Explains double-coincidence of wants; lists local barter platforms.

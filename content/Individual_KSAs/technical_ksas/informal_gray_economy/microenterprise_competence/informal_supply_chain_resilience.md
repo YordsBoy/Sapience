@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Builds redundancy, local sourcing, and simple inventory buffers to withstand shocks (pandemic, climate) drawing from ILO COVID-19 informal-sector lessons.
 source_frameworks:
-  - "ILO COVID-19 Informal-Supply Guidance"
-  - "World Bank BEE Logistics Note"
+  - "ILO COVID-19 response guidance for the informal economy and supply chain resilience — intergovernmental organization — ILO (UN); publicly available"
+  - "World Bank Business Enabling Environment (BEE) logistics facilitation note — intergovernmental organization — World Bank Group; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies single-point failures; tracks lead times.

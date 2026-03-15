@@ -9,9 +9,9 @@ cluster_tags:
   - "Formalization"
 description: Evaluates timing, costs, and benefits of transitioning to semi-formal or formal status—selecting legal forms, registrations, and incentive programs.
 source_frameworks:
-  - "ILO R204 Ten-Year Review"
-  - "USAID Market Systems Formalization"
-  - "sme:TransitionToFormalGuide"
+  - "ILO Recommendation No. 204 ten-year implementation review and resources — intergovernmental organization — ILO (UN); publicly available"
+  - "USAID market systems and formalization program guidance — U.S. government — USAID; publicly available"
+  - "OECD Policy Framework for Investment in SMEs and informal sector formalization guidance — intergovernmental organization — OECD; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies constraints (cost, bureaucracy, trust).

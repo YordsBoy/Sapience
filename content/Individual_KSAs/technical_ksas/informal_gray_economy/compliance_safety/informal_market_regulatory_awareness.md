@@ -9,9 +9,9 @@ cluster_tags:
   - "Awareness"
 description: Understands local bylaws, taxation thresholds, and pathways to partial or full formalization, mitigating fines and shutdowns.
 source_frameworks:
-  - "FAO Street-Food Safety Guidelines"
-  - "worldbank:DoingBusiness"
-  - "msme:FormalizationToolkit"
+  - "FAO street-food safety and hygiene guidelines — intergovernmental organization — FAO (UN); publicly available"
+  - "World Bank Doing Business indicators and enterprise regulation resources — intergovernmental organization — World Bank Group; publicly available"
+  - "ILO and World Bank MSME formalization toolkit resources — intergovernmental organizations — ILO (UN) / World Bank Group; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies permits or fees commonly enforced in locality.
