@@ -14664,33 +14664,33 @@
       "Safety",
       "Risk Management"
     ],
-    "description": "Implementing safety and well‑being measures for on‑demand workers—rideshare drivers, delivery couriers, remote freelancers—covering personal security, ergonomic practices, and incident‑reporting mechanisms within digital platforms.",
+    "description": "Implementing safety and well-being measures for on-demand workers—rideshare drivers, delivery couriers, remote freelancers—covering personal security, ergonomic practices, and incident-reporting mechanisms within digital platforms.",
     "source_frameworks": [
-      "TransUnion Gig-Worker Safety Study 2025",
-      "NYC Delivering Justice Report 2024",
-      "International Labour Organization (ILO) Occupational Safety in the Platform Economy Guidelines",
-      "ISO 45001:2018 Occupational Health & Safety"
+      "TransUnion gig worker safety and risk research (2025) — commercial consumer data firm; conceptual alignment only",
+      "New York City Worker Protection Unit 'Delivering Justice' report on delivery worker safety (2024) — U.S. local government — NYC; publicly available",
+      "ILO occupational safety and health guidelines for platform economy workers — intergovernmental organization — ILO (UN); publicly available",
+      "ISO 45001:2018 Occupational Health and Safety Management Systems — ISO proprietary standard; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Recognises common platform‑work hazards (robbery, fraud, deactivation); uses in‑app emergency features; follows basic hygiene protocols."
+        "indicator": "Recognises common platform-work hazards (robbery, fraud, deactivation); uses in-app emergency features; follows basic hygiene protocols."
       },
       {
         "level": "Basic",
-        "indicator": "Conducts pre‑shift vehicle/equipment checks; applies ergonomic workstation setups; confirms drop-off PIN codes; enables two-factor authentication; logs incidents in platform portal."
+        "indicator": "Conducts pre-shift vehicle/equipment checks; applies ergonomic workstation setups; confirms drop-off PIN codes; enables two-factor authentication; logs incidents in platform portal."
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements route‑risk assessments; utilizes personal‑safety devices; reports unsafe clients; appeals unjust deactivations; engages in peer‑safety forums."
+        "indicator": "Implements route-risk assessments; utilizes personal-safety devices; reports unsafe clients; appeals unjust deactivations; engages in peer-safety forums."
       },
       {
         "level": "Advanced",
-        "indicator": "Designs safety‑training modules; ; installs dashcams; analyses incident data for patterns; educates peers; collaborates with platform on hazard mitigation."
+        "indicator": "Designs safety-training modules; installs dashcams; analyses incident data for patterns; educates peers; collaborates with platform on hazard mitigation."
       },
       {
         "level": "Expert",
-        "indicator": "Leads industry safety‑standard initiatives; advises regulators; publishes research on gig‑economy occupational safety."
+        "indicator": "Leads industry safety-standard initiatives; advises regulators; publishes research on gig-economy occupational safety."
       }
     ]
   },
@@ -14706,7 +14706,7 @@
     ],
     "description": "Maximises income and reduces downtime by orchestrating work across multiple gig apps, balancing acceptance criteria, location geometry, and cross-app rule conflicts.\n",
     "source_frameworks": [
-      "Platform Papers – Diversification Study 2024"
+      "Gig worker platform diversification research literature (e.g., ILO World Employment and Social Outlook: The Role of Digital Labour Platforms in Transforming the World of Work) — intergovernmental/academic; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -14743,14 +14743,14 @@
     ],
     "description": "Evaluates and selects on-demand platforms based on fees, demand density, algorithmic policies, and worker protections; balances flexibility and income security through informed diversification.\n",
     "source_frameworks": [
-      "Freelancers Union Platform Comparison Matrix",
-      "Human Rights Watch Gig Trap Report",
-      "ILO Gig Economy Work Practices Study"
+      "Freelancers Union platform guidance and member resources — commercial professional association — Freelancers Union; conceptual alignment only",
+      "Human Rights Watch 'The Gig That Up' platform worker rights report (2023) — commercial human rights organization — Human Rights Watch; publicly available",
+      "ILO digital labour platform and gig work practices research — intergovernmental organization — ILO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Aware of various gig platforms and basic requirements (driver’s license for rideshare, profiles for freelancing, etc.); lists major platform categories (ride-hail, freelance, delivery)."
+        "indicator": "Identifies major gig platform categories (ride-hail, freelance, delivery) and their basic entry requirements (e.g., driver’s license for rideshare, portfolio profile for freelancing); recognizes differences in fee structures and worker classification across platforms."
       },
       {
         "level": "Basic",
@@ -14782,7 +14782,7 @@
     ],
     "description": "Analyses real-time demand signals, surge multipliers, and geo-fencing to maximise revenue while managing acceptance-rate thresholds and customer satisfaction.\n",
     "source_frameworks": [
-      "Gartner Digital Marketplaces Trend Note 2025"
+      "Gartner digital marketplace and platform economy trend analysis (2025) — commercial research firm — Gartner; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -14819,8 +14819,8 @@
     ],
     "description": "Navigates deactivation appeals, payment disputes, and policy breaches; uses evidence logs, arbitration clauses, and collective advocacy channels to restore account status and improve platform fairness.\n",
     "source_frameworks": [
-      "Human Rights Watch Gig Trap Report",
-      "Reuters Uber–DoorDash Litigation 2025"
+      "Human Rights Watch 'The Gig That Up' platform worker rights report (2023) — commercial human rights organization — Human Rights Watch; publicly available",
+      "ILO platform work dispute resolution and fair terms guidance — intergovernmental organization — ILO (UN); publicly available"
     ],
     "proficiency_levels": [
       {
@@ -14857,8 +14857,8 @@
     ],
     "description": "Understands how matching, rating, and deactivation algorithms influence work allocation; uses data insights and compliance requests (e.g., GDPR Article 22) to mitigate adverse impacts.\n",
     "source_frameworks": [
-      "MDPI Behavioral Sciences Study 2024",
-      "Wiley Job Analysis on Algorithmic Management"
+      "Algorithmic management and gig worker research literature (e.g., Duggan et al., 'Algorithmic Management and App-Work in the Gig Economy,' Human Resource Management Journal, 2020; ILO digital labour platform reports) — academic literature; conceptual alignment only",
+      "Algorithmic control and platform worker research literature (e.g., Wood et al., 'Good Gig, Bad Gig,' Work, Employment and Society, 2019) — academic literature; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
@@ -14895,8 +14895,8 @@
     ],
     "description": "Attracts direct clients via social media, search-engine optimization (SEO), and email funnels to reduce reliance on intermediary platforms and capture higher margins.\n",
     "source_frameworks": [
-      "HubSpot Freelance Lead-Gen Playbook",
-      "Google Search Essentials 2024"
+      "HubSpot freelance lead generation resources and playbook — vendor documentation — HubSpot; conceptual alignment only — equivalent inbound marketing platforms may demonstrate competency",
+      "Google Search Essentials documentation (2024) — vendor documentation — Google; conceptual alignment only — equivalent search engine optimization guidelines may demonstrate competency"
     ],
     "proficiency_levels": [
       {
@@ -14931,33 +14931,33 @@
       "Tax",
       "Global Compliance"
     ],
-    "description": "Tracking, reporting, and remitting income and self‑employment taxes for multi‑platform earnings, utilizing OECD Model Reporting Rules for Digital Platforms (MRDP) and jurisdiction‑specific requirements.",
+    "description": "Tracking, reporting, and remitting income and self-employment taxes for multi-platform earnings, utilizing OECD Model Reporting Rules for Digital Platforms (MRDP) and jurisdiction-specific requirements.",
     "source_frameworks": [
-      "Organisation for Economic Co‑operation and Development (OECD) MRDP 2023",
-      "OECD DAC7 Reporting Rules",
-      "IRS Gig-Economy FAQs",
-      "IRS Publication 334 Tax Guide for Small Business"
+      "OECD Model Rules for Reporting by Platform Operators with respect to Sellers (MRDP) 2023 — intergovernmental organization — OECD; publicly available",
+      "OECD DAC7 Directive reporting rules for digital platforms — intergovernmental organization — OECD; publicly available",
+      "IRS gig economy tax FAQ and guidance — U.S. government — IRS/Treasury; public domain",
+      "IRS Publication 334 Tax Guide for Small Business (Including Sole Proprietors) — U.S. government — IRS/Treasury; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Records gross earnings; identifies deductible business expenses; recognizes tax‑reporting deadlines."
+        "indicator": "Records gross earnings; identifies deductible business expenses; recognizes tax-reporting deadlines."
       },
       {
         "level": "Basic",
-        "indicator": "Generates income statements from multiple platforms; calculates quarterly estimated taxes; files Form 1099‑K or equivalents."
+        "indicator": "Generates income statements from multiple platforms; calculates quarterly estimated taxes; files Form 1099-K or equivalents."
       },
       {
         "level": "Intermediate",
-        "indicator": "Utilises accounting software integrations; applies home‑office deductions; reconciles cross‑border earnings."
+        "indicator": "Utilises accounting software integrations; applies home-office deductions; reconciles cross-border earnings."
       },
       {
         "level": "Advanced",
-        "indicator": "Advises peers on tax optimization; ensures compliance with OECD MRDP data‑sharing; mitigates double‑taxation risks."
+        "indicator": "Advises peers on tax optimization; ensures compliance with OECD MRDP data-sharing; mitigates double-taxation risks."
       },
       {
         "level": "Expert",
-        "indicator": "Develops platform tax‑reporting tools; consults policymakers on gig‑economy taxation; publishes guidance on evolving regulations."
+        "indicator": "Develops platform tax-reporting tools; consults policymakers on gig-economy taxation; publishes guidance on evolving regulations."
       }
     ]
   },
@@ -14973,8 +14973,8 @@
     ],
     "description": "Builds emergency funds, selects self-employed retirement vehicles (Solo 401(k), SEP-IRA), and manages variable cash flow to ensure long-term financial security.\n",
     "source_frameworks": [
-      "U.S. Department of Labor Self-Employed Retirement Resources",
-      "CFPB Financial Well-Being Toolkit"
+      "U.S. Department of Labor self-employed retirement plan resources — U.S. government — DOL; public domain",
+      "CFPB Financial Well-Being Scale and toolkit — U.S. government — CFPB; public domain"
     ],
     "proficiency_levels": [
       {
@@ -15011,13 +15011,13 @@
     ],
     "description": "Manages legal, tax, and financial aspects of gig work; understands platform terms of service, tracks income and expenses for tax filing, maintains insurance and permits where required, and plans personal finances despite variable income.  \n",
     "source_frameworks": [
-      "IRS Gig Economy Tax Center",
-      "IRS Manage Taxes for Gig Work"
+      "IRS Gig Economy Tax Center — U.S. government — IRS/Treasury; public domain",
+      "IRS guidance on managing taxes for gig workers — U.S. government — IRS/Treasury; public domain"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Knows that gig income is taxable; aware of basic concepts like self-employment tax and need for record-keeping; identifies 1099-K/1099-NEC forms; explains self-employment (SECA) tax."
+        "indicator": "Identifies gig income as taxable self-employment income subject to SECA tax; recognizes 1099-K and 1099-NEC forms; explains the basic requirement for income record-keeping."
       },
       {
         "level": "Basic",
@@ -15047,17 +15047,16 @@
       "Reputation",
       "Client Success"
     ],
-    "description": "Building and maintaining positive digital reputations across freelancing and on‑demand platforms through proactive communication, quality‑of‑service metrics, and conflict‑resolution strategies to secure repeat business and higher ratings.",
+    "description": "Building and maintaining positive digital reputations across freelancing and on-demand platforms through proactive communication, quality-of-service metrics, and conflict-resolution strategies to secure repeat business and higher ratings.",
     "source_frameworks": [
-      "Upwork Freelance Success Guide",
-      "Upwork Talent Toolbox",
-      "Fiverr Level System Overview",
-      "Freelancers Union Best Practices Guide"
+      "Upwork Freelance Success Guide — vendor documentation — Upwork; conceptual alignment only — equivalent freelance platform success resources may demonstrate competency",
+      "Fiverr Level System and seller success documentation — vendor documentation — Fiverr International; conceptual alignment only — equivalent freelance platform level systems may demonstrate competency",
+      "Freelancers Union member resources and best practices guidance — commercial professional association — Freelancers Union; conceptual alignment only"
     ],
     "proficiency_levels": [
       {
         "level": "Awareness",
-        "indicator": "Monitors rating dashboards; responds politely to client messages; meets basic service‑level expectations."
+        "indicator": "Monitors rating dashboards; responds politely to client messages; meets basic service-level expectations."
       },
       {
         "level": "Basic",
@@ -15065,15 +15064,15 @@
       },
       {
         "level": "Intermediate",
-        "indicator": "Implements systematic client‑success follow‑ups; optimizes profile keywords; uses analytics to improve acceptance rates."
+        "indicator": "Implements systematic client-success follow-ups; optimizes profile keywords; uses analytics to improve acceptance rates."
       },
       {
         "level": "Advanced",
-        "indicator": "Develops brand‑building content; negotiates long‑term contracts; mentors newcomers on reputation strategies."
+        "indicator": "Develops brand-building content; negotiates long-term contracts; mentors newcomers on reputation strategies."
       },
       {
         "level": "Expert",
-        "indicator": "Establishes multi‑platform reputation portfolios; consults on platform reputation algorithms; publishes reputation‑management frameworks."
+        "indicator": "Establishes multi-platform reputation portfolios; consults on platform reputation algorithms; publishes reputation-management frameworks."
       }
     ]
   },

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Navigates deactivation appeals, payment disputes, and policy breaches; uses evidence logs, arbitration clauses, and collective advocacy channels to restore account status and improve platform fairness.
 source_frameworks:
-  - "Human Rights Watch Gig Trap Report"
-  - "Reuters Uber–DoorDash Litigation 2025"
+  - "Human Rights Watch 'The Gig That Up' platform worker rights report (2023) — commercial human rights organization — Human Rights Watch; publicly available"
+  - "ILO platform work dispute resolution and fair terms guidance — intergovernmental organization — ILO (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Locates platform terms of service; identifies escalation channels.

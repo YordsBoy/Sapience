@@ -10,12 +10,12 @@ cluster_tags:
 description: >
   Evaluates and selects on-demand platforms based on fees, demand density, algorithmic policies, and worker protections; balances flexibility and income security through informed diversification.
 source_frameworks:
-  - "Freelancers Union Platform Comparison Matrix"
-  - "Human Rights Watch Gig Trap Report"    
-  - "ILO Gig Economy Work Practices Study"  
+  - "Freelancers Union platform guidance and member resources — commercial professional association — Freelancers Union; conceptual alignment only"
+  - "Human Rights Watch 'The Gig That Up' platform worker rights report (2023) — commercial human rights organization — Human Rights Watch; publicly available"    
+  - "ILO digital labour platform and gig work practices research — intergovernmental organization — ILO (UN); publicly available"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Aware of various gig platforms and basic requirements (driver’s license for rideshare, profiles for freelancing, etc.); lists major platform categories (ride-hail, freelance, delivery).  
+    indicator: Identifies major gig platform categories (ride-hail, freelance, delivery) and their basic entry requirements (e.g., driver’s license for rideshare, portfolio profile for freelancing); recognizes differences in fee structures and worker classification across platforms.  
   - level: Basic  
     indicator: Works on one platform at a time efficiently; meets the minimum performance metrics (on-time delivery, rating thresholds); calculates net hourly earnings after fees and expense; reads service agreements.  
   - level: Intermediate  

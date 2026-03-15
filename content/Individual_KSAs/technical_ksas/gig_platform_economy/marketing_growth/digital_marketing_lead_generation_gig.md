@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Attracts direct clients via social media, search-engine optimization (SEO), and email funnels to reduce reliance on intermediary platforms and capture higher margins.
 source_frameworks:
-  - "HubSpot Freelance Lead-Gen Playbook"
-  - "Google Search Essentials 2024"
+  - "HubSpot freelance lead generation resources and playbook — vendor documentation — HubSpot; conceptual alignment only — equivalent inbound marketing platforms may demonstrate competency"
+  - "Google Search Essentials documentation (2024) — vendor documentation — Google; conceptual alignment only — equivalent search engine optimization guidelines may demonstrate competency"
 proficiency_levels:
   - level: Awareness
     indicator: Defines customer avatar; sets up portfolio site; registers on Google Business.

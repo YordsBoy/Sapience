@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Understands how matching, rating, and deactivation algorithms influence work allocation; uses data insights and compliance requests (e.g., GDPR Article 22) to mitigate adverse impacts.
 source_frameworks:
-  - "MDPI Behavioral Sciences Study 2024"
-  - "Wiley Job Analysis on Algorithmic Management"
+  - "Algorithmic management and gig worker research literature (e.g., Duggan et al., 'Algorithmic Management and App-Work in the Gig Economy,' Human Resource Management Journal, 2020; ILO digital labour platform reports) — academic literature; conceptual alignment only"
+  - "Algorithmic control and platform worker research literature (e.g., Wood et al., 'Good Gig, Bad Gig,' Work, Employment and Society, 2019) — academic literature; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Describes surge, batching, and ranking logic; knows data-access rights.

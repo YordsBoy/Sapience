@@ -10,7 +10,7 @@ cluster_tags:
 description: >
   Maximises income and reduces downtime by orchestrating work across multiple gig apps, balancing acceptance criteria, location geometry, and cross-app rule conflicts.
 source_frameworks:
-  - "Platform Papers – Diversification Study 2024"
+  - "Gig worker platform diversification research literature (e.g., ILO World Employment and Social Outlook: The Role of Digital Labour Platforms in Transforming the World of Work) — intergovernmental/academic; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists pros/cons of app stacking vs single-platform focus.

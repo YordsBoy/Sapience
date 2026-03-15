@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Builds emergency funds, selects self-employed retirement vehicles (Solo 401(k), SEP-IRA), and manages variable cash flow to ensure long-term financial security.
 source_frameworks:
-  - "U.S. Department of Labor Self-Employed Retirement Resources"
-  - "CFPB Financial Well-Being Toolkit"
+  - "U.S. Department of Labor self-employed retirement plan resources — U.S. government — DOL; public domain"
+  - "CFPB Financial Well-Being Scale and toolkit — U.S. government — CFPB; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Calculates irregular income cycles; identifies retirement-plan options.

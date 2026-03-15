@@ -11,7 +11,7 @@ description: >
   Analyses real-time demand signals, surge multipliers, and geo-fencing to maximise revenue while managing acceptance-rate thresholds and customer
   satisfaction.
 source_frameworks:
-  - "Gartner Digital Marketplaces Trend Note 2025"
+  - "Gartner digital marketplace and platform economy trend analysis (2025) — commercial research firm — Gartner; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains surge, boost, and batch pricing mechanics.

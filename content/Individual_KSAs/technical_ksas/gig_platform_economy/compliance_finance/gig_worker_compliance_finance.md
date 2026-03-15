@@ -10,11 +10,11 @@ cluster_tags:
 description: >  
   Manages legal, tax, and financial aspects of gig work; understands platform terms of service, tracks income and expenses for tax filing, maintains insurance and permits where required, and plans personal finances despite variable income.  
 source_frameworks:  
-  - "IRS Gig Economy Tax Center"
-  - "IRS Manage Taxes for Gig Work"
+  - "IRS Gig Economy Tax Center — U.S. government — IRS/Treasury; public domain"
+  - "IRS guidance on managing taxes for gig workers — U.S. government — IRS/Treasury; public domain"
 proficiency_levels:  
   - level: Awareness  
-    indicator: Knows that gig income is taxable; aware of basic concepts like self-employment tax and need for record-keeping; identifies 1099-K/1099-NEC forms; explains self-employment (SECA) tax.  
+    indicator: Identifies gig income as taxable self-employment income subject to SECA tax; recognizes 1099-K and 1099-NEC forms; explains the basic requirement for income record-keeping.  
   - level: Basic  
     indicator: Keeps simple records of earnings and mileage/expenses; follows platform rules to avoid deactivation; obtains necessary licenses (e.g., business license) if advised; files annual Schedule C.
   - level: Intermediate  
