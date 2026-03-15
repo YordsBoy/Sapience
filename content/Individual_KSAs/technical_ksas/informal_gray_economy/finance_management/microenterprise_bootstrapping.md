@@ -19,7 +19,7 @@ proficiency_levels:
   - level: Basic
     indicator: Utilises pre-order cash; barters services; rents equipment short-term; reinvests early profits to expand inventory and reach.
   - level: Intermediate
-    indicator: Negotiates consignment; leverages supplier credit; reinvests profit.; applies lean-startup loops (build-measure-learn) in cash settings.
+    indicator: Negotiates consignment; leverages supplier credit; reinvests profit; applies lean-startup loops (build-measure-learn) in cash settings.
   - level: Advanced
     indicator: Crowdsources capital via mobile money groups; maintains 60-day cash runway; diversifies revenue streams; mentors peer entrepreneurs.
   - level: Expert
