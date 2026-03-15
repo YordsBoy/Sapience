@@ -12,8 +12,8 @@ description: >
   through concept, 3D prototyping, real-time engine deployment, and audience
   analytics.
 source_frameworks:
-  - "Unity Certified Associate – Design"
-  - "UNCTAD Creative Economy Outlook 2022"
+  - "Unity Certified Associate: Game Designer certification objectives — vendor documentation — Unity Technologies; conceptual alignment only — equivalent real-time engine platforms may demonstrate competency"
+  - "UNCTAD Creative Economy Outlook 2022: Trends in International Trade in Creative Industries — intergovernmental organization — UNCTAD (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Explains difference between AR, VR, and mixed reality.

@@ -12,15 +12,15 @@ description: >
   Agile sprints with the Project Management Institute (PMI) PMBOK phases; aligns
   scope, budget, talent, and client feedback in fast-iterating environments.
 source_frameworks:
-  - "PMI Creative-Agency PM Guides"
-  - "Agile Manifesto & Scrum Guide"
+  - "PMI PMBOK Guide (7th ed., 2021) and Agile Practice Guide project management resources — commercial professional association — Project Management Institute (PMI); conceptual alignment only"
+  - "Agile Manifesto (Beck et al., 2001) and Scrum Guide (Schwaber & Sutherland, 2020) — open community frameworks; publicly available"
 proficiency_levels:
   - level: Awareness
-    indicator: Defines scope, schedule, and milestone; recognizes Agile vs. waterfall. Creates task lists; maintains project calendars; tracks simple budgets.
+    indicator: Defines scope, schedule, and milestones; distinguishes Agile from waterfall approaches; creates basic task lists and project calendars; tracks simple budgets.
   - level: Basic
-    indicator: Builds task board; tracks burndown; records change-requests;Facilitates stand‑up meetings; manages Kanban boards; identifies project risks.
+    indicator: Builds task board; tracks burndown; records change-requests; facilitates stand‑up meetings; manages Kanban boards; identifies project risks.
   - level: Intermediate
-    indicator: Facilitates sprint reviews; manages stakeholder feedback; controls scopt, cost, and quality KPIs.
+    indicator: Facilitates sprint reviews; manages stakeholder feedback; controls scope, cost, and quality KPIs.
   - level: Advanced
     indicator: Leads multi‑disciplinary teams; applies critical‑chain project management; measures Earned Value.
   - level: Expert

@@ -12,8 +12,8 @@ description: >
   intelligence (CQ), adaptive communication, and shared decision frameworks,
   minimising conflict and building creative synergy.
 source_frameworks:
-  - "Business.com Cross-Cultural Team Building Tips 2025"
-  - "UNESCO Cultural Diversity Convention"
+  - "Cultural Intelligence Center (CQ) cross-cultural collaboration assessment and methodology — commercial research organization — Cultural Intelligence Center; conceptual alignment only"
+  - "UNESCO Convention on the Protection and Promotion of the Diversity of Cultural Expressions (2005) — intergovernmental organization — UNESCO (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies own cultural biases; practices active listening.

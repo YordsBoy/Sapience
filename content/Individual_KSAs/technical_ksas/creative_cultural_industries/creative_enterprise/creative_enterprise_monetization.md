@@ -11,8 +11,8 @@ description: >
   Builds sustainable business models around creative content (art, music, crafts);  
   leverages online platforms (e-commerce, crowdfunding, streaming services) for marketing, audience building, and revenue generation while protecting intellectual property.  
 source_frameworks:  
-  - "Creative Commons Licence Suite" 
-  - "World Intellectual Property Organization (WIPO) IP Monetisation Toolkit"  
+  - "Creative Commons licence suite (CC BY, CC BY-SA, CC BY-NC, etc.) — open licensing framework — Creative Commons; publicly available"
+  - "WIPO IP Monetization Toolkit and intellectual property commercialization resources — intergovernmental organization — WIPO (UN); publicly available"  
 proficiency_levels:  
   - level: Awareness  
     indicator: Lists basic revenue models; differentiates CC license types; recognizes basic ways creatives earn income (sales, commissions, licensing, crowdfunding).  
@@ -21,7 +21,7 @@ proficiency_levels:
   - level: Intermediate  
     indicator: Implements multiple monetization streams (e.g. Patreon subscriptions, merchandise, licensing deals); understands IP basics to protect work; calculates break-even; negotiates platform fees; launches a successful crowdfunding or NFT drop.  
   - level: Advanced  
-    indicator: Develops a brand and fan community; successfully funds larger projects through crowdfunding or partnerships; navigates contracts and IP licensing with legal insight. Uses royalty dashboards; A/B-tests pricing tiers; mitigates infringement through notice-and-takedown. 
+    indicator: Develops a brand and fan community; successfully funds larger projects through crowdfunding or partnerships; navigates contracts and IP licensing with legal insight; uses royalty dashboards; A/B-tests pricing tiers; mitigates infringement through notice-and-takedown. 
   - level: Expert  
     indicator: Designs portfolio-wide monetisation strategy; structures smart-contract royalties; guides peers on IP policy; runs a thriving creative enterprise; mentors other artists in business skills; influences creative industry policy (through WIPO or trade groups) to support creative entrepreneurship.  
 ---  

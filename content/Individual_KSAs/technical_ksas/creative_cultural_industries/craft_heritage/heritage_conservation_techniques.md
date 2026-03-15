@@ -9,9 +9,9 @@ cluster_tags:
   - "Built Heritage"
 description: Identifying, documenting, and applying scientific and artisanal methods to preserve and restore tangible cultural assets—such as paintings, textiles, architecture, and artifacts—while respecting historical integrity and community values.
 source_frameworks: 
-    - "International Council of Museums (ICOM) Conservation Principles"
-    - "UNESCO World Heritage Capacity‑Building Guidelines"
-    - "ICOMOS Australia Burra Charter 2013" 
+    - "ICOM Code of Ethics for Museums and conservation principles — commercial professional association — International Council of Museums (ICOM); conceptual alignment only"
+    - "UNESCO World Heritage Capacity Building Strategy and conservation guidelines — intergovernmental organization — UNESCO (UN); publicly available"
+    - "ICOMOS Australia Burra Charter: The Australia ICOMOS Charter for Places of Cultural Significance (2013) — commercial professional association — ICOMOS Australia; conceptual alignment only" 
 proficiency_levels:
   - level: Awareness
     indicator: Recognises common deterioration symptoms (flaking paint, textile fading); follows basic object‑handling protocols.

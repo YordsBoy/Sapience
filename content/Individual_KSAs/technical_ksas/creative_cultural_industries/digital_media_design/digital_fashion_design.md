@@ -9,8 +9,8 @@ cluster_tags:
   - "3D Design"
 description: Creating virtual garments using 3D design software, physics‑based simulation, and blockchain authentication to enable digital‑only fashion experiences, try‑ons, and asset monetisation.
 source_frameworks: 
-  - "CLO 3D Training Curriculum"
-  - "Vogue Business Tech Spotlight on Digital Fashion"  
+  - "CLO 3D training curriculum and 3D garment simulation documentation — vendor documentation — CLO Virtual Fashion Inc.; conceptual alignment only — equivalent 3D garment simulation software may demonstrate competency"
+  - "Fashion for Good digital fashion innovation programme and resources — non-profit industry initiative — Fashion for Good Foundation; conceptual alignment only"  
 proficiency_levels:
   - level: Awareness
     indicator: Builds basic garment patterns; assigns fabric textures; exports still renders.

@@ -7,8 +7,8 @@ horizon: perennial
 cluster_tags: ["Digital Media", "Design", "Creativity"]  
 description: Creates engaging user-centered digital content across various media (graphics, video, text), combining creative design principles with technology (Adobe Creative Cloud, generative artificial intelligence (AI), and Web Content Accessibility Guidelines (WCAG) 2.2) to reach and resonate with audiences.  
 source_frameworks:
-  - "Adobe Digital-Design Competency Map"
-  - "World Wide Web Consortium (W3C) WCAG 2.2" 
+  - "Adobe digital design competency map and product certification resources — vendor documentation — Adobe Inc.; conceptual alignment only — equivalent digital design platforms may demonstrate competency"
+  - "W3C Web Content Accessibility Guidelines (WCAG) 2.2 — international standards consortium — W3C; publicly available" 
 proficiency_levels:  
   - level: Awareness  
     indicator: Navigates design software interface; explains color-contrast basics; uses basic design templates or tools to produce simple graphics or social media posts.  

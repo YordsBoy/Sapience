@@ -12,8 +12,8 @@ description: >
   (streaming media, NFTs); applies Creative Commons, DRM, and blockchain
   metadata standards to maximise revenue and protect creator rights.
 source_frameworks:
-  - "WIPO IP Monetisation Toolkit"
-  - "Creative Commons Licences"
+  - "WIPO IP Monetization Toolkit and digital asset rights management resources — intergovernmental organization — WIPO (UN); publicly available"
+  - "Creative Commons licence types and usage guidance — open licensing framework — Creative Commons; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Differentiates CC license types; recognizes basic DRM.

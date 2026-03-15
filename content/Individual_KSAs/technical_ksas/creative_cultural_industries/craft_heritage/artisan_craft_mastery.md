@@ -9,8 +9,8 @@ cluster_tags:
   - "Heritage"
 description: Mastering and innovating traditional craft techniques—ceramics, weaving, metal‑smithing—while integrating digital fabrication tools and sustainable materials to preserve cultural heritage.
 source_frameworks:
-  - "Crafts Council – Power of Experiences Guide"
-  - "UNESCO Intangible Cultural Heritage Concepts"
+  - "Crafts Council Power of Craft and maker economy research guides — commercial professional association — Crafts Council (UK); conceptual alignment only"
+  - "UNESCO Convention for the Safeguarding of the Intangible Cultural Heritage (2003) and associated intangible heritage concepts — intergovernmental organization — UNESCO (UN); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies regional craft styles; uses basic hand tools safely; follows cultural protocols.
