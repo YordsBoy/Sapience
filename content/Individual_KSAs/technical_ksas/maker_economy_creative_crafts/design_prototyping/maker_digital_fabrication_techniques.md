@@ -10,10 +10,10 @@ cluster_tags:
 description: >  
   Utilizes common maker lab tools and technologies to design and build DIY projects; operates 3D printers, laser cutters, CNC machines, or simple microcontroller (Arduino/Raspberry Pi) setups to fabricate prototypes, gadgets, or craftwork enhancements.  
 source_frameworks:  
-  - "Makerspace Core Competencies (Fab Foundation)"  
+  - "Fab Foundation makerspace core competencies and program documentation — open-source non-profit — Fab Foundation; publicly available"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Is aware of maker tools (knows what a 3D printer or Arduino is) and has seen them in use.  
+    indicator: Identifies common maker lab tools (3D printers, laser cutters, microcontrollers such as Arduino) and explains their primary fabrication functions.  
   - level: Basic  
     indicator: Prints a simple 3D object from a template; uses a laser cutter on provided settings; follows instructions to assemble a basic electronics kit.  
   - level: Intermediate  

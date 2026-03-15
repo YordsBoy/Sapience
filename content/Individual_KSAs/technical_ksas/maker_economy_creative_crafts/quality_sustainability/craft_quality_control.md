@@ -9,9 +9,9 @@ cluster_tags:
   - "Craft"
 description: Establishes standards and inspection routines to ensure handmade or digitally fabricated items meet durability, safety, and aesthetic specifications.
 source_frameworks:
-  - "ASTM D870/D3359 Standards"
-  - "Lean Six Sigma Yellow-Belt Tools"
-  - "iso:2859-1"
+  - "ASTM D870 and D3359 coating adhesion and exposure testing standards — ASTM International proprietary standard; conceptual alignment only"
+  - "Lean Six Sigma Yellow Belt quality improvement tools and methodology — commercial professional framework; conceptual alignment only"
+  - "ISO 2859-1:1999 Sampling Procedures for Inspection by Attributes — ISO proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Performs visual inspection; understands defect types; uses go/no-go gauges; measures basic dimensions.

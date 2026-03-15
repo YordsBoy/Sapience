@@ -9,9 +9,9 @@ cluster_tags:
   - "Maker Space"
 description: Conducts routine inspection, cleaning, calibration, and minor repairs for shared fabrication tools to ensure uptime and safety.
 source_frameworks:
-  - "Lean 5 S Guide"
-  - "Fab Lab Inventory & Maintenance SOP"
-  - "osha:MachineGuarding"
+  - "Lean 5S workplace organization methodology — commercial/academic management framework; conceptual alignment only"
+  - "Fab Foundation Fab Lab inventory and equipment maintenance standard operating procedures — open-source educational framework — Fab Foundation; publicly available"
+  - "OSHA 29 CFR 1910 Subpart O Machine Guarding regulations — U.S. government — OSHA/DOL; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Performs basic cleaning after tool use; recognizes wear parts; logs run-hours.

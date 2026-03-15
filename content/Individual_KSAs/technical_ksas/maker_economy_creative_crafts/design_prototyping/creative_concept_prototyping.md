@@ -9,10 +9,9 @@ cluster_tags:
   - "Prototype"
 description: Transforms ideas into tangible low-fidelity prototypes—paper, foam, clay, or CAD mock-ups—to test form, function, and aesthetics quickly.
 source_frameworks:
-  - "Stanford d.school Bootleg Toolkit"
-  - "IDEO Design Thinking Field Guide"
-  - "ideo:DesignThinking"
-  - "make:RapidProtoGuide"
+  - "Stanford d.school Design Thinking Bootleg Toolkit — academic open-access resource — Stanford University d.school; publicly available"
+  - "IDEO Design Thinking field guide and HCD resources — commercial design consultancy — IDEO; conceptual alignment only"
+  - "Make: Magazine rapid prototyping guide and maker resources — commercial media publisher — Make: / Maker Media; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Sketches basic concepts on paper; explains prototype vs final product; lists rapid-ideation tools.

@@ -10,12 +10,12 @@ cluster_tags:
 description: >  
   Sells handmade products or DIY creations through online marketplaces and social media; handles product photography, listings (e.g. on Etsy), pricing, shipping logistics, and customer communications to successfully monetize crafts in the digital marketplace.  
 source_frameworks:
-  - "Shopify Merchant Academy"
-  - "GDPR Compliance Checklist"  
-  - "Etsy Seller Handbook Guidelines"  
+  - "Shopify Merchant Academy and seller documentation — vendor documentation — Shopify Inc.; conceptual alignment only — equivalent e-commerce platform documentation may demonstrate competency"
+  - "EU General Data Protection Regulation (GDPR) compliance requirements — European Union law; publicly available"
+  - "Etsy Seller Handbook — vendor documentation — Etsy Inc.; conceptual alignment only — equivalent handmade marketplace seller guidelines may demonstrate competency"  
 proficiency_levels:  
   - level: Awareness  
-    indicator: Knows of online platforms for crafts (Etsy, Handmade at Amazon); has basic social media presence for crafts; sets up storefront; uploads products; configures payment gateway.  
+    indicator: Identifies major online marketplace platforms for handmade goods (e.g., Etsy, Amazon Handmade); sets up a basic storefront; uploads product listings; configures a payment gateway.  
   - level: Basic  
     indicator: Writes SEO titles; installs basic analytics;  creates a listing for a craft item with decent photos and description; makes an occasional sale; handles shipping zones; packages and ships items following simple guidelines.  
   - level: Intermediate  

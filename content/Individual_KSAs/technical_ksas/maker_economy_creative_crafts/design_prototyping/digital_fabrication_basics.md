@@ -9,12 +9,12 @@ cluster_tags:
   - "CNC"
 description: Operates entry-level additive and subtractive machines, prepares files, selects materials, and troubleshoots prints/cuts for craft production runs.
 source_frameworks:
-  - "Fab Lab Safety Training Manual"
-  - "ASTM F3091 Standard Practice for FFF"
-  - "fabacademy:FabModules"
+  - "Fab Lab safety training manual and protocols — open-source educational framework — Fab Foundation; publicly available"
+  - "ASTM F3091 Standard Practice for Powder Bed Fusion of Plastic Materials — ASTM International proprietary standard; conceptual alignment only"
+  - "Fab Academy Fab Modules toolchain documentation — open-source educational framework — MIT Center for Bits and Atoms / Fab Foundation; publicly available"
 proficiency_levels:
   - level: Awareness
-    indicator: Identifies machine axes; recognizes material compatibility; Slices basic STL files and runs small prints.
+    indicator: Identifies machine axes; recognizes material compatibility; slices basic STL files and runs small prints.
   - level: Basic
     indicator: Adjusts machine settings; resolves first-layer failures; imports DXF/SVG files; sets feed/speed presets; performs safe job setup.
   - level: Intermediate

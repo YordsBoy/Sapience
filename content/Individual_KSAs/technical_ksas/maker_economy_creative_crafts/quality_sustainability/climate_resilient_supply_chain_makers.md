@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Anticipates and mitigates climate-related disruptions—heat waves, floods, material shortages—by diversifying sources, stock-buffering critical inputs, and mapping logistics risks in line with ISO 14090 (Adaptation to Climate Change) and Intergovernmental Panel on Climate Change (IPCC) small-business resilience guidance.
 source_frameworks:
-  - "ISO 14090 Adaptation to Climate Change Guidelines"
-  - "IPCC AR6 Small-Enterprise Resilience Brief"
+  - "ISO 14090:2019 Adaptation to Climate Change — Principles, Requirements and Guidelines — ISO proprietary standard; conceptual alignment only"
+  - "IPCC Sixth Assessment Report (AR6) small enterprise and livelihood resilience findings — intergovernmental scientific body — IPCC (UN/WMO); publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Lists local climate hazards; identifies single-source materials at risk.

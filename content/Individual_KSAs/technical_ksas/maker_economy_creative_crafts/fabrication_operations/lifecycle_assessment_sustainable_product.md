@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Conducts cradle-to-grave life-cycle assessment (LCA) using ISO 14040 methodology and open-source tools (OpenLCA, Eco-Invent datasets) to quantify carbon and resource footprints.
 source_frameworks:
-  - "ISO 14040 Life-Cycle Assessment"
-  - "OpenLCA Practitioner Guide"
+  - "ISO 14040:2006 Environmental Management — Life Cycle Assessment — Principles and Framework — ISO proprietary standard; conceptual alignment only"
+  - "OpenLCA Practitioner Guide and software documentation — open-source project — GreenDelta; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Defines functional unit, system boundary, impact category.

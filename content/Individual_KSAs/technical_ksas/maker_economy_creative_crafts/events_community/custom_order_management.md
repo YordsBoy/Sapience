@@ -9,8 +9,8 @@ cluster_tags:
   - "Workflow"
 description: Clarifies requirements, drafts quotes, manages iterations, and delivers bespoke craft pieces on time and budget.
 source_frameworks:
-  - "ISO 10002 Customer Satisfaction Guidance"
-  - "PMI Agile Workflow Concepts"
+  - "ISO 10002:2018 Quality Management — Customer Satisfaction — Guidelines for Complaints Handling — ISO proprietary standard; conceptual alignment only"
+  - "PMI Agile Practice Guide (2017) — commercial professional association — Project Management Institute; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Records customer requests in writing; logs spec; confirms timeline; issues quote.

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Plans and executes reward-based crowdfunding (Kickstarter, Indiegogo) or community-shares to finance tooling and inventory, using Lean Crowdfunding Canvas methodology.
 source_frameworks:
-  - "Kickstarter Creator Handbook"
-  - "Lean Crowdfunding Canvas"
+  - "Kickstarter Creator Handbook — vendor documentation — Kickstarter PBC; conceptual alignment only — equivalent reward-based crowdfunding platforms may demonstrate competency"
+  - "Lean Crowdfunding Canvas methodology — commercial proprietary methodology; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Picks platform; sets funding goal; drafts timeline.

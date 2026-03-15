@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Builds distributed production networks (micro-factories, home workshops) coordinated via cloud CAM and logistics to reduce lead times and boost local resilience.
 source_frameworks:
-  - "Distributed Manufacturing Toolkit (Fab City)"
-  - "OECD Local Production Policy Brief"
+  - "Fab City Global Initiative distributed manufacturing and local production toolkit — open non-profit initiative — Fab City Foundation; publicly available"
+  - "OECD local industrial production and SME policy brief — intergovernmental organization — OECD; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Maps local machine capacity; identifies shared logistics.

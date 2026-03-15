@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Procures eco-labeled inputs—FSC wood, GOTS textiles, recycled filaments—while assessing Life-Cycle Thinking (LCT) and supplier ethical audits.
 source_frameworks:
-  - "FSC Chain of Custody Standard"
-  - "GOTS 6.0 Criteria"
+  - "Forest Stewardship Council (FSC) Chain of Custody Standard — commercial certification body — FSC; conceptual alignment only — FSC certification documentation required for compliance claims"
+  - "Global Organic Textile Standard (GOTS) Version 6.0 criteria — commercial certification body — GOTS; conceptual alignment only — GOTS certification documentation required for compliance claims"
 proficiency_levels:
   - level: Awareness
     indicator: Recognises eco-labels; checks certificates.

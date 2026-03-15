@@ -8,9 +8,10 @@ cluster_tags:
   - "Event Management"
   - "Craft Fair"
 description: Plans, sets up, and operates booths—handling permits, layout, mobile POS, and live customer engagement.
-  - "EIC Sustainable Event Standards"
-  - "ISO 20121 Event Sustainability"
-  - "sbdc:EventChecklist"
+source_frameworks:
+  - "Events Industry Council (EIC) Sustainable Event Standards — commercial professional association — EIC; conceptual alignment only"
+  - "ISO 20121:2012 Event Sustainability Management Systems — ISO proprietary standard; conceptual alignment only"
+  - "U.S. Small Business Development Center (SBDC) event planning checklist — U.S. government-affiliated — SBDC/SBA; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Reserves booth; reads vendor manual; calculates break-even sale; and arranges basic display.

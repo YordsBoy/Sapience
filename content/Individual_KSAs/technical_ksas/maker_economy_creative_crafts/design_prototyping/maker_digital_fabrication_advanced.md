@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Integrates additive, subtractive, and hybrid processes—metal FFF, five-axis milling, vacuum forming—while managing tool-chain interoperability (STEP, G-code, MTConnect).
 source_frameworks:
-  - "MIT Center for Bits and Atoms Fab Academy"
-  - "ISO/ASTM 52915 Additive Manufacturing File Formats"
+  - "MIT Center for Bits and Atoms (CBA) Fab Academy curriculum and resources — academic open-access program — MIT; publicly available"
+  - "ISO/ASTM 52915:2020 Specification for Additive Manufacturing File Format (AMF) — ISO/ASTM International proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Explains hybrid workflow; lists advanced materials (PEEK, metal-polymer composites).

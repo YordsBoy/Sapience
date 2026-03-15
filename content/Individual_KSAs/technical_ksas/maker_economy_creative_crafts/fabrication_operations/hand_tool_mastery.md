@@ -9,8 +9,8 @@ cluster_tags:
   - "Craftsmanship"
 description: Selects, maintains, and skillfully uses hand tools (saws, chisels, needles, pliers) for precise, artisan-grade fabrication.
 source_frameworks:
-  - "OSHA Hand & Power Tool Safety 1910.242"
-  - "Fine Woodworking Master Manual"
+  - "OSHA 29 CFR 1910.242 Hand and Portable Powered Tools and Equipment regulations — U.S. government — OSHA/DOL; publicly available"
+  - "Fine Woodworking hand-tool technique manuals and master joinery resources — commercial craft publication — Taunton Press; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common hand tools and their uses; stores safely.

@@ -10,8 +10,8 @@ cluster_tags:
 description: >
   Applies Ellen MacArthur Foundation circular-design principles—modularity, repairability, recycling loops—to minimise waste and maximise material yields.
 source_frameworks:
-  - "Ellen MacArthur Foundation Circular Design Guide"
-  - "ISO 20887 Design for Disassembly"
+  - "Ellen MacArthur Foundation Circular Design Guide — commercial non-profit foundation — Ellen MacArthur Foundation; publicly available"
+  - "ISO 20887:2020 Sustainability in Buildings and Civil Engineering Works — Design for Disassembly and Adaptability — ISO proprietary standard; conceptual alignment only"
 proficiency_levels:
   - level: Awareness
     indicator: Lists circular-design strategies; records off-cut waste.

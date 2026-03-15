@@ -9,9 +9,9 @@ cluster_tags:
   - "Strategy"
 description: Calculates cost of goods sold (COGS), time, overhead, and market positioning to set profitable yet competitive prices for handcrafted products.
 source_frameworks:
-  - "Etsy Pricing Formula Guide"
-  - "Harvard Business Review Value-Based Pricing"
-  - "sba:CostingBasics"
+  - "Etsy seller pricing formula guidance — vendor documentation — Etsy Inc.; conceptual alignment only — equivalent handmade marketplace pricing frameworks may demonstrate competency"
+  - "Value-based pricing research and practice (e.g., Anderson, Narus & van Rossum, Harvard Business Review, 2006) — commercial academic publication — Harvard Business Publishing; conceptual alignment only"
+  - "U.S. Small Business Administration (SBA) costing and pricing guidance for small businesses — U.S. government — SBA; public domain"
 proficiency_levels:
   - level: Awareness
     indicator: Lists COGS components; recognizes perceived-value drivers; tallies direct material costs.

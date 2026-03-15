@@ -10,9 +10,9 @@ cluster_tags:
 description: >
   Establishes and enforces health-and-safety protocols—personal protective equipment (PPE), ventilation, lock-out/tag-out (LOTO), and chemical handling— aligning with Occupational Safety and Health Administration (OSHA) 29 CFR 1910, ISO 45001 occupational-safety management, and Fab Lab global safety charters.
 source_frameworks:
-  - "OSHA 29 CFR 1910 Hand & Power Tool Safety"
-  - "ISO 45001 Occupational Health & Safety Management"
-  - "Fab Lab Safety Charter"
+  - "OSHA 29 CFR 1910 Hand and Power Tool Safety and General Industry Standards — U.S. government — OSHA/DOL; publicly available"
+  - "ISO 45001:2018 Occupational Health and Safety Management Systems — ISO proprietary standard; conceptual alignment only"
+  - "Fab Foundation Fab Lab Global Safety Charter — open-source educational framework — Fab Foundation; publicly available"
 proficiency_levels:
   - level: Awareness
     indicator: Identifies common hazards (dust, fumes, cuts); locates emergency exits and first-aid kit.
